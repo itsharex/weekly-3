@@ -5,93 +5,87 @@
 
 ## 🎯 项目 
 
-### [jina](https://github.com/jina-ai/jina)
+### [reader-s](https://github.com/hectorqin/reader)
 
-![jina](https://img.turingark.com/uPic/9MHbAU.png)
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+### [podman](https://github.com/containers/podman)
 
-### [doocs/md](https://github.com/doocs/md)
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
-
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
-
-![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg) 
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
 ## 🤖 软件 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+开源的法律知识速查手册：
 
-我的必备软件：
+![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+JetBrains 的下一代 IDE：
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+### [shottr](https://shottr.cc/)
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+免费截屏软件（macOS）：
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
-
-![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
-
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
 ## 🕸 网站 
 
-### [readme.so](https://readme.so/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+免费的像素头像生成网站：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [myfirstnft](https://myfirstnft.info/)
 
-发现你可能喜欢的电台：
+我的第一个NFT，在这个网站，你可以：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [recompressor](https://zh.recompressor.com/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-免费的图片压缩工具：
+### [uipatterns](http://uipatterns.io/) 
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
 ## ✍️ 说明
 
