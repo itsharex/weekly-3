@@ -31,7 +31,7 @@ def write_mkdocs_config(data: dict, path=""):
         data (dict): 配置数据
         path (str): 可选，mkdocs配置路径
     """
-    config_path = path or os.path.join(os.path.dirname(__file__), "mkdocs01.yml")
+    config_path = path or os.path.join(os.path.dirname(__file__), "mkdocs.yml")
     with open(config_path, "w", encoding="utf-8") as f:
         yaml.dump(data, f, allow_unicode=True)
 
