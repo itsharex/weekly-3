@@ -5,96 +5,90 @@
 
 ## 🎯 项目 
 
-### [streamlit](https://github.com/streamlit/streamlit)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-用 `Python` 快速构建数据应用：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-### [laf](https://github.com/labring/laf)
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+一个开源的快速制作文章封面图的工具。
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
-
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [tunnelblick](https://tunnelblick.net/)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+免费开源的`openvpn`客户端：
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
-
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-前端精读周刊，帮你理解最前沿、实用的技术。在我的周刊里面推荐周刊👏哈哈，其中内容涉及：
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-非常全面，前端从事人员可以看看。 
+30 天 JS 挑战，助力学习提升 JS 技巧：
+
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
 ## 🕸 网站 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [bookmark.style](https://www.bookmark.style/)
 
-通过AI技术去除图片水印：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-### [flatuicolors](https://flatuicolors.com/)
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-### [pika](https://pika.style/)
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+目前有两种方式使用这个项目：
 
-![pika](https://img.turingark.com/uPic/pika.jpg) 
+- 网站：推荐
+- VS Code插件
+
+![Qwerty](https://img.turingark.com/uPic/tHD4ez.png) 
+
+### [alternativeto](https://alternativeto.net/)
+
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
