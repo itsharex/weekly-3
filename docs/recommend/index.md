@@ -5,90 +5,89 @@
 
 ## 🎯 项目 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+一个还原马赛克图片的原始内容的工具：
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+### [zdir](https://github.com/helloxz/zdir)
 
-![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
 ## 🤖 软件 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+全平台支持的图片压缩软件：
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
-### [Gif123](https://github.com/aardio/Gif123)
+![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+### [eoapi](https://github.com/eolinker/eoapi)
 
-![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
 ## 👀 资料 
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-谷歌出品的四天学习 `Rust` 👀
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-![fun-rec](https://img.turingark.com/uPic/fun-rec.jpg) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-我的第一个NFT，在这个网站，你可以：
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [ip-api.com](http://ip-api.com/json)
 
-### [tinypng](https://tinypng.com/)
+获取当前 ip 的免费 api 接口，同类型还有：
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
+### [send.internxt.com](https://send.internxt.com/)
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
-
-### [learngpt.com](https://www.learngpt.com/)
-
-`ChatGPT` 最佳用例分享网站：
-
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
 ## ✍️ 说明
 
