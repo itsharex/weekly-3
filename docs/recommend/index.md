@@ -5,87 +5,96 @@
 
 ## 🎯 项目 
 
-### [reader-s](https://github.com/hectorqin/reader)
+### [streamlit](https://github.com/streamlit/streamlit)
 
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+用 `Python` 快速构建数据应用：
 
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
-### [podman](https://github.com/containers/podman)
+### [laf](https://github.com/labring/laf)
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
-
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
 ## 🤖 软件 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-开源的法律知识速查手册：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-JetBrains 的下一代 IDE：
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
 
-### [shottr](https://shottr.cc/)
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-免费截屏软件（macOS）：
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+前端精读周刊，帮你理解最前沿、实用的技术。在我的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+非常全面，前端从事人员可以看看。 
 
 ## 🕸 网站 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-免费的像素头像生成网站：
+通过AI技术去除图片水印：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [flatuicolors](https://flatuicolors.com/)
 
-我的第一个NFT，在这个网站，你可以：
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [pika](https://pika.style/)
 
-### [uipatterns](http://uipatterns.io/) 
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
-
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![pika](https://img.turingark.com/uPic/pika.jpg) 
 
 ## ✍️ 说明
 
