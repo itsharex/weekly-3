@@ -5,90 +5,90 @@
 
 ## 🎯 项目 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [freed](https://github.com/YuanHsing/freed)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-一个开源的快速制作文章封面图的工具。
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
 
 ## 🤖 软件 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-免费开源的`openvpn`客户端：
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+### [Gif123](https://github.com/aardio/Gif123)
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
 
 ## 👀 资料 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+谷歌出品的四天学习 `Rust` 👀
 
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![](https://img.turingark.com/uPic/A6MiF5.jpg) 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![fun-rec](https://img.turingark.com/uPic/fun-rec.jpg) 
 
 ## 🕸 网站 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [myfirstnft](https://myfirstnft.info/)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+我的第一个NFT，在这个网站，你可以：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+### [tinypng](https://tinypng.com/)
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
 
-目前有两种方式使用这个项目：
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
-- 网站：推荐
-- VS Code插件
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
-![Qwerty](https://img.turingark.com/uPic/tHD4ez.png) 
+### [learngpt.com](https://www.learngpt.com/)
 
-### [alternativeto](https://alternativeto.net/)
+`ChatGPT` 最佳用例分享网站：
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
-
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
 ## ✍️ 说明
 
