@@ -5,89 +5,88 @@
 
 ## 🎯 项目 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-一个还原马赛克图片的原始内容的工具：
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+用 `Python` 代码绘制云原生架构图：
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-### [zdir](https://github.com/helloxz/zdir)
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
-
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-全平台支持的图片压缩软件：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+安全、快速与轻量的远程桌面&文件管理工具：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
 ## 👀 资料 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
 
-### [AI-System](https://github.com/microsoft/AI-System)
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [neeva](https://neeva.com/search)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
-### [ip-api.com](http://ip-api.com/json)
+### [unDraw](https://undraw.co/illustrations)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-### [send.internxt.com](https://send.internxt.com/)
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+### [Ben Eater](https://eater.net/)
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
 ## ✍️ 说明
 
