@@ -5,87 +5,85 @@
 
 ## 🎯 项目 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [milvus](https://github.com/milvus-io/milvus)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
 
 ## 🤖 软件 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+快速稳定好用的Redis跨平台桌面管理软件：
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [Later](https://github.com/alyssaxuu/later)
 
-面向计算机科学的简单开源学术论文管理工具：
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [uPic](https://github.com/gee1k/uPic)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+
+我的必备软件：
+
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![logic](https://img.turingark.com/uPic/logic.jpg) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+从工程角度方方面面阐述了DevOps实施的过程:
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [regexlearn](https://regexlearn.com)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [zhaoziyuan](https://zhaoziyuan.la)
 
-比较完善全面的图标网站：
+阿里云资源搜索引擎：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-### [sysmini](https://www.sysmini.com/)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
 ## ✍️ 说明
 
