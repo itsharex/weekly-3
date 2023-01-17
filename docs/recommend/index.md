@@ -5,85 +5,90 @@
 
 ## 🎯 项目 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [homepage](https://github.com/benphelps/homepage)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+高度可定制的首页仪表板应用项目：
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [upptime](https://github.com/upptime/upptime)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [shiori](https://github.com/go-shiori/shiori)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+开源自部署的书签管理服务：
 
-![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
 ## 🤖 软件 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [yarr](https://github.com/nkanaev/yarr)
 
-快速稳定好用的Redis跨平台桌面管理软件：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [Later](https://github.com/alyssaxuu/later)
+总体来说还是挺简洁轻量的：
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+### [lively](https://github.com/rocksdanister/lively)
 
-### [uPic](https://github.com/gee1k/uPic)
+针对 `Windows` 的开源的动态壁纸软件：
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-我的必备软件：
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
 ## 👀 资料 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+### [just-react](https://github.com/BetaSu/just-react)
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-从工程角度方方面面阐述了DevOps实施的过程:
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
-
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [regexlearn](https://regexlearn.com)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [animatedknots](https://www.animatedknots.com/)
 
-阿里云资源搜索引擎：
+各种给绳子打结的姿势都可以在这里找到：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [quickref](https://quickref.me/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
 ## ✍️ 说明
 
