@@ -12,6 +12,7 @@ jieba = "==0.42.1"
 pyyaml = "*"
 feedgen = "*"
 pytz = "*"
+sitemap-generator = "*"
 
 [dev-packages]
 black = "*"
