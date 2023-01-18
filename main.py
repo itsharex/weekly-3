@@ -96,11 +96,11 @@ def gen_weekly_title(years: int):
 if __name__ == "__main__":
     # 生成年度周刊内容合集
     # gen_weekly_content(2022)
+    # 生成 sitemap
+    gen_sitemap()
     # 持久化周刊到 DB
     parse_md()
     # 生成 RSS
     gen_rss()
     # 生成最新周刊
     gen_weekly_title(2023)
-    # 生成 sitemap
-    # gen_sitemap()
