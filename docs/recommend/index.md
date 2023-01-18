@@ -5,90 +5,97 @@
 
 ## 🎯 项目 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [signoz](https://github.com/signoz/signoz)
 
-高度可定制的首页仪表板应用项目：
+`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
 
-### [upptime](https://github.com/upptime/upptime)
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-### [shiori](https://github.com/go-shiori/shiori)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-开源自部署的书签管理服务：
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
 
 ## 🤖 软件 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-总体来说还是挺简洁轻量的：
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-### [lively](https://github.com/rocksdanister/lively)
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-针对 `Windows` 的开源的动态壁纸软件：
+### [Joplin](https://github.com/laurent22/joplin)
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
-
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+> 这篇文章也是使用Joplin写的 
 
 ## 👀 资料 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-### [just-react](https://github.com/BetaSu/just-react)
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+以非常直观的语言介绍`pytorch`：
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
 ## 🕸 网站 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [mlsub](https://mlsub.net/)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [star-history](https://star-history.com/)
 
-各种给绳子打结的姿势都可以在这里找到：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [quickref](https://quickref.me/)
+### [learngpt.com](https://www.learngpt.com/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+`ChatGPT` 最佳用例分享网站：
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
 ## ✍️ 说明
 
