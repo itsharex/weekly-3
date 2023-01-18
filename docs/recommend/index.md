@@ -5,86 +5,89 @@
 
 ## 🎯 项目 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [memos](https://github.com/justmemos/memos)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+**🎯 产品意图**:
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
 
-### [autocut](https://github.com/mli/autocut)
+### [samila](https://github.com/sepandhaghighi/samila)
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
 ## 🤖 软件 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
 ## 👀 资料 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+![c](https://img.turingark.com/uPic/4uYTRJ.png) 
 
-开源的正则表达式教程，有中文版，有在线示例。 
+### [archbase](https://github.com/foxsen/archbase)
+
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [zhongguose](http://zhongguose.com/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+一个中国传统颜色的配色网站：
 
-![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
+![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [antimkd](https://antimkd.com/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+无套路的软件下载网站：
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
