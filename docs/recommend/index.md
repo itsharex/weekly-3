@@ -5,96 +5,86 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-高度可定制的首页仪表板应用项目：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [autocut](https://github.com/mli/autocut)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
 ## 🤖 软件 
 
-### [ruzz](https://github.com/vlts1/ruzz)
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
-
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [removebg](https://www.remove.bg/zh)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
-### [quanxin](https://quanxin.org/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-快速、优雅、免费的在线工具，比如：
+一个表情融合网站，图一个乐呵，效果如下：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
-![](https://img.turingark.com/uPic/i6hqlr.png) 
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
-
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
 ## ✍️ 说明
 
