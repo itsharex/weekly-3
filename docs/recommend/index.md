@@ -5,97 +5,87 @@
 
 ## 🎯 项目 
 
-### [signoz](https://github.com/signoz/signoz)
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
+一个还原马赛克图片的原始内容的工具：
 
-![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+微软开源的 `Web` 编辑器：
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
-
-![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
 ## 🤖 软件 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [legado](https://github.com/gedoor/legado)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-### [Joplin](https://github.com/laurent22/joplin)
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+### mizu
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-> 这篇文章也是使用Joplin写的 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+![linux0.11-talk](https://img.turingark.com/uPic/P4ekdG.jpg) 
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+教程：小型金融知识图谱流程示范。 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-以非常直观的语言介绍`pytorch`：
-
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
-
-作者的同类电子书还有：
-
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [mlsub](https://mlsub.net/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [star-history](https://star-history.com/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+自动对联网站：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [learngpt.com](https://www.learngpt.com/)
+### [regex101](https://regex101.com/)
 
-`ChatGPT` 最佳用例分享网站：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
+
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
