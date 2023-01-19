@@ -5,89 +5,93 @@
 
 ## 🎯 项目 
 
-### [memos](https://github.com/justmemos/memos)
+### [osquery](https://github.com/osquery/osquery)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-**🎯 产品意图**:
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+### [markmap](https://github.com/gera2ld/markmap)
 
-### [nativefier](https://github.com/nativefier/nativefier)
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
+### [code-server](https://github.com/coder/code-server)
 
-### [samila](https://github.com/sepandhaghighi/samila)
+这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
-
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
 
 ## 🤖 软件 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+控制外部显示器的亮度和音量（macOS）：
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+![neteasy](https://img.turingark.com/uPic/neteasy.png) 
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
 ## 👀 资料 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-![c](https://img.turingark.com/uPic/4uYTRJ.png) 
+前端精读周刊，帮你理解最前沿、实用的技术。在我的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-### [archbase](https://github.com/foxsen/archbase)
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
-
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+非常全面，前端从事人员可以看看。 
 
 ## 🕸 网站 
 
-### [zhongguose](http://zhongguose.com/)
+### [emojiall](https://www.emojiall.com/)
 
-一个中国传统颜色的配色网站：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
+![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
-### [antimkd](https://antimkd.com/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-无套路的软件下载网站：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [star-history](https://star-history.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ## ✍️ 说明
 
