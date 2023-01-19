@@ -5,31 +5,25 @@
 
 ## 🎯 项目 
 
-### [osquery](https://github.com/osquery/osquery)
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
 
-### [code-server](https://github.com/coder/code-server)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
-
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
-
-控制外部显示器的亮度和音量（macOS）：
-
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
 ### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
@@ -44,54 +38,67 @@
 
 ![neteasy](https://img.turingark.com/uPic/neteasy.png) 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [Bob](https://github.com/ripperhe/Bob)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
+
+### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+
+`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+
+![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-前端精读周刊，帮你理解最前沿、实用的技术。在我的周刊里面推荐周刊👏哈哈，其中内容涉及：
+![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-非常全面，前端从事人员可以看看。 
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+
+![](https://img.turingark.com/uPic/96wIDJ.png) 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [zlib.pro](https://zlib.pro/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+提供在线绘制时序图的网站：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [star-history](https://star-history.com/)
+### [linggle](https://linggle.com/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
 ## ✍️ 说明
 
