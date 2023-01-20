@@ -5,100 +5,108 @@
 
 ## 🎯 项目 
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+### [ChatGPT](https://chat.openai.com/chat)
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+B站视频命令行下载工具：
 
-![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [homepage](https://github.com/benphelps/homepage)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+高度可定制的首页仪表板应用项目：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
 ## 🤖 软件 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+`TinyPNG`的`Mac`客户端：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+### [Files](https://github.com/files-community/Files)
 
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
+一个现代化的文件管理软件(Windows用户专属)：
 
-### [Bob](https://github.com/ripperhe/Bob)
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
-
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
 ## 👀 资料 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+深度学习入门教程资料聚合项目，包含：
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-![](https://img.turingark.com/uPic/96wIDJ.png) 
+![dl01](https://img.turingark.com/uPic/532ono.jpg)
+
+![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [zlib.pro](https://zlib.pro/)
+### [myfirstnft](https://myfirstnft.info/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+我的第一个NFT，在这个网站，你可以：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-提供在线绘制时序图的网站：
+### [smalldev.tools](https://smalldev.tools/)
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+开发者常用工具集：
 
-### [linggle](https://linggle.com/)
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+冰霜大佬的博客：
+
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
