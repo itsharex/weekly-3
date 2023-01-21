@@ -5,44 +5,25 @@
 
 ## 🎯 项目 
 
-### [ChatGPT](https://chat.openai.com/chat)
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [think](https://github.com/fantasticit/think)
 
-B站视频命令行下载工具：
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-高度可定制的首页仪表板应用项目：
+用 `Python` 代码绘制云原生架构图：
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
 ## 🤖 软件 
-
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
-
-`TinyPNG`的`Mac`客户端：
-
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
-
-### [Files](https://github.com/files-community/Files)
-
-一个现代化的文件管理软件(Windows用户专属)：
-
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
 ### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
@@ -55,58 +36,74 @@ B站视频命令行下载工具：
 
 ![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
+
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
+
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
+
+![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
+
+### [yarr](https://github.com/nkanaev/yarr)
+
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
+
+总体来说还是挺简洁轻量的：
+
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+
 ## 👀 资料 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![](https://img.turingark.com/uPic/ub1GLI.jpg) 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+站点可靠性工作手册：
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-深度学习入门教程资料聚合项目，包含：
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
-
-![dl01](https://img.turingark.com/uPic/532ono.jpg)
-
-![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [feathericons](https://feathericons.com/)
 
-我的第一个NFT，在这个网站，你可以：
+简洁漂亮的图标网站：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [programcreek](https://www.programcreek.com/)
 
-### [smalldev.tools](https://smalldev.tools/)
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-开发者常用工具集：
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [http.cat](https://http.cat)
 
-冰霜大佬的博客：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
 ## ✍️ 说明
 
