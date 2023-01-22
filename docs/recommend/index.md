@@ -5,105 +5,79 @@
 
 ## 🎯 项目 
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+一款简洁实用优雅的高性能个人博客系统：
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
-### [think](https://github.com/fantasticit/think)
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
-![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
+### [alist](https://github.com/Xhofe/alist)
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-用 `Python` 代码绘制云原生架构图：
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
 ## 🤖 软件 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+开源的`macOS` 纯文本编辑器：
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+`Notepad++`的跨平台开源实现：
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+### [tunnelblick](https://tunnelblick.net/)
 
-![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
+免费开源的`openvpn`客户端：
 
-### [yarr](https://github.com/nkanaev/yarr)
-
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
-
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
-
-总体来说还是挺简洁轻量的：
-
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-![](https://img.turingark.com/uPic/ub1GLI.jpg) 
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-站点可靠性工作手册：
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+### [just-react](https://github.com/BetaSu/just-react)
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
-
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
-
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-简洁漂亮的图标网站：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
-### [programcreek](https://www.programcreek.com/)
+### [uisdc.com](https://hao.uisdc.com/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+设计师网站导航：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+### [send.internxt.com](https://send.internxt.com/)
 
-### [http.cat](https://http.cat)
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
-
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
 ## ✍️ 说明
 
