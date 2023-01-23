@@ -5,79 +5,90 @@
 
 ## 🎯 项目 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [MRDOC](https://mrdoc.pro/)
 
-一款简洁实用优雅的高性能个人博客系统：
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+分为开源版和付费版，小团队可以考虑使用：
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+### [nocobase](https://github.com/nocobase/nocobase)
 
-### [alist](https://github.com/Xhofe/alist)
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
 ## 🤖 软件 
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-开源的`macOS` 纯文本编辑器：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-`Notepad++`的跨平台开源实现：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [tunnelblick](https://tunnelblick.net/)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-免费开源的`openvpn`客户端：
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+阻止中国流氓软件的管理员授权，无需后台运行：
+
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+### [archbase](https://github.com/foxsen/archbase)
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [just-react](https://github.com/BetaSu/just-react)
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [uipatterns](http://uipatterns.io/) 
 
-一个表情融合网站，图一个乐呵，效果如下：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [alternativeto](https://alternativeto.net/)
 
-设计师网站导航：
+常用软件替代品查询网站：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [send.internxt.com](https://send.internxt.com/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
+
+![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
 
 ## ✍️ 说明
 
