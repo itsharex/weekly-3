@@ -5,90 +5,96 @@
 
 ## 🎯 项目 
 
-### [MRDOC](https://mrdoc.pro/)
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-分为开源版和付费版，小团队可以考虑使用：
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+### [photoprism](https://github.com/photoprism/photoprism)
 
-### [nocobase](https://github.com/nocobase/nocobase)
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+![photoprism](https://img.turingark.com/uPic/ZiTbsh.jpg) 
 
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-### [ceresdb](https://github.com/CeresDB/ceresdb)
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-阻止中国流氓软件的管理员授权，无需后台运行：
-
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+![](https://img.turingark.com/uPic/SBotTN.jpg)
 
-### [archbase](https://github.com/foxsen/archbase)
+其他同类教程地址：
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+
+针对新人的 `CSS` 入门级教程：
+
+![](https://img.turingark.com/uPic/EnSWJn.png)
+
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io/) 
+### [法律时代导航](https://yesen.cn/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-常用软件替代品查询网站：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [itnext](https://itnext.cn/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+一个介绍元宇宙的网站：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
-
-![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
 ## ✍️ 说明
 
