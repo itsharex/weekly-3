@@ -5,96 +5,116 @@
 
 ## 🎯 项目 
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+### [mometa](https://github.com/imcuttle/mometa)
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-### [photoprism](https://github.com/photoprism/photoprism)
+**它用于解决的问题有：**
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![photoprism](https://img.turingark.com/uPic/ZiTbsh.jpg) 
+![mometa](https://img.turingark.com/uPic/snapshot.png) 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [podman](https://github.com/containers/podman)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+
+### [elasticvue](https://github.com/cars10/elasticvue)
+
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
+
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
+
+基本满足使用，开源强大：
+
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
 
 ## 🤖 软件 
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![peazip](https://img.turingark.com/uPic/peazip.png) 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [legado](https://github.com/gedoor/legado)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+### [Files](https://github.com/files-community/Files)
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+一个现代化的文件管理软件(Windows用户专属)：
+
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
 ## 👀 资料 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-![](https://img.turingark.com/uPic/SBotTN.jpg)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-其他同类教程地址：
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+- NLP
+- CV
+- Time Series
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+目录概览：
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
-针对新人的 `CSS` 入门级教程：
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
 ## 🕸 网站 
 
-### [法律时代导航](https://yesen.cn/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [dute](https://www.dute.org/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [itnext](https://itnext.cn/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-一个介绍元宇宙的网站：
+### flomoapp
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+
+![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
 
 ## ✍️ 说明
 
