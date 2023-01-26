@@ -5,83 +5,53 @@
 
 ## 🎯 项目 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [webvm](https://github.com/leaningtech/webvm)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+![webvm](https://img.turingark.com/uPic/1yRQBe.png)
 
-**它用于解决的问题有：**
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+### [Feeddd](https://github.com/feeddd/feeds)
 
-![mometa](https://img.turingark.com/uPic/snapshot.png) 
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-### [podman](https://github.com/containers/podman)
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+### [BGmi](https://github.com/BGmi/BGmi)
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
-
-### [elasticvue](https://github.com/cars10/elasticvue)
-
-基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
-
-- 集群信息概览
-- 索引管理
-- 快速搜索&查看
-- REST查询
-- 管理系统快照
-
-基本满足使用，开源强大：
-
-![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
 ## 🤖 软件 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [marktext](https://github.com/marktext/marktext)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
-### [legado](https://github.com/gedoor/legado)
+### [buster](https://github.com/dessant/buster)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-### [Files](https://github.com/files-community/Files)
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-一个现代化的文件管理软件(Windows用户专属)：
-
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
-
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
-
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
-
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
 ### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
@@ -89,32 +59,31 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 
 ![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
+### [TLCL](https://billie66.github.io/TLCL/book/)
+
+`The Linux Command Line` 中文翻译：
+
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+一个搜索 git 常用 emoji 的网站:
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
 
-### [dute](https://www.dute.org/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [nosh](https://nosh.rocks/)
 
-### flomoapp
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
-
-![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
 ## ✍️ 说明
 
