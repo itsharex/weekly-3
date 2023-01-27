@@ -5,103 +5,101 @@
 
 ## 🎯 项目 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [elasticvue](https://github.com/cars10/elasticvue)
 
-快速轻松地构建部署地理空间应用程序：
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
 
-### [doocs/md](https://github.com/doocs/md)
+基本满足使用，开源强大：
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+### [picx](https://github.com/XPoet/picx)
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
 
 ## 🤖 软件 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-控制外部显示器的亮度和音量（macOS）：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+### [logseq](https://github.com/logseq/logseq)
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
-
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+### 认知偏差知识手册
 
-开源书籍，`Prometheus`  操作指南：
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-计算机科学课程和视频讲座列表：
-
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [untools](https://untools.co/)
 
-简洁漂亮的图标网站：
+一个帮助你思考的集合工具&框架：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![untools](https://img.turingark.com/uPic/hHu9aw.png) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+免费的二维码生成网站：
 
-![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-冰霜大佬的博客：
-
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
 ## ✍️ 说明
 
