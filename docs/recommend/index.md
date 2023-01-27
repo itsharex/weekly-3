@@ -5,85 +5,103 @@
 
 ## 🎯 项目 
 
-### [webvm](https://github.com/leaningtech/webvm)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-![webvm](https://img.turingark.com/uPic/1yRQBe.png)
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+### [greppo](https://github.com/greppo-io/greppo)
 
-### [Feeddd](https://github.com/feeddd/feeds)
+快速轻松地构建部署地理空间应用程序：
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+### [doocs/md](https://github.com/doocs/md)
 
-### [BGmi](https://github.com/BGmi/BGmi)
+✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ## 🤖 软件 
 
-### [marktext](https://github.com/marktext/marktext)
+### [Plash](https://github.com/sindresorhus/Plash)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
-### [buster](https://github.com/dessant/buster)
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+控制外部显示器的亮度和音量（macOS）：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+
+![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+开源书籍，`Prometheus`  操作指南：
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-`The Linux Command Line` 中文翻译：
+计算机科学课程和视频讲座列表：
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
 ## 🕸 网站 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [feathericons](https://feathericons.com/)
 
-一个搜索 git 常用 emoji 的网站:
+简洁漂亮的图标网站：
 
-![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [nosh](https://nosh.rocks/)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+冰霜大佬的博客：
+
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
