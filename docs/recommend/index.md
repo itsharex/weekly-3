@@ -5,101 +5,81 @@
 
 ## 🎯 项目 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
+![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
 
-### [elasticvue](https://github.com/cars10/elasticvue)
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-- 集群信息概览
-- 索引管理
-- 快速搜索&查看
-- REST查询
-- 管理系统快照
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-基本满足使用，开源强大：
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
-
-### [picx](https://github.com/XPoet/picx)
-
-基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
-
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
 ## 🤖 软件 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [buster](https://github.com/dessant/buster)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+### [vnote](https://github.com/vnotex/vnote)
 
-### [logseq](https://github.com/logseq/logseq)
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
-
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
 ## 👀 资料 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### 认知偏差知识手册
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+### RustBook
+
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+
+![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
 
 ## 🕸 网站 
 
-### [untools](https://untools.co/)
+### [w2solo](https://w2solo.com/)
 
-一个帮助你思考的集合工具&框架：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![untools](https://img.turingark.com/uPic/hHu9aw.png) 
+### [db-fiddle](https://www.db-fiddle.com/)
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-免费的二维码生成网站：
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+### [piqsels](https://www.piqsels.com/)
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
-
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
 ## ✍️ 说明
 
