@@ -5,81 +5,101 @@
 
 ## 🎯 项目 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [memos](https://github.com/justmemos/memos)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+**🎯 产品意图**:
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+### [sealos](https://github.com/fanux/sealos)
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+超方便的微信视频号下载器：
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
+
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
 ## 👀 资料 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+以非常直观的语言介绍`pytorch`：
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+作者的同类电子书还有：
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+### [meetup](https://github.com/baiyutang/meetup)
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-### RustBook
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
 ## 🕸 网站 
 
-### [w2solo](https://w2solo.com/)
+### [ICO converter](https://www.icoconverter.com/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-### [db-fiddle](https://www.db-fiddle.com/)
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+### [animatedknots](https://www.animatedknots.com/)
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+各种给绳子打结的姿势都可以在这里找到：
 
-### [piqsels](https://www.piqsels.com/)
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+### [dute](https://www.dute.org/)
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+独特工具箱，提供免费在线工具，涉及工具类别有：
+
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
