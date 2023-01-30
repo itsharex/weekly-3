@@ -5,92 +5,97 @@
 
 ## 🎯 项目 
 
-### [heti](https://github.com/sivan/heti)
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
-### [nativefier](https://github.com/nativefier/nativefier)
+### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+最近很火的`AI Art` 生成模型：
 
-![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
+![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [Files](https://github.com/files-community/Files)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+一个现代化的文件管理软件(Windows用户专属)：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
+安全、快速与轻量的远程桌面&文件管理工具：
 
-### [Tai](https://github.com/Planshit/Tai)
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
-
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
 ## 👀 资料 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+项目收集了计算机科学领域值得一读的论文：
 
-![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+![papers-we-love](https://img.turingark.com/uPic/FiYqA1.png)
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-PyTorch 从0到精通教程：
-
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
 ## 🕸 网站 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [devhints](https://www.f2er.com/tool/B5XO1oDY)
 
-发现你可能喜欢的电台：
+**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [caniuse](https://caniuse.com/)
 
-开发者常用工具集：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [Python Tutor](https://pythontutor.com/?)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
 
 ## ✍️ 说明
 
