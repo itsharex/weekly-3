@@ -1,5 +1,6 @@
 copyright: Copyright &copy; 2021 - 2022 <a href="https://github.com/howie6879/weekly">howie.hu</a>.
 markdown_extensions:
+- smarty
 - toc:
     permalink: []
 - admonition
