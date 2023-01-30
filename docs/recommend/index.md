@@ -5,97 +5,112 @@
 
 ## 🎯 项目 
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-最近很火的`AI Art` 生成模型：
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
+### [streamlit](https://github.com/streamlit/streamlit)
 
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+用 `Python` 快速构建数据应用：
 
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
-
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
-
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
-
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
-
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
 ## 🤖 软件 
 
-### [Files](https://github.com/files-community/Files)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-一个现代化的文件管理软件(Windows用户专属)：
+一个跨平台的电子书阅读器：
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-安全、快速与轻量的远程桌面&文件管理工具：
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
 ## 👀 资料 
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-项目收集了计算机科学领域值得一读的论文：
+![fun-rec](https://img.turingark.com/uPic/fun-rec.jpg) 
 
-![papers-we-love](https://img.turingark.com/uPic/FiYqA1.png)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
-
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [devhints](https://www.f2er.com/tool/B5XO1oDY)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-### [caniuse](https://caniuse.com/)
+### [quickref](https://quickref.me/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [文学网](https://www.hwxnet.com/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+文学相关工具在线网站：
 
-![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
