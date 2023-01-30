@@ -91,8 +91,7 @@ nav:
 - 🍀 今日推荐:
   - 🍀 今日推荐: ./recommend/index.md
 - 🧑🏻‍💻 软件推荐:
-  - 🍎 我的 macOS 常用软件:
-    - mac-soft: ./soft/mac-soft/README.md
+  - 🍎 我的 macOS 常用软件: ./soft/mac.md
 - 🔗 RSS订阅: ./rss/rss.xml
 plugins:
 - search:

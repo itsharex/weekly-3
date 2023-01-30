@@ -2,9 +2,8 @@
 # echo "> Building HTML by mddocs..."
 # mkdocs build
 echo "> Update mac-soft"
-cd ./docs/soft/mac-soft && git pull
+wget https://raw.githubusercontent.com/howie6879/mac-soft/main/README.md -O ./docs/soft/mac.md
 echo "> Gen mkdocs config"
-cd ../../../
 pipenv run python main.py
 echo "> Push code to git"
 read -p "> Please input commit info: " commit_info
