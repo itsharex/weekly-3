@@ -5,68 +5,47 @@
 
 ## 🎯 项目 
 
-### [memos](https://github.com/justmemos/memos)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+程序员在家做饭方法指南。 
 
-**🎯 产品意图**:
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-### [sealos](https://github.com/fanux/sealos)
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+### [photoview](https://github.com/photoview/photoview)
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+开源的相册程序，可基于Docker快速构建：
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
-
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+![photoview](https://img.turingark.com/uPic/photoview.png) 
 
 ## 🤖 软件 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [vnote](https://github.com/vnotex/vnote)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [lively](https://github.com/rocksdanister/lively)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+针对 `Windows` 的开源的动态壁纸软件：
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-超方便的微信视频号下载器：
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
-
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
 
 ## 👀 资料 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-以非常直观的语言介绍`pytorch`：
-
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
-
-作者的同类电子书还有：
-
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
-
-### [meetup](https://github.com/baiyutang/meetup)
-
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
-
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
 ### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
@@ -74,32 +53,31 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 ![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
+### [Python源码剖析](https://fasionchan.com/python-source/)
+
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+
 ## 🕸 网站 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [sayhello](https://beta.sayhello.so/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-各种给绳子打结的姿势都可以在这里找到：
+自动对联网站：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [dute](https://www.dute.org/)
+### [ixinqing](http://www.ixinqing.com/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+心晴 · 专注于心理学入门与自我成长:
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
 ## ✍️ 说明
 
