@@ -5,112 +5,93 @@
 
 ## 🎯 项目 
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+目前支持 Chrome 和 Edge 两款浏览器：
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-### [streamlit](https://github.com/streamlit/streamlit)
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-用 `Python` 快速构建数据应用：
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+### [sealos](https://github.com/fanux/sealos)
+
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
 ## 🤖 软件 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-一个跨平台的电子书阅读器：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### [lettura](https://github.com/zhanglun/lettura)
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
-
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
 ## 👀 资料 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-![fun-rec](https://img.turingark.com/uPic/fun-rec.jpg) 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
 ## 🕸 网站 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [icones.js.org](https://icones.js.org/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+免费的图标库：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+![icones](https://img.turingark.com/uPic/icones.jpg) 
 
-### [quickref](https://quickref.me/)
+### [itnext](https://itnext.cn/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+一个介绍元宇宙的网站：
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [文学网](https://www.hwxnet.com/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-文学相关工具在线网站：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
 
 ## ✍️ 说明
 
