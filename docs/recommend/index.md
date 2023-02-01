@@ -5,93 +5,89 @@
 
 ## 🎯 项目 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-目前支持 Chrome 和 Edge 两款浏览器：
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+动漫、电视剧的自动更新及在线观，项目介绍：
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-### [sealos](https://github.com/fanux/sealos)
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
 ## 🤖 软件 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
 ## 👀 资料 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+PyTorch 从0到精通教程：
 
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
 ## 🕸 网站 
 
-### [icones.js.org](https://icones.js.org/)
+### [openart.ai](https://openart.ai/)
 
-免费的图标库：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![icones](https://img.turingark.com/uPic/icones.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [itnext](https://itnext.cn/)
+### [ipdetective](https://ipdetective.io/api)
 
-一个介绍元宇宙的网站：
+检测 `ip` 是否是机器人：
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+测试使用网络的上传下载速度等信息：
 
-![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
 ## ✍️ 说明
 
