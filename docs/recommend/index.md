@@ -5,89 +5,82 @@
 
 ## 🎯 项目 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-动漫、电视剧的自动更新及在线观，项目介绍：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+一个终端打字应用程序，以提高你的手指水平！
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
-
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
-
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
-
-![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
 ## 🤖 软件 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+### [Sequel-Ace](https://sequel-ace.com/)
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+### [eoapi](https://github.com/eolinker/eoapi)
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+![cs-self-learning](https://img.turingark.com/uPic/iuimNz.png) 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-PyTorch 从0到精通教程：
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
-
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
-
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
 ## 🕸 网站 
 
-### [openart.ai](https://openart.ai/)
+### [toonme](https://toonme.com)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+该网站将原图绘制成可爱的卡通图片：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
 
-### [ipdetective](https://ipdetective.io/api)
+### [readme.so](https://readme.so/)
 
-检测 `ip` 是否是机器人：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [uipatterns](http://uipatterns.io/) 
 
-测试使用网络的上传下载速度等信息：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
 ## ✍️ 说明
 
