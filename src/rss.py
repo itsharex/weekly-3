@@ -12,7 +12,7 @@ from feedgen.feed import FeedGenerator
 
 BASE_URL = "https://weekly.howie6879.cn/"
 DOCS_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
-RSS_FILE = os.path.join(DOCS_PATH, "rss.xml")
+RSS_FILE = os.path.join(DOCS_PATH, "rss/rss.xml")
 
 
 def gen_rss():
@@ -50,11 +50,11 @@ def gen_rss():
         "我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。"
     )
     fg.author({"name": "howie6879"})
-    fg.link(href="https://github.com/howie6879/weekly", rel="self")
+    fg.link(href="https://weekly.howie6879.cn/", rel="self")
     fg.logo("https://images-1252557999.file.myqcloud.com/uPic/howie.jpg")
     fg.generator(
         generator="howie6879/weekly",
-        uri="https://github.com/howie6879/weekly",
+        uri="https://weekly.howie6879.cn/",
     )
     for i in sorted(res_dict)[:]:
         cur_data = res_dict[i]
