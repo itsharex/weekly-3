@@ -12,7 +12,7 @@ from feedgen.feed import FeedGenerator
 
 BASE_URL = "https://weekly.howie6879.cn/"
 DOCS_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
-RSS_FILE = os.path.join(os.path.join(DOCS_PATH, "rss"), "rss.xml")
+RSS_FILE = os.path.join(DOCS_PATH, "rss.xml")
 
 
 def gen_rss():
@@ -56,7 +56,7 @@ def gen_rss():
         generator="howie6879/weekly",
         uri="https://github.com/howie6879/weekly",
     )
-    for i in sorted(res_dict)[-30:]:
+    for i in sorted(res_dict)[:]:
         cur_data = res_dict[i]
 
         fe = fg.add_entry()
