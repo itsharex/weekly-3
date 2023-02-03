@@ -5,82 +5,81 @@
 
 ## 🎯 项目 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
-一个终端打字应用程序，以提高你的手指水平！
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
 ## 🤖 软件 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-### [Sequel-Ace](https://sequel-ace.com/)
+印象笔记的开源替代品（支持端对端加密）：
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-### [eoapi](https://github.com/eolinker/eoapi)
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
-
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
 ## 👀 资料 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![cs-self-learning](https://img.turingark.com/uPic/iuimNz.png) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+夯实计算机基础，该怎么学，这个项目给出了答案：
+
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [toonme](https://toonme.com)
+### [alternativeto](https://alternativeto.net/)
 
-该网站将原图绘制成可爱的卡通图片：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [readme.so](https://readme.so/)
+### [shell.how](https://www.shell.how/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
 
-### [uipatterns](http://uipatterns.io/) 
+### [tableconvert](https://tableconvert.com/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
