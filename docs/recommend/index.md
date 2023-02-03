@@ -5,84 +5,94 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
+![Infuse](https://img.turingark.com/uPic/Fbred5.png) 
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [umami](https://github.com/umami-software/umami)
 
-类似`htop`的命令行系统资源监控工具：
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [yarr](https://github.com/nkanaev/yarr)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+总体来说还是挺简洁轻量的：
 
-`TinyPNG`的`Mac`客户端：
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-安全、快速与轻量的远程桌面&文件管理工具：
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
 ## 👀 资料 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-浙江大学课程攻略共享计划：
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+### [rust-course](https://github.com/sunface/rust-course)
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+阅读地址见[course.rs](https://course.rs)。 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
 ## 🕸 网站 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-阿里云资源搜索引擎：
+测试使用网络的上传下载速度等信息：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-各种给绳子打结的姿势都可以在这里找到：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
-### [sao.fm](https://sao.fm/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-一个在线听广播电台的网站：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
 ## ✍️ 说明
 
