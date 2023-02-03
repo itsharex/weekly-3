@@ -5,81 +5,114 @@
 
 ## 🎯 项目 
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+作者创建此开源项目的目的如下：
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+![free-api](https://img.turingark.com/uPic/VvapMO.png) 
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+### [gorse](https://github.com/zhenghaoz/gorse)
+
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
+
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
 ## 🤖 软件 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-印象笔记的开源替代品（支持端对端加密）：
+### [Seal](https://github.com/JunkFood02/Seal)
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+### [B站录播姬](https://rec.danmuji.org/)
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+一个方便好用免费开源的哔哩哔哩直播录制工具：
+
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
+
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [batnoter](https://batnoter.com/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [shell.how](https://www.shell.how/)
+### [sqlime](http://sqlime.org/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
-### [tableconvert](https://tableconvert.com/)
+### [bgsub](https://bgsub.cn/webapp)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+消除或者替换图像背景，无需上传图像：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
 ## ✍️ 说明
 
