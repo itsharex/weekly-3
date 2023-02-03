@@ -5,94 +5,108 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [ossart](https://github.com/djyde/ossart)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
 
-![Infuse](https://img.turingark.com/uPic/Fbred5.png) 
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+### [freed](https://github.com/YuanHsing/freed)
 
-### [umami](https://github.com/umami-software/umami)
-
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
-
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-总体来说还是挺简洁轻量的：
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
-
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [secguide](https://github.com/Tencent/secguide)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-### [rust-course](https://github.com/sunface/rust-course)
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-阅读地址见[course.rs](https://course.rs)。 
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+对于前端开发者来说应该是一个非常好的知识库：
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
+
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+
+《Linear Algebra for Everyone》公开课的图解笔记：
+
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [feathericons](https://feathericons.com/)
 
-测试使用网络的上传下载速度等信息：
+简洁漂亮的图标网站：
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [uiverse.io](https://uiverse.io/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [alternativeto](https://alternativeto.net/)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+常用软件替代品查询网站：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
