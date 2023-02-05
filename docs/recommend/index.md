@@ -5,101 +5,102 @@
 
 ## 🎯 项目 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-一些 `Docker Compose` 的实践示例。 
+在你的终端使用 `Chromium`：
 
-### [shiori](https://github.com/go-shiori/shiori)
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-开源自部署的书签管理服务：
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+### [KubePi](https://github.com/KubeOperator/KubePi)
+
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
 ## 🤖 软件 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [buster](https://github.com/dessant/buster)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-### [Gif123](https://github.com/aardio/Gif123)
+为 `iPad` 构建一个成熟的代码编辑器：
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-印象笔记的开源替代品（支持端对端加密）：
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
 ## 👀 资料 
 
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+![logic](https://img.turingark.com/uPic/logic.jpg) 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-重新分类 Leetcode 高频题 2021 版
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
-
-为初学者整理的免费 `CSS` 课程：
-
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
 ## 🕸 网站 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [cook](https://github.com/YunYouJun/cook)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [css.gg](https://css.gg/)
 
-### [squoosh](https://squoosh.app/)
+`700+` 基于 `CSS` 的图标：
 
-免费漂亮的在线图片压缩网站：
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+### [jsont.run](https://www.jsont.run/)
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+一个简洁的在线 `JSON` 解析器：
 
-### [tldraw](https://www.tldraw.com/)
-
-小巧强大的在线绘图工具：
-
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
 ## ✍️ 说明
 
