@@ -5,39 +5,35 @@
 
 ## 🎯 项目 
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+### [flet](https://github.com/flet-dev/flet)
 
-在你的终端使用 `Chromium`：
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
+### [memos](https://github.com/justmemos/memos)
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+**🎯 产品意图**:
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
 ## 🤖 软件 
+
+### [vnote](https://github.com/vnotex/vnote)
+
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
 ### [buster](https://github.com/dessant/buster)
 
@@ -45,62 +41,58 @@
 
 ![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
-
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
-
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
-
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![logic](https://img.turingark.com/uPic/logic.jpg) 
+![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+通过AI技术去除图片水印：
 
-![cook](https://img.turingark.com/uPic/cook.jpg) 
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-### [css.gg](https://css.gg/)
+### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 
-`700+` 基于 `CSS` 的图标：
+前端实现的 `Pokemon` 卡片展示，非常酷炫：
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [文学网](https://www.hwxnet.com/)
 
-一个简洁的在线 `JSON` 解析器：
+文学相关工具在线网站：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
