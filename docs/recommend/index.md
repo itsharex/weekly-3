@@ -5,94 +5,95 @@
 
 ## 🎯 项目 
 
-### [flet](https://github.com/flet-dev/flet)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [alist](https://github.com/Xhofe/alist)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-### [memos](https://github.com/justmemos/memos)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
 
-**🎯 产品意图**:
+`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+- 获取通讯录
+- 发送文本、图片、文件、xml文章、名片、群艾特消息
+- 根据wxid查询好友信息
+- 根据群ID获取所有群成员wxid
+- 检测好友状态（是否好友、被删除、被拉黑）
+- 接收各类消息，可写回调函数进行处理
+- 封装COM接口，方便使用自己喜欢的语言进行调用
+- 群管理
+- 微信多开 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [notepad--](https://github.com/cxasm/notepad--)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-### [buster](https://github.com/dessant/buster)
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+### [iina](https://github.com/iina/iina)
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+清华大学计算机系课程攻略：
 
-![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
-
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
-
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [ipdetective](https://ipdetective.io/api)
 
-通过AI技术去除图片水印：
+检测 `ip` 是否是机器人：
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
+### [send.internxt.com](https://send.internxt.com/)
 
-前端实现的 `Pokemon` 卡片展示，非常酷炫：
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-文学相关工具在线网站：
+比较完善全面的图标网站：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
 ## ✍️ 说明
 
