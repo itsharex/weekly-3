@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-每天学习一个 Go 语言库，内容质量相当高。
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-### [umami](https://github.com/umami-software/umami)
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+### [dicebear](https://github.com/dicebear/dicebear)
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
 ## 🤖 软件 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-监控你的应用流量，跨平台：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [Cider](https://github.com/ciderapp/Cider)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [hetty](https://github.com/dstotijn/hetty)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
-
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
-
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
-
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
-
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [go101](https://gfw.go101.org/article/101.html)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
 
-### [sideproject](https://sideproject.guide/)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-`Side Project` 指南：
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-### [leetcode](https://github.com/doocs/leetcode)
+一本小书《带你入门前端工程》
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+![](https://img.turingark.com/uPic/e783TS.png) 
 
 ## 🕸 网站 
 
-### [法律时代导航](https://yesen.cn/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
-### [crxsoso](https://www.crxsoso.com/articles)
+### [tanpok](https://tool.tanpok.com/#/)
 
-浏览器扩展应用周刊：
+效果非常好的图片压缩工具：
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
 ## ✍️ 说明
 
