@@ -5,83 +5,98 @@
 
 ## 🎯 项目 
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [dub](https://github.com/steven-tey/dub)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-### [dicebear](https://github.com/dicebear/dicebear)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
 ## 🤖 软件 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [bdash](https://github.com/bdash-app/bdash)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+用于数据分析的简单 `SQL` 客户端：
 
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [Cider](https://github.com/ciderapp/Cider)
+### [uPic](https://github.com/gee1k/uPic)
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+我的必备软件：
 
-### [hetty](https://github.com/dstotijn/hetty)
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
 ## 👀 资料 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
+![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-一本小书《带你入门前端工程》
+关于软件公司如何测试其软件的公共资源集合：
 
-![](https://img.turingark.com/uPic/e783TS.png) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
 ## 🕸 网站 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [tableconvert](https://tableconvert.com/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [tanpok](https://tool.tanpok.com/#/)
+![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
 
-效果非常好的图片压缩工具：
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
 ## ✍️ 说明
 
