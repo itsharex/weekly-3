@@ -5,100 +5,92 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+可视化脚本框架：
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
-### [pico.css](https://github.com/picocss/pico)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+通过网络收集整理的中文歌词数据库, 包含:
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [streamlit](https://github.com/streamlit/streamlit)
+作者基于此数据库做了两个歌词生成器：
 
-用 `Python` 快速构建数据应用：
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+### [filebrowser](https://github.com/filebrowser/filebrowser)
+
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
 ## 🤖 软件 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+![peazip](https://img.turingark.com/uPic/peazip.png) 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+`Notepad++`的跨平台开源实现：
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
 ## 👀 资料 
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-一份面向 `Docker` 初学者的教程：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-浙江大学课程攻略共享计划：
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-
-微软设计的机器学习课程，完全面向新手：
-
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
 ## 🕸 网站 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+@妙才投稿，在线学习git命令的网站：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![](https://img.turingark.com/uPic/YSiAVW.png) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [zerossl](https://zerossl.com/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-### [musetransfer](https://musetransfer.com/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![](https://img.turingark.com/uPic/bdd-3d.png)
+
+
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
 ## ✍️ 说明
 
