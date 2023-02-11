@@ -5,98 +5,106 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+带看板的开源项目管理工具:
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-### [dub](https://github.com/steven-tey/dub)
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [logseq](https://github.com/logseq/logseq)
 
-用于数据分析的简单 `SQL` 客户端：
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-我的必备软件：
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
-
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [netkiller](https://www.netkiller.cn/)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-关于软件公司如何测试其软件的公共资源集合：
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+**可惜永远都不会再更新了，默哀！**
+
+![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
 
 ## 🕸 网站 
 
-### [tableconvert](https://tableconvert.com/)
+### [openvim](https://www.openvim.com/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+交互式 `vim` 学习网站：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [smalldev.tools](https://smalldev.tools/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+开发者常用工具集：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
+### [Ben Eater](https://eater.net/)
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
-
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
 ## ✍️ 说明
 
