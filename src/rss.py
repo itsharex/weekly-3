@@ -68,6 +68,7 @@ def gen_rss():
         fe.author(name="老胡的储物柜")
     # rss_data = str(fg.atom_str(pretty=True), "utf-8")
     fg.rss_file(RSS_FILE, pretty=True, encoding="utf-8")
+    fg.rss_file(RSS_FILE.replace("rss/", ""), pretty=True, encoding="utf-8")
     print("周刊RSS生成成功!")
 
 
