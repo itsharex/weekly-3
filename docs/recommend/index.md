@@ -5,106 +5,100 @@
 
 ## 🎯 项目 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-带看板的开源项目管理工具:
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+### [pico.css](https://github.com/picocss/pico)
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+### [streamlit](https://github.com/streamlit/streamlit)
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+用 `Python` 快速构建数据应用：
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
-
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
-
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
 ## 🤖 软件 
 
-### [logseq](https://github.com/logseq/logseq)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [MusicFree](https://github.com/maotoumao/MusicFree)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
-
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+一份面向 `Docker` 初学者的教程：
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
-### [netkiller](https://www.netkiller.cn/)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+浙江大学课程攻略共享计划：
 
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+微软设计的机器学习课程，完全面向新手：
 
-**可惜永远都不会再更新了，默哀！**
-
-![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-交互式 `vim` 学习网站：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [gh-card.dev](https://gh-card.dev/)
 
-开发者常用工具集：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-### [Ben Eater](https://eater.net/)
+### [musetransfer](https://musetransfer.com/)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
 ## ✍️ 说明
 
