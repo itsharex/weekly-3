@@ -5,92 +5,91 @@
 
 ## 🎯 项目 
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-可视化脚本框架：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [think](https://github.com/fantasticit/think)
 
-通过网络收集整理的中文歌词数据库, 包含:
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
-作者基于此数据库做了两个歌词生成器：
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
-
-### [filebrowser](https://github.com/filebrowser/filebrowser)
-
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
-
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
-
-![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
+程序员在家做饭方法指南。 
 
 ## 🤖 软件 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+`TinyPNG`的`Mac`客户端：
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [marktext](https://github.com/marktext/marktext)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [Files](https://github.com/files-community/Files)
 
-`Notepad++`的跨平台开源实现：
+一个现代化的文件管理软件(Windows用户专属)：
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
 ## 👀 资料 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+开源书籍，`Prometheus`  操作指南：
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [myfirstnft](https://myfirstnft.info/)
 
-@妙才投稿，在线学习git命令的网站：
+我的第一个NFT，在这个网站，你可以：
 
-![](https://img.turingark.com/uPic/YSiAVW.png) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [zerossl](https://zerossl.com/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
+![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
 
+### [webutils](https://www.webutils.app/)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+一个提供web小工具的网站，比如：
+
+- 文本比较
+- 图片压缩
+- 图片转换
+
+![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
 
 ## ✍️ 说明
 
