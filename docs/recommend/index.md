@@ -5,91 +5,102 @@
 
 ## 🎯 项目 
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-### [think](https://github.com/fantasticit/think)
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
-云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+### [MRDOC](https://mrdoc.pro/)
 
-![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+分为开源版和付费版，小团队可以考虑使用：
 
-程序员在家做饭方法指南。 
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+
+![mario](https://img.turingark.com/uPic/mario.gif) 
 
 ## 🤖 软件 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [Yank Note](https://github.com/purocean/yn)
 
-`TinyPNG`的`Mac`客户端：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [marktext](https://github.com/marktext/marktext)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-### [Files](https://github.com/files-community/Files)
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-一个现代化的文件管理软件(Windows用户专属)：
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-开源书籍，`Prometheus`  操作指南：
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [theonestopradio](https://theonestopradio.com/)
 
-我的第一个NFT，在这个网站，你可以：
+发现你可能喜欢的电台：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [Ben Eater](https://eater.net/)
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+### [privacytools.io](https://www.privacytools.io/)
 
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
-
-### [webutils](https://www.webutils.app/)
-
-一个提供web小工具的网站，比如：
-
-- 文本比较
-- 图片压缩
-- 图片转换
-
-![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
 ## ✍️ 说明
 
