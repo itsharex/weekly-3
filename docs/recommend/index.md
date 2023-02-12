@@ -5,101 +5,102 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-快速轻松地构建部署地理空间应用程序：
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [homepage](https://github.com/benphelps/homepage)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+高度可定制的首页仪表板应用项目：
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
-
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
 ## 🤖 软件 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [bdash](https://github.com/bdash-app/bdash)
 
-免费开源的`openvpn`客户端：
+用于数据分析的简单 `SQL` 客户端：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-### [insomnia](https://github.com/Kong/insomnia)
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+### [Files](https://github.com/files-community/Files)
 
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+一个现代化的文件管理软件(Windows用户专属)：
+
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
 ## 👀 资料 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-对于前端开发者来说应该是一个非常好的知识库：
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
+浙江大学课程攻略共享计划：
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-强化学习中文教程：
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+
+![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [wantquotes.net](https://wantquotes.net/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+### [quickref](https://quickref.me/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
-### [uipatterns](http://uipatterns.io/) 
+### [uxdatabase](https://www.uxdatabase.io/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
