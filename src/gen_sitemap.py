@@ -8,20 +8,19 @@ import os
 
 from pysitemap import crawler
 
-SM_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs/sitemap.xml")
 
-
-def gen_sitemap():
+def gen_sitemap(url="https://weekly.howie6879.cn/", file_name="sitemap"):
     """
     生成 sitemap
     """
-    root_url = "https://weekly.howie6879.cn/"
     crawler(
-        root_url,
-        out_file=SM_FILE,
+        url,
+        out_file=os.path.join(
+            os.path.dirname(os.path.dirname(__file__)), f"docs/{file_name}.xml"
+        ),
         exclude_urls=[".pdf", ".jpg", ".db", ".css", ".js", ".ico"],
     )
 
 
 if __name__ == "__main__":
-    gen_sitemap()
+    gen_sitemap(url="https://www.howie6879.cn/", file_name="howie_sitemap")
