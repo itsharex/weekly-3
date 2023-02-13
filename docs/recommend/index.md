@@ -5,102 +5,88 @@
 
 ## 🎯 项目 
 
-### [personal-management-system](https://github.com/Volmarg/personal-management-system)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
+![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+一款简洁实用优雅的高性能个人博客系统：
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [showdoc](https://github.com/star7th/showdoc)
 
-高度可定制的首页仪表板应用项目：
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
 ## 🤖 软件 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [logseq](https://github.com/logseq/logseq)
 
-用于数据分析的简单 `SQL` 客户端：
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-### [Files](https://github.com/files-community/Files)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-一个现代化的文件管理软件(Windows用户专属)：
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [rust-course](https://github.com/sunface/rust-course)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+阅读地址见[course.rs](https://course.rs)。 
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-浙江大学课程攻略共享计划：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
-
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
-
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
-
-![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [linggle](https://linggle.com/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [quickref](https://quickref.me/)
+### [openart.ai](https://openart.ai/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [icones.js.org](https://icones.js.org/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+免费的图标库：
 
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+![icones](https://img.turingark.com/uPic/icones.jpg) 
 
 ## ✍️ 说明
 
