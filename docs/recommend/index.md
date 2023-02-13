@@ -5,88 +5,98 @@
 
 ## 🎯 项目 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [umami](https://github.com/umami-software/umami)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-一款简洁实用优雅的高性能个人博客系统：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
 
-### [showdoc](https://github.com/star7th/showdoc)
+`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
 
-一个非常适合IT团队的在线API文档、技术文档工具:
-
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+- 获取通讯录
+- 发送文本、图片、文件、xml文章、名片、群艾特消息
+- 根据wxid查询好友信息
+- 根据群ID获取所有群成员wxid
+- 检测好友状态（是否好友、被删除、被拉黑）
+- 接收各类消息，可写回调函数进行处理
+- 封装COM接口，方便使用自己喜欢的语言进行调用
+- 群管理
+- 微信多开 
 
 ## 🤖 软件 
 
-### [logseq](https://github.com/logseq/logseq)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+开源的`macOS` 纯文本编辑器：
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+### [Plash](https://github.com/sindresorhus/Plash)
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+开源的正则表达式教程，有中文版，有在线示例。 
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-阅读地址见[course.rs](https://course.rs)。 
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+- NLP
+- CV
+- Time Series
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+目录概览：
 
-### [paper-reading](https://github.com/mli/paper-reading)
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+Go语言实战: 编写可维护Go语言代码建议。 
 
 ## 🕸 网站 
 
-### [linggle](https://linggle.com/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+提供在线绘制时序图的网站：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [openart.ai](https://openart.ai/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+自动对联网站：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [icones.js.org](https://icones.js.org/)
+### [http.cat](https://http.cat)
 
-免费的图标库：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![icones](https://img.turingark.com/uPic/icones.jpg) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
 ## ✍️ 说明
 
