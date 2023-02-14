@@ -5,98 +5,96 @@
 
 ## 🎯 项目 
 
-### [umami](https://github.com/umami-software/umami)
+### [answer](https://github.com/answerdev/answer)
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+基于自己的产品或者项目快速打造一个问答社区：
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+![](https://img.turingark.com/uPic/APrAbH.png) 
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
 ## 🤖 软件 
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+一个`macOS`的上的`SSH`客户端：
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-开源的`macOS` 纯文本编辑器：
+软件特性：
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
 ## 👀 资料 
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-开源的正则表达式教程，有中文版，有在线示例。 
+教程：小型金融知识图谱流程示范。 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-- NLP
-- CV
-- Time Series
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-目录概览：
+为初学者整理的免费 `CSS` 课程：
 
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
-
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
-
-Go语言实战: 编写可维护Go语言代码建议。 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-提供在线绘制时序图的网站：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [vim.is](https://vim.is/#exercise)
 
-自动对联网站：
+`Vim`学习网站：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
 
-### [http.cat](https://http.cat)
+### [w2solo](https://w2solo.com/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
-
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
