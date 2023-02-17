@@ -5,87 +5,115 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
 
-### [markmap](https://github.com/gera2ld/markmap)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+### [duf](https://github.com/sigoden/duf)
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-![docker-wechat](https://img.turingark.com/uPic/docker-wechat.png) 
+### [mkcert](https://github.com/FiloSottile/mkcert)
+
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
 ## 🤖 软件 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [dbgate](https://github.com/dbgate/dbgate)
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
-
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
-
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### 认知偏差知识手册
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
+
+对于前端开发者来说应该是一个非常好的知识库：
+
+![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
+
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+
+教程：小型金融知识图谱流程示范。 
 
 ## 🕸 网站 
 
-### [iconfont](https://www.iconfont.cn/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-阿里巴巴矢量图标库：
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![](https://img.turingark.com/uPic/bdd-3d.png)
 
-### [pika](https://pika.style/)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![pika](https://img.turingark.com/uPic/pika.jpg) 
+### [emojiall](https://www.emojiall.com/)
+
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+
+![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
 ## ✍️ 说明
 
