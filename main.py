@@ -101,6 +101,6 @@ if __name__ == "__main__":
     # 持久化周刊到 DB
     parse_md()
     # 生成 RSS
-    gen_rss()
+    # gen_rss()
     # 生成最新周刊
     gen_weekly_title(2023)

@@ -35,8 +35,8 @@
 
 ## 交流
 
-欢迎关注[公众号](https://img.turingark.com/wechat_howie.pn)|[博客](https://howie6879.cn/)一起交流（每周在公众号首发）：
+欢迎关注[公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)|[博客](https://howie6879.cn/)一起交流（每周在公众号首发）：
 
-<div align=center><img src="https://img.turingark.com/wechat_howie.png"  width="85%" alt="img" /></div>
+<div align=center><img src="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"  width="85%" alt="img" /></div>
 
 如果你有不错的资源希望分享给我，欢迎以[Issue自荐](https://github.com/howie6879/weekly/issues/1)形式和我沟通。

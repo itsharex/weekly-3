@@ -51,7 +51,7 @@ def gen_rss():
     )
     fg.author({"name": "howie6879"})
     fg.link(href="https://weekly.howie6879.cn/", rel="self")
-    fg.logo("https://images-1252557999.file.myqcloud.com/uPic/howie.jpg")
+    fg.logo("https://weekly.howie6879.cn/statics/images/howie.jpeg")
     fg.generator(
         generator="howie6879/weekly",
         uri="https://weekly.howie6879.cn/",

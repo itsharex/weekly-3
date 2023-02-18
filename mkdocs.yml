@@ -1,4 +1,17 @@
 copyright: Copyright &copy; 2021 - 2022 <a href="https://github.com/howie6879/weekly">howie.hu</a>.
+extra:
+  social:
+  - icon: fontawesome/brands/weixin
+    link: https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg
+  - icon: fontawesome/brands/github-alt
+    link: https://github.com/howie6879
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/howie6879
+  - icon: fontawesome/solid/rss
+    link: https://weekly.howie6879.cn/rss/rss.xml
+extra_css:
+- statics/css/ui.css
+- https://gw.alipayobjects.com/os/k/font/lxgwwenkaiscreenr.css
 markdown_extensions:
 - smarty
 - toc:
@@ -129,7 +142,7 @@ theme:
   name: material
   palette:
   - accent: indigo
-    primary: indigo
+    primary: white
     scheme: default
     toggle:
       icon: material/toggle-switch-off-outline
