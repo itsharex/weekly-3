@@ -5,118 +5,92 @@
 
 ## 🎯 项目 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [greppo](https://github.com/greppo-io/greppo)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+快速轻松地构建部署地理空间应用程序：
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+### [ecapture](https://github.com/ehids/ecapture)
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
-
-### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
-
-中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
-
-![chinese-xinhua](https://img.turingark.com/uPic/pOd5nk.png) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
 ## 🤖 软件 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [shottr](https://shottr.cc/)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+免费截屏软件（macOS）：
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
-之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
-
-### [organicmaps](https://github.com/organicmaps/organicmaps) 
-
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
-
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
 ## 👀 资料 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-深度学习入门教程资料聚合项目，包含：
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+目前也提供了中文版：
 
-![dl01](https://img.turingark.com/uPic/532ono.jpg)
+![patterns-of-distributed-systems](https://img.turingark.com/uPic/ZlA2Zu.png) 
 
-![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+![](https://img.turingark.com/uPic/A6MiF5.jpg) 
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
 ## 🕸 网站 
 
-### [remixicon](https://remixicon.com/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+字节开源的一款图标库。 
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+### [dute](https://www.dute.org/)
 
-### [programcreek](https://www.programcreek.com/)
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
-
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
