@@ -5,115 +5,87 @@
 
 ## 🎯 项目 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
+![vtracer](https://img.turingark.com/uPic/y9m1F5.jpg) 
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-### [duf](https://github.com/sigoden/duf)
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
-
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
-
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
 ## 🤖 软件 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+面向计算机科学的简单开源学术论文管理工具：
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [insomnia](https://github.com/Kong/insomnia)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
-
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![insomnia](https://img.turingark.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
-
-### 认知偏差知识手册
-
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
-
-![cb](https://img.turingark.com/uPic/cb.jpg) 
-
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
-
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
-
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
-
-对于前端开发者来说应该是一个非常好的知识库：
-
-![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
 
 ### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
 教程：小型金融知识图谱流程示范。 
 
+### [how-web-works](https://github.com/vasanthk/how-web-works)
+
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
+
 ## 🕸 网站 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+`GitHub` 最大的开源算法库：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
+### [removebg](https://www.remove.bg/zh)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-### [emojiall](https://www.emojiall.com/)
-
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
-
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
 ## ✍️ 说明
 
