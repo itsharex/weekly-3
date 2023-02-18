@@ -5,11 +5,11 @@
 我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。当前阅读渠道如下：
 
 - [网站](https://weekly.howie6879.cn/)
-- [公众号](https://img.turingark.com/wechat_howie.png)
+- [公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [周刊RSS](https://weekly.howie6879.cn/rss/rss.xml)
 - [今日推荐](https://weekly.howie6879.cn/recommend)
 
-## 介绍 <br/> <img src="https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/weekly.png" width=45% align=right hspace="5" vspace="5" />
+## 介绍 <br/> <img src="https://images-1252557999.file.myqcloud.com/uPic/weekly.jpg" width=45% align=right hspace="5" vspace="5" />
 
 在互联网时代，信息的**过滤**与**聚合**是非常重要的，作为一名程序员，我经常会浏览过程中看到各种有意思的项目、资源、软件以及一些网站，如果浏览目标让人眼前一亮，那就说明我**过滤**到了有意思的东西，一般我会选择相应的软件进行记录然后聚合起来慢慢看。
 
