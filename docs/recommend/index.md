@@ -5,108 +5,118 @@
 
 ## 🎯 项目 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-![CasaOS](https://img.turingark.com/uPic/rA4tpa.jpg) 
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+### [BookStack](https://github.com/BookStackApp/BookStack)
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+一个开源的`documentation/wik`文档管理平台，其核心特性如下：
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+- 免费开源可自建
+- 简单易用的交互界面
+- 全文检索以及文档互联
+- 可配置
+- 强大的编辑功能，MD支持
+- 等
 
-最近很火的`AI Art` 生成模型：
+![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
 
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
+有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
 
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+![chinese-xinhua](https://img.turingark.com/uPic/pOd5nk.png) 
 
 ## 🤖 软件 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
-
-### [Refined GitHub](https://github.com/refined-github/refined-github)
-
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
-
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
 - ...
 
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
+
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+
+### [organicmaps](https://github.com/organicmaps/organicmaps) 
+
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+深度学习入门教程资料聚合项目，包含：
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+![dl01](https://img.turingark.com/uPic/532ono.jpg)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
-
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
-
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [remixicon](https://remixicon.com/)
 
-常用软件替代品查询网站：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [feathericons](https://feathericons.com/)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-简洁漂亮的图标网站：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
-### [piqsels](https://www.piqsels.com/)
+### [programcreek](https://www.programcreek.com/)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
+
+![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
 
 ## ✍️ 说明
 
