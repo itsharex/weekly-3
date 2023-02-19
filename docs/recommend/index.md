@@ -5,92 +5,89 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-快速轻松地构建部署地理空间应用程序：
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [budibase](https://github.com/Budibase/budibase)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [questdb](https://github.com/questdb/questdb)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+特别是针对时间序列数据做了处理：
+
+![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-免费截屏软件（macOS）：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+### [lettura](https://github.com/zhanglun/lettura)
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+### [Quake](https://github.com/phodal/quake)
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+Quake 是面向极客的知识管理元框架，它可以：
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
+
+![quake](https://img.turingark.com/uPic/quake.gif) 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+从零开始 `Kubernetes` 攻防:
 
-目前也提供了中文版：
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-![patterns-of-distributed-systems](https://img.turingark.com/uPic/ZlA2Zu.png) 
+### [go101](https://gfw.go101.org/article/101.html)
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
-
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
-
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [feathericons](https://feathericons.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+简洁漂亮的图标网站：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+### [favicon.io](https://favicon.io/)
 
-字节开源的一款图标库。 
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-### [dute](https://www.dute.org/)
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
 ## ✍️ 说明
 
