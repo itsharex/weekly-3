@@ -5,89 +5,111 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+通过网络收集整理的中文歌词数据库, 包含:
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [budibase](https://github.com/Budibase/budibase)
+作者基于此数据库做了两个歌词生成器：
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+### [statping](https://github.com/statping/statping)
 
-### [questdb](https://github.com/questdb/questdb)
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-特别是针对时间序列数据做了处理：
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
 ## 🤖 软件 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-### [lettura](https://github.com/zhanglun/lettura)
+![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-### [Quake](https://github.com/phodal/quake)
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-Quake 是面向极客的知识管理元框架，它可以：
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-![quake](https://img.turingark.com/uPic/quake.gif) 
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
+
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
 ## 👀 资料 
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-从零开始 `Kubernetes` 攻防:
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-### [go101](https://gfw.go101.org/article/101.html)
+一份循序渐进的 `k8s` 教程：
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
-![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+为忙碌的工程师准备的精选面试准备材料：
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [w2solo](https://w2solo.com/)
 
-简洁漂亮的图标网站：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-### [favicon.io](https://favicon.io/)
+PDF Squeezer 是一款 PDF 压缩工具：
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+### [bgsub](https://bgsub.cn/webapp)
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+消除或者替换图像背景，无需上传图像：
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
-
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
 ## ✍️ 说明
 
