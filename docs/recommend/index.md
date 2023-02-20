@@ -5,111 +5,87 @@
 
 ## 🎯 项目 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-通过网络收集整理的中文歌词数据库, 包含:
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
 
-作者基于此数据库做了两个歌词生成器：
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-### [statping](https://github.com/statping/statping)
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+之前也推荐过 [hoppscotch](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+### [umami](https://github.com/umami-software/umami)
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
-
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
 ## 🤖 软件 
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
-
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
-
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
-
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
-
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
 
 ## 👀 资料 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-一份循序渐进的 `k8s` 教程：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
-为忙碌的工程师准备的精选面试准备材料：
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
 ## 🕸 网站 
 
-### [w2solo](https://w2solo.com/)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
-PDF Squeezer 是一款 PDF 压缩工具：
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-### [bgsub](https://bgsub.cn/webapp)
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-消除或者替换图像背景，无需上传图像：
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
 ## ✍️ 说明
 
