@@ -5,87 +5,103 @@
 
 ## 🎯 项目 
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+### [apitable](https://github.com/apitable/apitable)
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
+ 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
-### [umami](https://github.com/umami-software/umami)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+本地备份软件：
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+
+![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
+
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
 ## 👀 资料 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
 ## 🕸 网站 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [aosabook](http://aosabook.org/en/index.html)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+### [tanpok](https://tool.tanpok.com/#/)
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+效果非常好的图片压缩工具：
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+### [allthingsai](https://allthingsai.com/)
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+提供完整的 `AI` 相关工具&服务资源：
+
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
 ## ✍️ 说明
 
