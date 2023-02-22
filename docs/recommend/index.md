@@ -5,77 +5,84 @@
 
 ## 🎯 项目 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-### [sonic](https://github.com/go-sonic/sonic)
+### [HTTPie](https://github.com/httpie/httpie)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+现代化的HTTP客户端命令行工具：
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-快速稳定好用的Redis跨平台桌面管理软件：
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-为 `iPad` 构建一个成熟的代码编辑器：
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
 ## 👀 资料 
+
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+
+《Software Engineering at Google》的中文翻译版本：
+
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ### [English-Writing](https://github.com/yzy1996/English-Writing)
 
 本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
-
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
-
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
-
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
-
 ## 🕸 网站 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [sysmini](https://www.sysmini.com/)
 
-生产力工具的维基百科：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-@妙才投稿，在线学习git命令的网站：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![](https://img.turingark.com/uPic/YSiAVW.png) 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [flatuicolors](https://flatuicolors.com/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
 ## ✍️ 说明
 
