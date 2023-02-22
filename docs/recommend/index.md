@@ -5,84 +5,88 @@
 
 ## 🎯 项目 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+### [bore](https://github.com/ekzhang/bore)
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-### [HTTPie](https://github.com/httpie/httpie)
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
-现代化的HTTP客户端命令行工具：
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+
+![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
 
 ## 🤖 软件 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [antares](https://github.com/Fabio286/antares)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+### [ptg](https://github.com/crossoverJie/ptg)
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
-
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
 ## 👀 资料 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-《Software Engineering at Google》的中文翻译版本：
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+一份面向 `Docker` 初学者的教程：
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [sysmini](https://www.sysmini.com/)
+### [ip-api.com](http://ip-api.com/json)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-### [flatuicolors](https://flatuicolors.com/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
 ## ✍️ 说明
 
