@@ -5,103 +5,77 @@
 
 ## 🎯 项目 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-### [apitable](https://github.com/apitable/apitable)
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
-> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
- [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
- 
- ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
+### [sonic](https://github.com/go-sonic/sonic)
 
-### [wazuh](https://github.com/wazuh/wazuh)
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
-
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
 ## 🤖 软件 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-本地备份软件：
+快速稳定好用的Redis跨平台桌面管理软件：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+为 `iPad` 构建一个成熟的代码编辑器：
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
-
-![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
-
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
 ## 👀 资料 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
-
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
-
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
-
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
 ## 🕸 网站 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [toolfinder](https://toolfinder.xyz/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+生产力工具的维基百科：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-### [tanpok](https://tool.tanpok.com/#/)
+@妙才投稿，在线学习git命令的网站：
 
-效果非常好的图片压缩工具：
+![](https://img.turingark.com/uPic/YSiAVW.png) 
 
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-### [allthingsai](https://allthingsai.com/)
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-提供完整的 `AI` 相关工具&服务资源：
-
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
 ## ✍️ 说明
 
