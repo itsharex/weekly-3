@@ -5,88 +5,102 @@
 
 ## 🎯 项目 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-### [bore](https://github.com/ekzhang/bore)
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+一个还原马赛克图片的原始内容的工具：
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
+### [yao](https://github.com/YaoApp/yao)
+
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
 ## 🤖 软件 
 
-### [antares](https://github.com/Fabio286/antares)
+### [natpass](https://github.com/lwch/natpass)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
-
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
 ## 👀 资料 
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
-一份面向 `Docker` 初学者的教程：
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+PyTorch 从0到精通教程：
+
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
 ## 🕸 网站 
 
-### [ip-api.com](http://ip-api.com/json)
+### [万词王](https://github.com/thunlp/WantWords)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [dute](https://www.dute.org/)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
