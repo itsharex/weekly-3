@@ -5,48 +5,51 @@
 
 ## 🎯 项目 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+### [dootask](https://github.com/kuaifan/dootask)
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [homelab](https://github.com/khuedoan/homelab)
 
-一个还原马赛克图片的原始内容的工具：
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
-
-### [yao](https://github.com/YaoApp/yao)
-
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
-
-![yao](https://img.turingark.com/uPic/yao.jpg) 
+![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
 
 ## 🤖 软件 
 
-### [natpass](https://github.com/lwch/natpass)
+### [wiliwili](https://github.com/xfangfang/wiliwili)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [v2ex](https://v2ex.com/)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
 
-![DOS](https://img.turingark.com/uPic/DOS.png) 
+开源客户端推荐：
+
+- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
+- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
+- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
+- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
+- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
+
+相关软件截图：
+
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
+
+![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
+
+![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
 
 ### [podman-desktop](https://github.com/containers/podman-desktop)
 
@@ -56,51 +59,43 @@
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+这个项目收集了黑五打折的App和课程：
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+微软设计的机器学习课程，完全面向新手：
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-PyTorch 从0到精通教程：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [万词王](https://github.com/thunlp/WantWords)
+### [w2solo](https://w2solo.com/)
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+### [it-tools](https://it-tools.tech/)
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+非常漂亮的程序员工具箱聚合网站：
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg) 
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+### [caniuse](https://caniuse.com/)
 
-### [dute](https://www.dute.org/)
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
-
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
