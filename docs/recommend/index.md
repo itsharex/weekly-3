@@ -5,97 +5,83 @@
 
 ## 🎯 项目 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
-### [homelab](https://github.com/khuedoan/homelab)
+### [osquery](https://github.com/osquery/osquery)
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-### [v2ex](https://v2ex.com/)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-开源客户端推荐：
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
-- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
-- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
-- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
-- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
+### [vnote](https://github.com/vnotex/vnote)
 
-相关软件截图：
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
-
-![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
-
-![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
-
-### [podman-desktop](https://github.com/containers/podman-desktop)
-
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
 ## 👀 资料 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-这个项目收集了黑五打折的App和课程：
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-微软设计的机器学习课程，完全面向新手：
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
-
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
 ## 🕸 网站 
 
-### [w2solo](https://w2solo.com/)
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-### [it-tools](https://it-tools.tech/)
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-非常漂亮的程序员工具箱聚合网站：
+### [latexlive](https://www.latexlive.com/)
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg) 
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-### [caniuse](https://caniuse.com/)
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+### [sqlime](http://sqlime.org/)
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
