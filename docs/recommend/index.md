@@ -5,83 +5,84 @@
 
 ## 🎯 项目 
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+程序员在家做饭方法指南。 
 
-![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
+### [webvm](https://github.com/leaningtech/webvm)
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+![webvm](https://img.turingark.com/uPic/1yRQBe.png)
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-### [osquery](https://github.com/osquery/osquery)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
 ## 🤖 软件 
 
-### [ruzz](https://github.com/vlts1/ruzz)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+监控你的应用流量，跨平台：
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+轻量级macOS剪切板管理应用：
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
+
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+浙江大学课程攻略共享计划：
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
 ## 🕸 网站 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [sysmini](https://www.sysmini.com/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [latexlive](https://www.latexlive.com/)
+### [learngpt.com](https://www.learngpt.com/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+`ChatGPT` 最佳用例分享网站：
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
 ## ✍️ 说明
 
