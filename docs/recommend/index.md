@@ -5,84 +5,92 @@
 
 ## 🎯 项目 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-程序员在家做饭方法指南。 
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-### [webvm](https://github.com/leaningtech/webvm)
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+### [photoview](https://github.com/photoview/photoview)
 
-![webvm](https://img.turingark.com/uPic/1yRQBe.png)
+开源的相册程序，可基于Docker快速构建：
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+![photoview](https://img.turingark.com/uPic/photoview.png) 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [runtipi](https://github.com/meienberger/runtipi)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
 ## 🤖 软件 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-监控你的应用流量，跨平台：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-轻量级macOS剪切板管理应用：
+一个`macOS`的上的`SSH`客户端：
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
+软件特性：
+
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
 ## 👀 资料 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-浙江大学课程攻略共享计划：
-
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
 ## 🕸 网站 
 
-### [sysmini](https://www.sysmini.com/)
+### [uipatterns](http://uipatterns.io/) 
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-### [learngpt.com](https://www.learngpt.com/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-`ChatGPT` 最佳用例分享网站：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [fviewer](https://www.fviewer.com/zh)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
 ## ✍️ 说明
 
