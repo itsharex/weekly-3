@@ -33,10 +33,11 @@ def gen_rss():
                     # 目标文件
                     match_obj = re.compile(r"第(.*?)期").search(full_file_path)[1]
                     with open(full_file_path, "r", encoding="utf-8") as fp:
-                        content = str(fp.read()).replace(
-                            "# " + file.replace(".md", "") + "\n", ""
-                        )
+                        article_name = file.replace(".md", "")
+                        content = str(fp.read()).replace(f"# {article_name}\n", "")
+                        content = f"> 如果样式查看有问题，请体验更加美观的在线网页访问地址：[{article_name}](https://weekly.howie6879.cn/{each}/{article_name}.html)\n{content}"
                         file_html = markdown.markdown(content)
+
                         res_dict[match_obj] = {
                             "file_name": weekly_year + "/" + file,
                             "file_title": file,
