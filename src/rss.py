@@ -7,6 +7,7 @@
 import os
 import re
 import time
+import markdown
 
 from feedgen.feed import FeedGenerator
 
@@ -31,16 +32,22 @@ def gen_rss():
                     full_file_path = year_path + "/" + file
                     # 目标文件
                     match_obj = re.compile(r"第(.*?)期").search(full_file_path)[1]
-                    res_dict[match_obj] = {
-                        "file_name": weekly_year + "/" + file,
-                        "file_title": file,
-                        "file_path": full_file_path,
-                        "file_updated_at": os.path.getmtime(full_file_path),
-                        "file_updated_at_date": time.strftime(
-                            "%Y-%m-%d %H:%M:%S",
-                            time.localtime(os.path.getmtime(full_file_path)),
-                        ),
-                    }
+                    with open(full_file_path, "r", encoding="utf-8") as fp:
+                        content = str(fp.read()).replace(
+                            "# " + file.replace(".md", "") + "\n", ""
+                        )
+                        file_html = markdown.markdown(content)
+                        res_dict[match_obj] = {
+                            "file_name": weekly_year + "/" + file,
+                            "file_title": file,
+                            "file_path": full_file_path,
+                            "file_html": file_html,
+                            "file_updated_at": os.path.getmtime(full_file_path),
+                            "file_updated_at_date": time.strftime(
+                                "%Y-%m-%d %H:%M:%S",
+                                time.localtime(os.path.getmtime(full_file_path)),
+                            ),
+                        }
     # RSS Header
     # Header
     fg = FeedGenerator()
@@ -64,7 +71,7 @@ def gen_rss():
         fe.id(file_name)
         fe.title(cur_data["file_title"])
         fe.link(href=f"{BASE_URL}/{file_name.replace('md','html')}")
-        fe.description("")
+        fe.description(cur_data["file_html"])
         fe.author(name="老胡的储物柜")
     # rss_data = str(fg.atom_str(pretty=True), "utf-8")
     fg.rss_file(RSS_FILE, pretty=True, encoding="utf-8")
