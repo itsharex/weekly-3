@@ -5,96 +5,95 @@
 
 ## 🎯 项目 
 
-### [QRec](https://github.com/Coder-Yu/QRec)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
-直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-![](https://img.turingark.com/uPic/oQ6iZ0.jpg) 
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-### [ecapture](https://github.com/ehids/ecapture)
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+### [osquery](https://github.com/osquery/osquery)
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+![neteasy](https://img.turingark.com/uPic/neteasy.png) 
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+### [lively](https://github.com/rocksdanister/lively)
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+针对 `Windows` 的开源的动态壁纸软件：
+
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+`The Linux Command Line` 中文翻译：
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-针对新人的 `CSS` 入门级教程：
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [allthingsai](https://allthingsai.com/)
+### [iconoir](https://iconoir.com/)
 
-提供完整的 `AI` 相关工具&服务资源：
+开源的SVG图标搜索引擎：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
-### [sci-hub](https://sci-hub.se/)
+### [dute](https://www.dute.org/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-用户可通过以下方式访问新版本：
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-![](https://img.turingark.com/uPic/ISPyBJ.png) 
+`GitHub` 最大的开源算法库：
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
-
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
-
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
-
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
-
-![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
 ## ✍️ 说明
 
