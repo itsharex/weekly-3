@@ -5,95 +5,95 @@
 
 ## 🎯 项目 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [DataEase](https://github.com/dataease/dataease)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-### [osquery](https://github.com/osquery/osquery)
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
 
 ## 🤖 软件 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [insomnia](https://github.com/Kong/insomnia)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+![insomnia](https://img.turingark.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [orange](https://github.com/naaive/orange)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+基于`Rust`跨平台的文件搜索引擎：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+![Orange](https://img.turingark.com/uPic/Orange.jpg) 
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+### [Bob](https://github.com/ripperhe/Bob)
 
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-### [lively](https://github.com/rocksdanister/lively)
-
-针对 `Windows` 的开源的动态壁纸软件：
-
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-`The Linux Command Line` 中文翻译：
+计算机科学课程和视频讲座列表：
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+PyTorch 从0到精通教程：
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
 ## 🕸 网站 
 
-### [iconoir](https://iconoir.com/)
+### [css.gg](https://css.gg/)
 
-开源的SVG图标搜索引擎：
+`700+` 基于 `CSS` 的图标：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-### [dute](https://www.dute.org/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+网站收集了各个朝代人物介绍：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [itnext](https://itnext.cn/)
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+一个介绍元宇宙的网站：
 
-`GitHub` 最大的开源算法库：
-
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
 ## ✍️ 说明
 
