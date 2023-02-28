@@ -5,93 +5,110 @@
 
 ## 🎯 项目 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+一个开源可自建的网站监控工具，用于监控网站的运行状态：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![uptime-kuma](https://img.turingark.com/uPic/vTUcC7.jpg) 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-每天学习一个 Go 语言库，内容质量相当高。
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+
+![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-免费开源的`openvpn`客户端：
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+### [Thor](https://github.com/gbammc/Thor)
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+通过快捷键快速打开应用：
+
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
 ## 👀 资料 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [secguide](https://github.com/Tencent/secguide)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
+![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
 
 ## 🕸 网站 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+一个搜索 git 常用 emoji 的网站:
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
 
-### [untools](https://untools.co/)
+### [ziyouziti](https://ziyouziti.com/)
 
-一个帮助你思考的集合工具&框架：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![untools](https://img.turingark.com/uPic/hHu9aw.png) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+`GitHub` 最大的开源算法库：
 
-![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
-基本功能如下：
-
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
 ## ✍️ 说明
 
