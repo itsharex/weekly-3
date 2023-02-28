@@ -5,95 +5,93 @@
 
 ## 🎯 项目 
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+每天学习一个 Go 语言库，内容质量相当高。
 
-![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
 ## 🤖 软件 
 
-### [insomnia](https://github.com/Kong/insomnia)
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+![](https://img.turingark.com/uPic/Se6U0t.jpg) 
 
-### [orange](https://github.com/naaive/orange)
+### [tunnelblick](https://tunnelblick.net/)
 
-基于`Rust`跨平台的文件搜索引擎：
+免费开源的`openvpn`客户端：
 
-![Orange](https://img.turingark.com/uPic/Orange.jpg) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
 
 ## 👀 资料 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-计算机科学课程和视频讲座列表：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-PyTorch 从0到精通教程：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+
+![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
 
 ## 🕸 网站 
 
-### [css.gg](https://css.gg/)
+### [drawio](https://github.com/jgraph/drawio)
 
-`700+` 基于 `CSS` 的图标：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [untools](https://untools.co/)
 
-网站收集了各个朝代人物介绍：
+一个帮助你思考的集合工具&框架：
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![untools](https://img.turingark.com/uPic/hHu9aw.png) 
 
-### [itnext](https://itnext.cn/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-一个介绍元宇宙的网站：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
+基本功能如下：
+
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
 ## ✍️ 说明
 
