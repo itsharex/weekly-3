@@ -5,110 +5,89 @@
 
 ## 🎯 项目 
 
-### [uptime-kuma](https://github.com/louislam/uptime-kuma)
+### [DataEase](https://github.com/dataease/dataease)
 
-一个开源可自建的网站监控工具，用于监控网站的运行状态：
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![uptime-kuma](https://img.turingark.com/uPic/vTUcC7.jpg) 
+### [jina](https://github.com/jina-ai/jina)
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+![jina](https://img.turingark.com/uPic/9MHbAU.png)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+微软开源的 `Web` 编辑器：
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
-
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+### [apifox](https://www.apifox.cn/)
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
+### [shottr](https://shottr.cc/)
 
-### [Thor](https://github.com/gbammc/Thor)
+免费截屏软件（macOS）：
 
-通过快捷键快速打开应用：
-
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
 ## 👀 资料 
 
-### [secguide](https://github.com/Tencent/secguide)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+- NLP
+- CV
+- Time Series
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+目录概览：
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-一个搜索 git 常用 emoji 的网站:
+免费的二维码生成网站：
 
-![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [batnoter](https://batnoter.com/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-`GitHub` 最大的开源算法库：
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
 ## ✍️ 说明
 
