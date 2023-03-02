@@ -5,89 +5,90 @@
 
 ## 🎯 项目 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [linkding](https://github.com/sissbruecker/linkding)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+开源的网络书签服务，支持 Docker 部署：
 
-### [jina](https://github.com/jina-ai/jina)
+![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
 
-![jina](https://img.turingark.com/uPic/9MHbAU.png)
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg) 
 
-### [monaco-editor](https://github.com/microsoft/monaco-editor)
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
-微软开源的 `Web` 编辑器：
-
-![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
 ## 🤖 软件 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+### [box](https://github.com/liu673cn/box)
 
-### [apifox](https://www.apifox.cn/)
+TVBox 开源版:
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
-### [shottr](https://shottr.cc/)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-免费截屏软件（macOS）：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
 ## 👀 资料 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+一份循序渐进的 `k8s` 教程：
 
-- NLP
-- CV
-- Time Series
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
-目录概览：
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+微软设计的机器学习课程，完全面向新手：
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
-
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
 
 ## 🕸 网站 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [contrib.rocks](https://contrib.rocks/)
 
-免费的二维码生成网站：
+为你的Github开源项目生成贡献者头像集合：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+### [libhunt](https://www.libhunt.com/)
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+一个对开源项目进行分类并排名的网站：
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
 ## ✍️ 说明
 
