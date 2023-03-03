@@ -5,90 +5,93 @@
 
 ## 🎯 项目 
 
-### [linkding](https://github.com/sissbruecker/linkding)
+### [shiori](https://github.com/go-shiori/shiori)
 
-开源的网络书签服务，支持 Docker 部署：
+开源自部署的书签管理服务：
 
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+### [slickr](https://github.com/saviomartin/slickr)
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg) 
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+### [homelab](https://github.com/khuedoan/homelab)
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+
+![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
 
 ## 🤖 软件 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-### [box](https://github.com/liu673cn/box)
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-TVBox 开源版:
+### [insomnia](https://github.com/Kong/insomnia)
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![insomnia](https://img.turingark.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
+
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
 ## 👀 资料 
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-一份循序渐进的 `k8s` 教程：
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-微软设计的机器学习课程，完全面向新手：
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
-
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
-
-![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
+一个在YouTube上发现最新机器学习课程的项目。 
 
 ## 🕸 网站 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-为你的Github开源项目生成贡献者头像集合：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
 
-### [libhunt](https://www.libhunt.com/)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-一个对开源项目进行分类并排名的网站：
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
 ## ✍️ 说明
 
