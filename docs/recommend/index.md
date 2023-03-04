@@ -5,93 +5,123 @@
 
 ## 🎯 项目 
 
-### [shiori](https://github.com/go-shiori/shiori)
+### ChatGPT 项目推荐
 
-开源自部署的书签管理服务：
+基于 `ChatGPT` 相关接口衍生的项目：
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
+- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
+- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
+- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
+- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
+- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
+- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
+- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
+- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
+- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
+- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
+- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
 
-### [slickr](https://github.com/saviomartin/slickr)
+### [qinglong](https://github.com/whyour/qinglong)
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
 
-### [homelab](https://github.com/khuedoan/homelab)
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。 
 
 ## 🤖 软件 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+沉浸式双语网页翻译扩展：
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-### [insomnia](https://github.com/Kong/insomnia)
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+### [tunnelblick](https://tunnelblick.net/)
 
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+免费开源的`openvpn`客户端：
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+### [yarr](https://github.com/nkanaev/yarr)
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
+
+总体来说还是挺简洁轻量的：
+
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+健康学习到150岁 - 人体系统调优不完全指南：
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### developer-roadmap
 
-一个在YouTube上发现最新机器学习课程的项目。 
+开发人员学习成长路线图：
+
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+### [neeva](https://neeva.com/search)
 
-![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
+### [douyin.wtf](https://douyin.wtf/)
 
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
 ## ✍️ 说明
 
