@@ -5,53 +5,60 @@
 
 ## 🎯 项目 
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+### [duf](https://github.com/sigoden/duf)
 
-可视化脚本框架：
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
 
-### [yacd](https://github.com/haishanh/yacd)
+### [websocketd](https://github.com/joewalnes/websocketd)
 
-一个 `Clash` 仪表盘项目：
+将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
 
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
 
 ## 🤖 软件 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-开源的法律知识速查手册：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [buster](https://github.com/dessant/buster)
 
-超方便的微信视频号下载器：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
 ## 👀 资料 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
 ### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
@@ -59,43 +66,36 @@
 
 ![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+![](https://img.turingark.com/uPic/SBotTN.jpg)
+
+其他同类教程地址：
+
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
 ## 🕸 网站 
 
-### [programcreek](https://www.programcreek.com/)
+### [eja.tv](https://eja.tv/?)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+### [读书笔记](https://reading.geek-docs.com/)
 
-### [devdocs](https://devdocs.io/)
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-提供在线快速查找API接口文档的网站：
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+### [piqsels](https://www.piqsels.com/)
 
-### [dute](https://www.dute.org/)
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
-
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
 ## ✍️ 说明
 
