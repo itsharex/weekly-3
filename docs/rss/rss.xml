@@ -12,7 +12,7 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.cn/</link>
     </image>
-    <lastBuildDate>Mon, 06 Mar 2023 05:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 05:46:33 +0000</lastBuildDate>
     <item>
       <title>02-27~03-05.我的周刊（第081期）.md</title>
       <link>https://weekly.howie6879.cn//2023/02-27~03-05.我的周刊（第081期）.html</link>
@@ -24,11 +24,20 @@
 &lt;h3&gt;&lt;a href="https://github.com/Chanzhaoyu/chatgpt-web"&gt;chatgpt-web&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;用 &lt;code&gt;Express&lt;/code&gt; 和 &lt;code&gt;Vue3&lt;/code&gt; 搭建的 &lt;code&gt;ChatGPT&lt;/code&gt; 演示网页：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="chatgpt-web" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/whitead/paper-qa"&gt;paper-qa&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;用 &lt;code&gt;GPT-3&lt;/code&gt; 来解读论文的开源项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="paper-qa" src="https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/FeatureProbe/FeatureProbe"&gt;FeatureProbe&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="FeatureProbe" src="https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yetone/bob-plugin-openai-translator"&gt;bob-plugin-openai-translator&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bob-plugin-openai-translator" src="https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://spinningup.openai.com/en/latest/user/introduction.html"&gt;openai spinningup&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;OpenAI&lt;/code&gt; 出品的的深度强化学习教程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="spinningup" src="https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh"&gt;JavaScript 权威指南中英对照&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/&lt;/p&gt;
 &lt;p&gt;&lt;img alt="JavaScript-The-Definitive-Guide-7th-zh" src="https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg" /&gt;&lt;/p&gt;
