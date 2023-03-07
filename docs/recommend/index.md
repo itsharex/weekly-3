@@ -5,82 +5,98 @@
 
 ## 🎯 项目 
 
-### [runtipi](https://github.com/meienberger/runtipi)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。 
+![](https://img.turingark.com/uPic/oGeICY.png)
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
+### [halo](https://github.com/halo-dev/halo)
+
+✍ 一款现代化的开源博客& `CMS` 系统：
+
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+
+### [QRec](https://github.com/Coder-Yu/QRec)
+
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
 ## 🤖 软件 
 
-### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
+### [Vieb](https://vieb.dev/)
 
-`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
+![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
+它专注于：
+
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
 ## 👀 资料 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![cs-self-learning](https://img.turingark.com/uPic/iuimNz.png) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
 ## 🕸 网站 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [法律时代导航](https://yesen.cn/)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [latexlive](https://www.latexlive.com/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
