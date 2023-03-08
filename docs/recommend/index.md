@@ -5,98 +5,90 @@
 
 ## 🎯 项目 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+### [penpot](https://github.com/penpot/penpot)
 
-![](https://img.turingark.com/uPic/oGeICY.png)
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+### [sonic](https://github.com/go-sonic/sonic)
 
-### [halo](https://github.com/halo-dev/halo)
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-✍ 一款现代化的开源博客& `CMS` 系统：
-
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
-
-### [QRec](https://github.com/Coder-Yu/QRec)
-
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
 ## 🤖 软件 
 
-### [Vieb](https://vieb.dev/)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+本地备份软件：
 
-它专注于：
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
 ## 👀 资料 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
 ## 🕸 网站 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [similarsites](https://www.similarsites.com/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [法律时代导航](https://yesen.cn/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [latexlive](https://www.latexlive.com/)
+### [flow](https://github.com/pacexy/flow)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
 ## ✍️ 说明
 
