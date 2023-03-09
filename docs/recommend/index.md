@@ -5,64 +5,66 @@
 
 ## 🎯 项目 
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+### [laf](https://github.com/labring/laf)
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-### [penpot](https://github.com/penpot/penpot)
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+### [upptime](https://github.com/upptime/upptime)
 
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-### [sonic](https://github.com/go-sonic/sonic)
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+
+![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg) 
 
 ## 🤖 软件 
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+### [DevToys](https://github.com/veler/DevToys)
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![](https://img.turingark.com/uPic/DevToys.png)
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
+放心体验吧~ 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-本地备份软件：
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+
+![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+
+### [legado](https://github.com/gedoor/legado)
+
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
-
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
-
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
-
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
-
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
@@ -70,25 +72,37 @@
 
 ![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
+
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+
+![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
+
 ## 🕸 网站 
 
-### [similarsites](https://www.similarsites.com/)
+### [remixicon](https://remixicon.com/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+通过AI技术去除图片水印：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-### [flow](https://github.com/pacexy/flow)
+### [smalldev.tools](https://smalldev.tools/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+开发者常用工具集：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
 ## ✍️ 说明
 
