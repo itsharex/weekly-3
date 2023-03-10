@@ -5,102 +5,102 @@
 
 ## 🎯 项目 
 
-### [cal.com](https://github.com/calcom/cal.com)
+### [laf](https://github.com/labring/laf)
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-一个终端打字应用程序，以提高你的手指水平！
+### [elasticvue](https://github.com/cars10/elasticvue)
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+基本满足使用，开源强大：
+
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
+
+### [pushdeer](https://github.com/easychen/pushdeer)
+
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
 ## 🤖 软件 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [antares](https://github.com/Fabio286/antares)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+### [Macast](https://github.com/xfangfang/Macast)
 
-### [Yank Note](https://github.com/purocean/yn)
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
-
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
-
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+清华大学计算机系课程攻略：
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
 
-《Software Engineering at Google》的中文翻译版本：
+PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![动手学OCR](https://img.turingark.com/uPic/tcg64l.png) 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [handsome-css](https://www.handsome-css.com/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
 
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
+![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
 
-### [allthingsai](https://allthingsai.com/)
+项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
 
-提供完整的 `AI` 相关工具&服务资源：
+### [learngpt.com](https://www.learngpt.com/)
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+`ChatGPT` 最佳用例分享网站：
 
-### [ICO converter](https://www.icoconverter.com/)
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+### [vim.is](https://vim.is/#exercise)
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+`Vim`学习网站：
+
+![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
 
 ## ✍️ 说明
 
