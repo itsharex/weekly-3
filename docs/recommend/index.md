@@ -5,113 +5,94 @@
 
 ## 🎯 项目 
 
-### ChatGPT 项目推荐
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-基于 `ChatGPT` 相关接口衍生的项目：
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-### [bore](https://github.com/ekzhang/bore)
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+### [pi-hole](https://pi-hole.net/)
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+
+### [nn-editor](https://github.com/scarsty/nn-editor)
+
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+
+![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
 
 ## 🤖 软件 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+开源的`macOS` 纯文本编辑器：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+### [ShareX](https://github.com/ShareX/ShareX)
 
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-### [logseq](https://github.com/logseq/logseq)
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+### [buster](https://github.com/dessant/buster)
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
-
-> 让每个人都简单方便的使用前沿人工智能技术
-
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
-
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
 ## 👀 资料 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-更新记录如下：
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
-
-从零开始学习Kubernetes的路线图（初级到高级）：
-
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
 ## 🕸 网站 
 
-### [w2solo](https://w2solo.com/)
+### [libhunt](https://www.libhunt.com/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+一个对开源项目进行分类并排名的网站：
 
-### [cikeee](https://www.cikeee.com/)
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
-每天推荐一部优秀的电影：
+### [feathericons](https://feathericons.com/)
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+简洁漂亮的图标网站：
 
-### [extractcss](http://extractcss.com/)
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-提取 `html` 结构里面的 `css` 代码：
+### [ixinqing](http://www.ixinqing.com/)
 
-![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
+心晴 · 专注于心理学入门与自我成长:
+
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
 ## ✍️ 说明
 
