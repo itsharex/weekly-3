@@ -5,26 +5,17 @@
 
 ## 🎯 项目 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+每天学习一个 Go 语言库，内容质量相当高。
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-### [pi-hole](https://pi-hole.net/)
-
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
-
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
 ### [nn-editor](https://github.com/scarsty/nn-editor)
 
@@ -34,65 +25,79 @@ Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经�
 
 ## 🤖 软件 
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+### [bdash](https://github.com/bdash-app/bdash)
 
-开源的`macOS` 纯文本编辑器：
+用于数据分析的简单 `SQL` 客户端：
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+超方便的微信视频号下载器：
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [buster](https://github.com/dessant/buster)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+轻灵的 Markdown 笔记本伴你写出妙言：
+
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
 ## 👀 资料 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [libhunt](https://www.libhunt.com/)
+### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 
-一个对开源项目进行分类并排名的网站：
+前端实现的 `Pokemon` 卡片展示，非常酷炫：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
 
-### [feathericons](https://feathericons.com/)
+### [relationship](https://passer-by.com/relationship/)
 
-简洁漂亮的图标网站：
+中国亲戚关系计算器：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-心晴 · 专注于心理学入门与自我成长:
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
 ## ✍️ 说明
 
