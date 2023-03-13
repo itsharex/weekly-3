@@ -5,99 +5,98 @@
 
 ## 🎯 项目 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [metabase](https://github.com/metabase/metabase)
 
-每天学习一个 Go 语言库，内容质量相当高。
+为公司提供的快速BI数据可视化工具：
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-### [nn-editor](https://github.com/scarsty/nn-editor)
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
+微软开源的 `Web` 编辑器：
+
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-用于数据分析的简单 `SQL` 客户端：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-超方便的微信视频号下载器：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-轻灵的 Markdown 笔记本伴你写出妙言：
-
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
-
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [netkiller](https://www.netkiller.cn/)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
-
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
-
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
 ## 🕸 网站 
 
-### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
+### [flatuicolors](https://flatuicolors.com/)
 
-前端实现的 `Pokemon` 卡片展示，非常酷炫：
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
-### [relationship](https://passer-by.com/relationship/)
+### [programcreek](https://www.programcreek.com/)
 
-中国亲戚关系计算器：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+### [dute](https://www.dute.org/)
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+独特工具箱，提供免费在线工具，涉及工具类别有：
+
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
