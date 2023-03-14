@@ -5,98 +5,88 @@
 
 ## 🎯 项目 
 
-### [metabase](https://github.com/metabase/metabase)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-为公司提供的快速BI数据可视化工具：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+目前支持 Chrome 和 Edge 两款浏览器：
 
-### [monaco-editor](https://github.com/microsoft/monaco-editor)
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-微软开源的 `Web` 编辑器：
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [lettura](https://github.com/zhanglun/lettura)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
 ## 👀 资料 
 
-### [netkiller](https://www.netkiller.cn/)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+### [leetcode](https://github.com/doocs/leetcode)
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
 ## 🕸 网站 
 
-### [flatuicolors](https://flatuicolors.com/)
+### [uipatterns](http://uipatterns.io/) 
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-### [programcreek](https://www.programcreek.com/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
 
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+### [unDraw](https://undraw.co/illustrations)
 
-### [dute](https://www.dute.org/)
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
 ## ✍️ 说明
 
