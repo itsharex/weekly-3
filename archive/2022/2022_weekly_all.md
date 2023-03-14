@@ -98,7 +98,7 @@ GitHub 官方发布的一套技术文档，自带了有多个语言版本。主�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -199,7 +199,7 @@ Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -325,7 +325,7 @@ SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -452,7 +452,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -543,7 +543,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -625,7 +625,7 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -747,7 +747,7 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -851,7 +851,7 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -951,7 +951,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -1054,7 +1054,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -1143,7 +1143,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -1235,7 +1235,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -1323,7 +1323,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -1402,7 +1402,7 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -1511,7 +1511,7 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 <div class="page-break"></div>
@@ -1598,7 +1598,7 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1711,7 +1711,7 @@ Google为数据、机器学习工程师、架构师、分析师等提供的免�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1815,7 +1815,7 @@ B站视频命令行下载工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1920,7 +1920,7 @@ LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2012,7 +2012,7 @@ laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2145,7 +2145,7 @@ Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2285,7 +2285,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2395,7 +2395,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2505,7 +2505,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2613,7 +2613,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2702,7 +2702,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2790,7 +2790,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2894,7 +2894,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -2991,7 +2991,7 @@ GitHub开源项目维护协作指南：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3072,7 +3072,7 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3151,7 +3151,7 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3257,7 +3257,7 @@ CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3344,7 +3344,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3444,7 +3444,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3529,7 +3529,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3628,7 +3628,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3706,7 +3706,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3784,7 +3784,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3882,7 +3882,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3967,7 +3967,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4044,7 +4044,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4130,7 +4130,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4212,7 +4212,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4304,7 +4304,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4384,7 +4384,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4484,7 +4484,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4574,7 +4574,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4682,7 +4682,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4767,7 +4767,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4857,7 +4857,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -4979,7 +4979,7 @@ FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -5057,7 +5057,7 @@ BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
