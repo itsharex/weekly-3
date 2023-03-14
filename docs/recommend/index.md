@@ -5,88 +5,89 @@
 
 ## 🎯 项目 
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+### [zdir](https://github.com/helloxz/zdir)
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [penpot](https://github.com/penpot/penpot)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-目前支持 Chrome 和 Edge 两款浏览器：
+### [streamlit](https://github.com/streamlit/streamlit)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+用 `Python` 快速构建数据应用：
 
-### [Navidrome](https://github.com/navidrome/navidrome)
-
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
-
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
 ## 🤖 软件 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [ambie](https://github.com/jenius-apps/ambie)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
 ## 👀 资料 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+一本开源的专门讲解面试关键路径的书籍：
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+![](https://img.turingark.com/uPic/SBotTN.jpg)
 
-### [leetcode](https://github.com/doocs/leetcode)
+其他同类教程地址：
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+
+### [under-the-hood](https://golang.design/under-the-hood/)
+
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io/) 
+### [meow.tg](https://meow.tg/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [star-history](https://star-history.com/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [unDraw](https://undraw.co/illustrations)
+### [1loc](https://1loc.dev/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
-
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
 ## ✍️ 说明
 
