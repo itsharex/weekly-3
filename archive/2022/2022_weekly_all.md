@@ -4,12 +4,12 @@
 
 > 奇文共欣赏，疑义相与析。加油 🎉
 
-我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。当前阅读渠道如下：
+老胡的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。当前阅读渠道如下：
 
-- [网站](https://weekly.howie6879.cn/)
+- [网站](https://weekly.howie6879.com/)
 - [公众号](https://img.turingark.com/uPic/wechat_mp.jpeg)
-- [周刊RSS](https://weekly.howie6879.cn/rss/rss.xml)
-- [今日推荐](https://weekly.howie6879.cn/recommend)
+- [周刊RSS](https://weekly.howie6879.com/rss/rss.xml)
+- [今日推荐](https://weekly.howie6879.com/recommend)
 
 ## 介绍 <img src="https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/weekly.png" width=45% align=right hspace="5" vspace="5" style="margin-top:80px"/>
 
@@ -17,18 +17,18 @@
 
 但随着时间流逝，一些好的资源总是错过了，或者某个瞬间想起来这东西但是不知道在哪查找。
 
-看过即忘的感觉很不好，为什么不做一个自己的资源聚合呢？于是**我的周刊**项目诞生了，但不要以为这就结束了，周刊在我看来不过是一种分享的形式，算是我做的一次实验：
+看过即忘的感觉很不好，为什么不做一个自己的资源聚合呢？于是**老胡的周刊**项目诞生了，但不要以为这就结束了，周刊在我看来不过是一种分享的形式，算是我做的一次实验：
 
 - 第一步我想构建一个以周刊为载体的资源分享形式，实践下若将资源聚合来持续地分享会产生怎样的效果，毕竟资源除了持续积累，还需要搭配有效的分享才会产生价值；
 - 第二步是构建一套资源聚合分享流程，产生更多可玩的分享方式，让资源流动起来，让互联网上相关需求方的资源检索时间缩短；
 - 最终可能会产出一个脚本或者一个产品，让子弹飞一段时间吧，我满含期待。
 
-如果大家感兴趣，请持续关注我的周刊网站 [https://weekly.howie6879.cn/](https://weekly.howie6879.cn/)，也请移步[howie6879/weekly](https://github.com/howie6879/weekly/)给我一个`Star`支持下吧：
+如果大家感兴趣，请持续关注老胡的周刊网站 [https://weekly.howie6879.com/](https://weekly.howie6879.com/)，也请移步[howie6879/weekly](https://github.com/howie6879/weekly/)给我一个`Star`支持下吧：
 
-我的周刊开始于**2021-08-16**，如果你在看到这篇文章的时候，我依旧在更新，那么这就是最好的消息，周刊信息汇总如下：
+老胡的周刊开始于**2021-08-16**，如果你在看到这篇文章的时候，我依旧在更新，那么这就是最好的消息，周刊信息汇总如下：
 
-- 🐮 2021 年周刊: [在线浏览](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2021/2021_weekly_all.md)
-- 🐯 2022 年周刊: [在线浏览](https://weekly.howie6879.cn/2022/01-01~01-09.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC021%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2022/2022_weekly_all.md)
+- 🐮 2021 年周刊: [在线浏览](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2021/2021_weekly_all.md)
+- 🐯 2022 年周刊: [在线浏览](https://weekly.howie6879.com/2022/01-01~01-09.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC021%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2022/2022_weekly_all.md)
 
 如果你觉得周刊内容感兴趣，想在自己的产品中使用，直接从[weekly.db](./weekly.db)拿经过处理的数据即可（使用请声明来源）:
 
@@ -45,15 +45,15 @@
 
 <div class="page-break"></div>
 
-# 01-01~01-09.我的周刊（第021期）
+# 01-01~01-09.老胡的周刊（第021期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
 ### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。
 
 ### [amis](https://github.com/baidu/amis)
 
@@ -97,16 +97,15 @@ GitHub 官方发布的一套技术文档，自带了有多个语言版本。主�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 01-10~01-14.我的周刊（第022期）
+# 01-10~01-14.老胡的周刊（第022期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -199,16 +198,15 @@ Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 01-17~01-22.我的周刊（第023期）
+# 01-17~01-22.老胡的周刊（第023期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -326,16 +324,15 @@ SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 01-23~01-30.我的周刊（第024期）
+# 01-23~01-30.老胡的周刊（第024期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -347,7 +344,7 @@ SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点�
 
 ### [QRec](https://github.com/Coder-Yu/QRec)
 
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。
 
 ### [homelab](https://github.com/khuedoan/homelab)
 
@@ -454,16 +451,15 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 01-31~02-05.我的周刊（第025期）
+# 01-31~02-05.老胡的周刊（第025期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -546,16 +542,15 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 02-07~02-14.我的周刊（第026期）
+# 02-07~02-14.老胡的周刊（第026期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -629,16 +624,15 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 02-15~02-20.我的周刊（第027期）
+# 02-15~02-20.老胡的周刊（第027期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -752,16 +746,15 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 02-21~02-27.我的周刊（第028期）
+# 02-21~02-27.老胡的周刊（第028期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -857,16 +850,15 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 02-28~03-05.我的周刊（第029期）
+# 02-28~03-05.老胡的周刊（第029期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -958,16 +950,15 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 03-07~03-13.我的周刊（第030期）
+# 03-07~03-13.老胡的周刊（第030期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1062,16 +1053,15 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 03-14~03-20.我的周刊（第031期）
+# 03-14~03-20.老胡的周刊（第031期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1152,16 +1142,15 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 03-21~03-27.我的周刊（第032期）
+# 03-21~03-27.老胡的周刊（第032期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1245,16 +1234,15 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 03-28~04-03.我的周刊（第033期）
+# 03-28~04-03.老胡的周刊（第033期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1308,7 +1296,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 ### [ray.so](https://ray.so/)
 
-之前在[我的周刊（第032期）](https://weekly.howie6879.cn/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
 ![ray.so](https://img.turingark.com/uPic/ray.so.jpg)
 
@@ -1334,16 +1322,15 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 04-04~04-10.我的周刊（第034期）
+# 04-04~04-10.老胡的周刊（第034期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1414,16 +1401,15 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 04-11~04-16.我的周刊（第035期）
+# 04-11~04-16.老胡的周刊（第035期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1524,16 +1510,15 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，如果觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 <div class="page-break"></div>
 
-# 04-18~04-23.我的周刊（第036期）
+# 04-18~04-23.老胡的周刊（第036期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1612,16 +1597,16 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 周刊相关信息：
 
-- Github 项目地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 04-25~05-01.我的周刊（第037期）
+# 04-25~05-01.老胡的周刊（第037期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1726,15 +1711,15 @@ Google为数据、机器学习工程师、架构师、分析师等提供的免�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 05-02~05-07.我的周刊（第038期）
+# 05-02~05-07.老胡的周刊（第038期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1830,15 +1815,15 @@ B站视频命令行下载工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 05-09~05-15.我的周刊（第039期）
+# 05-09~05-15.老胡的周刊（第039期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -1935,15 +1920,15 @@ LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 官网：[weekly.howie6879.cn](https://weekly.howie6879.cn/)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 05-16~05-21.我的周刊（第040期）
+# 05-16~05-21.老胡的周刊（第040期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2027,15 +2012,15 @@ laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 05-23~05-28.我的周刊（第041期）
+# 05-23~05-28.老胡的周刊（第041期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2160,15 +2145,15 @@ Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 05-30~06-04.我的周刊（第042期）
+# 05-30~06-04.老胡的周刊（第042期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2219,11 +2204,11 @@ ImageOptim 是一款开源免费的本地图像压缩工具：
 
 我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站
 
 ### [balenaEtcher](https://github.com/balena-io/etcher)
 
@@ -2261,7 +2246,7 @@ balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录
 
 这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide)
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide)
 
 ## 🕸 网站
 
@@ -2300,16 +2285,16 @@ PDF Squeezer 是一款 PDF 压缩工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 06-06~06-11.我的周刊（第043期）
+# 06-06~06-11.老胡的周刊（第043期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2339,7 +2324,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 
 ![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。
 
 ### [Xit](https://github.com/Uncommon/Xit)
 
@@ -2410,15 +2395,15 @@ PDF Squeezer 是一款 PDF 压缩工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 06-13~06-18.我的周刊（第044期）
+# 06-13~06-18.老胡的周刊（第044期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2520,15 +2505,15 @@ PDF Squeezer 是一款 PDF 压缩工具：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 06-20~06-25.我的周刊（第045期）
+# 06-20~06-25.老胡的周刊（第045期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2544,7 +2529,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 
 ![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
 
 ```shell
 docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
@@ -2628,21 +2613,21 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 06-27~07-02.我的周刊（第046期）
+# 06-27~07-02.老胡的周刊（第046期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
 ### [upptime](https://github.com/upptime/upptime)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
 ![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png)
 
@@ -2717,15 +2702,15 @@ Go语言实战: 编写可维护Go语言代码建议。
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 07-04~07-10.我的周刊（第047期）
+# 07-04~07-10.老胡的周刊（第047期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2805,15 +2790,15 @@ Go语言实战: 编写可维护Go语言代码建议。
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 07-11~07-17.我的周刊（第048期）
+# 07-11~07-17.老胡的周刊（第048期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -2840,7 +2825,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 
 ![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease)
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease)
 
 ### [zfile](https://github.com/zhaojun1998/zfile)
 
@@ -2909,16 +2894,16 @@ Go语言实战: 编写可维护Go语言代码建议。
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 07-18~07-24.我的周刊（第049期）
+# 07-18~07-24.老胡的周刊（第049期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3006,15 +2991,15 @@ GitHub开源项目维护协作指南：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 07-25~07-31.我的周刊（第050期）
+# 07-25~07-31.老胡的周刊（第050期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3087,15 +3072,15 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 08-01~08-07.我的周刊（第051期）
+# 08-01~08-07.老胡的周刊（第051期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3166,15 +3151,15 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 08-07~08-14.我的周刊（第052期）
+# 08-07~08-14.老胡的周刊（第052期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3272,15 +3257,15 @@ CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 <div class="page-break"></div>
 
-# 08-15~08-21.我的周刊（第053期）
+# 08-15~08-21.老胡的周刊（第053期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3359,16 +3344,16 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 08-22~08-28.我的周刊（第054期）
+# 08-22~08-28.老胡的周刊（第054期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3459,16 +3444,16 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 08-29~09-04.我的周刊（第055期）
+# 08-29~09-04.老胡的周刊（第055期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3544,16 +3529,16 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 09-05~09-11.我的周刊（第056期）
+# 09-05~09-11.老胡的周刊（第056期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3643,16 +3628,16 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 09-12~09-18.我的周刊（第057期）
+# 09-12~09-18.老胡的周刊（第057期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3721,16 +3706,16 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 09-19~09-24.我的周刊（第058期）
+# 09-19~09-24.老胡的周刊（第058期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3799,7 +3784,7 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -3807,9 +3792,9 @@ PyTorch 从0到精通教程：
 
 <div class="page-break"></div>
 
-# 09-26~09-30.我的周刊（第059期）
+# 09-26~09-30.老胡的周刊（第059期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3897,16 +3882,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 10-03~10-09.我的周刊（第060期）
+# 10-03~10-09.老胡的周刊（第060期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -3982,16 +3967,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 10-10~10-16.我的周刊（第061期）
+# 10-10~10-16.老胡的周刊（第061期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4059,16 +4044,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 10-17~10-23.我的周刊（第062期）
+# 10-17~10-23.老胡的周刊（第062期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4145,16 +4130,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 10-24~10-30.我的周刊（第063期）
+# 10-24~10-30.老胡的周刊（第063期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4227,16 +4212,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 10-31~11-06.我的周刊（第064期）
+# 10-31~11-06.老胡的周刊（第064期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4246,7 +4231,7 @@ PyTorch 从0到精通教程：
 
 ![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。
 
 ### [answer](https://github.com/answerdev/answer)
 
@@ -4319,16 +4304,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 11-07~11-13.我的周刊（第065期）
+# 11-07~11-13.老胡的周刊（第065期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4399,16 +4384,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 11-14~11-20.我的周刊（第066期）
+# 11-14~11-20.老胡的周刊（第066期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4499,16 +4484,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 11-21~11-27.我的周刊（第067期）
+# 11-21~11-27.老胡的周刊（第067期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4589,16 +4574,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 11-28~12-04.我的周刊（第068期）
+# 11-28~12-04.老胡的周刊（第068期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4697,16 +4682,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 12-05~12-10.我的周刊（第069期）
+# 12-05~12-10.老胡的周刊（第069期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4782,16 +4767,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 12-12~12-18.我的周刊（第070期）
+# 12-12~12-18.老胡的周刊（第070期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4872,16 +4857,16 @@ PyTorch 从0到精通教程：
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 12-19~12-24.我的周刊（第071期）
+# 12-19~12-24.老胡的周刊（第071期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -4994,16 +4979,16 @@ FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
 <div class="page-break"></div>
 
-# 12-26~12-31.我的周刊（第072期）
+# 12-26~12-31.老胡的周刊（第072期）
 
-> 我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
+> [老胡的信息周刊](https://weekly.howie6879.com/)，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。
 
 ## 🎯 项目
 
@@ -5072,7 +5057,7 @@ BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任�
 周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.cn](https://weekly.howie6879.cn/) | [今日推荐](https://weekly.howie6879.cn/recommend/index.html)
+- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html)|[MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 

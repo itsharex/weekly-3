@@ -50,7 +50,7 @@ def parse_md() -> list:
             # 周刊文件在对应年份下面
             year_path = base_path + "/" + weekly_year
             for file in os.listdir(year_path):
-                if "我的周刊" in file and "md" in file:
+                if "老胡的周刊" in file and "md" in file:
                     full_file_path = year_path + "/" + file
                     # 基础数据
                     weekly_number: int = 0

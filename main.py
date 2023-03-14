@@ -69,7 +69,7 @@ def gen_weekly_title(years: int):
     target_path = os.path.join(root_path, f"docs/{years}")
     res_dict = {}
     for file in os.listdir(target_path):
-        if str(file).endswith(".md") and "我的周刊" in file:
+        if str(file).endswith(".md") and "老胡的周刊" in file:
             # 目标文件
             match_obj = re.compile(r"第(.*?)期").search(file)[1]
             res_dict[match_obj] = f"{file}"

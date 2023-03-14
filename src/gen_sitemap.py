@@ -9,7 +9,7 @@ import os
 from pysitemap import crawler
 
 
-def gen_sitemap(url="https://weekly.howie6879.cn/", file_name="sitemap"):
+def gen_sitemap(url="https://weekly.howie6879.com/", file_name="sitemap"):
     """
     生成 sitemap
     """

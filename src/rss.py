@@ -7,11 +7,12 @@
 import os
 import re
 import time
+
 import markdown
 
 from feedgen.feed import FeedGenerator
 
-BASE_URL = "https://weekly.howie6879.cn/"
+BASE_URL = "https://weekly.howie6879.com/"
 DOCS_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "docs")
 RSS_FILE = os.path.join(DOCS_PATH, "rss/rss.xml")
 
@@ -28,14 +29,14 @@ def gen_rss():
             year_path = DOCS_PATH + "/" + weekly_year
 
             for file in os.listdir(year_path):
-                if "我的周刊" in file:
+                if "老胡的周刊" in file:
                     full_file_path = year_path + "/" + file
                     # 目标文件
                     match_obj = re.compile(r"第(.*?)期").search(full_file_path)[1]
                     with open(full_file_path, "r", encoding="utf-8") as fp:
                         article_name = file.replace(".md", "")
                         content = str(fp.read()).replace(f"# {article_name}\n", "")
-                        content = f"> 如果样式查看有问题，请体验更加美观的在线网页访问地址：[{article_name}](https://weekly.howie6879.cn/{each}/{article_name}.html)\n{content}"
+                        content = f"> 如果样式查看有问题，可以通过网页浏览：[{article_name}](https://weekly.howie6879.com/{each}/{article_name}.html)\n{content}"
                         file_html = markdown.markdown(content)
 
                         res_dict[match_obj] = {
@@ -55,14 +56,14 @@ def gen_rss():
     fg.id("老胡的周刊")
     fg.title("老胡的周刊")
     fg.description(
-        "我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。"
+        "老胡的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。"
     )
     fg.author({"name": "howie6879"})
-    fg.link(href="https://weekly.howie6879.cn/", rel="self")
-    fg.logo("https://weekly.howie6879.cn/statics/images/howie.jpeg")
+    fg.link(href="https://weekly.howie6879.com/", rel="self")
+    fg.logo("https://weekly.howie6879.com/statics/images/howie.jpeg")
     fg.generator(
         generator="howie6879/weekly",
-        uri="https://weekly.howie6879.cn/",
+        uri="https://weekly.howie6879.com/",
     )
     for i in sorted(res_dict)[:]:
         cur_data = res_dict[i]

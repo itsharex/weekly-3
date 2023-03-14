@@ -4,8 +4,9 @@
     Changelog: all notable changes to this file will be documented
 """
 
-import requests
 import os
+
+import requests
 
 
 def get_lxgwwenkai_font():
