@@ -5,91 +5,100 @@
 
 ## 🎯 项目 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-一个还原马赛克图片的原始内容的工具：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [privaxy](https://github.com/Barre/privaxy)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+### [elasticvue](https://github.com/cars10/elasticvue)
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+基本满足使用，开源强大：
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+### [umami](https://github.com/umami-software/umami)
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [Tai](https://github.com/Planshit/Tai)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+
+![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
 
 ## 👀 资料 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-清华大学计算机系课程攻略：
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
-
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
-
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
 ## 🕸 网站 
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+### [storyset](https://storyset.com/)
 
-随便画一画，生成美观的图片：
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
 
-### [crxsoso](https://www.crxsoso.com/articles)
+### [untools](https://untools.co/)
 
-浏览器扩展应用周刊：
+一个帮助你思考的集合工具&框架：
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+![untools](https://img.turingark.com/uPic/hHu9aw.png) 
 
-### [mycolor.space](https://mycolor.space/)：
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
 ## ✍️ 说明
 
