@@ -11,75 +11,103 @@
 
 ![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-### [rathole](https://github.com/rapiz1/rathole)
+### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
+最近很火的`AI Art` 生成模型：
+
+![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
+
+还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
+
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
 
 ## 🤖 软件 
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-高度可定制的macOS状态栏替代品：
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+### [Bob](https://github.com/ripperhe/Bob)
 
-### [uPic](https://github.com/gee1k/uPic)
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
-
-我的必备软件：
-
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
 ## 🕸 网站 
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+### [zhaoziyuan](https://zhaoziyuan.la)
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+阿里云资源搜索引擎：
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [tinypng](https://tinypng.com/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+### [RuTracker](https://rutracker.org/forum/index.php)
+
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+
+![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
 
 ## ✍️ 说明
 
