@@ -5,109 +5,92 @@
 
 ## 🎯 项目 
 
-### [ossart](https://github.com/djyde/ossart)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-最近很火的`AI Art` 生成模型：
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
-
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
-
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [apifox](https://www.apifox.cn/)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-### [Bob](https://github.com/ripperhe/Bob)
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+### [AltTab](https://alt-tab-macos.netlify.app/)
+
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+### [sideproject](https://sideproject.guide/)
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+`Side Project` 指南：
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [帮小忙](https://tool.browser.qq.com/)
 
-阿里云资源搜索引擎：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
-### [tinypng](https://tinypng.com/)
+### [nosh](https://nosh.rocks/)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+将你的头像像素化，质量挺好：
 
-### [RuTracker](https://rutracker.org/forum/index.php)
-
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
-
-![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
+![](https://img.turingark.com/uPic/gnHdoM.png) 
 
 ## ✍️ 说明
 
