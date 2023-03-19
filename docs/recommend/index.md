@@ -5,82 +5,92 @@
 
 ## 🎯 项目 
 
-### [answer](https://github.com/answerdev/answer)
+### [cnchar](https://github.com/theajack/cnchar)
 
-基于自己的产品或者项目快速打造一个问答社区：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-微软 `Bing Chat` 的逆向工程 `API`：
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
 ## 🤖 软件 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
 
-### [Later](https://github.com/alyssaxuu/later)
+### [Macast](https://github.com/xfangfang/Macast)
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
+
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-代码整洁之道（javascript版本）：
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
 ## 🕸 网站 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [Python Tutor](https://pythontutor.com/?)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](robinmoisson.github.io/staticrypt)：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [帮小忙](https://tool.browser.qq.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [ray.so](https://ray.so/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
