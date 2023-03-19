@@ -25,7 +25,7 @@
 
 老胡的周刊开始于**2021-08-16**，如果你在看到这篇文章的时候，我依旧在更新，那么这就是最好的消息，周刊信息汇总如下：
 
-- 🐰 2023 年周刊: [在线浏览](https://weekly.howie6879.com/2023/02-27~03-05.老胡的周刊（第081期）.html)
+- 🐰 2023 年周刊: [在线浏览](https://weekly.howie6879.com/2023/03-13~03-19.老胡的周刊（第083期）.html)
 - 🐯 2022 年周刊: [在线浏览](https://weekly.howie6879.com/2022/01-01~01-09.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC021%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2022/2022_weekly_all.md)
 - 🐮 2021 年周刊: [在线浏览](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2021/2021_weekly_all.md)
 
@@ -35,8 +35,8 @@
 
 ## 交流
 
-欢迎关注[公众号](https://img.turingark.com/wechat_howie.pn)|[博客](https://howie6879.cn/)一起交流（每周在公众号首发）：
+欢迎关注[公众号](https://images-1252557999.file.myqcloud.com/uPic/3AlgBP.jpg)|[博客](https://howie6879.cn/)一起交流（每周在公众号首发）：
 
-<div align=center><img src="https://img.turingark.com/wechat_howie.png"  width="85%" alt="img" /></div>
+<div align=center><img src="https://images-1252557999.file.myqcloud.com/uPic/3AlgBP.jpg"  width="85%" alt="img" /></div>
 
 如果你有不错的资源希望分享给我，欢迎以[Issue自荐](https://github.com/howie6879/weekly/issues/1)形式和我沟通。
