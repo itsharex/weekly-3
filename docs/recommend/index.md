@@ -5,92 +5,82 @@
 
 ## 🎯 项目 
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+### [answer](https://github.com/answerdev/answer)
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+基于自己的产品或者项目快速打造一个问答社区：
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [milvus](https://github.com/milvus-io/milvus)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+微软 `Bing Chat` 的逆向工程 `API`：
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
 
 ## 🤖 软件 
 
-### [apifox](https://www.apifox.cn/)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+### [Later](https://github.com/alyssaxuu/later)
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
-
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
-
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-`Side Project` 指南：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+代码整洁之道（javascript版本）：
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
-
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
-
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](robinmoisson.github.io/staticrypt)：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
-### [nosh](https://nosh.rocks/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-将你的头像像素化，质量挺好：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![](https://img.turingark.com/uPic/gnHdoM.png) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
