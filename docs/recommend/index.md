@@ -5,37 +5,44 @@
 
 ## 🎯 项目 
 
-### [cnchar](https://github.com/theajack/cnchar)
+### [musicn](https://github.com/zonemeen/musicn)
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [ChatGPT](https://chat.openai.com/chat)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
 ### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
@@ -54,43 +61,47 @@ Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电�
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+![](https://img.turingark.com/uPic/96wIDJ.png) 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+**可惜永远都不会再更新了，默哀！**
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+微软设计的机器学习课程，完全面向新手：
+
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
 ## 🕸 网站 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [caniuse](https://caniuse.com/)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [ray.so](https://ray.so/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
+![phone_query](https://img.turingark.com/uPic/phone_query.png) 
 
 ## ✍️ 说明
 
