@@ -5,30 +5,27 @@
 
 ## 🎯 项目 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [budibase](https://github.com/Budibase/budibase)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
 
-### [ChatGPT](https://chat.openai.com/chat)
+### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+![](https://img.turingark.com/uPic/oQ6iZ0.jpg) 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+动漫、电视剧的自动更新及在线观，项目介绍：
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
@@ -38,70 +35,64 @@
 
 ![DOS](https://img.turingark.com/uPic/DOS.png) 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-![](https://img.turingark.com/uPic/96wIDJ.png) 
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+![c](https://img.turingark.com/uPic/4uYTRJ.png) 
 
-**可惜永远都不会再更新了，默哀！**
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-微软设计的机器学习课程，完全面向新手：
-
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [web.dev](https://web.dev/learn/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+谷歌团队开放的网页设计与开发课程：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
 
-### [caniuse](https://caniuse.com/)
+### [privacytools.io](https://www.privacytools.io/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+免费的像素头像生成网站：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
 ## ✍️ 说明
 
