@@ -5,94 +5,82 @@
 
 ## 🎯 项目 
 
-### [budibase](https://github.com/Budibase/budibase)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
+简单轻量自部署的仪表盘工具：
 
-![](https://img.turingark.com/uPic/oQ6iZ0.jpg) 
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-动漫、电视剧的自动更新及在线观，项目介绍：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
-
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+ ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
 
 ## 🤖 软件 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![DOS](https://img.turingark.com/uPic/DOS.png) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+`Android` 平台下 `MD` 风格的文件管理器:
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
 ## 👀 资料 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+项目收集了计算机科学领域值得一读的论文：
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+![papers-we-love](https://img.turingark.com/uPic/FiYqA1.png)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-![c](https://img.turingark.com/uPic/4uYTRJ.png) 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
-
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+教程：小型金融知识图谱流程示范。 
 
 ## 🕸 网站 
 
-### [web.dev](https://web.dev/learn/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-谷歌团队开放的网页设计与开发课程：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [similarsites](https://www.similarsites.com/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-免费的像素头像生成网站：
+将你的头像像素化，质量挺好：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![](https://img.turingark.com/uPic/gnHdoM.png) 
 
 ## ✍️ 说明
 
