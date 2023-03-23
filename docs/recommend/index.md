@@ -5,82 +5,89 @@
 
 ## 🎯 项目 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-简单轻量自部署的仪表盘工具：
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+### [showdoc](https://github.com/star7th/showdoc)
 
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
+一个非常适合IT团队的在线API文档、技术文档工具:
+
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
 ## 👀 资料 
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-项目收集了计算机科学领域值得一读的论文：
+为初学者整理的免费 `CSS` 课程：
 
-![papers-we-love](https://img.turingark.com/uPic/FiYqA1.png)
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
-
-教程：小型金融知识图谱流程示范。 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [quanxin](https://quanxin.org/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+快速、优雅、免费的在线工具，比如：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-### [similarsites](https://www.similarsites.com/)
+![](https://img.turingark.com/uPic/i6hqlr.png) 
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+### [cleanup.pictures](https://cleanup.pictures/)
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
 
-将你的头像像素化，质量挺好：
+### [theonestopradio](https://theonestopradio.com/)
 
-![](https://img.turingark.com/uPic/gnHdoM.png) 
+发现你可能喜欢的电台：
+
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
 ## ✍️ 说明
 
