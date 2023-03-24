@@ -5,60 +5,74 @@
 
 ## 🎯 项目 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-### [showdoc](https://github.com/star7th/showdoc)
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
 ## 🤖 软件 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+本地备份软件：
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+### [Bob](https://github.com/ripperhe/Bob)
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
+跨平台的`youtube-dl`客户端：
+
+![](https://img.turingark.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-为初学者整理的免费 `CSS` 课程：
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
 ### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
@@ -66,28 +80,30 @@
 
 ## 🕸 网站 
 
-### [quanxin](https://quanxin.org/)
+### [similarsites](https://www.similarsites.com/)
 
-快速、优雅、免费的在线工具，比如：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-![](https://img.turingark.com/uPic/i6hqlr.png) 
+### [文学网](https://www.hwxnet.com/)
 
-### [cleanup.pictures](https://cleanup.pictures/)
+文学相关工具在线网站：
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [watermark](https://watermark.liumingye.cn/)
 
-发现你可能喜欢的电台：
+短视频/图集在线去水印解析：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
 ## ✍️ 说明
 
