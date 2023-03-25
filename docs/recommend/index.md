@@ -5,80 +5,83 @@
 
 ## 🎯 项目 
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+目前支持 Chrome 和 Edge 两款浏览器：
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
+### [500lines](https://github.com/aosabook/500lines)
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
 
-![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
+这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+- 持续集成系统
+- 分布式系统
+- 异步爬虫
+- 等等
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+### [termtyper](https://github.com/kraanzu/termtyper)
+
+一个终端打字应用程序，以提高你的手指水平！
+
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-本地备份软件：
+开源的`macOS` 纯文本编辑器：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [lively](https://github.com/rocksdanister/lively)
 
-### [Bob](https://github.com/ripperhe/Bob)
+针对 `Windows` 的开源的动态壁纸软件：
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+### [natpass](https://github.com/lwch/natpass)
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-跨平台的`youtube-dl`客户端：
-
-![](https://img.turingark.com/uPic/yd_gui.png) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
 ## 👀 资料 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [archbase](https://github.com/foxsen/archbase)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+微软设计的机器学习课程，完全面向新手：
+
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
 ## 🕸 网站 
+
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
+
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](robinmoisson.github.io/staticrypt)：
+
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ### [similarsites](https://www.similarsites.com/)
 
@@ -86,24 +89,11 @@
 
 ![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [alleyread](https://alleyread.com/)
 
-文学相关工具在线网站：
+发现优质 `Newsletter`：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
-
-### [watermark](https://watermark.liumingye.cn/)
-
-短视频/图集在线去水印解析：
-
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
 ## ✍️ 说明
 
