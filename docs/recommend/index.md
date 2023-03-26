@@ -5,84 +5,88 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [wechat-export](https://github.com/luin/wechat-export)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+将微信聊天记录导出为HTML文件：
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [MRDOC](https://mrdoc.pro/)
 
-一些 `Docker Compose` 的实践示例。 
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+分为开源版和付费版，小团队可以考虑使用：
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
 ## 🤖 软件 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [Thor](https://github.com/gbammc/Thor)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+通过快捷键快速打开应用：
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-监控你的应用流量，跨平台：
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
 
 ## 👀 资料 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-强化学习中文教程：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
-
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
-
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+非常全面，前端从事人员可以看看。 
 
 ## 🕸 网站 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [cleanup.pictures](https://cleanup.pictures/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
 
-### [即时工具](https://www.67tool.com/)
+### [zerossl](https://zerossl.com/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-免费的像素头像生成网站：
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
 ## ✍️ 说明
 
