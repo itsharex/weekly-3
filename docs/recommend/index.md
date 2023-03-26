@@ -5,95 +5,84 @@
 
 ## 🎯 项目 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-目前支持 Chrome 和 Edge 两款浏览器：
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+一些 `Docker Compose` 的实践示例。 
 
-### [500lines](https://github.com/aosabook/500lines)
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
-
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
-
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
-
-### [termtyper](https://github.com/kraanzu/termtyper)
-
-一个终端打字应用程序，以提高你的手指水平！
-
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
 ## 🤖 软件 
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+### [UTM](https://github.com/utmapp/UTM)
 
-开源的`macOS` 纯文本编辑器：
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-针对 `Windows` 的开源的动态壁纸软件：
+监控你的应用流量，跨平台：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [natpass](https://github.com/lwch/natpass)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+强化学习中文教程：
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-微软设计的机器学习课程，完全面向新手：
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+### [Flutter实战·第二版](https://book.flutterchina.club/)
+
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
 ## 🕸 网站 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](robinmoisson.github.io/staticrypt)：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
-### [similarsites](https://www.similarsites.com/)
+### [即时工具](https://www.67tool.com/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
 
-### [alleyread](https://alleyread.com/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-发现优质 `Newsletter`：
+免费的像素头像生成网站：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
 ## ✍️ 说明
 
