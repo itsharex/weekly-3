@@ -5,88 +5,90 @@
 
 ## 🎯 项目 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-将微信聊天记录导出为HTML文件：
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
-### [MRDOC](https://mrdoc.pro/)
+### [DataEase](https://github.com/dataease/dataease)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-分为开源版和付费版，小团队可以考虑使用：
+### [memos](https://github.com/justmemos/memos)
 
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+**🎯 产品意图**:
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
-
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-通过快捷键快速打开应用：
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [Macast](https://github.com/xfangfang/Macast)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
+![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+### developer-roadmap
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+开发人员学习成长路线图：
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-非常全面，前端从事人员可以看看。 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [Baidu 一格](https://www.bing.com/images/create)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+百度出品的文字生成图像模型：
 
-![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
-### [zerossl](https://zerossl.com/)
+### [uipatterns](http://uipatterns.io/) 
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+### [文学网](https://www.hwxnet.com/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+文学相关工具在线网站：
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
