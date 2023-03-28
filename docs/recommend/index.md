@@ -5,90 +5,79 @@
 
 ## 🎯 项目 
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-### [memos](https://github.com/justmemos/memos)
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
-**🎯 产品意图**:
+### [zdir](https://github.com/helloxz/zdir)
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
 ## 🤖 软件 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![Karabiner-Elements](https://img.turingark.com/uPic/T3Y4AL.png) 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
 ## 👀 资料 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-### developer-roadmap
+Go语言实战: 编写可维护Go语言代码建议。 
 
-开发人员学习成长路线图：
+### [leetcode](https://github.com/doocs/leetcode)
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
-
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
-
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
 ## 🕸 网站 
 
-### [Baidu 一格](https://www.bing.com/images/create)
+### [mlsub](https://mlsub.net/)
 
-百度出品的文字生成图像模型：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [uipatterns](http://uipatterns.io/) 
+### [http.cat](https://http.cat)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [sayhello](https://beta.sayhello.so/)
 
-文学相关工具在线网站：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
