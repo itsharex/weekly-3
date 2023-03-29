@@ -5,91 +5,90 @@
 
 ## 🎯 项目 
 
-### [statping](https://github.com/statping/statping)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+作者创建此开源项目的目的如下：
 
-![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+![free-api](https://img.turingark.com/uPic/VvapMO.png) 
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+### [greppo](https://github.com/greppo-io/greppo)
+
+快速轻松地构建部署地理空间应用程序：
+
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
 ## 🤖 软件 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [Macast](https://github.com/xfangfang/Macast)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-`TinyPNG`的`Mac`客户端：
-
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
 ## 👀 资料 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-你可以用以下方式浏览：
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
-
-一份循序渐进的 `k8s` 教程：
-
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-免费的二维码生成网站：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [openvim](https://www.openvim.com/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](robinmoisson.github.io/staticrypt)：
+交互式 `vim` 学习网站：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [w2solo](https://w2solo.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
-
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
