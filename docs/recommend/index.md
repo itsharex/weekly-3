@@ -5,79 +5,91 @@
 
 ## 🎯 项目 
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+### [statping](https://github.com/statping/statping)
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
 
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-### [zdir](https://github.com/helloxz/zdir)
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
-
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [ruzz](https://github.com/vlts1/ruzz)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-![Karabiner-Elements](https://img.turingark.com/uPic/T3Y4AL.png) 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+`TinyPNG`的`Mac`客户端：
+
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
 ## 👀 资料 
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+你可以用以下方式浏览：
 
-Go语言实战: 编写可维护Go语言代码建议。 
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-### [leetcode](https://github.com/doocs/leetcode)
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+
+健康学习到150岁 - 人体系统调优不完全指南：
+
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+
+一份循序渐进的 `k8s` 教程：
+
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
 ## 🕸 网站 
 
-### [mlsub](https://mlsub.net/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+免费的二维码生成网站：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [http.cat](https://http.cat)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](robinmoisson.github.io/staticrypt)：
 
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
-### [sayhello](https://beta.sayhello.so/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
