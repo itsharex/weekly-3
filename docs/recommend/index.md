@@ -5,90 +5,98 @@
 
 ## 🎯 项目 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [metabase](https://github.com/metabase/metabase)
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+为公司提供的快速BI数据可视化工具：
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-### [free-api](https://github.com/fangzesheng/free-api)
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
-作者创建此开源项目的目的如下：
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
-![free-api](https://img.turingark.com/uPic/VvapMO.png) 
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-### [greppo](https://github.com/greppo-io/greppo)
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-快速轻松地构建部署地理空间应用程序：
-
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
 ## 🤖 软件 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [DevToys](https://github.com/veler/DevToys)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![](https://img.turingark.com/uPic/DevToys.png)
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+放心体验吧~ 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+
+### [notesnook](https://github.com/streetwriters/notesnook)
+
+印象笔记的开源替代品（支持端对端加密）：
+
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
 ## 👀 资料 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+站点可靠性工作手册：
+
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [sayhello](https://beta.sayhello.so/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [openvim](https://www.openvim.com/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-交互式 `vim` 学习网站：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
+
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
 ## ✍️ 说明
 
