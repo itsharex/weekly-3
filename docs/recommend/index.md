@@ -5,98 +5,97 @@
 
 ## 🎯 项目 
 
-### [metabase](https://github.com/metabase/metabase)
+### [sonic](https://github.com/go-sonic/sonic)
 
-为公司提供的快速BI数据可视化工具：
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [buster](https://github.com/dessant/buster)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![](https://img.turingark.com/uPic/DevToys.png)
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [orange](https://github.com/naaive/orange)
 
-![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+基于`Rust`跨平台的文件搜索引擎：
 
-放心体验吧~ 
+![Orange](https://img.turingark.com/uPic/Orange.jpg) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [apifox](https://www.apifox.cn/)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
-
-### [notesnook](https://github.com/streetwriters/notesnook)
-
-印象笔记的开源替代品（支持端对端加密）：
-
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
 ## 👀 资料 
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
 
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+### 认知偏差知识手册
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+强化学习中文教程：
 
-站点可靠性工作手册：
-
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [uisdc.com](https://hao.uisdc.com/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+设计师网站导航：
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [dute](https://www.dute.org/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
