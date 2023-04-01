@@ -5,97 +5,103 @@
 
 ## 🎯 项目 
 
-### [sonic](https://github.com/go-sonic/sonic)
+### [laf](https://github.com/labring/laf)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+可视化脚本框架：
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [NetNewsWire](https://netnewswire.com/)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [orange](https://github.com/naaive/orange)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-基于`Rust`跨平台的文件搜索引擎：
+### [Alock](https://github.com/luoxuhai/Alock)
 
-![Orange](https://img.turingark.com/uPic/Orange.jpg) 
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-### [apifox](https://www.apifox.cn/)
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
 ## 👀 资料 
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
 
-### 认知偏差知识手册
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+技术面试最后反问面试官的话。 
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+深度学习入门教程资料聚合项目，包含：
 
-强化学习中文教程：
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+![dl01](https://img.turingark.com/uPic/532ono.jpg)
+
+![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [maeda-design-room](https://dotown.maeda-design-room.net/)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png) 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [batnoter](https://batnoter.com/)
 
-设计师网站导航：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [dute](https://www.dute.org/)
+### [nosh](https://nosh.rocks/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
 ## ✍️ 说明
 
