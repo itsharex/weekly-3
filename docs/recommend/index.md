@@ -5,103 +5,114 @@
 
 ## 🎯 项目 
 
-### [laf](https://github.com/labring/laf)
+### [cnchar](https://github.com/theajack/cnchar)
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+### [ecapture](https://github.com/ehids/ecapture)
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-可视化脚本框架：
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+### [picx](https://github.com/XPoet/picx)
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
-
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
 
 ## 🤖 软件 
 
-### [NetNewsWire](https://netnewswire.com/)
+### [notepad--](https://github.com/cxasm/notepad--)
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [kondo](https://github.com/tbillington/kondo)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+可以看到上面 `Rust` 项目依赖确实大。 
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+快速稳定好用的Redis跨平台桌面管理软件：
+
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
 ## 👀 资料 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-技术面试最后反问面试官的话。 
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-深度学习入门教程资料聚合项目，包含：
+对于前端开发者来说应该是一个非常好的知识库：
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
 
-![dl01](https://img.turingark.com/uPic/532ono.jpg)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+
+你可以用以下方式浏览：
+
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
 ## 🕸 网站 
 
-### [maeda-design-room](https://dotown.maeda-design-room.net/)
+### [lucide](https://lucide.dev/)
 
-免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
+开源图标库，可以直接下载 `SVG`：
 
-![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [ip-api.com](http://ip-api.com/json)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-### [nosh](https://nosh.rocks/)
+### [文学网](https://www.hwxnet.com/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+文学相关工具在线网站：
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
