@@ -5,114 +5,101 @@
 
 ## 🎯 项目 
 
-### [cnchar](https://github.com/theajack/cnchar)
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
 
-![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
+![mario](https://img.turingark.com/uPic/mario.gif) 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [picx](https://github.com/XPoet/picx)
+### [laf](https://github.com/labring/laf)
 
-基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
+
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
 ## 🤖 软件 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+针对 `Android` 的开源 `VNC` 客户端：
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+### [Gifski](https://github.com/sindresorhus/Gifski)
 
-### [kondo](https://github.com/tbillington/kondo)
+在 `Mac` 上将视频转换为高质量的 `GIF`：
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
 
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+### [B站录播姬](https://rec.danmuji.org/)
 
-可以看到上面 `Rust` 项目依赖确实大。 
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-
-快速稳定好用的Redis跨平台桌面管理软件：
-
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
 ## 👀 资料 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [secguide](https://github.com/Tencent/secguide)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-对于前端开发者来说应该是一个非常好的知识库：
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-你可以用以下方式浏览：
-
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
-
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
 ## 🕸 网站 
 
-### [lucide](https://lucide.dev/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-开源图标库，可以直接下载 `SVG`：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-### [ip-api.com](http://ip-api.com/json)
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+可以免费在线听&下载歌曲：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [cook](https://github.com/YunYouJun/cook)
 
-文学相关工具在线网站：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
 ## ✍️ 说明
 
