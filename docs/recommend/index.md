@@ -5,99 +5,103 @@
 
 ## 🎯 项目 
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+### [penpot](https://github.com/penpot/penpot)
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [signoz](https://github.com/signoz/signoz)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [markmap](https://github.com/gera2ld/markmap)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [iina](https://github.com/iina/iina)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [box](https://github.com/liu673cn/box)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+TVBox 开源版:
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+### [Cider](https://github.com/ciderapp/Cider)
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
-
-### [insomnia](https://github.com/Kong/insomnia)
-
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
-
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
 ## 👀 资料 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [sideproject](https://sideproject.guide/)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+`Side Project` 指南：
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-![Data-Science-For-Beginners](https://img.turingark.com/uPic/JnGevA.jpg) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+针对新人的 `CSS` 入门级教程：
 
-一本小书《带你入门前端工程》
+![](https://img.turingark.com/uPic/EnSWJn.png)
 
-![](https://img.turingark.com/uPic/e783TS.png) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+
+关于 `MongoDB`，最全面的免费学习向导：
+
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
 ## 🕸 网站 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [http.cat](https://http.cat)
 
-各种给绳子打结的姿势都可以在这里找到：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
-### [devtool.tech](https://devtool.tech/)
+### [piqsels](https://www.piqsels.com/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [useanimations](https://useanimations.com/)
+### [bookmark.style](https://www.bookmark.style/)
 
-前端动态 `UI` 样式集合：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
 ## ✍️ 说明
 
