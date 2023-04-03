@@ -5,101 +5,99 @@
 
 ## 🎯 项目 
 
-### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+### [Verdaccio](https://github.com/verdaccio/verdaccio)
 
-这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
 
-![mario](https://img.turingark.com/uPic/mario.gif) 
+![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [milvus](https://github.com/milvus-io/milvus)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
-### [laf](https://github.com/labring/laf)
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
-
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-针对 `Android` 的开源 `VNC` 客户端：
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-### [Gifski](https://github.com/sindresorhus/Gifski)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-在 `Mac` 上将视频转换为高质量的 `GIF`：
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-### [B站录播姬](https://rec.danmuji.org/)
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
+
+![neteasy](https://img.turingark.com/uPic/neteasy.png) 
+
+### [insomnia](https://github.com/Kong/insomnia)
+
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+
+![insomnia](https://img.turingark.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
 
-### [secguide](https://github.com/Tencent/secguide)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+![Data-Science-For-Beginners](https://img.turingark.com/uPic/JnGevA.jpg) 
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+一本小书《带你入门前端工程》
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
-
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
-
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
-
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+![](https://img.turingark.com/uPic/e783TS.png) 
 
 ## 🕸 网站 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [animatedknots](https://www.animatedknots.com/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+各种给绳子打结的姿势都可以在这里找到：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+### [devtool.tech](https://devtool.tech/)
 
-可以免费在线听&下载歌曲：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [useanimations](https://useanimations.com/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+前端动态 `UI` 样式集合：
 
-![cook](https://img.turingark.com/uPic/cook.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
 ## ✍️ 说明
 
