@@ -5,103 +5,101 @@
 
 ## 🎯 项目 
 
-### [penpot](https://github.com/penpot/penpot)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
-### [signoz](https://github.com/signoz/signoz)
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-### [markmap](https://github.com/gera2ld/markmap)
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+### [free-api](https://github.com/fangzesheng/free-api)
+
+作者创建此开源项目的目的如下：
+
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+
+![free-api](https://img.turingark.com/uPic/VvapMO.png) 
 
 ## 🤖 软件 
 
-### [iina](https://github.com/iina/iina)
+### [Joplin](https://github.com/laurent22/joplin)
 
-macOS 下的开源现代化视频播放器，我的必备软件：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-### [box](https://github.com/liu673cn/box)
+> 这篇文章也是使用Joplin写的 
 
-TVBox 开源版:
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
-### [Cider](https://github.com/ciderapp/Cider)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-`Side Project` 指南：
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-针对新人的 `CSS` 入门级教程：
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+### [2d2d](https://2d2d.io/)
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
-
-关于 `MongoDB`，最全面的免费学习向导：
-
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
 
 ## 🕸 网站 
 
-### [http.cat](https://http.cat)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+开放纯粹的资源网站：
 
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-### [piqsels](https://www.piqsels.com/)
+### [flowgpt](https://flowgpt.com/)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+一个分享ChatGPT提示的网站：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
-
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
 ## ✍️ 说明
 
