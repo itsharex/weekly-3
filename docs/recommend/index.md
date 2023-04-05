@@ -5,101 +5,84 @@
 
 ## 🎯 项目 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+![CasaOS](https://img.turingark.com/uPic/rA4tpa.jpg) 
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
+![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
 
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+### [Textual](https://github.com/Textualize/textual)
 
-![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-### [free-api](https://github.com/fangzesheng/free-api)
-
-作者创建此开源项目的目的如下：
-
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
-
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
-
-![free-api](https://img.turingark.com/uPic/VvapMO.png) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
 ## 🤖 软件 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-> 这篇文章也是使用Joplin写的 
+### [Tai](https://github.com/Planshit/Tai)
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+### [cursor](https://github.com/getcursor/cursor)
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
-
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
 ## 👀 资料 
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+从工程角度方方面面阐述了DevOps实施的过程:
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-### [2d2d](https://2d2d.io/)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+一本开源的专门讲解面试关键路径的书籍：
 
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
 ## 🕸 网站 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [remixicon](https://remixicon.com/)
 
-开放纯粹的资源网站：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [flowgpt](https://flowgpt.com/)
+### [smalldev.tools](https://smalldev.tools/)
 
-一个分享ChatGPT提示的网站：
+开发者常用工具集：
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [sqlime](http://sqlime.org/)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
