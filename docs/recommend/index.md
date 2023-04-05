@@ -5,84 +5,87 @@
 
 ## 🎯 项目 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![CasaOS](https://img.turingark.com/uPic/rA4tpa.jpg) 
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-### [Textual](https://github.com/Textualize/textual)
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
 ## 🤖 软件 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+### [Files](https://github.com/files-community/Files)
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+一个现代化的文件管理软件(Windows用户专属)：
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+控制外部显示器的亮度和音量（macOS）：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [iina](https://github.com/iina/iina)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
 ## 👀 资料 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
-从工程角度方方面面阐述了DevOps实施的过程:
+### [AI-System](https://github.com/microsoft/AI-System)
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
 
-一本开源的专门讲解面试关键路径的书籍：
+### [archbase](https://github.com/foxsen/archbase)
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [remixicon](https://remixicon.com/)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [allthingsai](https://allthingsai.com/)
 
-开发者常用工具集：
+提供完整的 `AI` 相关工具&服务资源：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [unDraw](https://undraw.co/illustrations)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
 ## ✍️ 说明
 
