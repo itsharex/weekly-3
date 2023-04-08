@@ -5,64 +5,66 @@
 
 ## 🎯 项目 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+腾讯开源的老照片修复项目：
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+### [podman](https://github.com/containers/podman)
 
-### [appwrite](https://github.com/appwrite/appwrite)
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
 ## 🤖 软件 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [antares](https://github.com/Fabio286/antares)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
-### [tunnelblick](https://tunnelblick.net/)
-
-免费开源的`openvpn`客户端：
-
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
 
 ## 👀 资料 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+以非常直观的语言介绍`pytorch`：
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+
+站点可靠性工作手册：
+
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
@@ -74,40 +76,30 @@
 
 ![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
-
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
-
-![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
-
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
-
 ## 🕸 网站 
 
-### [dute](https://www.dute.org/)
+### [iconoir](https://iconoir.com/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+开源的SVG图标搜索引擎：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-### [bgsub](https://bgsub.cn/webapp)
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-消除或者替换图像背景，无需上传图像：
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-设计师网站导航：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
 ## ✍️ 说明
 
