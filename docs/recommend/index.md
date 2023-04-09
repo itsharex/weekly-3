@@ -5,101 +5,84 @@
 
 ## 🎯 项目 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-腾讯开源的老照片修复项目：
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
-### [podman](https://github.com/containers/podman)
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [amis](https://github.com/baidu/amis)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
-
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
-
-![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
 ## 🤖 软件 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
 ## 👀 资料 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-以非常直观的语言介绍`pytorch`：
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-作者的同类电子书还有：
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-站点可靠性工作手册：
-
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
-
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
-
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
-
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
-
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
-
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [iconoir](https://iconoir.com/)
+### [antimkd](https://antimkd.com/)
 
-开源的SVG图标搜索引擎：
+无套路的软件下载网站：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [favicon.io](https://favicon.io/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
+### [cikeee](https://www.cikeee.com/)
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+每天推荐一部优秀的电影：
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
-
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
