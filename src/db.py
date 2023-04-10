@@ -10,6 +10,45 @@ import sqlite3
 DB_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "weekly.db")
 
 
+def load_db():
+    """
+    加载数据
+    """
+    conn = sqlite3.connect(DB_FILE)
+    # 获取游标
+    cursor = conn.cursor()
+
+    # 执行查询语句，获取结果
+    cursor.execute("SELECT * FROM items ORDER BY weekly_number ASC")
+    results = cursor.fetchall()
+
+    # 关闭游标和数据库连接
+    cursor.close()
+    conn.close()
+
+    # 将结果转换为列表，每个元素为一个字典
+    items = {}
+    for row in results:
+        weekly_year = row[1]
+        weekly_date = row[2]
+        weekly_number = row[3]
+        item_type = row[4]
+        item_content = row[5]
+        if items.get(weekly_number):
+            # 存在，说明已经初始化
+            items[weekly_number]["data"].append(
+                {"item_type": item_type, "item_content": item_content}
+            )
+        else:
+            items[weekly_number] = {
+                "weekly_number": weekly_number,
+                "weekly_year": weekly_year,
+                "weekly_date": weekly_date,
+                "data": [{"item_type": item_type, "item_content": item_content}],
+            }
+    return items
+
+
 def init_db():
     """
     数据库初始化，每次更新重新建立数据库
