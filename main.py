@@ -56,7 +56,8 @@ def gen_weekly_content(years: int):
 
         for each in sorted(file_list):
             with open(each, "r", encoding="utf-8") as f:
-                pf.write(f'<div class="page-break"></div>\n\n' + f.read() + "\n\n")
+                # pf.write(f'<div class="page-break"></div>\n\n' + f.read() + "\n\n")
+                pf.write(f"以下是{years}年周刊\n\n" + f.read() + "\n\n")
 
 
 def gen_weekly_title(years: int):
@@ -96,11 +97,12 @@ def gen_weekly_title(years: int):
 if __name__ == "__main__":
     # 生成年度周刊内容合集
     # gen_weekly_content(2022)
+    # exit()
     # 生成 sitemap
     gen_sitemap()
     # 持久化周刊到 DB
     parse_md()
     # 生成 RSS
-    # gen_rss()
+    gen_rss()
     # 生成最新周刊
     gen_weekly_title(2023)

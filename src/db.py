@@ -25,6 +25,7 @@ def init_db():
         (
             id            integer primary key autoincrement,
             weekly_year   integer     NOT NULL,
+            weekly_date   varchar(10) NOT NULL,
             weekly_number integer     NOT NULL,
             item_type     varchar(10) NOT NULL,
             item_content  text
@@ -57,6 +58,7 @@ def parse_md() -> list:
                     md_str = ""
                     with open(full_file_path, "r", encoding="utf-8") as fp:
                         md_str = fp.read()
+                    weekly_date = file.split(".")[0]
                     # 解析周刊号
                     weekly_number = int(re.compile(r"第(.*?)期").search(md_str)[1])
                     # 读取 🎯 项目 部分内容
@@ -92,15 +94,18 @@ def parse_md() -> list:
                     }
 
                     for key, value in db_data.items():
-                        parse_item(weekly_year, weekly_number, key, value)
+                        parse_item(weekly_year, weekly_date, weekly_number, key, value)
                         print(f"第 {weekly_number} 期周刊，类别：{key} 持久化完毕！")
 
 
-def parse_item(weekly_year: int, weekly_number: int, item_type: str, content: str):
+def parse_item(
+    weekly_year: int, weekly_date: str, weekly_number: int, item_type: str, content: str
+):
     """处理单个项目Item
 
     Args:
         weekly_year (int): 周刊年份
+        weekly_date (int): 周刊日期
         weekly_number (int): 周刊号
         item_type (str): Item类型
         content (str): 文本内容
@@ -111,7 +116,7 @@ def parse_item(weekly_year: int, weekly_number: int, item_type: str, content: st
         item_content = each.strip()
         if item_content:
             cursor.execute(
-                f"insert into items values (NULL,'{weekly_year}', '{weekly_number}', '{item_type}', '{item_content}')"
+                f"insert into items values (NULL,'{weekly_year}', '{weekly_date}', '{weekly_number}', '{item_type}', '{item_content}')"
             )
             conn.commit()
 
