@@ -154,9 +154,8 @@ def parse_item(
     for each in content.split("###")[1:]:
         item_content = each.strip()
         if item_content:
-            cursor.execute(
-                f"insert into items values (NULL,'{weekly_year}', '{weekly_date}', '{weekly_number}', '{item_type}', '{item_content}')"
-            )
+            sql = f"insert into items values (NULL,'{weekly_year}', '{weekly_date}', '{weekly_number}', '{item_type}', '{item_content}')"
+            cursor.execute(sql)
             conn.commit()
 
     cursor.close()
