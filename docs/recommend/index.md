@@ -5,91 +5,81 @@
 
 ## 🎯 项目 
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [cnchar](https://github.com/theajack/cnchar)
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
 
-![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
-![vtracer](https://img.turingark.com/uPic/y9m1F5.jpg) 
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-### [flet](https://github.com/flet-dev/flet)
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-用 `Python` 开发跨平台 `Flutter` 应用：
-
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+![Karabiner-Elements](https://img.turingark.com/uPic/T3Y4AL.png) 
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-控制外部显示器的亮度和音量（macOS）：
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
 ## 👀 资料 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-### [xjq7/books](https://github.com/xjq7/books)
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+### RustBook
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+
+![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
 
 ## 🕸 网站 
 
-### [piqsels](https://www.piqsels.com/)
+### [lexica.art](https://lexica.art/)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [tableconvert](https://tableconvert.com/)
 
-心晴 · 专注于心理学入门与自我成长:
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [docsmall](https://docsmall.com/)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
