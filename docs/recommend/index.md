@@ -5,84 +5,91 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+![vtracer](https://img.turingark.com/uPic/y9m1F5.jpg) 
 
-### [amis](https://github.com/baidu/amis)
+### [flet](https://github.com/flet-dev/flet)
 
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+用 `Python` 开发跨平台 `Flutter` 应用：
+
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
 ## 🤖 软件 
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+控制外部显示器的亮度和音量（macOS）：
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
-
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
-
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
 ## 👀 资料 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [xjq7/books](https://github.com/xjq7/books)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
 ## 🕸 网站 
 
-### [antimkd](https://antimkd.com/)
+### [piqsels](https://www.piqsels.com/)
 
-无套路的软件下载网站：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [favicon.io](https://favicon.io/)
+### [ixinqing](http://www.ixinqing.com/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+心晴 · 专注于心理学入门与自我成长:
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
-### [cikeee](https://www.cikeee.com/)
+### [pandagpt.io](https://www.pandagpt.io/)
 
-每天推荐一部优秀的电影：
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
 ## ✍️ 说明
 

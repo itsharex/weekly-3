@@ -35,10 +35,10 @@ def gen_weekly():
     for each in ["🎯 项目", "🤖 软件", "👀 资料", "🕸 网站"]:
         full_content += f"\n## {each} \n"
         res = cursor.execute(
-            f"SELECT * FROM 'items' WHERE item_type='{each}' ORDER BY random() LIMIT 3 ;"
+            f"SELECT item_content FROM 'items' WHERE item_type='{each}' ORDER BY random() LIMIT 3 ;"
         )
         for item in res.fetchall():
-            _, weekly_year, weekly_number, item_type, item_content = item
+            item_content = item[0]
             full_content += f"\n### {item_content} \n"
     full_content += W_FOOTER
     with open("./docs/recommend/index.md", "w", encoding="utf-8") as f:

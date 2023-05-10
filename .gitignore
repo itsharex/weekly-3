@@ -108,3 +108,4 @@ stdout/
 site/
 *.pdf
 weekly.txt
+weekly.json
