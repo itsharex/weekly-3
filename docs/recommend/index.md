@@ -5,107 +5,97 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+![vtracer](https://img.turingark.com/uPic/y9m1F5.jpg) 
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
 
 ## 🤖 软件 
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+印象笔记的开源替代品（支持端对端加密）：
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
-- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
-- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
-- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
-- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
-- 内置丰富的导出功能，更加便利的分享结果！
-- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
-- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
-
-![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-从零开始 `Kubernetes` 攻防:
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [alternativeto](https://alternativeto.net/)
 
-开发者常用工具集：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [flowgpt](https://flowgpt.com/)
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-一个分享ChatGPT提示的网站：
+一份新冠预防及治疗指南：
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [docsmall](https://docsmall.com/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
-
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
