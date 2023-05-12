@@ -5,97 +5,86 @@
 
 ## 🎯 项目 
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
+![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+### [samila](https://github.com/sepandhaghighi/samila)
 
-![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-![vtracer](https://img.turingark.com/uPic/y9m1F5.jpg) 
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-### [zinc](https://github.com/prabhatsharma/zinc)
-
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
-
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
-
-![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-印象笔记的开源替代品（支持端对端加密）：
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+`Android` 平台下 `MD` 风格的文件管理器:
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+面向计算机科学的简单开源学术论文管理工具：
+
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
 ## 👀 资料 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
-
-![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
-
-### [v8-internals](https://github.com/plctlab/v8-internals)
-
-面向编译器开发人员的V8内部实现文档。 
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![](https://img.turingark.com/uPic/bdd-3d.png)
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-一份新冠预防及治疗指南：
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+### [segment-anything.com](https://segment-anything.com/)
 
-### [docsmall](https://docsmall.com/)
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+
+### [必应壁纸](https://bing.ioliu.cn/)
+
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+
+![bing](https://img.turingark.com/uPic/bing.jpg) 
 
 ## ✍️ 说明
 
