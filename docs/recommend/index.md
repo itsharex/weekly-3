@@ -5,25 +5,37 @@
 
 ## 🎯 项目 
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+### [pi-hole](https://pi-hole.net/)
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [greppo](https://github.com/greppo-io/greppo)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+快速轻松地构建部署地理空间应用程序：
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
 ## 🤖 软件 
+
+### [stats](https://github.com/exelban/stats)
+
+基于 `macOS` 菜单栏的系统监控软件：
+
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
+
+开源的浏览器插件，用于自定义你的浏览器启动页：
+
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
 ### [GestureSign](https://github.com/TransposonY/GestureSign)
 
@@ -35,56 +47,51 @@
 
 ![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
-
-`Android` 平台下 `MD` 风格的文件管理器:
-
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
-
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
-
-面向计算机科学的简单开源学术论文管理工具：
-
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
-
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+从工程角度方方面面阐述了DevOps实施的过程:
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+学习 `javascript` 的开源书籍：
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+
+站点可靠性工作手册：
+
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
+### [phind.com](https://www.phind.com/)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+面向开发者的人工智能搜索引擎：
 
-### [segment-anything.com](https://segment-anything.com/)
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+### [regex101](https://regex101.com/)
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [必应壁纸](https://bing.ioliu.cn/)
-
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
-
-![bing](https://img.turingark.com/uPic/bing.jpg) 
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
