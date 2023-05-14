@@ -5,97 +5,85 @@
 
 ## 🎯 项目 
 
-### [budibase](https://github.com/Budibase/budibase)
+### [code-server](https://github.com/coder/code-server)
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
 
-**它用于解决的问题有：**
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-![mometa](https://img.turingark.com/uPic/snapshot.png) 
-
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
-
-通过分析用户提供的静态页面自动创建RSS订阅源：
-
-![](https://img.turingark.com/uPic/APrAbH.png) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [V2exOS](https://github.com/isaced/V2exOS)
+### [dockeye](https://github.com/vv9k/dockeye)
 
-一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
+基于`Rust`编写的`Docker`界面管理工具：
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
+![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+必应 GPT 聊天桌面应用程序：
 
-![datastation](https://img.turingark.com/uPic/datastation.jpg) 
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
-
-> 这篇文章也是使用Joplin写的 
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
 ## 👀 资料 
-
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
-
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
-
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
 国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+
+### [English-Writing](https://github.com/yzy1996/English-Writing)
+
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [segment-anything.com](https://segment-anything.com/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
-免费的二维码生成网站：
+### [readme.so](https://readme.so/)
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
-一个搜索 git 常用 emoji 的网站:
+### [myfirstnft](https://myfirstnft.info/)
 
-![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
+我的第一个NFT，在这个网站，你可以：
+
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
+
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
 ## ✍️ 说明
 
