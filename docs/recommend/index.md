@@ -5,93 +5,97 @@
 
 ## 🎯 项目 
 
-### [pi-hole](https://pi-hole.net/)
+### [budibase](https://github.com/Budibase/budibase)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [mometa](https://github.com/imcuttle/mometa)
 
-快速轻松地构建部署地理空间应用程序：
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+**它用于解决的问题有：**
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+![mometa](https://img.turingark.com/uPic/snapshot.png) 
+
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
+
+通过分析用户提供的静态页面自动创建RSS订阅源：
+
+![](https://img.turingark.com/uPic/APrAbH.png) 
 
 ## 🤖 软件 
 
-### [stats](https://github.com/exelban/stats)
+### [V2exOS](https://github.com/isaced/V2exOS)
 
-基于 `macOS` 菜单栏的系统监控软件：
+一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![datastation](https://img.turingark.com/uPic/datastation.jpg) 
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+### [Joplin](https://github.com/laurent22/joplin)
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+> 这篇文章也是使用Joplin写的 
 
 ## 👀 资料 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
-学习 `javascript` 的开源书籍：
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-站点可靠性工作手册：
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [devtool.tech](https://devtool.tech/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-### [phind.com](https://www.phind.com/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-面向开发者的人工智能搜索引擎：
+免费的二维码生成网站：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [regex101](https://regex101.com/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+一个搜索 git 常用 emoji 的网站:
 
-- PHP
-- Python
-- JS
-- Go
-- Java
-
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
