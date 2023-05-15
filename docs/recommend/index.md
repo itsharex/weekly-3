@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [code-server](https://github.com/coder/code-server)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+### [rathole](https://github.com/rapiz1/rathole)
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
+### [halo](https://github.com/halo-dev/halo)
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
-
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
 ## 🤖 软件 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-基于`Rust`编写的`Docker`界面管理工具：
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
+![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [DevToys](https://github.com/veler/DevToys)
 
-必应 GPT 聊天桌面应用程序：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![](https://img.turingark.com/uPic/DevToys.png)
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+放心体验吧~ 
+
+### [RustDesk](https://github.com/rustdesk/rustdesk)
+
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
 ## 👀 资料 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+从零开始 `Kubernetes` 攻防:
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+一本开源的专门讲解面试关键路径的书籍：
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+
+《Linear Algebra for Everyone》公开课的图解笔记：
+
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+免费的二维码生成网站：
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+### [send.internxt.com](https://send.internxt.com/)
 
-### [readme.so](https://readme.so/)
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+### [uiverse.io](https://uiverse.io/)
 
-### [myfirstnft](https://myfirstnft.info/)
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-我的第一个NFT，在这个网站，你可以：
-
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
-
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
 ## ✍️ 说明
 
