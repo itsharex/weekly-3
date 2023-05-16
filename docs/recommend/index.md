@@ -5,87 +5,81 @@
 
 ## 🎯 项目 
 
-### [MOSS](https://github.com/OpenLMLab/MOSS)
+### [ecapture](https://github.com/ehids/ecapture)
 
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-### [rathole](https://github.com/rapiz1/rathole)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-### [halo](https://github.com/halo-dev/halo)
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+### [immich](https://github.com/immich-app/immich)
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+一个开源的高性能自托管照片和视频备份解决方案：
+
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
 ## 🤖 软件 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
+![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![](https://img.turingark.com/uPic/DevToys.png)
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-放心体验吧~ 
-
-### [RustDesk](https://github.com/rustdesk/rustdesk)
-
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
-
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
 ## 👀 资料 
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-从零开始 `Kubernetes` 攻防:
+`OpenAI API` 使用示例指南：
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-一本开源的专门讲解面试关键路径的书籍：
+一份循序渐进的 `k8s` 教程：
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-《Linear Algebra for Everyone》公开课的图解笔记：
-
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
 ## 🕸 网站 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [learngpt.com](https://www.learngpt.com/)
 
-免费的二维码生成网站：
+`ChatGPT` 最佳用例分享网站：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-### [send.internxt.com](https://send.internxt.com/)
+### [ifixit](https://zh.ifixit.com/)
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+一个免费教授人们如何修理任何物品的网站：
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
 ## ✍️ 说明
 
