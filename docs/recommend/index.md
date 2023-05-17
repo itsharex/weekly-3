@@ -5,81 +5,81 @@
 
 ## 🎯 项目 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [nps](https://github.com/ehang-io/nps)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+![nps](https://img.turingark.com/uPic/x2AaCw.jpg) 
 
-### [immich](https://github.com/immich-app/immich)
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-一个开源的高性能自托管照片和视频备份解决方案：
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
 ## 🤖 软件 
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+### [vnote](https://github.com/vnotex/vnote)
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [Alock](https://github.com/luoxuhai/Alock)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
 ## 👀 资料 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-`OpenAI API` 使用示例指南：
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-一份循序渐进的 `k8s` 教程：
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+健康学习到150岁 - 人体系统调优不完全指南：
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
 ## 🕸 网站 
 
-### [learngpt.com](https://www.learngpt.com/)
+### [regexlearn](https://regexlearn.com)
 
-`ChatGPT` 最佳用例分享网站：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-一个免费教授人们如何修理任何物品的网站：
+自动对联网站：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+### [devtool.tech](https://devtool.tech/)
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
 ## ✍️ 说明
 
