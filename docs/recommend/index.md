@@ -5,81 +5,103 @@
 
 ## 🎯 项目 
 
+### [PanIndex](https://github.com/libsgh/PanIndex)
+
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
+
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+
+### [mkcert](https://github.com/FiloSottile/mkcert)
+
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+
 ### [ddddocr](https://github.com/sml2h3/ddddocr)
 
 一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
 ![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-### [nps](https://github.com/ehang-io/nps)
-
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
-
-![nps](https://img.turingark.com/uPic/x2AaCw.jpg) 
-
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
-
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
-
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
-
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [box](https://github.com/liu673cn/box)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+TVBox 开源版:
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-### [Alock](https://github.com/luoxuhai/Alock)
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
 ## 👀 资料 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+《Software Engineering at Google》的中文翻译版本：
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-健康学习到150岁 - 人体系统调优不完全指南：
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [regexlearn](https://regexlearn.com)
+### [帮小忙](https://tool.browser.qq.com/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-自动对联网站：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
-### [devtool.tech](https://devtool.tech/)
+### [uiverse.io](https://uiverse.io/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
 ## ✍️ 说明
 
