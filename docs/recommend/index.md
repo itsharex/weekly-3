@@ -5,103 +5,85 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
-
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
 ## 🤖 软件 
 
-### [box](https://github.com/liu673cn/box)
+### [ambie](https://github.com/jenius-apps/ambie)
 
-TVBox 开源版:
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-![DOS](https://img.turingark.com/uPic/DOS.png) 
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
-
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-《Software Engineering at Google》的中文翻译版本：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
 ## 🕸 网站 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [useanimations](https://useanimations.com/)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+前端动态 `UI` 样式集合：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [watermark](https://watermark.liumingye.cn/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+短视频/图集在线去水印解析：
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [sqlime](http://sqlime.org/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
