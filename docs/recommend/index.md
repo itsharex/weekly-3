@@ -5,83 +5,87 @@
 
 ## 🎯 项目 
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+### [greppo](https://github.com/greppo-io/greppo)
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+快速轻松地构建部署地理空间应用程序：
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
-### [privaxy](https://github.com/Barre/privaxy)
+### [alist](https://github.com/Xhofe/alist)
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-### [sealos](https://github.com/fanux/sealos)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-用于数据分析的简单 `SQL` 客户端：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-### [stats](https://github.com/exelban/stats)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-基于 `macOS` 菜单栏的系统监控软件：
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-### 认知偏差知识手册
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-`OpenAI API` 使用示例指南：
-
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+技术面试最后反问面试官的话。 
 
 ## 🕸 网站 
 
-### [dev.to](https://dev.to/)
+### [web.dev](https://web.dev/learn/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+谷歌团队开放的网页设计与开发课程：
 
-![dev_to](https://img.turingark.com/uPic/dev_to.png) 
+![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
 
-### [extractcss](http://extractcss.com/)
+### [privacytools.io](https://www.privacytools.io/)
 
-提取 `html` 结构里面的 `css` 代码：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [bookmark.style](https://www.bookmark.style/)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
 ## ✍️ 说明
 
