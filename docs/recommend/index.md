@@ -5,87 +5,93 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-快速轻松地构建部署地理空间应用程序：
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
-### [alist](https://github.com/Xhofe/alist)
+### [qinglong](https://github.com/whyour/qinglong)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [markmap](https://github.com/gera2ld/markmap)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [apifox](https://www.apifox.cn/)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+### [kondo](https://github.com/tbillington/kondo)
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+
+可以看到上面 `Rust` 项目依赖确实大。 
 
 ## 👀 资料 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![c](https://img.turingark.com/uPic/4uYTRJ.png) 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-技术面试最后反问面试官的话。 
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
 ## 🕸 网站 
 
-### [web.dev](https://web.dev/learn/)
+### [phind.com](https://www.phind.com/)
 
-谷歌团队开放的网页设计与开发课程：
+面向开发者的人工智能搜索引擎：
 
-![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [tldraw](https://www.tldraw.com/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+小巧强大的在线绘图工具：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [drawio](https://github.com/jgraph/drawio)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
-
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
 
 ## ✍️ 说明
 
