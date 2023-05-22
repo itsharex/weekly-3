@@ -5,33 +5,33 @@
 
 ## 🎯 项目 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+作者创建此开源项目的目的如下：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [qinglong](https://github.com/whyour/qinglong)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
+![free-api](https://img.turingark.com/uPic/VvapMO.png) 
 
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+一个开源的快速制作文章封面图的工具。
 
-### [markmap](https://github.com/gera2ld/markmap)
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
 ## 🤖 软件 
+
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
 ### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
@@ -39,59 +39,57 @@
 
 ![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [apifox](https://www.apifox.cn/)
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-### [kondo](https://github.com/tbillington/kondo)
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
-
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
-
-可以看到上面 `Rust` 项目依赖确实大。 
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
 
 ## 👀 资料 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![c](https://img.turingark.com/uPic/4uYTRJ.png) 
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+`Solidity` 极简入门：
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
-
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
 ## 🕸 网站 
 
-### [phind.com](https://www.phind.com/)
+### [fviewer](https://www.fviewer.com/zh)
 
-面向开发者的人工智能搜索引擎：
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-### [tldraw](https://www.tldraw.com/)
+### [chirper.ai](https://chirper.ai/zh)
 
-小巧强大的在线绘图工具：
+一个只允许 AI 发帖的网站，所有内容由 AI 产生：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [ICO converter](https://www.icoconverter.com/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
 ## ✍️ 说明
 
