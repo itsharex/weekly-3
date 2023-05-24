@@ -5,87 +5,90 @@
 
 ## 🎯 项目 
 
-### [homelab](https://github.com/khuedoan/homelab)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+作者创建此开源项目的目的如下：
 
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+![free-api](https://img.turingark.com/uPic/VvapMO.png) 
 
-![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
+### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
-### [ml4a](https://github.com/ml4a/ml4a)
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
 
-![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
+
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+
+![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [pho](https://github.com/fregie/pho)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
-开源的法律知识速查手册：
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
+
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
 ## 👀 资料 
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-代码整洁之道（javascript版本）：
+一本小书《带你入门前端工程》
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+![](https://img.turingark.com/uPic/e783TS.png) 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-一份 `Midjourney` 学习教程：
-
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
 ## 🕸 网站 
 
-### [studyhard](https://studyhard.cf/)
+### [up-6.com](https://www.up-6.com/)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+一个英语学习导航网站：
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
-### [aicolors](https://aicolors.co/)
+### [calmcode](https://calmcode.io/)
 
-通过提示词，基于 AI 生成配色方案：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![calmcode](https://img.turingark.com/uPic/xjvt2J.png) 
 
-### [jsont.run](https://www.jsont.run/)
+### [shell.how](https://www.shell.how/)
 
-一个简洁的在线 `JSON` 解析器：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
 
 ## ✍️ 说明
 
