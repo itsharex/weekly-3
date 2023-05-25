@@ -5,90 +5,115 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [homepage](https://github.com/benphelps/homepage)
 
-作者创建此开源项目的目的如下：
+高度可定制的首页仪表板应用项目：
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-![free-api](https://img.turingark.com/uPic/VvapMO.png) 
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+### [qinglong](https://github.com/whyour/qinglong)
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
-
-![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
 ## 🤖 软件 
 
-### [pho](https://github.com/fregie/pho)
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+必应 GPT 聊天桌面应用程序：
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+控制外部显示器的亮度和音量（macOS）：
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
 ## 👀 资料 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-一本小书《带你入门前端工程》
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-![](https://img.turingark.com/uPic/e783TS.png) 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+对于前端开发者来说应该是一个非常好的知识库：
 
-![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
+![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
+
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
+
+关于软件公司如何测试其软件的公共资源集合：
+
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
 ## 🕸 网站 
 
-### [up-6.com](https://www.up-6.com/)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-一个英语学习导航网站：
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [calmcode](https://calmcode.io/)
+### [ipdetective](https://ipdetective.io/api)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+检测 `ip` 是否是机器人：
 
-![calmcode](https://img.turingark.com/uPic/xjvt2J.png) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [shell.how](https://www.shell.how/)
+### [studyhard](https://studyhard.cf/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
 ## ✍️ 说明
 
