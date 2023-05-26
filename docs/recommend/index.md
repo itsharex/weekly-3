@@ -5,115 +5,97 @@
 
 ## 🎯 项目 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-高度可定制的首页仪表板应用项目：
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-### [qinglong](https://github.com/whyour/qinglong)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-必应 GPT 聊天桌面应用程序：
+跨平台的`youtube-dl`客户端：
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![](https://img.turingark.com/uPic/yd_gui.png) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+### [marktext](https://github.com/marktext/marktext)
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-控制外部显示器的亮度和音量（macOS）：
-
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+![c](https://img.turingark.com/uPic/4uYTRJ.png) 
 
-对于前端开发者来说应该是一个非常好的知识库：
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-![javascript-guidebook](https://img.turingark.com/uPic/vIsnjD.png) 
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-关于软件公司如何测试其软件的公共资源集合：
-
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
 
 ## 🕸 网站 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [dute](https://www.dute.org/)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [ipdetective](https://ipdetective.io/api)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-检测 `ip` 是否是机器人：
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-### [studyhard](https://studyhard.cf/)
+![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+### [allthingsai](https://allthingsai.com/)
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+提供完整的 `AI` 相关工具&服务资源：
+
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
 ## ✍️ 说明
 
