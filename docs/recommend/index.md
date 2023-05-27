@@ -5,97 +5,96 @@
 
 ## 🎯 项目 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [jina](https://github.com/jina-ai/jina)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+![jina](https://img.turingark.com/uPic/9MHbAU.png)
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
 ## 🤖 软件 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-跨平台的`youtube-dl`客户端：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-![](https://img.turingark.com/uPic/yd_gui.png) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+超方便的微信视频号下载器：
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [marktext](https://github.com/marktext/marktext)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
 ## 👀 资料 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-![c](https://img.turingark.com/uPic/4uYTRJ.png) 
+中国5级行政区域mysql库：
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
+![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
 
 ## 🕸 网站 
 
-### [dute](https://www.dute.org/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+软件镜像站：
 
-![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-### [allthingsai](https://allthingsai.com/)
+### [readme.so](https://readme.so/)
 
-提供完整的 `AI` 相关工具&服务资源：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
 ## ✍️ 说明
 
