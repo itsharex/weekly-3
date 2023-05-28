@@ -5,77 +5,98 @@
 
 ## 🎯 项目 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [duplicati](https://github.com/duplicati/duplicati)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [Weylus](https://github.com/H-M-H/Weylus)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+![weylus](https://img.turingark.com/uPic/weylus.jpg) 
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
+
+微软开源的 `Web` 编辑器：
+
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [Files](https://github.com/files-community/Files)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+一个现代化的文件管理软件(Windows用户专属)：
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [cicada](https://github.com/mebtte/cicada)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+知了, 支持多用户的开源音乐服务：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-### [Cider](https://github.com/ciderapp/Cider)
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+### [Joplin](https://github.com/laurent22/joplin)
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
+
+> 这篇文章也是使用Joplin写的 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+面向编译器开发人员的V8内部实现文档。 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+关于 `MongoDB`，最全面的免费学习向导：
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
 ## 🕸 网站 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [jsont.run](https://www.jsont.run/)
 
-非常极客的背景音乐网站：
+一个简洁的在线 `JSON` 解析器：
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [法律时代导航](https://yesen.cn/)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [latexlive](https://www.latexlive.com/)
+### [squoosh](https://squoosh.app/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+免费漂亮的在线图片压缩网站：
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
 ## ✍️ 说明
 
