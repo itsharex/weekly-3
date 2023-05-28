@@ -5,96 +5,77 @@
 
 ## 🎯 项目 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+### [freed](https://github.com/YuanHsing/freed)
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-### [jina](https://github.com/jina-ai/jina)
-
-![jina](https://img.turingark.com/uPic/9MHbAU.png)
-
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
-
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
 ## 🤖 软件 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [UTM](https://github.com/utmapp/UTM)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-超方便的微信视频号下载器：
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [Cider](https://github.com/ciderapp/Cider)
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
-
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
 ## 👀 资料 
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+### [2d2d](https://2d2d.io/)
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
 
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-中国5级行政区域mysql库：
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
-
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
-
-![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+非常极客的背景音乐网站：
 
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+### [fviewer](https://www.fviewer.com/zh)
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-软件镜像站：
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+### [latexlive](https://www.latexlive.com/)
 
-### [readme.so](https://readme.so/)
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
-
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
