@@ -5,95 +5,106 @@
 
 ## 🎯 项目 
 
-### [halo](https://github.com/halo-dev/halo)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+简单描述工作内容，帮你生成完整周报：
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-### [upptime](https://github.com/upptime/upptime)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-### [Textual](https://github.com/Textualize/textual)
+### [wechat-export](https://github.com/luin/wechat-export)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+将微信聊天记录导出为HTML文件：
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
 
 ## 🤖 软件 
 
-### [NetNewsWire](https://netnewswire.com/)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
-必应 GPT 聊天桌面应用程序：
+### [Quake](https://github.com/phodal/quake)
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+Quake 是面向极客的知识管理元框架，它可以：
 
-### [Imagine](https://github.com/meowtec/Imagine)
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
 
-全平台支持的图片压缩软件：
+![quake](https://img.turingark.com/uPic/quake.gif) 
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+一个跨平台的电子书阅读器：
+
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
+
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
 ## 👀 资料 
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-谷歌出品的四天学习 `Rust` 👀
+`OpenAI API` 使用示例指南：
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+从零开始 `Kubernetes` 攻防:
 
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
-
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
 
-### [apitracker](https://apitracker.io/)
+### [pixabay](https://pixabay.com/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [recompressor](https://zh.recompressor.com/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+免费的图片压缩工具：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [antimkd](https://antimkd.com/)
 
-快速创建精美的移动和浏览器屏幕截图：
+无套路的软件下载网站：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
 ## ✍️ 说明
 
