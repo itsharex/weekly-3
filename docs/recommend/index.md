@@ -5,98 +5,95 @@
 
 ## 🎯 项目 
 
-### [duplicati](https://github.com/duplicati/duplicati)
+### [halo](https://github.com/halo-dev/halo)
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [upptime](https://github.com/upptime/upptime)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-![weylus](https://img.turingark.com/uPic/weylus.jpg) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-### [monaco-editor](https://github.com/microsoft/monaco-editor)
+### [Textual](https://github.com/Textualize/textual)
 
-微软开源的 `Web` 编辑器：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
 ## 🤖 软件 
 
-### [Files](https://github.com/files-community/Files)
+### [NetNewsWire](https://netnewswire.com/)
 
-一个现代化的文件管理软件(Windows用户专属)：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [cicada](https://github.com/mebtte/cicada)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-知了, 支持多用户的开源音乐服务：
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+必应 GPT 聊天桌面应用程序：
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+全平台支持的图片压缩软件：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-> 这篇文章也是使用Joplin写的 
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
 ## 👀 资料 
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+谷歌出品的四天学习 `Rust` 👀
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-面向编译器开发人员的V8内部实现文档。 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
-关于 `MongoDB`，最全面的免费学习向导：
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
 ## 🕸 网站 
 
-### [jsont.run](https://www.jsont.run/)
+### [apitracker](https://apitracker.io/)
 
-一个简洁的在线 `JSON` 解析器：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [法律时代导航](https://yesen.cn/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![phone_query](https://img.turingark.com/uPic/phone_query.png) 
 
-### [squoosh](https://squoosh.app/)
+### [screenshot](https://screenshot.rocks/)
 
-免费漂亮的在线图片压缩网站：
+快速创建精美的移动和浏览器屏幕截图：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
-
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
 ## ✍️ 说明
 
