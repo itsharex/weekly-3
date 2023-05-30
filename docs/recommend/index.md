@@ -5,106 +5,83 @@
 
 ## 🎯 项目 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
-简单描述工作内容，帮你生成完整周报：
+基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-将微信聊天记录导出为HTML文件：
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
+![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
 
 ## 🤖 软件 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-### [Quake](https://github.com/phodal/quake)
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
-Quake 是面向极客的知识管理元框架，它可以：
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-![quake](https://img.turingark.com/uPic/quake.gif) 
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
-
-一个跨平台的电子书阅读器：
-
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
-
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
 ## 👀 资料 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-`OpenAI API` 使用示例指南：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+### [visualize-ml](https://github.com/visualize-ml)
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-从零开始 `Kubernetes` 攻防:
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+### developer-roadmap
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+开发人员学习成长路线图：
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
-
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [pixabay](https://pixabay.com/)
+### [cleanup.pictures](https://cleanup.pictures/)
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [chirper.ai](https://chirper.ai/zh)
 
-免费的图片压缩工具：
+一个只允许 AI 发帖的网站，所有内容由 AI 产生：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
 
-### [antimkd](https://antimkd.com/)
+### [jellylade](https://app.jellylade.com/)
 
-无套路的软件下载网站：
+美化截图，可以选择各种设备：
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
 ## ✍️ 说明
 
