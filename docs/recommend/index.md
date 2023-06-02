@@ -5,94 +5,120 @@
 
 ## 🎯 项目 
 
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-微软开源的 `Fluent Emoji` 表情包：
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-### [podman](https://github.com/containers/podman)
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+### [kanboard](https://kanboard.org/)
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+
+![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
 
 ## 🤖 软件 
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+超方便的微信视频号下载器：
 
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [Joplin](https://github.com/laurent22/joplin)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-> 这篇文章也是使用Joplin写的 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [insomnia](https://github.com/Kong/insomnia)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+比较全面的 `k8s` 资源收集项目：
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+以非常直观的语言介绍`pytorch`：
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
+作者的同类电子书还有：
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [macosicons](https://macosicons.com/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+@妙才投稿，在线学习git命令的网站：
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+![](https://img.turingark.com/uPic/YSiAVW.png) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [ziyouziti](https://ziyouziti.com/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![cook](https://img.turingark.com/uPic/cook.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [vim.is](https://vim.is/#exercise)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+`Vim`学习网站：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
 
 ## ✍️ 说明
 
