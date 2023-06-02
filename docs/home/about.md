@@ -30,4 +30,4 @@
 
 我的随笔、学习笔记、自己写的原创教程，都会放这里，欢迎关注 - **老胡的储物柜**：
 
-![老胡的储物柜](https://img.turingark.com/wechat_howie.png)
+![老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)

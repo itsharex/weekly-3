@@ -5,7 +5,7 @@
 老胡的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。当前阅读渠道如下：
 
 - [网站](https://weekly.howie6879.com)
-- [公众号](https://img.turingark.com/wechat_howie.png)
+- [公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [周刊RSS](https://weekly.howie6879.com/rss/rss.xml)
 - [今日推荐](https://weekly.howie6879.com/recommend)
 
