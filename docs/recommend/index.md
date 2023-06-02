@@ -5,120 +5,83 @@
 
 ## 🎯 项目 
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [samila](https://github.com/sepandhaghighi/samila)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [Monit](https://github.com/fzf404/Monit)
 
-### [kanboard](https://kanboard.org/)
+系统桌面小组件(用于展示各种信息)：
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
-
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
-
-![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
+![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-超方便的微信视频号下载器：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+必应 GPT 聊天桌面应用程序：
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
 ## 👀 资料 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-比较全面的 `k8s` 资源收集项目：
+《Mastering GO》中文译本，《玩转 GO》：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-以非常直观的语言介绍`pytorch`：
+开源的正则表达式教程，有中文版，有在线示例。 
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-作者的同类电子书还有：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
-
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
-
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [openvim](https://www.openvim.com/)
 
-@妙才投稿，在线学习git命令的网站：
+交互式 `vim` 学习网站：
 
-![](https://img.turingark.com/uPic/YSiAVW.png) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [lexica.art](https://lexica.art/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-### [vim.is](https://vim.is/#exercise)
+### [musetransfer](https://musetransfer.com/)
 
-`Vim`学习网站：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
 ## ✍️ 说明
 
