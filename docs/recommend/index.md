@@ -5,47 +5,59 @@
 
 ## 🎯 项目 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [homepage](https://github.com/benphelps/homepage)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+高度可定制的首页仪表板应用项目：
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+程序员在家做饭方法指南。 
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+### [tabler](https://github.com/tabler/tabler)
 
-### [Monit](https://github.com/fzf404/Monit)
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-系统桌面小组件(用于展示各种信息)：
-
-![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [logseq](https://github.com/logseq/logseq)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-必应 GPT 聊天桌面应用程序：
+一款 `ChatGPT for Mac` 原生客户端：
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [V2exOS](https://github.com/isaced/V2exOS)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
-
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
 
 ## 👀 资料 
+
+### [pdai](https://pdai.tech/)
+
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
 ### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
@@ -53,35 +65,27 @@
 
 ![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
-
-开源的正则表达式教程，有中文版，有在线示例。 
-
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
-
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
-
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
-
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [uisdc.com](https://hao.uisdc.com/)
 
-交互式 `vim` 学习网站：
+设计师网站导航：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [网道](https://wangdoc.com/)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [musetransfer](https://musetransfer.com/)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+非常极客的背景音乐网站：
+
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
