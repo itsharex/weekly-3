@@ -5,87 +5,83 @@
 
 ## 🎯 项目 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-高度可定制的首页仪表板应用项目：
+简单描述工作内容，帮你生成完整周报：
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-程序员在家做饭方法指南。 
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-### [tabler](https://github.com/tabler/tabler)
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
+
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
 ## 🤖 软件 
 
-### [logseq](https://github.com/logseq/logseq)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-一款 `ChatGPT for Mac` 原生客户端：
+安全、快速与轻量的远程桌面&文件管理工具：
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-### [V2exOS](https://github.com/isaced/V2exOS)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [pdai](https://pdai.tech/)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+一本小书《带你入门前端工程》
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+![](https://img.turingark.com/uPic/e783TS.png) 
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
 
-《Mastering GO》中文译本，《玩转 GO》：
-
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
 ## 🕸 网站 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-设计师网站导航：
+微软出品的文字生成图像模型（IP不能是国内）：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
-### [网道](https://wangdoc.com/)
+### [openvim](https://www.openvim.com/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+交互式 `vim` 学习网站：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [douyin.wtf](https://douyin.wtf/)
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
 
-非常极客的背景音乐网站：
-
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
 ## ✍️ 说明
 
