@@ -5,83 +5,94 @@
 
 ## 🎯 项目 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-简单描述工作内容，帮你生成完整周报：
+作者创建此开源项目的目的如下：
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+### [streamlit](https://github.com/streamlit/streamlit)
 
-### [excalidraw](https://github.com/excalidraw/excalidraw)
+用 `Python` 快速构建数据应用：
 
-免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
-![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
+### [yao](https://github.com/YaoApp/yao)
+
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
 ## 🤖 软件 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [logseq](https://github.com/logseq/logseq)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+### [ambie](https://github.com/jenius-apps/ambie)
 
-安全、快速与轻量的远程桌面&文件管理工具：
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-一本小书《带你入门前端工程》
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-![](https://img.turingark.com/uPic/e783TS.png) 
+目前也提供了中文版：
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [openvim](https://www.openvim.com/)
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-交互式 `vim` 学习网站：
+### [万词王](https://github.com/thunlp/WantWords)
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-### [douyin.wtf](https://douyin.wtf/)
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+一份新冠预防及治疗指南：
+
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
 ## ✍️ 说明
 
