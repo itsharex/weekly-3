@@ -5,93 +5,91 @@
 
 ## 🎯 项目 
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
 
-### [answer](https://github.com/answerdev/answer)
+### [mometa](https://github.com/imcuttle/mometa)
 
-基于自己的产品或者项目快速打造一个问答社区：
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+**它用于解决的问题有：**
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+![mometa](https://img.turingark.com/uPic/snapshot.png) 
+
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
+
+通过分析用户提供的静态页面自动创建RSS订阅源：
+
+![](https://img.turingark.com/uPic/APrAbH.png) 
 
 ## 🤖 软件 
 
-### [WeChatAI](https://github.com/bingryan/WeChatAI)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+控制外部显示器的亮度和音量（macOS）：
 
-![koreader](https://img.turingark.com/uPic/koreader.jpg) 
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [archbase](https://github.com/foxsen/archbase)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
+《结网》作者王坚的开源新书：
 
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-提供在线绘制时序图的网站：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [screenshot](https://screenshot.rocks/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+快速创建精美的移动和浏览器屏幕截图：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [storyset](https://storyset.com/)
 
-### [itnext](https://itnext.cn/)
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-一个介绍元宇宙的网站：
-
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
 
 ## ✍️ 说明
 
