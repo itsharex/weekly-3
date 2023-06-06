@@ -5,94 +5,93 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
-作者创建此开源项目的目的如下：
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+### [answer](https://github.com/answerdev/answer)
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+基于自己的产品或者项目快速打造一个问答社区：
 
-### [streamlit](https://github.com/streamlit/streamlit)
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-用 `Python` 快速构建数据应用：
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-### [yao](https://github.com/YaoApp/yao)
-
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
-
-![yao](https://img.turingark.com/uPic/yao.jpg) 
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
 ## 🤖 软件 
 
-### [logseq](https://github.com/logseq/logseq)
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
-### [ambie](https://github.com/jenius-apps/ambie)
+### [KOReader](https://github.com/koreader/koreader)
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+![koreader](https://img.turingark.com/uPic/koreader.jpg) 
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+### [antares](https://github.com/Fabio286/antares)
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-目前也提供了中文版：
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
 ## 🕸 网站 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+提供在线绘制时序图的网站：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-### [万词王](https://github.com/thunlp/WantWords)
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [itnext](https://itnext.cn/)
 
-一份新冠预防及治疗指南：
+一个介绍元宇宙的网站：
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
 ## ✍️ 说明
 
