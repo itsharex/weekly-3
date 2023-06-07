@@ -5,91 +5,91 @@
 
 ## 🎯 项目 
 
-### [nativefier](https://github.com/nativefier/nativefier)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
-**它用于解决的问题有：**
+### [tiptop](https://github.com/nschloe/tiptop)
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+类似`htop`的命令行系统资源监控工具：
 
-![mometa](https://img.turingark.com/uPic/snapshot.png) 
-
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
-
-通过分析用户提供的静态页面自动创建RSS订阅源：
-
-![](https://img.turingark.com/uPic/APrAbH.png) 
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
 ## 🤖 软件 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+监控你的应用流量，跨平台：
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [Yank Note](https://github.com/purocean/yn)
 
-控制外部显示器的亮度和音量（macOS）：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+### [dockeye](https://github.com/vv9k/dockeye)
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+基于`Rust`编写的`Docker`界面管理工具：
+
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
-
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
-
-《结网》作者王坚的开源新书：
-
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+一个在YouTube上发现最新机器学习课程的项目。 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [zerossl](https://zerossl.com/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-快速创建精美的移动和浏览器屏幕截图：
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [storyset](https://storyset.com/)
+### [文学网](https://www.hwxnet.com/)
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+文学相关工具在线网站：
 
-![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
