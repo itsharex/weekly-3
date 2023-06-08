@@ -5,91 +5,93 @@
 
 ## 🎯 项目 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-### [tiptop](https://github.com/nschloe/tiptop)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-类似`htop`的命令行系统资源监控工具：
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+
+![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
 
 ## 🤖 软件 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-监控你的应用流量，跨平台：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-### [dockeye](https://github.com/vv9k/dockeye)
-
-基于`Rust`编写的`Docker`界面管理工具：
-
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-一个在YouTube上发现最新机器学习课程的项目。 
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
 ## 🕸 网站 
 
-### [zerossl](https://zerossl.com/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+文字生成图片网站，效果和速度都还可以：
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [webutils](https://www.webutils.app/)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+一个提供web小工具的网站，比如：
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+- 文本比较
+- 图片压缩
+- 图片转换
 
-### [文学网](https://www.hwxnet.com/)
+![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
 
-文学相关工具在线网站：
+### [emojiall](https://www.emojiall.com/)
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
 ## ✍️ 说明
 
