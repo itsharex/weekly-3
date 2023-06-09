@@ -5,93 +5,87 @@
 
 ## 🎯 项目 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [nps](https://github.com/ehang-io/nps)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
-
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
-
-![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+### [Joplin](https://github.com/laurent22/joplin)
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+> 这篇文章也是使用Joplin写的 
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+### [siyuan](https://github.com/siyuan-note/siyuan)
+
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+清华大学计算机系课程攻略：
+
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
 ## 🕸 网站 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-文字生成图片网站，效果和速度都还可以：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-### [webutils](https://www.webutils.app/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-一个提供web小工具的网站，比如：
+自动对联网站：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-### [emojiall](https://www.emojiall.com/)
+PDF Squeezer 是一款 PDF 压缩工具：
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
-
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ## ✍️ 说明
 
