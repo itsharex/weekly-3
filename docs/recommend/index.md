@@ -5,87 +5,105 @@
 
 ## 🎯 项目 
 
-### [nps](https://github.com/ehang-io/nps)
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
+
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [Yank Note](https://github.com/purocean/yn)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-> 这篇文章也是使用Joplin写的 
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+一份 `Midjourney` 学习教程：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-清华大学计算机系课程攻略：
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [cikeee](https://www.cikeee.com/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+每天推荐一部优秀的电影：
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [zlib.pro](https://zlib.pro/)
 
-自动对联网站：
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
 ## ✍️ 说明
 
