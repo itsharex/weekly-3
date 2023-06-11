@@ -5,97 +5,83 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+基于 `Notion` 构建静态站点：
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [answer](https://github.com/answerdev/answer)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+基于自己的产品或者项目快速打造一个问答社区：
 
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+### [statping](https://github.com/statping/statping)
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
-
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
 ## 🤖 软件 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [Hacki](https://github.com/Livinglist/Hacki)
 
-可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
+基于 `Flutter` 的  `Hacker News` 客户端:
 
-![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
+![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+开源免费的跨平台无损图片放大工具：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
-
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
-
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+![peazip](https://img.turingark.com/uPic/peazip.png) 
 
 ## 👀 资料 
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-项目收集了计算机科学领域值得一读的论文：
+`Solidity` 极简入门：
 
-![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
-
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [unDraw](https://undraw.co/illustrations)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+### [alternativeto](https://alternativeto.net/)
 
-### [lucide](https://lucide.dev/)
+常用软件替代品查询网站：
 
-开源图标库，可以直接下载 `SVG`：
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-### [neeva](https://neeva.com/search)
+微软出品的文字生成图像模型（IP不能是国内）：
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
-
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
 ## ✍️ 说明
 
