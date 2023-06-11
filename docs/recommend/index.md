@@ -5,83 +5,93 @@
 
 ## 🎯 项目 
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+### [heti](https://github.com/sivan/heti)
 
-基于 `Notion` 构建静态站点：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
 
-### [answer](https://github.com/answerdev/answer)
+### [FastChat](https://github.com/lm-sys/FastChat)
 
-基于自己的产品或者项目快速打造一个问答社区：
+这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
 
-### [statping](https://github.com/statping/statping)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
 ## 🤖 软件 
 
-### [Hacki](https://github.com/Livinglist/Hacki)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-基于 `Flutter` 的  `Hacker News` 客户端:
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
+### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+自定义 `Windows 11` 任务栏时钟：
 
-开源免费的跨平台无损图片放大工具：
+![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-`Solidity` 极简入门：
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+学习 `javascript` 的开源书籍：
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
+
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [zerossl](https://zerossl.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [即时工具](https://www.67tool.com/)
 
-常用软件替代品查询网站：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
 ## ✍️ 说明
 
