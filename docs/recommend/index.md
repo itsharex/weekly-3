@@ -5,93 +5,100 @@
 
 ## 🎯 项目 
 
-### [heti](https://github.com/sivan/heti)
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
+![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
 
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+### [h-m-m](https://github.com/nadrad/h-m-m)
+
+简单、快速、以键盘为中心处理思维导图的终端工具：
+
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
 ## 🤖 软件 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-### [ElevenClock](https://github.com/marticliment/ElevenClock)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-自定义 `Windows 11` 任务栏时钟：
+JetBrains 的下一代 IDE：
 
-![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [rubick](https://github.com/rubickCenter/rubick)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
 ## 👀 资料 
 
-### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
+### [secguide](https://github.com/Tencent/secguide)
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-学习 `javascript` 的开源书籍：
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
-
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
-
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
-
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
 ## 🕸 网站 
 
-### [zerossl](https://zerossl.com/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
-### [即时工具](https://www.67tool.com/)
+### [caniuse](https://caniuse.com/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [pdf.wps.cn](https://pdf.wps.cn/)
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+金山出品的 PDF 免费工具集：
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
 
 ## ✍️ 说明
 
