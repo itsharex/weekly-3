@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
+### [cal.com](https://github.com/calcom/cal.com)
 
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+### [code-server](https://github.com/coder/code-server)
 
-![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
+这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
-
-简单、快速、以键盘为中心处理思维导图的终端工具：
-
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
 ## 🤖 软件 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+> 让每个人都简单方便的使用前沿人工智能技术
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-JetBrains 的下一代 IDE：
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+### [eaio](https://github.com/WankkoRee/eaio)
 
-### [rubick](https://github.com/rubickCenter/rubick)
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
 ## 👀 资料 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-### [secguide](https://github.com/Tencent/secguide)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [antimkd](https://antimkd.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+无套路的软件下载网站：
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
-### [caniuse](https://caniuse.com/)
+### [devdocs](https://devdocs.io/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+提供在线快速查找API接口文档的网站：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-金山出品的 PDF 免费工具集：
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
 ## ✍️ 说明
 
