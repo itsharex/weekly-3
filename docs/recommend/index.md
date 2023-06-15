@@ -5,105 +5,104 @@
 
 ## 🎯 项目 
 
-### [sealos](https://github.com/fanux/sealos)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-带看板的开源项目管理工具:
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+### [dozzle](https://github.com/amir20/dozzle)
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
 
-### [code-server](https://github.com/coder/code-server)
+![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
 
-这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
 ## 🤖 软件 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [dockeye](https://github.com/vv9k/dockeye)
 
-一个跨平台的电子书阅读器：
+基于`Rust`编写的`Docker`界面管理工具：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
 
-### [notepad--](https://github.com/cxasm/notepad--)
+![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### developer-roadmap
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-开发人员学习成长路线图：
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-PyTorch 从0到精通教程：
+代码整洁之道（javascript版本）：
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-深度学习入门教程资料聚合项目，包含：
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
-
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
-
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [sayhello](https://beta.sayhello.so/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [tableconvert](https://tableconvert.com/)
+### [ICO converter](https://www.icoconverter.com/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-### [mlsub](https://mlsub.net/)
+### [vim.is](https://vim.is/#exercise)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+`Vim`学习网站：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
 
 ## ✍️ 说明
 
