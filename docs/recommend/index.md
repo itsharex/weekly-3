@@ -5,89 +5,96 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
 
-### [privaxy](https://github.com/Barre/privaxy)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-### [cnchar](https://github.com/theajack/cnchar)
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
+最近很火的`AI Art` 生成模型：
+
+![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
+
+还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
+
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
 
 ## 🤖 软件 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+### [UTM](https://github.com/utmapp/UTM)
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
-
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
-
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
 ## 👀 资料 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-这里有比较全面的时间序列数据相关资源。 
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-**可惜永远都不会再更新了，默哀！**
+GitHub开源项目维护协作指南：
 
-![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
 ## 🕸 网站 
 
-### [studyhard](https://studyhard.cf/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [alternativeto](https://alternativeto.net/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [bookmark.style](https://www.bookmark.style/)
 
-一个小工具，将你的图片像素化:
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
 ## ✍️ 说明
 
