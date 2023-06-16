@@ -5,47 +5,33 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+带有用户管理和后台面板的 ChatGPT 网页应用：
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [privaxy](https://github.com/Barre/privaxy)
 
-### [dozzle](https://github.com/amir20/dozzle)
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+### [cnchar](https://github.com/theajack/cnchar)
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
 
 ## 🤖 软件 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-基于`Rust`编写的`Docker`界面管理工具：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
 ### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
@@ -57,52 +43,51 @@ Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学
 
 ![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+这里有比较全面的时间序列数据相关资源。 
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-代码整洁之道（javascript版本）：
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+**可惜永远都不会再更新了，默哀！**
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [studyhard](https://studyhard.cf/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-### [vim.is](https://vim.is/#exercise)
+### [pixel](https://aqeja.github.io/pixel/)
 
-`Vim`学习网站：
+一个小工具，将你的图片像素化:
 
-![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
 ## ✍️ 说明
 
