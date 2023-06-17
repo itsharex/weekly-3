@@ -5,96 +5,85 @@
 
 ## 🎯 项目 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [statping](https://github.com/statping/statping)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
-
-最近很火的`AI Art` 生成模型：
-
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
-
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
-
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+开源的法律知识速查手册：
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+PyTorch 从0到精通教程：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+`OpenAI API` 使用示例指南：
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-GitHub开源项目维护协作指南：
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![](https://img.turingark.com/uPic/AHWB7M.jpg)
+
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [warp.dev](https://www.warp.dev/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [devdocs](https://devdocs.io/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+提供在线快速查找API接口文档的网站：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [wantquotes.net](https://wantquotes.net/)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
-
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
 ## ✍️ 说明
 
