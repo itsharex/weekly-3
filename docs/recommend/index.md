@@ -5,85 +5,88 @@
 
 ## 🎯 项目 
 
-### [statping](https://github.com/statping/statping)
-
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
-
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
-
 ### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
 `Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
 ![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
 
-![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg) 
+![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+
+### [duplicati](https://github.com/duplicati/duplicati)
+
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [rubick](https://github.com/rubickCenter/rubick)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
 
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-开源的法律知识速查手册：
+必应 GPT 聊天桌面应用程序：
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
 ## 👀 资料 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-PyTorch 从0到精通教程：
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-`OpenAI API` 使用示例指南：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+这个项目收集了黑五打折的App和课程：
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
-
-![](https://img.turingark.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [BriefGPT](https://briefgpt.xyz/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-提供在线快速查找API接口文档的网站：
+免费的像素头像生成网站：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+软件镜像站：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
 ## ✍️ 说明
 
