@@ -5,88 +5,83 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [Textual](https://github.com/Textualize/textual)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+### [bore](https://github.com/ekzhang/bore)
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
-### [duplicati](https://github.com/duplicati/duplicati)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
 ## 🤖 软件 
 
-### [rubick](https://github.com/rubickCenter/rubick)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+### [datastation](https://github.com/multiprocessio/datastation)
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+![datastation](https://img.turingark.com/uPic/datastation.jpg) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-必应 GPT 聊天桌面应用程序：
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
 ## 👀 资料 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-这个项目收集了黑五打折的App和课程：
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+比较全面的 `k8s` 资源收集项目：
+
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
 
-### [BriefGPT](https://briefgpt.xyz/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [newsminimalist](https://www.newsminimalist.com/)
 
-免费的像素头像生成网站：
+基于 `GPT` 实现的新闻过滤网站：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [devdocs](https://devdocs.io/)
 
-软件镜像站：
+提供在线快速查找API接口文档的网站：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
