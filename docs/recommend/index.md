@@ -5,83 +5,96 @@
 
 ## 🎯 项目 
 
-### [Textual](https://github.com/Textualize/textual)
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-### [bore](https://github.com/ekzhang/bore)
+### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+最近很火的`AI Art` 生成模型：
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+
+### [amis](https://github.com/baidu/amis)
+
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
 ## 🤖 软件 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [Yank Note](https://github.com/purocean/yn)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [datastation](https://github.com/multiprocessio/datastation)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-![datastation](https://img.turingark.com/uPic/datastation.jpg) 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+### mizu
+
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+一份面向 `Docker` 初学者的教程：
 
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+### [paper-reading](https://github.com/mli/paper-reading)
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-比较全面的 `k8s` 资源收集项目：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
 ## 🕸 网站 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [jellylade](https://app.jellylade.com/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+美化截图，可以选择各种设备：
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
-### [newsminimalist](https://www.newsminimalist.com/)
+### [seekflag](https://seekflag.com/)
 
-基于 `GPT` 实现的新闻过滤网站：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [alleyread](https://alleyread.com/)
 
-提供在线快速查找API接口文档的网站：
+发现优质 `Newsletter`：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
 ## ✍️ 说明
 
