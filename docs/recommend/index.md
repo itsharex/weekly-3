@@ -5,96 +5,83 @@
 
 ## 🎯 项目 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-最近很火的`AI Art` 生成模型：
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
-
-### [amis](https://github.com/baidu/amis)
-
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
 ## 🤖 软件 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+开源的`macOS` 纯文本编辑器：
 
-### mizu
-
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
-
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
 ## 👀 资料 
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-一份面向 `Docker` 初学者的教程：
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+![](https://img.turingark.com/uPic/AHWB7M.jpg)
 
-### [paper-reading](https://github.com/mli/paper-reading)
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+### 认知偏差知识手册
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
 ## 🕸 网站 
 
-### [jellylade](https://app.jellylade.com/)
+### [aicolors](https://aicolors.co/)
 
-美化截图，可以选择各种设备：
+通过提示词，基于 AI 生成配色方案：
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [seekflag](https://seekflag.com/)
+### [iconoir](https://iconoir.com/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+开源的SVG图标搜索引擎：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
-### [alleyread](https://alleyread.com/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-发现优质 `Newsletter`：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
 
 ## ✍️ 说明
 
