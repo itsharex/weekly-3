@@ -5,83 +5,83 @@
 
 ## 🎯 项目 
 
-### [nn-editor](https://github.com/scarsty/nn-editor)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+可视化脚本框架：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
 ## 🤖 软件 
 
-### [WeChatAI](https://github.com/bingryan/WeChatAI)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-开源的`macOS` 纯文本编辑器：
+### [ShareX](https://github.com/ShareX/ShareX)
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
 ## 👀 资料 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-![](https://img.turingark.com/uPic/AHWB7M.jpg)
+![](https://img.turingark.com/uPic/f4zLoa.png) 
 
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-### 认知偏差知识手册
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
-
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
 
-### [aicolors](https://aicolors.co/)
+### [tableconvert](https://tableconvert.com/)
 
-通过提示词，基于 AI 生成配色方案：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-### [iconoir](https://iconoir.com/)
+### [readme.so](https://readme.so/)
 
-开源的SVG图标搜索引擎：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
+![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
 
 ## ✍️ 说明
 
