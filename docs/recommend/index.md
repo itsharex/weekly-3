@@ -5,97 +5,88 @@
 
 ## 🎯 项目 
 
-### [duf](https://github.com/sigoden/duf)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+用 `Python` 代码绘制云原生架构图：
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
+一个还原马赛克图片的原始内容的工具：
+
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
 ## 🤖 软件 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![datastation](https://img.turingark.com/uPic/datastation.jpg) 
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+`Notepad++`的跨平台开源实现：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
 ## 👀 资料 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-微软设计的机器学习课程，完全面向新手：
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
-
-### [v8-internals](https://github.com/plctlab/v8-internals)
-
-面向编译器开发人员的V8内部实现文档。 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [uiverse.io](https://uiverse.io/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [uipatterns](http://uipatterns.io)
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+### [buzzing.cc](https://www.buzzing.cc/)
 
-### [BriefGPT](https://briefgpt.xyz/)
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
-
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
 ## ✍️ 说明
 
