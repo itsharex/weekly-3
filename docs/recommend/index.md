@@ -5,84 +5,100 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [ChatGPT](https://chat.openai.com/chat)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-艺术二维码生成器：
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+带有用户管理和后台面板的 ChatGPT 网页应用：
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
 ## 🤖 软件 
 
-### [Files](https://github.com/files-community/Files)
+### [libpag](https://github.com/Tencent/libpag)
 
-一个现代化的文件管理软件(Windows用户专属)：
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+### [Bob](https://github.com/ripperhe/Bob)
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+自定义 `Windows 11` 任务栏时钟：
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
 ## 👀 资料 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-技术面试最后反问面试官的话。 
+这个项目收集了黑五打折的App和课程：
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
-一份面向 `Docker` 初学者的教程：
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
 ## 🕸 网站 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [chatpdf](https://www.chatpdf.com/)
 
-网站收集了各个朝代人物介绍：
+和任何 PDF 进行沟通交流：
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [vim.is](https://vim.is/#exercise)
 
-文字生成图片网站，效果和速度都还可以：
+`Vim`学习网站：
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
 
-### [tldraw](https://www.tldraw.com/)
+### [toonme](https://toonme.com)
 
-小巧强大的在线绘图工具：
+该网站将原图绘制成可爱的卡通图片：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
 
 ## ✍️ 说明
 
