@@ -5,89 +5,84 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+艺术二维码生成器：
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
 ## 🤖 软件 
 
-### [Gifski](https://github.com/sindresorhus/Gifski)
+### [Files](https://github.com/files-community/Files)
 
-在 `Mac` 上将视频转换为高质量的 `GIF`：
+一个现代化的文件管理软件(Windows用户专属)：
 
-![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-### [eaio](https://github.com/WankkoRee/eaio)
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
-
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
 ## 👀 资料 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+技术面试最后反问面试官的话。 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+一份面向 `Docker` 初学者的教程：
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-这个项目收集了黑五打折的App和课程：
-
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
 ## 🕸 网站 
 
-### [studyhard](https://studyhard.cf/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+网站收集了各个朝代人物介绍：
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-一个免费教授人们如何修理任何物品的网站：
+文字生成图片网站，效果和速度都还可以：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [tldraw](https://www.tldraw.com/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+小巧强大的在线绘图工具：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
 ## ✍️ 说明
 
