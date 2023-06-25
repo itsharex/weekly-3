@@ -5,88 +5,89 @@
 
 ## 🎯 项目 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-用 `Python` 代码绘制云原生架构图：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-一个还原马赛克图片的原始内容的工具：
-
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
 ## 🤖 软件 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [Gifski](https://github.com/sindresorhus/Gifski)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+在 `Mac` 上将视频转换为高质量的 `GIF`：
 
-![datastation](https://img.turingark.com/uPic/datastation.jpg) 
+![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-`Notepad++`的跨平台开源实现：
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+### [eaio](https://github.com/WankkoRee/eaio)
+
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
 ## 👀 资料 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+这个项目收集了黑五打折的App和课程：
+
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
 ## 🕸 网站 
 
-### [uiverse.io](https://uiverse.io/)
+### [studyhard](https://studyhard.cf/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
-### [uipatterns](http://uipatterns.io)
+### [ifixit](https://zh.ifixit.com/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+一个免费教授人们如何修理任何物品的网站：
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
 ## ✍️ 说明
 
