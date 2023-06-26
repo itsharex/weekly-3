@@ -5,100 +5,105 @@
 
 ## 🎯 项目 
 
-### [ChatGPT](https://chat.openai.com/chat)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
 ## 🤖 软件 
 
-### [libpag](https://github.com/Tencent/libpag)
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
+![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
 
-![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-### [Bob](https://github.com/ripperhe/Bob)
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-### [ElevenClock](https://github.com/marticliment/ElevenClock)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-自定义 `Windows 11` 任务栏时钟：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
+它专注于：
+
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
 ## 👀 资料 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-这个项目收集了黑五打折的App和课程：
+学习 `javascript` 的开源书籍：
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
+
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
 ## 🕸 网站 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-和任何 PDF 进行沟通交流：
+比较完善全面的图标网站：
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [vim.is](https://vim.is/#exercise)
+### [alleyread](https://alleyread.com/)
 
-`Vim`学习网站：
+发现优质 `Newsletter`：
 
-![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [toonme](https://toonme.com)
+### [wanqu.co](https://www.wanqu.co/)
 
-该网站将原图绘制成可爱的卡通图片：
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
 ## ✍️ 说明
 
