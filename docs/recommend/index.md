@@ -5,105 +5,90 @@
 
 ## 🎯 项目 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+带有用户管理和后台面板的 ChatGPT 网页应用：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
 ## 🤖 软件 
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [bdash](https://github.com/bdash-app/bdash)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+用于数据分析的简单 `SQL` 客户端：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
 
-它专注于：
-
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
 ## 👀 资料 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-学习 `javascript` 的开源书籍：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-### [hello-algo](https://github.com/krahets/hello-algo)
-
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
-
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
-
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [squoosh](https://squoosh.app/)
 
-比较完善全面的图标网站：
+免费漂亮的在线图片压缩网站：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [alleyread](https://alleyread.com/)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-发现优质 `Newsletter`：
+### [tableconvert](https://tableconvert.com/)
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-### [wanqu.co](https://www.wanqu.co/)
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+### [curated.design](https://www.curated.design/)
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+网页设计灵感目录，比较全面的设计领域导航网站：
+
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
 ## ✍️ 说明
 
