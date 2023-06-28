@@ -5,90 +5,97 @@
 
 ## 🎯 项目 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [pico.css](https://github.com/picocss/pico)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+### [chathub](https://github.com/chathub-dev/chathub)
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
+`ChatHub` 是款全能聊天机器人客户端:
 
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+### [markmap](https://github.com/gera2ld/markmap)
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+全平台支持的图片压缩软件：
 
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [bdash](https://github.com/bdash-app/bdash)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-用于数据分析的简单 `SQL` 客户端：
+### [automa](https://github.com/Kholid060/automa)
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
+监控你的应用流量，跨平台：
 
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-面向编译器开发人员的V8内部实现文档。 
+GitHub开源项目维护协作指南：
+
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
 ## 🕸 网站 
 
-### [squoosh](https://squoosh.app/)
+### [zlib.pro](https://zlib.pro/)
 
-免费漂亮的在线图片压缩网站：
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [gh-card.dev](https://gh-card.dev/)
 
-### [tableconvert](https://tableconvert.com/)
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+### [flomoapp](https://flomoapp.com/)
 
-### [curated.design](https://www.curated.design/)
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-网页设计灵感目录，比较全面的设计领域导航网站：
-
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
 
 ## ✍️ 说明
 
