@@ -5,97 +5,87 @@
 
 ## 🎯 项目 
 
-### [pico.css](https://github.com/picocss/pico)
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+简单轻量自部署的仪表盘工具：
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
-### [chathub](https://github.com/chathub-dev/chathub)
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-`ChatHub` 是款全能聊天机器人客户端:
+基于 `Notion` 构建静态站点：
 
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-### [markmap](https://github.com/gera2ld/markmap)
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
-
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-全平台支持的图片压缩软件：
+JetBrains 的下一代 IDE：
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [Later](https://github.com/alyssaxuu/later)
 
-### [automa](https://github.com/Kholid060/automa)
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+### [Mos](https://github.com/Caldis/Mos)
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-监控你的应用流量，跨平台：
-
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
 ## 👀 资料 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-GitHub开源项目维护协作指南：
+项目收集了计算机科学领域值得一读的论文：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
 ## 🕸 网站 
 
-### [zlib.pro](https://zlib.pro/)
+### [ixinqing](http://www.ixinqing.com/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+心晴 · 专注于心理学入门与自我成长:
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [svgsilh](https://svgsilh.com/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+免费可商用的`SVG`素材网站：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
-### [flomoapp](https://flomoapp.com/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
+![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
 
 ## ✍️ 说明
 
