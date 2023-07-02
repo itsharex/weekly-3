@@ -5,87 +5,94 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+### [memos](https://github.com/justmemos/memos)
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+**🎯 产品意图**:
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-### [bdash](https://github.com/bdash-app/bdash)
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
-用于数据分析的简单 `SQL` 客户端：
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-一个开源的YouTube应用程序，旨在保护隐私：
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
+
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
 ## 👀 资料 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
-
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
-
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+### [linggle](https://linggle.com/)
 
-字节开源的一款图标库。 
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-提供在线绘制时序图的网站：
+### [sao.fm](https://sao.fm/)
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+一个在线听广播电台的网站：
 
-### [flatuicolors](https://flatuicolors.com/)
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
 ## ✍️ 说明
 
