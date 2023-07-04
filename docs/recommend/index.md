@@ -5,92 +5,83 @@
 
 ## 🎯 项目 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+动漫、电视剧的自动更新及在线观，项目介绍：
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-### [pandora](https://github.com/pengzhile/pandora)
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+### [dicebear](https://github.com/dicebear/dicebear)
 
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-### [milvus](https://github.com/milvus-io/milvus)
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+### [samila](https://github.com/sepandhaghighi/samila)
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
 ## 🤖 软件 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-`Android` 平台下 `MD` 风格的文件管理器:
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-Docker 学习教程：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
-
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
-
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
-
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
 ## 🕸 网站 
 
-### [Ben Eater](https://eater.net/)
+### [fancymacbook](https://fancymacbook.app/)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
+### [douyin.wtf](https://douyin.wtf/)
 
-前端实现的 `Pokemon` 卡片展示，非常酷炫：
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
 
-![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [curated.design](https://www.curated.design/)
 
-文学相关工具在线网站：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
 ## ✍️ 说明
 
