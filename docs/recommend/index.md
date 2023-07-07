@@ -5,87 +5,92 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [Textual](https://github.com/Textualize/textual)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [privaxy](https://github.com/Barre/privaxy)
+### [shiori](https://github.com/go-shiori/shiori)
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+开源自部署的书签管理服务：
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-### [nativefier](https://github.com/nativefier/nativefier)
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+一个开源的YouTube应用程序，旨在保护隐私：
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [cursor](https://github.com/getcursor/cursor)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
 ## 👀 资料 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-这里有比较全面的时间序列数据相关资源。 
+关于 `MongoDB`，最全面的免费学习向导：
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-一份面向 `Docker` 初学者的教程：
+### [learningprompt](https://learningprompt.wiki/)
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [2d2d](https://2d2d.io/)
 
-一本开源的专门讲解面试关键路径的书籍：
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
 
 ## 🕸 网站 
 
-### [uiset](https://uiset.com/)
+### [即时工具](https://www.67tool.com/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-我的第一个NFT，在这个网站，你可以：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [BriefGPT](https://briefgpt.xyz/)
 
-### [nosh](https://nosh.rocks/)
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
-
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
 ## ✍️ 说明
 
