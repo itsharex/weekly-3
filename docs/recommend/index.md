@@ -5,92 +5,93 @@
 
 ## 🎯 项目 
 
-### [Textual](https://github.com/Textualize/textual)
+### [duplicati](https://github.com/duplicati/duplicati)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
-### [shiori](https://github.com/go-shiori/shiori)
+### [pi-hole](https://pi-hole.net/)
 
-开源自部署的书签管理服务：
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
-
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
-
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
 ## 🤖 软件 
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-一个开源的YouTube应用程序，旨在保护隐私：
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-### [cursor](https://github.com/getcursor/cursor)
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+### [MusicFree](https://github.com/maotoumao/MusicFree)
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+
+![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [just-react](https://github.com/BetaSu/just-react)
 
-关于 `MongoDB`，最全面的免费学习向导：
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-### [learningprompt](https://learningprompt.wiki/)
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [2d2d](https://2d2d.io/)
+非常全面，前端从事人员可以看看。 
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
+计算机科学课程和视频讲座列表：
+
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
 ## 🕸 网站 
 
-### [即时工具](https://www.67tool.com/)
+### [jellylade](https://app.jellylade.com/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+美化截图，可以选择各种设备：
 
-![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [BriefGPT](https://briefgpt.xyz/)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
 ## ✍️ 说明
 
