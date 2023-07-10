@@ -5,101 +5,89 @@
 
 ## 🎯 项目 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+### [FastChat](https://github.com/lm-sys/FastChat)
 
-### [umami](https://github.com/umami-software/umami)
+这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-### [tiptop](https://github.com/nschloe/tiptop)
+基于 `Notion` 构建静态站点：
 
-类似`htop`的命令行系统资源监控工具：
-
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
 ## 🤖 软件 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+一个开源的YouTube应用程序，旨在保护隐私：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-控制外部显示器的亮度和音量（macOS）：
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
-
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-`Side Project` 指南：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+- NLP
+- CV
+- Time Series
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+目录概览：
+
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
 ## 🕸 网站 
 
-### [nosh](https://nosh.rocks/)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
-### [readme.so](https://readme.so/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-### [uisdc.com](https://hao.uisdc.com/)
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-设计师网站导航：
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
 ## ✍️ 说明
 
