@@ -5,89 +5,103 @@
 
 ## 🎯 项目 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
+### [budibase](https://github.com/Budibase/budibase)
 
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
 
-基于 `Notion` 构建静态站点：
+### [chathub](https://github.com/chathub-dev/chathub)
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+`ChatHub` 是款全能聊天机器人客户端:
+
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
+
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
 ## 🤖 软件 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-### [postcat](https://github.com/Postcatlab/postcat)
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+### [Responsively](https://github.com/responsively-org/responsively-app)
+
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
-
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+测试使用网络的上传下载速度等信息：
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [myfirstnft](https://myfirstnft.info/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+我的第一个NFT，在这个网站，你可以：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [shell.how](https://www.shell.how/)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
 
 ## ✍️ 说明
 
