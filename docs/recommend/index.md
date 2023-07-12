@@ -5,103 +5,85 @@
 
 ## 🎯 项目 
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
-### [budibase](https://github.com/Budibase/budibase)
+### [alist](https://github.com/Xhofe/alist)
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-### [chathub](https://github.com/chathub-dev/chathub)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-`ChatHub` 是款全能聊天机器人客户端:
+### [immich](https://github.com/immich-app/immich)
 
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
+一个开源的高性能自托管照片和视频备份解决方案：
 
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
 ## 🤖 软件 
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
+监控你的应用流量，跨平台：
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
-
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
-
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
 ## 🕸 网站 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [meow.tg](https://meow.tg/)
 
-测试使用网络的上传下载速度等信息：
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-我的第一个NFT，在这个网站，你可以：
+软件镜像站：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [grep.app](https://grep.app/)
 
-### [shell.how](https://www.shell.how/)
+`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
-
-![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
