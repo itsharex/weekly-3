@@ -5,99 +5,91 @@
 
 ## 🎯 项目 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+一个获取百度网盘分享链接下载地址的工具：
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
-
-![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
 ## 🤖 软件 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [eaio](https://github.com/WankkoRee/eaio)
 
-面向计算机科学的简单开源学术论文管理工具：
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [uPic](https://github.com/gee1k/uPic)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+我的必备软件：
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [Yank Note](https://github.com/purocean/yn)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
 ## 👀 资料 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-> 如何同人工智能交流，并得到你要的结果。
+关于 `MongoDB`，最全面的免费学习向导：
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-### [学习CSS布局](https://zh.learnlayout.com/)
-
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
-
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
 ## 🕸 网站 
 
-### [mycolor.space](https://mycolor.space/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+### [douyin.wtf](https://douyin.wtf/)
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
-目前有两种方式使用这个项目：
+### [alternativeto](https://alternativeto.net/)
 
-- 网站：推荐
-- VS Code插件
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![Qwerty](https://img.turingark.com/uPic/tHD4ez.png) 
-
-### [segment-anything.com](https://segment-anything.com/)
-
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
-
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
-
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
