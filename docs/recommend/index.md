@@ -5,91 +5,101 @@
 
 ## 🎯 项目 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [dub](https://github.com/steven-tey/dub)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
 
-一个获取百度网盘分享链接下载地址的工具：
+在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
+- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
+- 生成图像时无需联网
+- 图像转图像（也被称为 Image2Image）
+- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
+- 使用 RealESRGAN 放大生成的图像
+- 自动保存 & 恢复图像
+- 自定义 Stable Diffusion Core ML 模型
+- 无需担心损坏的模型
+- 使用 macOS 原生框架 SwiftUI 开发
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+### [awesome-compose](https://github.com/docker/awesome-compose)
+
+一些 `Docker Compose` 的实践示例。 
 
 ## 🤖 软件 
 
-### [eaio](https://github.com/WankkoRee/eaio)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-我的必备软件：
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+### [antares](https://github.com/Fabio286/antares)
 
-### [Yank Note](https://github.com/purocean/yn)
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
-
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
-
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-关于 `MongoDB`，最全面的免费学习向导：
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+以非常直观的语言介绍`pytorch`：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+作者的同类电子书还有：
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+
+开源书籍，`Prometheus`  操作指南：
+
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
 ## 🕸 网站 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [ray.so](https://ray.so/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-### [alternativeto](https://alternativeto.net/)
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+### [antimkd](https://antimkd.com/)
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+无套路的软件下载网站：
+
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
 ## ✍️ 说明
 
