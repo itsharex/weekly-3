@@ -5,81 +5,90 @@
 
 ## 🎯 项目 
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+### [photoprism](https://github.com/photoprism/photoprism)
 
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
 ## 🤖 软件 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [eaio](https://github.com/WankkoRee/eaio)
 
-必应 GPT 聊天桌面应用程序：
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
 ## 👀 资料 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![](https://img.turingark.com/uPic/f4zLoa.png) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+非常全面，前端从事人员可以看看。 
 
-学习 `javascript` 的开源书籍：
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+中国5级行政区域mysql库：
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [calmcode](https://calmcode.io/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
-### [favicon.io](https://favicon.io/)
+### [jellylade](https://app.jellylade.com/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+美化截图，可以选择各种设备：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
-### [sysmini](https://www.sysmini.com/)
+### [w2solo](https://w2solo.com/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
-
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
