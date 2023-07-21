@@ -5,90 +5,103 @@
 
 ## 🎯 项目 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [streamlit](https://github.com/streamlit/streamlit)
 
-![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
+用 `Python` 快速构建数据应用：
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+简单描述工作内容，帮你生成完整周报：
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
 ## 🤖 软件 
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-### [eaio](https://github.com/WankkoRee/eaio)
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+### [UTM](https://github.com/utmapp/UTM)
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-### [ptg](https://github.com/crossoverJie/ptg)
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+适用于Android的免费开源漫画阅读器，流畅丝滑：
+
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ## 👀 资料 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+代码整洁之道（javascript版本）：
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
-非常全面，前端从事人员可以看看。 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+深度学习入门教程资料聚合项目，包含：
 
-中国5级行政区域mysql库：
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [calmcode](https://calmcode.io/)
+### [itnext](https://itnext.cn/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+一个介绍元宇宙的网站：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [jellylade](https://app.jellylade.com/)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-美化截图，可以选择各种设备：
+冰霜大佬的博客：
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [ray.so](https://ray.so/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+
+![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
