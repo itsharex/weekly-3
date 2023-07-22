@@ -5,103 +5,96 @@
 
 ## 🎯 项目 
 
-### [streamlit](https://github.com/streamlit/streamlit)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-用 `Python` 快速构建数据应用：
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-### [nocobase](https://github.com/nocobase/nocobase)
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+带有用户管理和后台面板的 ChatGPT 网页应用：
 
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-简单描述工作内容，帮你生成完整周报：
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [marktext](https://github.com/marktext/marktext)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
-
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-代码整洁之道（javascript版本）：
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+![](https://img.turingark.com/uPic/f4zLoa.png) 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-深度学习入门教程资料聚合项目，包含：
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
-
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [toolfinder](https://toolfinder.xyz/)
 
-一个介绍元宇宙的网站：
+生产力工具的维基百科：
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [olocr.com](https://olocr.com)
 
-冰霜大佬的博客：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
-### [ray.so](https://ray.so/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ## ✍️ 说明
 
