@@ -5,96 +5,109 @@
 
 ## 🎯 项目 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+动漫、电视剧的自动更新及在线观，项目介绍：
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+### [logto](https://github.com/logto-io/logto)
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+
+核心功能：
+
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
+
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
 ## 🤖 软件 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [legado](https://github.com/gedoor/legado)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-![](https://img.turingark.com/uPic/f4zLoa.png) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
 ## 🕸 网站 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [css.gg](https://css.gg/)
 
-生产力工具的维基百科：
+`700+` 基于 `CSS` 的图标：
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-### [olocr.com](https://olocr.com)
+### [fontawesome](https://fontawesome.com/icons/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+比较完善全面的图标网站：
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
