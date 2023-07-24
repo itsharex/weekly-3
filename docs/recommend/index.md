@@ -5,88 +5,89 @@
 
 ## 🎯 项目 
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+类似`htop`的命令行系统资源监控工具：
 
-![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+一个终端打字应用程序，以提高你的手指水平！
 
-### [umami](https://github.com/umami-software/umami)
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
 ## 🤖 软件 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-轻量级macOS剪切板管理应用：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-### [localsend](https://github.com/localsend/localsend)
+`Notepad++`的跨平台开源实现：
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
-
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
 ## 👀 资料 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+以非常直观的语言介绍`pytorch`：
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+作者的同类电子书还有：
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+
+### developer-roadmap
+
+开发人员学习成长路线图：
+
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [pixabay](https://pixabay.com/)
 
-软件镜像站：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [regex101](https://regex101.com/)
+### [mlsub](https://mlsub.net/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+### [svgsilh](https://svgsilh.com/)
 
-### [xsgames](https://xsgames.co/pixelme/)
+免费可商用的`SVG`素材网站：
 
-免费的像素头像生成网站：
-
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
 ## ✍️ 说明
 
