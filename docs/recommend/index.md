@@ -5,91 +5,109 @@
 
 ## 🎯 项目 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+动漫、电视剧的自动更新及在线观，项目介绍：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-一个获取百度网盘分享链接下载地址的工具：
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+### [logto](https://github.com/logto-io/logto)
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+
+核心功能：
+
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
+
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
 ## 🤖 软件 
 
-### [eaio](https://github.com/WankkoRee/eaio)
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
 
-### [uPic](https://github.com/gee1k/uPic)
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-我的必备软件：
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [legado](https://github.com/gedoor/legado)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-关于 `MongoDB`，最全面的免费学习向导：
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
 ## 🕸 网站 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [css.gg](https://css.gg/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+`700+` 基于 `CSS` 的图标：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+比较完善全面的图标网站：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
