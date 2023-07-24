@@ -12,7 +12,110 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 16 Jul 2023 15:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 01:17:24 +0000</lastBuildDate>
+    <item>
+      <title>07-17~07-23.老胡的周刊（第100期）.md</title>
+      <link>https://weekly.howie6879.com//2023/07-17~07-23.老胡的周刊（第100期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-17~07-23.老胡的周刊（第100期）.html"&gt;07-17~07-23.老胡的周刊（第100期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ssddanbrown/rss"&gt;ssddanbrown/rss&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简单的 &lt;code&gt;Twitter-feed&lt;/code&gt; 风格的 &lt;code&gt;RSS&lt;/code&gt; 聚合器，使用 &lt;code&gt;PHP、Laravel、Inertia.js、Tailwind、Vue.js&lt;/code&gt; 编写:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持RSS和ATOM格式&lt;/li&gt;
+&lt;li&gt;定期自动获取RSS订阅源&lt;/li&gt;
+&lt;li&gt;自定义订阅名称和颜色&lt;/li&gt;
+&lt;li&gt;基于内容的标签进行分类&lt;/li&gt;
+&lt;li&gt;3种不同的帖子布局模式（卡片、列表、紧凑）&lt;/li&gt;
+&lt;li&gt;获取页面的开放图像&lt;/li&gt;
+&lt;li&gt;通过单个纯文本文件管理的订阅源&lt;/li&gt;
+&lt;li&gt;基于系统的暗/亮主题&lt;/li&gt;
+&lt;li&gt;帖子标题/描述搜索&lt;/li&gt;
+&lt;li&gt;开箱即用的Docker镜像&lt;/li&gt;
+&lt;li&gt;手机屏幕兼容&lt;/li&gt;
+&lt;li&gt;清理旧的帖子数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ssddanbrown_rss" src="https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/shroominic/codeinterpreter-api"&gt;codeinterpreter-api&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 &lt;code&gt;ChatGPT&lt;/code&gt; 代码解释器的开源（&lt;code&gt;LangChain&lt;/code&gt;）实现：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据集分析、股票图表绘制、图像处理....&lt;/li&gt;
+&lt;li&gt;互联网访问和自动安装Python软件包&lt;/li&gt;
+&lt;li&gt;除了OpenAI API 外，所有事情在本地运行&lt;/li&gt;
+&lt;li&gt;对话记忆：根据先前的输入进行回应&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/helloxz/onenav"&gt;onenav&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：&lt;/p&gt;
+&lt;p&gt;支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台&lt;/p&gt;
+&lt;p&gt;&lt;img alt="onenav" src="https://images-1252557999.file.myqcloud.com/uPic/onenav.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/listen1/listen1_desktop"&gt;listen1_desktop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网易云音乐&lt;/li&gt;
+&lt;li&gt;QQ 音乐&lt;/li&gt;
+&lt;li&gt;酷狗音乐&lt;/li&gt;
+&lt;li&gt;酷我音乐&lt;/li&gt;
+&lt;li&gt;bilibili&lt;/li&gt;
+&lt;li&gt;咪咕音乐&lt;/li&gt;
+&lt;li&gt;千千音乐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="listen1_desktop" src="https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mltframework/shotcut"&gt;shotcut&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Shotcut&lt;/code&gt; 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="shotcut" src="https://images-1252557999.file.myqcloud.com/uPic/shotcut.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/pdfarranger/pdfarranger"&gt;pdfarranger&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个小巧开源免费的 &lt;code&gt;Python-GTK&lt;/code&gt; 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 &lt;code&gt;PDF&lt;/code&gt; 文档，并旋转、裁剪和重新排列页面：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pdfarranger" src="https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hugoattal/milky-warp"&gt;milky-warp&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Milky Warp&lt;/code&gt; 是一个开源工具，技术栈是 &lt;code&gt;Tauri、Vite、Vue、Typescript&lt;/code&gt;，核心功能就是按下快捷键时会显示一个放大镜：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;按下可配置的快捷键时显示放大镜&lt;/li&gt;
+&lt;li&gt;支持使用鼠标滚轮进行放大和缩小&lt;/li&gt;
+&lt;li&gt;跨平台：可在Windows、macOS和Linux上运行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="milky-warp" src="https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hzpt-inet-club/english-note"&gt;hzpt-inet-club/english-note&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;从0开始学习英语语法的开源项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="english-note" src="https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://pixian.ai/"&gt;pixian.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pixian" src="https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://apivault.dev/"&gt;apivault.dev&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费开源的公共 &lt;code&gt;API&lt;/code&gt; 网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="apivault" src="https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://tgscan.xyz/"&gt;tgscan&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费开源的 &lt;code&gt;Telegram&lt;/code&gt; 搜索：让你轻松找到频道、群组和聊天记录：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;github：&lt;a href="https://github.com/tgscan-dev/tgscan"&gt;tgscan-dev/tgscan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;网页：&lt;a href="https://tgscan.xyz/"&gt;tgscan.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="tgscan" src="https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/07-17~07-23.老胡的周刊（第100期）.md</guid>
+    </item>
     <item>
       <title>07-10~07-16.老胡的周刊（第099期）.md</title>
       <link>https://weekly.howie6879.com//2023/07-10~07-16.老胡的周刊（第099期）.html</link>
