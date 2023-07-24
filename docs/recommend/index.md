@@ -5,109 +5,88 @@
 
 ## 🎯 项目 
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-动漫、电视剧的自动更新及在线观，项目介绍：
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+### [umami](https://github.com/umami-software/umami)
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-### [logto](https://github.com/logto-io/logto)
-
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
-
-核心功能：
-
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
-
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
 ## 🤖 软件 
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+轻量级macOS剪切板管理应用：
 
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
 
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [localsend](https://github.com/localsend/localsend)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-### [legado](https://github.com/gedoor/legado)
+### [linearmouse](https://github.com/linearmouse/linearmouse)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
-
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
 
 ## 👀 资料 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
-
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
 ## 🕸 网站 
 
-### [css.gg](https://css.gg/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-`700+` 基于 `CSS` 的图标：
+软件镜像站：
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [regex101](https://regex101.com/)
 
-比较完善全面的图标网站：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+### [xsgames](https://xsgames.co/pixelme/)
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+免费的像素头像生成网站：
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
 ## ✍️ 说明
 
