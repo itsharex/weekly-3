@@ -5,89 +5,108 @@
 
 ## 🎯 项目 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-类似`htop`的命令行系统资源监控工具：
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-一个终端打字应用程序，以提高你的手指水平！
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+### [nas-tools](https://github.com/jxxghp/nas-tools)
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+NAS媒体库资源归集、整理自动化工具：
+
+![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [cicada](https://github.com/mebtte/cicada)
 
-`Notepad++`的跨平台开源实现：
+知了, 支持多用户的开源音乐服务：
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
+
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### 认知偏差知识手册
 
-以非常直观的语言介绍`pytorch`：
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-作者的同类电子书还有：
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+这个项目收集了黑五打折的App和课程：
 
-### developer-roadmap
-
-开发人员学习成长路线图：
-
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
 ## 🕸 网站 
 
-### [pixabay](https://pixabay.com/)
+### [feathericons](https://feathericons.com/)
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+简洁漂亮的图标网站：
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-### [mlsub](https://mlsub.net/)
+### [cikeee](https://www.cikeee.com/)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+每天推荐一部优秀的电影：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [svgsilh](https://svgsilh.com/)
+### [similarsites](https://www.similarsites.com/)
 
-免费可商用的`SVG`素材网站：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
 ## ✍️ 说明
 
