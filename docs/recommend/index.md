@@ -5,108 +5,105 @@
 
 ## 🎯 项目 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
+Nginx 后台管理UI：
 
-NAS媒体库资源归集、整理自动化工具：
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
 ## 🤖 软件 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [lettura](https://github.com/zhanglun/lettura)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-知了, 支持多用户的开源音乐服务：
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+### [bdash](https://github.com/bdash-app/bdash)
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+用于数据分析的简单 `SQL` 客户端：
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
-
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
-
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
-
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
 ## 👀 资料 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [xjq7/books](https://github.com/xjq7/books)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-### 认知偏差知识手册
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+- NLP
+- CV
+- Time Series
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+目录概览：
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
-这个项目收集了黑五打折的App和课程：
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [warp.dev](https://www.warp.dev/)
 
-简洁漂亮的图标网站：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [cikeee](https://www.cikeee.com/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-每天推荐一部优秀的电影：
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-### [similarsites](https://www.similarsites.com/)
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+### [uxdatabase](https://www.uxdatabase.io/)
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+
+![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
