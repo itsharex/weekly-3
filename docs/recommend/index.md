@@ -5,105 +5,93 @@
 
 ## 🎯 项目 
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [cadvisor](https://github.com/google/cadvisor)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+- CPU 利用率
+- 内存使用量
+- 网络传输等信息
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
 
-Nginx 后台管理UI：
+![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+### [DataEase](https://github.com/dataease/dataease)
+
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [Joplin](https://github.com/laurent22/joplin)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+> 这篇文章也是使用Joplin写的 
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-### [bdash](https://github.com/bdash-app/bdash)
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
-用于数据分析的简单 `SQL` 客户端：
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-- NLP
-- CV
-- Time Series
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-目录概览：
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+比较全面的 `k8s` 资源收集项目：
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
-
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
-
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [mlsub](https://mlsub.net/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+### [useanimations](https://useanimations.com/)
 
-### [uxdatabase](https://www.uxdatabase.io/)
+前端动态 `UI` 样式集合：
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
-
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
 ## ✍️ 说明
 
