@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [kanboard](https://kanboard.org/)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-### [freed](https://github.com/YuanHsing/freed)
+![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+### [think](https://github.com/fantasticit/think)
 
-### [orpington-news](https://github.com/frysztak/orpington-news)
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
 
-可自部署的 `RSS` 阅读器，支持 `PWA`：
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
-![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
+### [pandora](https://github.com/pengzhile/pandora)
+
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-它专注于：
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [Later](https://github.com/alyssaxuu/later)
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-开源免费的跨平台无损图片放大工具：
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+### [eaio](https://github.com/WankkoRee/eaio)
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
-
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
-
-![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
-
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
 ## 👀 资料 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+对于前端开发者来说应该是一个非常好的知识库：
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+
+![](https://img.turingark.com/uPic/AHWB7M.jpg)
+
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [flowgpt](https://flowgpt.com/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+一个分享ChatGPT提示的网站：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-比较完善全面的图标网站：
+随便画一画，生成美观的图片：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [feathericons](https://feathericons.com/)
+### [antimkd](https://antimkd.com/)
 
-简洁漂亮的图标网站：
+无套路的软件下载网站：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
 ## ✍️ 说明
 
