@@ -5,93 +5,93 @@
 
 ## 🎯 项目 
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+### [dootask](https://github.com/kuaifan/dootask)
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
 
-### [cadvisor](https://github.com/google/cadvisor)
+### [freed](https://github.com/YuanHsing/freed)
 
-一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-- CPU 利用率
-- 内存使用量
-- 网络传输等信息
+### [orpington-news](https://github.com/frysztak/orpington-news)
 
-同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
+可自部署的 `RSS` 阅读器，支持 `PWA`：
 
-![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
-
-如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
-
-### [DataEase](https://github.com/dataease/dataease)
-
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
 
 ## 🤖 软件 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+它专注于：
 
-> 这篇文章也是使用Joplin写的 
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+开源免费的跨平台无损图片放大工具：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
+
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
+
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
 ## 👀 资料 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-比较全面的 `k8s` 资源收集项目：
-
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
 ## 🕸 网站 
 
-### [mlsub](https://mlsub.net/)
+### [sayhello](https://beta.sayhello.so/)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+比较完善全面的图标网站：
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [useanimations](https://useanimations.com/)
+### [feathericons](https://feathericons.com/)
 
-前端动态 `UI` 样式集合：
+简洁漂亮的图标网站：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
 ## ✍️ 说明
 
