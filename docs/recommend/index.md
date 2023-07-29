@@ -5,86 +5,84 @@
 
 ## 🎯 项目 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![weylus](https://img.turingark.com/uPic/weylus.jpg) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-用 `GPT-3` 来解读论文的开源项目：
+在你的终端使用 `Chromium`：
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
 ## 🤖 软件 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [natpass](https://github.com/lwch/natpass)
 
-一款 `ChatGPT for Mac` 原生客户端：
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-### [shottr](https://shottr.cc/)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-免费截屏软件（macOS）：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-轻量级macOS剪切板管理应用：
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
-
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
 ## 👀 资料 
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-一份面向 `Docker` 初学者的教程：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
 ## 🕸 网站 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [warp.dev](https://www.warp.dev/)
 
-软件镜像站：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [devtool.tech](https://devtool.tech/)
 
-`GitHub` 最大的开源算法库：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [flowgpt](https://flowgpt.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+一个分享ChatGPT提示的网站：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
 ## ✍️ 说明
 
