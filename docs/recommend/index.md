@@ -5,93 +5,101 @@
 
 ## 🎯 项目 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+### [melody](https://github.com/foamzou/melody)
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+主要特性为：
+
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
 ## 🤖 软件 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-### [shotcut](https://github.com/mltframework/shotcut)
+### [eaio](https://github.com/WankkoRee/eaio)
 
-`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
-
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
 ## 👀 资料 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+对于前端开发者来说应该是一个非常好的知识库：
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
+
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [curated.design](https://www.curated.design/)
+### [itnext](https://itnext.cn/)
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+一个介绍元宇宙的网站：
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [pixabay](https://pixabay.com/)
+### [ipdetective](https://ipdetective.io/api)
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+检测 `ip` 是否是机器人：
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [http.cat](https://http.cat)
+### [ziyouziti](https://ziyouziti.com/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
 ## ✍️ 说明
 
