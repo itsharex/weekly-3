@@ -5,101 +5,88 @@
 
 ## 🎯 项目 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+通过网络收集整理的中文歌词数据库, 包含:
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+作者基于此数据库做了两个歌词生成器：
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+### [autocut](https://github.com/mli/autocut)
 
-### [melody](https://github.com/foamzou/melody)
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
-主要特性为：
+### [homepage](https://github.com/benphelps/homepage)
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+高度可定制的首页仪表板应用项目：
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
-
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
 ## 🤖 软件 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [lettura](https://github.com/zhanglun/lettura)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [eaio](https://github.com/WankkoRee/eaio)
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+学习 `javascript` 的开源书籍：
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-对于前端开发者来说应该是一个非常好的知识库：
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
-
-![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
-
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
-
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-一个介绍元宇宙的网站：
+字节开源的一款图标库。 
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+### [ip-api.com](http://ip-api.com/json)
 
-### [ipdetective](https://ipdetective.io/api)
+获取当前 ip 的免费 api 接口，同类型还有：
 
-检测 `ip` 是否是机器人：
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+### [Ben Eater](https://eater.net/)
 
-### [ziyouziti](https://ziyouziti.com/)
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
-
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
 ## ✍️ 说明
 
