@@ -5,88 +5,96 @@
 
 ## 🎯 项目 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [crawlee](https://crawlee.dev/)
 
-通过网络收集整理的中文歌词数据库, 包含:
+基于 `Node` 编写的开源网络爬虫库：
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-作者基于此数据库做了两个歌词生成器：
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-### [autocut](https://github.com/mli/autocut)
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+带看板的开源项目管理工具:
 
-### [homepage](https://github.com/benphelps/homepage)
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-高度可定制的首页仪表板应用项目：
-
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [natpass](https://github.com/lwch/natpass)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+### [NetNewsWire](https://netnewswire.com/)
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+
+![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
 
 ## 👀 资料 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [rust-course](https://github.com/sunface/rust-course)
 
-学习 `javascript` 的开源书籍：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+阅读地址见[course.rs](https://course.rs)。 
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+这个项目收集了黑五打折的App和课程：
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
 ## 🕸 网站 
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+### [openvim](https://www.openvim.com/)
 
-字节开源的一款图标库。 
+交互式 `vim` 学习网站：
 
-### [ip-api.com](http://ip-api.com/json)
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-获取当前 ip 的免费 api 接口，同类型还有：
+### [zlib.pro](https://zlib.pro/)
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-### [Ben Eater](https://eater.net/)
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+### [favicon.io](https://favicon.io/)
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
 ## ✍️ 说明
 
