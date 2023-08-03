@@ -5,96 +5,92 @@
 
 ## 🎯 项目 
 
-### [crawlee](https://crawlee.dev/)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-基于 `Node` 编写的开源网络爬虫库：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [slickr](https://github.com/saviomartin/slickr)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [privaxy](https://github.com/Barre/privaxy)
 
-带看板的开源项目管理工具:
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
 ## 🤖 软件 
 
-### [natpass](https://github.com/lwch/natpass)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+### [uPic](https://github.com/gee1k/uPic)
 
-### [NetNewsWire](https://netnewswire.com/)
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+我的必备软件：
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
-
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-这个项目收集了黑五打折的App和课程：
+![](https://img.turingark.com/uPic/SBotTN.jpg)
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+其他同类教程地址：
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [grep.app](https://grep.app/)
 
-交互式 `vim` 学习网站：
+`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
-### [zlib.pro](https://zlib.pro/)
+### [ziyouziti](https://ziyouziti.com/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [favicon.io](https://favicon.io/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
 ## ✍️ 说明
 
