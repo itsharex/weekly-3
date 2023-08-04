@@ -5,92 +5,102 @@
 
 ## 🎯 项目 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [slickr](https://github.com/saviomartin/slickr)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-### [privaxy](https://github.com/Barre/privaxy)
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
 
 ## 🤖 软件 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-### [uPic](https://github.com/gee1k/uPic)
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-我的必备软件：
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
-
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
 ## 👀 资料 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![](https://img.turingark.com/uPic/SBotTN.jpg)
+![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
 
-其他同类教程地址：
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+更新记录如下：
 
-开源的正则表达式教程，有中文版，有在线示例。 
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
 ## 🕸 网站 
 
-### [grep.app](https://grep.app/)
+### [xyzrank.com](https://xyzrank.com/)
 
-`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
+中文播客榜单：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [tgscan](https://tgscan.xyz/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+### [chatdoc](https://chatdoc.com/)
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
 ## ✍️ 说明
 
