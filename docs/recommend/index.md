@@ -5,102 +5,103 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
-### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
+### [immich](https://github.com/immich-app/immich)
 
-基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
+一个开源的高性能自托管照片和视频备份解决方案：
 
-![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
 ## 🤖 软件 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+沉浸式双语网页翻译扩展：
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+
+基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
+
+- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
+- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
+- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
+- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
+- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
+- 内置丰富的导出功能，更加便利的分享结果！
+- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
+- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
+
+![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
 
 ## 👀 资料 
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+《Mastering GO》中文译本，《玩转 GO》：
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-更新记录如下：
-
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
-
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
 ## 🕸 网站 
-
-### [xyzrank.com](https://xyzrank.com/)
-
-中文播客榜单：
-
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
-
-### [tgscan](https://tgscan.xyz/)
-
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
-
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
-
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
 ### [chatdoc](https://chatdoc.com/)
 
 `ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
 ![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+
+### [fviewer](https://www.fviewer.com/zh)
+
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+
+### [Connected Papers](https://www.connectedpapers.com/)
+
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
 ## ✍️ 说明
 
