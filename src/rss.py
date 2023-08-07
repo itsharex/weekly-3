@@ -75,6 +75,7 @@ def gen_rss():
         fe.link(href=f"{BASE_URL}/{file_name.replace('md','html')}")
         fe.description(f"<![CDATA[ {cur_data['file_html']} ]]>")
         fe.author(name="老胡的储物柜")
+        # fe.pubDate(cur_data["file_updated_at_date"])
     # rss_data = str(fg.atom_str(pretty=True), "utf-8")
     fg.rss_file(RSS_FILE, pretty=True, encoding="utf-8")
     fg.rss_file(
