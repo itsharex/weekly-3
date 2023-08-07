@@ -5,90 +5,94 @@
 
 ## 🎯 项目 
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+一个还原马赛克图片的原始内容的工具：
 
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [BookStack](https://github.com/BookStackApp/BookStack)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+一个开源的`documentation/wik`文档管理平台，其核心特性如下：
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+- 免费开源可自建
+- 简单易用的交互界面
+- 全文检索以及文档互联
+- 可配置
+- 强大的编辑功能，MD支持
+- 等
 
-### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
 
-基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
+有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
 
-![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
+### [homepage](https://github.com/benphelps/homepage)
+
+高度可定制的首页仪表板应用项目：
+
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
 ## 🤖 软件 
 
-### [libpag](https://github.com/Tencent/libpag)
+### [vnote](https://github.com/vnotex/vnote)
 
-`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
-![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
+### [postcat](https://github.com/Postcatlab/postcat)
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-### [kondo](https://github.com/tbillington/kondo)
+超方便的微信视频号下载器：
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
-
-可以看到上面 `Rust` 项目依赖确实大。 
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
 ## 👀 资料 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+清华大学计算机系课程攻略：
 
-![](https://img.turingark.com/uPic/SBotTN.jpg)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-其他同类教程地址：
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
-
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
-
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+### [batnoter](https://batnoter.com/)
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [apivault.dev](https://apivault.dev/)
+### [onepdf](https://www.onepdf.online/)
 
-免费开源的公共 `API` 网站：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-### [untools](https://untools.co/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-一个帮助你思考的集合工具&框架：
+提供在线绘制时序图的网站：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
