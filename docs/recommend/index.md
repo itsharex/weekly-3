@@ -5,94 +5,111 @@
 
 ## 🎯 项目 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-一个还原马赛克图片的原始内容的工具：
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+简单轻量自部署的仪表盘工具：
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-### [homepage](https://github.com/benphelps/homepage)
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
 
-高度可定制的首页仪表板应用项目：
+项目列表如下：
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-超方便的微信视频号下载器：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
-
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
 ## 👀 资料 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-清华大学计算机系课程攻略：
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+深度学习入门教程资料聚合项目，包含：
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+
+`Solidity` 极简入门：
+
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-### [onepdf](https://www.onepdf.online/)
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+### [svgsilh](https://svgsilh.com/)
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+免费可商用的`SVG`素材网站：
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
-提供在线绘制时序图的网站：
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
 ## ✍️ 说明
 
