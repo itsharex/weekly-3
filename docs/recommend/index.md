@@ -5,49 +5,37 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+可视化脚本框架：
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-简单轻量自部署的仪表盘工具：
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
-
-项目列表如下：
-
-![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
+![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
 ### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
@@ -55,61 +43,49 @@
 
 ![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
-
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
-
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
-
 ## 👀 资料 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+目前也提供了中文版：
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-深度学习入门教程资料聚合项目，包含：
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-`Solidity` 极简入门：
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [removebg](https://www.remove.bg/zh)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-### [svgsilh](https://svgsilh.com/)
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-免费可商用的`SVG`素材网站：
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
-
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
 ## ✍️ 说明
 
