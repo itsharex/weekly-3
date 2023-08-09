@@ -5,87 +5,84 @@
 
 ## 🎯 项目 
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-可视化脚本框架：
+用 `GPT-3` 来解读论文的开源项目：
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+### [HTTPie](https://github.com/httpie/httpie)
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+现代化的HTTP客户端命令行工具：
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
 
-### [nn-editor](https://github.com/scarsty/nn-editor)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
 ## 🤖 软件 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [lively](https://github.com/rocksdanister/lively)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+针对 `Windows` 的开源的动态壁纸软件：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [cicada](https://github.com/mebtte/cicada)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+知了, 支持多用户的开源音乐服务：
 
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
+
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-目前也提供了中文版：
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
-
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
-
-### [sql-mother](https://github.com/liyupi/sql-mother)
-
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
-
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
-
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [w2solo](https://w2solo.com/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+### [ifixit](https://zh.ifixit.com/)
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+一个免费教授人们如何修理任何物品的网站：
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
-
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
 ## ✍️ 说明
 
