@@ -5,84 +5,91 @@
 
 ## 🎯 项目 
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-用 `GPT-3` 来解读论文的开源项目：
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
-### [HTTPie](https://github.com/httpie/httpie)
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-现代化的HTTP客户端命令行工具：
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
+
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
 ## 🤖 软件 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-针对 `Windows` 的开源的动态壁纸软件：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [bdash](https://github.com/bdash-app/bdash)
 
-知了, 支持多用户的开源音乐服务：
+用于数据分析的简单 `SQL` 客户端：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
-
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
 ## 👀 资料 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+`OpenAI API` 使用示例指南：
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+
+![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+开放纯粹的资源网站：
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-### [ifixit](https://zh.ifixit.com/)
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
-一个免费教授人们如何修理任何物品的网站：
+### [watermarkremover](https://www.watermarkremover.io/)
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+通过AI技术去除图片水印：
+
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
 ## ✍️ 说明
 
