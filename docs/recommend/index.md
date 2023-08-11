@@ -5,11 +5,17 @@
 
 ## 🎯 项目 
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+### [reader-s](https://github.com/hectorqin/reader)
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+
+### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
+
+`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
+
+![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
 
 ### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
@@ -17,79 +23,74 @@
 
 ![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
-
-一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
-
-支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
-- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
-- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
-- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
-- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
-- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
-- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
-
-![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
-
 ## 🤖 软件 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+超方便的微信视频号下载器：
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+### [lively](https://github.com/rocksdanister/lively)
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+针对 `Windows` 的开源的动态壁纸软件：
 
-### [bdash](https://github.com/bdash-app/bdash)
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-用于数据分析的简单 `SQL` 客户端：
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
 ## 👀 资料 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-`OpenAI API` 使用示例指南：
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [khroma](https://www.khroma.co/)
 
-开放纯粹的资源网站：
+人工智能配色网站：
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [uiset](https://uiset.com/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [openvim](https://www.openvim.com/)
 
-通过AI技术去除图片水印：
+交互式 `vim` 学习网站：
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
 ## ✍️ 说明
 
