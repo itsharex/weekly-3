@@ -5,92 +5,107 @@
 
 ## 🎯 项目 
 
-### [reader-s](https://github.com/hectorqin/reader)
+### [onenav](https://github.com/helloxz/onenav)
 
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
-`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
+### [500lines](https://github.com/aosabook/500lines)
 
-![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
+如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+- 持续集成系统
+- 分布式系统
+- 异步爬虫
+- 等等
 
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+
+### [kanboard](https://kanboard.org/)
+
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+
+![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-超方便的微信视频号下载器：
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [buster](https://github.com/dessant/buster)
 
-### [lively](https://github.com/rocksdanister/lively)
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-针对 `Windows` 的开源的动态壁纸软件：
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
-
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ## 👀 资料 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+`OpenAI` 出品的的深度强化学习教程：
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-从零开始学习Kubernetes的路线图（初级到高级）：
-
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
 ## 🕸 网站 
 
-### [khroma](https://www.khroma.co/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-人工智能配色网站：
+免费的二维码生成网站：
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [uiset](https://uiset.com/)
+### [uisdc.com](https://hao.uisdc.com/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+设计师网站导航：
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [openvim](https://www.openvim.com/)
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-交互式 `vim` 学习网站：
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
 ## ✍️ 说明
 
