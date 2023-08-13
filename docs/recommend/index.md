@@ -5,107 +5,107 @@
 
 ## 🎯 项目 
 
-### [onenav](https://github.com/helloxz/onenav)
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-支持后台管- 理
-- 支持私有链接
-- 支持Chrome/Firefox/Edge书签批量导入
-- 支持多种主题风格
-- 支持链接信息自动识别
-- 支持API
-- 支持Docker部署
-- 支持uTools插件
-- 支持二级分类
-- 支持Chromium内核的浏览器扩展（插件）
-- 支持在线更新
-- 手机版后台
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-### [500lines](https://github.com/aosabook/500lines)
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+最近很火的`AI Art` 生成模型：
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
 
-### [kanboard](https://kanboard.org/)
+还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
 
-![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
+### [wechat-export](https://github.com/luin/wechat-export)
+
+将微信聊天记录导出为HTML文件：
+
+![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
 
 ## 🤖 软件 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
-### [buster](https://github.com/dessant/buster)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
 ## 👀 资料 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-`OpenAI` 出品的的深度强化学习教程：
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+清华大学计算机系课程攻略：
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [cook](https://github.com/YunYouJun/cook)
 
-免费的二维码生成网站：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [uipatterns](http://uipatterns.io)
 
-设计师网站导航：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
