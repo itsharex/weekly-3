@@ -4,11 +4,13 @@
     Changelog: all notable changes to this file will be documented
 """
 
+import datetime
 import os
 import re
 import time
 
 import markdown
+import pytz
 
 from feedgen.feed import FeedGenerator
 
@@ -75,7 +77,12 @@ def gen_rss():
         fe.link(href=f"{BASE_URL}/{file_name.replace('md','html')}")
         fe.description(f"<![CDATA[ {cur_data['file_html']} ]]>")
         fe.author(name="老胡的储物柜")
-        # fe.pubDate(cur_data["file_updated_at_date"])
+        dt = datetime.datetime.strptime(
+            cur_data["file_updated_at_date"], "%Y-%m-%d %H:%M:%S"
+        )
+        beijing_tz = pytz.timezone("Asia/Shanghai")
+        dt_with_tz = dt.replace(tzinfo=beijing_tz)
+        fe.pubDate(dt_with_tz)
     # rss_data = str(fg.atom_str(pretty=True), "utf-8")
     fg.rss_file(RSS_FILE, pretty=True, encoding="utf-8")
     fg.rss_file(
