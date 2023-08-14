@@ -5,84 +5,111 @@
 
 ## 🎯 项目 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [musicn](https://github.com/zonemeen/musicn)
 
-一个还原马赛克图片的原始内容的工具：
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-### [flet](https://github.com/flet-dev/flet)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+### [immich](https://github.com/immich-app/immich)
+
+一个开源的高性能自托管照片和视频备份解决方案：
+
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
 ## 🤖 软件 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+`Notepad++`的跨平台开源实现：
 
-### [datastation](https://github.com/multiprocessio/datastation)
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-![datastation](https://img.turingark.com/uPic/datastation.jpg) 
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
 ## 👀 资料 
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-### [secguide](https://github.com/Tencent/secguide)
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+非常全面，前端从事人员可以看看。 
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
 ## 🕸 网站 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-### [linegraphmaker](https://linegraphmaker.co/)
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+### [flow](https://github.com/pacexy/flow)
 
-### [fancymacbook](https://fancymacbook.app/)
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+### [wanqu.co](https://www.wanqu.co/)
+
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
 ## ✍️ 说明
 
