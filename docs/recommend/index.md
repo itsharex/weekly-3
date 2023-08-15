@@ -5,111 +5,95 @@
 
 ## 🎯 项目 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![](https://img.turingark.com/uPic/APrAbH.png) 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-### [immich](https://github.com/immich-app/immich)
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-一个开源的高性能自托管照片和视频备份解决方案：
-
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
 ## 🤖 软件 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-`Notepad++`的跨平台开源实现：
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
 ## 👀 资料 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [visualize-ml](https://github.com/visualize-ml)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-非常全面，前端从事人员可以看看。 
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
-
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
 ## 🕸 网站 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [myfirstnft](https://myfirstnft.info/)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+我的第一个NFT，在这个网站，你可以：
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-### [flow](https://github.com/pacexy/flow)
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-### [wanqu.co](https://www.wanqu.co/)
+文字生成图片网站，效果和速度都还可以：
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
-
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
 ## ✍️ 说明
 
