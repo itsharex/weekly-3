@@ -5,95 +5,79 @@
 
 ## 🎯 项目 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
 
-![](https://img.turingark.com/uPic/APrAbH.png) 
+![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
 
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
 
 ## 🤖 软件 
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+### [B站录播姬](https://rec.danmuji.org/)
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
-
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [xjq7/books](https://github.com/xjq7/books)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+ ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
-
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
-
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
-
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-我的第一个NFT，在这个网站，你可以：
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+### [chatpdf](https://www.chatpdf.com/)
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+和任何 PDF 进行沟通交流：
 
-文字生成图片网站，效果和速度都还可以：
-
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
 ## ✍️ 说明
 
