@@ -5,79 +5,103 @@
 
 ## 🎯 项目 
 
-### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+### [safeline](https://github.com/chaitin/safeline)
 
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
+一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
+- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
+- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
+- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
+- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
+简单描述工作内容，帮你生成完整周报：
+
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
 ## 🤖 软件 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [yarr](https://github.com/nkanaev/yarr)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+总体来说还是挺简洁轻量的：
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-### [B站录播姬](https://rec.danmuji.org/)
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+
+### [libpag](https://github.com/Tencent/libpag)
+
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
+
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
+
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
- ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [小鱼速读](http://www.xysudu.com/)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
 
-### [chatpdf](https://www.chatpdf.com/)
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
-和任何 PDF 进行沟通交流：
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+PDF Squeezer 是一款 PDF 压缩工具：
+
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ## ✍️ 说明
 
