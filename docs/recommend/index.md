@@ -5,103 +5,90 @@
 
 ## 🎯 项目 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-### [safeline](https://github.com/chaitin/safeline)
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
-一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
-- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
-- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
-- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-简单描述工作内容，帮你生成完整周报：
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
 ## 🤖 软件 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [shotcut](https://github.com/mltframework/shotcut)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
 
-总体来说还是挺简洁轻量的：
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+### [Macast](https://github.com/xfangfang/Macast)
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-### [libpag](https://github.com/Tencent/libpag)
-
-`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
-
-PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
-
-![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
+![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
 
 ## 👀 资料 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+### [sideproject](https://sideproject.guide/)
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+`Side Project` 指南：
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+
+这里有比较全面的时间序列数据相关资源。 
 
 ## 🕸 网站 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+测试使用网络的上传下载速度等信息：
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-PDF Squeezer 是一款 PDF 压缩工具：
-
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
 ## ✍️ 说明
 
