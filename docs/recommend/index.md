@@ -5,90 +5,107 @@
 
 ## 🎯 项目 
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+目前支持 Chrome 和 Edge 两款浏览器：
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
 ## 🤖 软件 
 
-### [shotcut](https://github.com/mltframework/shotcut)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
+开源免费的跨平台无损图片放大工具：
 
-![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
+- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
+- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
+- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
+- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
+- 内置丰富的导出功能，更加便利的分享结果！
+- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
+- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
 
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+超方便的微信视频号下载器：
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
+
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+> 如何同人工智能交流，并得到你要的结果。
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-### [sideproject](https://sideproject.guide/)
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
-`Side Project` 指南：
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-这里有比较全面的时间序列数据相关资源。 
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
 ## 🕸 网站 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [watermark](https://watermark.liumingye.cn/)
 
-测试使用网络的上传下载速度等信息：
+短视频/图集在线去水印解析：
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [cikeee](https://www.cikeee.com/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+每天推荐一部优秀的电影：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [cryptologos](https://cryptologos.cc/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
 ## ✍️ 说明
 
