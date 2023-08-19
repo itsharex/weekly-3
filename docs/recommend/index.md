@@ -5,107 +5,77 @@
 
 ## 🎯 项目 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+### [sealos](https://github.com/fanux/sealos)
 
-目前支持 Chrome 和 Edge 两款浏览器：
-
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
-
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
-
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
-
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
 ## 🤖 软件 
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+### [eaio](https://github.com/WankkoRee/eaio)
 
-开源免费的跨平台无损图片放大工具：
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
-### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+### [Files](https://github.com/files-community/Files)
 
-基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
+一个现代化的文件管理软件(Windows用户专属)：
 
-- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
-- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
-- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
-- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
-- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
-- 内置丰富的导出功能，更加便利的分享结果！
-- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
-- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
+![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
 
-![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
+### [Equinox](https://github.com/rlxone/Equinox)
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-超方便的微信视频号下载器：
-
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
-
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
 ## 👀 资料 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-> 如何同人工智能交流，并得到你要的结果。
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+关于软件公司如何测试其软件的公共资源集合：
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
-
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
-
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
 ## 🕸 网站 
 
-### [watermark](https://watermark.liumingye.cn/)
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-短视频/图集在线去水印解析：
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
-### [cikeee](https://www.cikeee.com/)
+### [up-6.com](https://www.up-6.com/)
 
-每天推荐一部优秀的电影：
+一个英语学习导航网站：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+`GitHub` 最大的开源算法库：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
 ## ✍️ 说明
 
