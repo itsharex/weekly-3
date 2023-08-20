@@ -5,77 +5,101 @@
 
 ## 🎯 项目 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-### [sealos](https://github.com/fanux/sealos)
+一个极简的 `RSS` 在线浏览工具：
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
+
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
 ## 🤖 软件 
 
-### [eaio](https://github.com/WankkoRee/eaio)
+### [dockeye](https://github.com/vv9k/dockeye)
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+基于`Rust`编写的`Docker`界面管理工具：
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
-### [Files](https://github.com/files-community/Files)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-一个现代化的文件管理软件(Windows用户专属)：
+沉浸式双语网页翻译扩展：
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-### [Equinox](https://github.com/rlxone/Equinox)
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+
+![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
 
 ## 👀 资料 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-关于软件公司如何测试其软件的公共资源集合：
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+### [flow](https://github.com/pacexy/flow)
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [up-6.com](https://www.up-6.com/)
+### [untools](https://untools.co/)
 
-一个英语学习导航网站：
+一个帮助你思考的集合工具&框架：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [小鱼速读](http://www.xysudu.com/)
 
-`GitHub` 最大的开源算法库：
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
 ## ✍️ 说明
 
