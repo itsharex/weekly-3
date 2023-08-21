@@ -5,101 +5,81 @@
 
 ## 🎯 项目 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [HTTPie](https://github.com/httpie/httpie)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+现代化的HTTP客户端命令行工具：
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
 
-![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+### [picx](https://github.com/XPoet/picx)
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 
-一个极简的 `RSS` 在线浏览工具：
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
-
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
 ## 🤖 软件 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-基于`Rust`编写的`Docker`界面管理工具：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-沉浸式双语网页翻译扩展：
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+### [ambie](https://github.com/jenius-apps/ambie)
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
-
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
 ## 👀 资料 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
-
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
 ## 🕸 网站 
 
-### [flow](https://github.com/pacexy/flow)
+### [it-tools](https://it-tools.tech/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+非常漂亮的程序员工具箱聚合网站：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg) 
 
-### [untools](https://untools.co/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-一个帮助你思考的集合工具&框架：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+自动对联网站：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
-
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
 ## ✍️ 说明
 
