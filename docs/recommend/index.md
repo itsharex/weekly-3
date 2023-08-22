@@ -5,81 +5,98 @@
 
 ## 🎯 项目 
 
-### [HTTPie](https://github.com/httpie/httpie)
+### [wtfutil](https://github.com/wtfutil/wtf)
 
-现代化的HTTP客户端命令行工具：
+在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
 
-![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
+![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
 
-### [picx](https://github.com/XPoet/picx)
+### [btop](https://github.com/aristocratos/btop)
 
-基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [samila](https://github.com/sepandhaghighi/samila)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+JetBrains 的下一代 IDE：
 
-### [ambie](https://github.com/jenius-apps/ambie)
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
 
 ## 👀 资料 
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+微软设计的机器学习课程，完全面向新手：
+
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
 ## 🕸 网站 
 
-### [it-tools](https://it-tools.tech/)
+### [sqlime](http://sqlime.org/)
 
-非常漂亮的程序员工具箱聚合网站：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [khroma](https://www.khroma.co/)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+人工智能配色网站：
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [userscloud](https://userscloud.com/)
 
-自动对联网站：
+免费使用的云空间分享网页：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
 ## ✍️ 说明
 
