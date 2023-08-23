@@ -5,98 +5,97 @@
 
 ## 🎯 项目 
 
-### [wtfutil](https://github.com/wtfutil/wtf)
+### [pi-hole](https://pi-hole.net/)
 
-在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-### [btop](https://github.com/aristocratos/btop)
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
 ## 🤖 软件 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-JetBrains 的下一代 IDE：
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
-
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
 ## 👀 资料 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-微软设计的机器学习课程，完全面向新手：
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [allthingsai](https://allthingsai.com/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+提供完整的 `AI` 相关工具&服务资源：
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-### [khroma](https://www.khroma.co/)
+### [pixabay](https://pixabay.com/)
 
-人工智能配色网站：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [userscloud](https://userscloud.com/)
+### [ailogo](https://ailogo.qq.com/)
 
-免费使用的云空间分享网页：
+`AI` 智能生成可商用的 `LOGO`：
 
-![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
 ## ✍️ 说明
 
