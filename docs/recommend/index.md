@@ -5,83 +5,98 @@
 
 ## 🎯 项目 
 
-### [surveyking](https://github.com/javahuang/surveyking)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-功能挺全面的一个调查问卷系统：
+通过网络收集整理的中文歌词数据库, 包含:
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [manifest](https://github.com/jonathontoon/manifest)
+作者基于此数据库做了两个歌词生成器：
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+### [rembg](https://github.com/danielgatis/rembg)
 
-### [nativefier](https://github.com/nativefier/nativefier)
+之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+![rembg](https://img.turingark.com/uPic/rembg.jpg)
 
-![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
+你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
 ## 🤖 软件 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [stats](https://github.com/exelban/stats)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+基于 `macOS` 菜单栏的系统监控软件：
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [libpag](https://github.com/Tencent/libpag)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
 
-### [ptg](https://github.com/crossoverJie/ptg)
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+### [Yank Note](https://github.com/purocean/yn)
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
 ## 👀 资料 
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-一份面向 `Docker` 初学者的教程：
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-### [paper-reading](https://github.com/mli/paper-reading)
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
-
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [screenshot](https://screenshot.rocks/)
+### [dbbqb](https://www.dbbqb.com/)
 
-快速创建精美的移动和浏览器屏幕截图：
+专业的表情包搜索网站：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [tldraw](https://www.tldraw.com/)
 
-阿里云资源搜索引擎：
+小巧强大的在线绘图工具：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-### [seekflag](https://seekflag.com/)
+### [fviewer](https://www.fviewer.com/zh)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
 ## ✍️ 说明
 
