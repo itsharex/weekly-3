@@ -5,114 +5,86 @@
 
 ## 🎯 项目 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+作者创建此开源项目的目的如下：
 
-![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [doocs/md](https://github.com/doocs/md)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+每天学习一个 Go 语言库，内容质量相当高。
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
 
-### [duf](https://github.com/sigoden/duf)
+### [btop](https://github.com/aristocratos/btop)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [lapce](https://github.com/lapce/lapce)
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-### [mCollection](https://github.com/hunmer/mCollection)
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-🎉开源，可扩展，可自定义的素材管理库：
-
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
-
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
 ## 👀 资料 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+开源的正则表达式教程，有中文版，有在线示例。 
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
-
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
-
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
-
-**可惜永远都不会再更新了，默哀！**
-
-![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
 ## 🕸 网站 
 
-### [neeva](https://neeva.com/search)
+### [帮小忙](https://tool.browser.qq.com/)
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
-### [xyzrank.com](https://xyzrank.com/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-中文播客榜单：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
 ## ✍️ 说明
 
