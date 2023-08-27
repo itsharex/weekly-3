@@ -5,108 +5,86 @@
 
 ## 🎯 项目 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [zdir](https://github.com/helloxz/zdir)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-`Neovim` 针对 `ChatGPT` 的插件：
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-### [whistle](https://github.com/avwo/whistle)
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
-- **功能强大（理论上可以对请求做任意修改）**：
-    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
-    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
-    - 支持查看远程页面的 console 日志及 DOM 节点
-    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
-- **操作简单**：
-    - 直接通过浏览器查看抓包、修改请求
-    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
-    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
 ## 🤖 软件 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [lettura](https://github.com/zhanglun/lettura)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+### [eoapi](https://github.com/eolinker/eoapi)
 
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
-
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
-
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
-
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+技术面试最后反问面试官的话。 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-### 认知偏差知识手册
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+一份循序渐进的 `k8s` 教程：
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
 ## 🕸 网站 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [fviewer](https://www.fviewer.com/zh)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [damngood.tools](https://damngood.tools/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+开源实用工具集合：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
-### [ray.so](https://ray.so/)
+### [aicodeconvert](https://aicodeconvert.com/)
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
+
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
 ## ✍️ 说明
 
