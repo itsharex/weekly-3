@@ -5,86 +5,108 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-作者创建此开源项目的目的如下：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+`Neovim` 针对 `ChatGPT` 的插件：
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
-每天学习一个 Go 语言库，内容质量相当高。
+### [whistle](https://github.com/avwo/whistle)
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
 
-### [btop](https://github.com/aristocratos/btop)
+- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
+- **功能强大（理论上可以对请求做任意修改）**：
+    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
+    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
+    - 支持查看远程页面的 console 日志及 DOM 节点
+    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
+- **操作简单**：
+    - 直接通过浏览器查看抓包、修改请求
+    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
+    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
-
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
 
 ## 🤖 软件 
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-### [lapce](https://github.com/lapce/lapce)
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
 
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
 ## 👀 资料 
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-开源的正则表达式教程，有中文版，有在线示例。 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+### 认知偏差知识手册
+
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
 ## 🕸 网站 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+### [ray.so](https://ray.so/)
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
-
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
