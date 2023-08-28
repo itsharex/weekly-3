@@ -5,86 +5,105 @@
 
 ## 🎯 项目 
 
-### [zdir](https://github.com/helloxz/zdir)
+### [showdoc](https://github.com/star7th/showdoc)
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-### [eoapi](https://github.com/eolinker/eoapi)
+面向计算机科学的简单开源学术论文管理工具：
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
-
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
 ## 👀 资料 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-技术面试最后反问面试官的话。 
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-一份循序渐进的 `k8s` 教程：
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
+
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
 
 ## 🕸 网站 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [allthingsai](https://allthingsai.com/)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+提供完整的 `AI` 相关工具&服务资源：
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-### [damngood.tools](https://damngood.tools/)
+### [khroma](https://www.khroma.co/)
 
-开源实用工具集合：
+人工智能配色网站：
 
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
-
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
 ## ✍️ 说明
 
