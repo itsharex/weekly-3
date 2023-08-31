@@ -5,82 +5,67 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
 
-![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
+![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
 
-### [jina](https://github.com/jina-ai/jina)
+### [photoprism](https://github.com/photoprism/photoprism)
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+### [pi-hole](https://pi-hole.net/)
 
-### [budibase](https://github.com/Budibase/budibase)
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
-
-![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
 ## 🤖 软件 
 
-### [automa](https://github.com/Kholid060/automa)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [lettura](https://github.com/zhanglun/lettura)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
-
-![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
-
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
 ## 👀 资料 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+### RustBook
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-`OpenAI API` 使用示例指南：
+![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
-
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
+
+### [ixinqing](http://www.ixinqing.com/)
+
+心晴 · 专注于心理学入门与自我成长:
+
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
 ### [calltoinspiration](https://calltoinspiration.com/)
 
@@ -88,17 +73,11 @@ Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文�
 
 ![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [alternativeto](https://alternativeto.net/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
-
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
-
-`GitHub` 最大的开源算法库：
-
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
