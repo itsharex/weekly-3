@@ -5,79 +5,114 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
+### [cadvisor](https://github.com/google/cadvisor)
 
-`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
+一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
 
-![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
+- CPU 利用率
+- 内存使用量
+- 网络传输等信息
 
-### [photoprism](https://github.com/photoprism/photoprism)
+同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
 
-### [pi-hole](https://pi-hole.net/)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+一个开源的快速制作文章封面图的工具。
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+
+### [whistle](https://github.com/avwo/whistle)
+
+Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
+
+- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
+- **功能强大（理论上可以对请求做任意修改）**：
+    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
+    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
+    - 支持查看远程页面的 console 日志及 DOM 节点
+    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
+- **操作简单**：
+    - 直接通过浏览器查看抓包、修改请求
+    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
+    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
+
+![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
 
 ## 🤖 软件 
 
-### [ruzz](https://github.com/vlts1/ruzz)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
 ## 👀 资料 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### 认知偏差知识手册
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-### RustBook
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
+微软设计的机器学习课程，完全面向新手：
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
 ## 🕸 网站 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [ouchn](https://le.ouchn.cn/#/home)
 
-心晴 · 专注于心理学入门与自我成长:
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
-### [calltoinspiration](https://calltoinspiration.com/)
+### [ifixit](https://zh.ifixit.com/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+一个免费教授人们如何修理任何物品的网站：
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [regex101](https://regex101.com/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
+
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
