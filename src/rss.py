@@ -74,7 +74,7 @@ def gen_rss():
         file_name: str = cur_data["file_name"]
         fe.id(file_name)
         fe.title(cur_data["file_title"])
-        fe.link(href=f"{BASE_URL}/{file_name.replace('md','html')}")
+        fe.link(href=f"{BASE_URL}{file_name.replace('md','html')}")
         fe.description(f"<![CDATA[ {cur_data['file_html']} ]]>")
         fe.author(name="老胡的储物柜")
         dt = datetime.datetime.strptime(
