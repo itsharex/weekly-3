@@ -5,110 +5,90 @@
 
 ## 🎯 项目 
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+### [1Panel](https://github.com/1Panel-dev/1Panel)
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-在你的终端使用 `Chromium`：
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
 ## 🤖 软件 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [Codeium](https://codeium.com/)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+谷歌出品的四天学习 `Rust` 👀
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-《结网》作者王坚的开源新书：
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### RustBook
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
+![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
 
 ## 🕸 网站 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-### [khroma](https://www.khroma.co/)
+`GitHub` 最大的开源算法库：
 
-人工智能配色网站：
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+### [seekflag](https://seekflag.com/)
 
-### [flowgpt](https://flowgpt.com/)
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-一个分享ChatGPT提示的网站：
-
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
 ## ✍️ 说明
 
