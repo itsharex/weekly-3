@@ -5,90 +5,90 @@
 
 ## 🎯 项目 
 
-### [1Panel](https://github.com/1Panel-dev/1Panel)
+### [yao](https://github.com/YaoApp/yao)
 
-`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
-- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
-- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
-- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
-![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+### [homelab](https://github.com/khuedoan/homelab)
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+### [freed](https://github.com/YuanHsing/freed)
 
-### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
-
-基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
-
-![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
-### [Codeium](https://codeium.com/)
+### [Cider](https://github.com/ciderapp/Cider)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
 ## 👀 资料 
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-谷歌出品的四天学习 `Rust` 👀
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-### RustBook
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
 ## 🕸 网站 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [webutils](https://www.webutils.app/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+一个提供web小工具的网站，比如：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+- 文本比较
+- 图片压缩
+- 图片转换
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
 
-`GitHub` 最大的开源算法库：
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-### [seekflag](https://seekflag.com/)
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
 ## ✍️ 说明
 
