@@ -5,90 +5,83 @@
 
 ## 🎯 项目 
 
-### [yao](https://github.com/YaoApp/yao)
+### [autocut](https://github.com/mli/autocut)
 
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
 
-![yao](https://img.turingark.com/uPic/yao.jpg) 
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
-### [homelab](https://github.com/khuedoan/homelab)
+### [ChatALL](https://github.com/sunner/ChatALL)
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+同时与所有 AI 机器人聊天，然后发现最佳选择：
 
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
+![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
 ## 🤖 软件 
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-### [Cider](https://github.com/ciderapp/Cider)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+一款 `ChatGPT for Mac` 原生客户端：
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
 ## 👀 资料 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
-
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
-
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
-
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+Go语言实战: 编写可维护Go语言代码建议。 
 
 ## 🕸 网站 
 
-### [webutils](https://www.webutils.app/)
+### [phind.com](https://www.phind.com/)
 
-一个提供web小工具的网站，比如：
+面向开发者的人工智能搜索引擎：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
+### [unDraw](https://undraw.co/illustrations)
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+### [relationship](https://passer-by.com/relationship/)
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+中国亲戚关系计算器：
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
 ## ✍️ 说明
 
