@@ -165,6 +165,7 @@ theme:
   - search.highlight
   - search.share
   - search.suggest
+  - toc.follow
   font:
     code: Roboto Mono
     text: Roboto
