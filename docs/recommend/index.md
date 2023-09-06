@@ -5,83 +5,98 @@
 
 ## 🎯 项目 
 
-### [autocut](https://github.com/mli/autocut)
+### [onenav](https://github.com/helloxz/onenav)
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-### [ChatALL](https://github.com/sunner/ChatALL)
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
-同时与所有 AI 机器人聊天，然后发现最佳选择：
+### [kanboard](https://kanboard.org/)
 
-![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
+
+一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
+
+![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
 
 ## 🤖 软件 
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+### [ambie](https://github.com/jenius-apps/ambie)
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-一款 `ChatGPT for Mac` 原生客户端：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+### [visualize-ml](https://github.com/visualize-ml)
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+一个在YouTube上发现最新机器学习课程的项目。 
 
 ## 🕸 网站 
 
-### [phind.com](https://www.phind.com/)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-面向开发者的人工智能搜索引擎：
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-### [unDraw](https://undraw.co/illustrations)
+### [screenshot](https://screenshot.rocks/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+快速创建精美的移动和浏览器屏幕截图：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-### [relationship](https://passer-by.com/relationship/)
+可以免费在线听&下载歌曲：
 
-中国亲戚关系计算器：
-
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
 ## ✍️ 说明
 
