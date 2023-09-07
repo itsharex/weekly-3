@@ -5,98 +5,94 @@
 
 ## 🎯 项目 
 
-### [onenav](https://github.com/helloxz/onenav)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-支持后台管- 理
-- 支持私有链接
-- 支持Chrome/Firefox/Edge书签批量导入
-- 支持多种主题风格
-- 支持链接信息自动识别
-- 支持API
-- 支持Docker部署
-- 支持uTools插件
-- 支持二级分类
-- 支持Chromium内核的浏览器扩展（插件）
-- 支持在线更新
-- 手机版后台
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-### [kanboard](https://kanboard.org/)
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
+基于 fabric.js 和 Vue 的图片编辑器，可自定义字体、素材、设计模板：
 
-### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
-
-一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
-
-![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
+![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
 
 ## 🤖 软件 
 
-### [ambie](https://github.com/jenius-apps/ambie)
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
 ## 👀 资料 
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+重新分类 Leetcode 高频题 2021 版
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+Docker 学习教程：
+
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
 ## 🕸 网站 
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-### [screenshot](https://screenshot.rocks/)
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-快速创建精美的移动和浏览器屏幕截图：
+### [maeda-design-room](https://dotown.maeda-design-room.net/)
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png) 
 
-可以免费在线听&下载歌曲：
+### [sov2ex.com](https://www.sov2ex.com/)
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
+
+![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
 
 ## ✍️ 说明
 
