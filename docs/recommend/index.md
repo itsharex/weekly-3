@@ -5,94 +5,93 @@
 
 ## 🎯 项目 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
-### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-基于 fabric.js 和 Vue 的图片编辑器，可自定义字体、素材、设计模板：
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
+
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
 ## 🤖 软件 
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+高度可定制的macOS状态栏替代品：
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
 ## 👀 资料 
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+### [just-react](https://github.com/BetaSu/just-react)
 
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-重新分类 Leetcode 高频题 2021 版
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
-
-Docker 学习教程：
-
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
-
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
 ## 🕸 网站 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [devtool.tech](https://devtool.tech/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+### [linggle](https://linggle.com/)
 
-### [maeda-design-room](https://dotown.maeda-design-room.net/)
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png) 
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-### [sov2ex.com](https://www.sov2ex.com/)
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
-
-![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
