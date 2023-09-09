@@ -1,4 +1,4 @@
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 前言
 
@@ -7,7 +7,7 @@
 老胡的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。当前阅读渠道如下：
 
 - [网站](https://weekly.howie6879.com/)
-- [公众号](https://img.turingark.com/uPic/wechat_mp.jpeg)
+- [公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [周刊RSS](https://weekly.howie6879.com/rss/rss.xml)
 - [今日推荐](https://weekly.howie6879.com/recommend)
 
@@ -43,7 +43,7 @@
 如果你有不错的资源希望分享给我，欢迎以[Issue自荐](https://github.com/howie6879/weekly/issues/1)形式和我沟通。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 01-01~01-09.老胡的周刊（第021期）
 
@@ -102,7 +102,9 @@ GitHub 官方发布的一套技术文档，自带了有多个语言版本。主�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 01-10~01-14.老胡的周刊（第022期）
 
@@ -204,7 +206,9 @@ Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 01-17~01-22.老胡的周刊（第023期）
 
@@ -216,13 +220,13 @@ Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协�
 
 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-![heti](https://img.turingark.com/uPic/WrpZDT.jpg)
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg)
 
 ### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
 可视化脚本框架：
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg)
+![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg)
 
 ### [mometa](https://github.com/imcuttle/mometa)
 
@@ -236,7 +240,7 @@ mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是
 - 同时支持所见即所得的可视编辑，用于提效，提升开发体验
 - 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![mometa](https://img.turingark.com/uPic/snapshot.png)
+![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png)
 
 ### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
@@ -246,7 +250,7 @@ mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是
 
 Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg)
+![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg)
 
 ## 🤖 软件
 
@@ -254,25 +258,25 @@ Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经�
 
 Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg)
+![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg)
 
 ### [Focalboard](https://github.com/mattermost/focalboard)
 
 `Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg)
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg)
 
 ### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![hitomi](https://img.turingark.com/uPic/hitomi.gif)
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif)
 
 ### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
 谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png)
+![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png)
 
 ## 👀 资料
 
@@ -280,13 +284,13 @@ Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电�
 
 作者持续写了将近20年的技术博文，涵盖面极广：
 
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png)
+![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png)
 
 ### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png)
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png)
 
 ### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
@@ -294,7 +298,7 @@ Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电�
 
 本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png)
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png)
 
 ## 🕸 网站
 
@@ -302,25 +306,25 @@ Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电�
 
 开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png)
+![zzollo](https://images-1252557999.file.myqcloud.com/uPic/NJXulr.png)
 
 ### [sqlime](http://sqlime.org/)
 
 SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg)
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg)
 
 ### [itnext](https://itnext.cn/)
 
 一个介绍元宇宙的网站：
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png)
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png)
 
 ### [zhongguose](http://zhongguose.com/)
 
 一个中国传统颜色的配色网站：
 
-![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg)
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg)
 
 ## ✍️ 说明
 
@@ -331,7 +335,9 @@ SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 01-23~01-30.老胡的周刊（第024期）
 
@@ -343,7 +349,7 @@ SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点�
 
 `daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-![daedalOS](https://img.turingark.com/uPic/ISxBdY.png)
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png)
 
 ### [QRec](https://github.com/Coder-Yu/QRec)
 
@@ -353,7 +359,7 @@ Python编写的推荐系统快速实践框架（基于TF），和之前推荐的
 
 一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg)
+![homelab](https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg)
 
 ### [memos](https://github.com/justmemos/memos)
 
@@ -369,13 +375,13 @@ Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推
 
 该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg)
+![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg)
 
 ### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg)
+![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg)
 
 ## 🤖 软件
 
@@ -387,7 +393,7 @@ Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学
 
 支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
 
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png)
+![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png)
 
 ### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
@@ -398,7 +404,7 @@ Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学
 - 支持OPML导入导出
 - 正则检索，状态管控，快捷键等
 
-![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png)
+![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png)
 
 ## 👀 资料
 
@@ -406,7 +412,7 @@ Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学
 
 深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png)
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png)
 
 ### [leetcode](https://github.com/doocs/leetcode)
 
@@ -416,39 +422,33 @@ Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学
 
 为忙碌的工程师准备的精选面试准备材料：
 
-![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png)
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png)
 
 ## 🕸 网站
 
-### flomoapp
+### [flomoapp](https://flomoapp.com/)
 
 flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg)
-
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
-
-阿里云盘资源论坛:
-
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png)
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg)
 
 ### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
 一个搜索 git 常用 emoji 的网站:
 
-![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png)
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png)
 
 ### [darebee](https://darebee.com/)
 
 一个教你正确运动姿势的网站：
 
-![darebee](https://img.turingark.com/uPic/eIHdyQ.png)
+![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png)
 
 ### [读书笔记](https://reading.geek-docs.com/)
 
 网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png)
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png)
 
 ## ✍️ 说明
 
@@ -459,7 +459,9 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 01-31~02-05.老胡的周刊（第025期）
 
@@ -471,7 +473,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-![webvm](https://img.turingark.com/uPic/1yRQBe.png)
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
 详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。
 
@@ -479,7 +481,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg)
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg)
 
 ## 🤖 软件
 
@@ -487,7 +489,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 全平台支持的图片压缩软件：
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
 看看这86%的压缩率还是挺上头的，而且效果很好。
 
@@ -497,7 +499,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg)
 
 ### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
@@ -513,19 +515,19 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 心晴 · 专注于心理学入门与自我成长:
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png)
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png)
 
 ### [pixel](https://aqeja.github.io/pixel/)
 
 一个小工具，将你的图片像素化:
 
-![;''](https://img.turingark.com/uPic/KfJuhM.png)
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png)
 
 ### [tinypng](https://tinypng.com/)
 
 比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
+![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
 
 如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
@@ -540,7 +542,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 - 图片压缩
 - 图片转换
 
-![webutils](https://img.turingark.com/uPic/ijDiPA.png)
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png)
 
 ## ✍️ 说明
 
@@ -551,7 +553,9 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 02-07~02-14.老胡的周刊（第026期）
 
@@ -563,7 +567,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-![](https://img.turingark.com/uPic/oQ6iZ0.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg)
 
 ### [freed](https://github.com/YuanHsing/freed)
 
@@ -591,7 +595,7 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 
 一本小书《带你入门前端工程》
 
-![](https://img.turingark.com/uPic/e783TS.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png)
 
 ### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
@@ -603,7 +607,7 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 
 @妙才投稿，在线学习git命令的网站：
 
-![](https://img.turingark.com/uPic/YSiAVW.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png)
 
 ### [quanxin](https://quanxin.org/)
 
@@ -614,13 +618,13 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 - [HTTP 状态码参考表](https://quanxin.org/http-status-code)
 - [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-![](https://img.turingark.com/uPic/i6hqlr.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png)
 
 ### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
 作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
 
 感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。
@@ -634,7 +638,9 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 02-15~02-20.老胡的周刊（第027期）
 
@@ -650,7 +656,7 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 
 你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-![](https://img.turingark.com/uPic/oGeICY.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
 官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
@@ -668,7 +674,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 
 `BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
 如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。
 
@@ -676,11 +682,11 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 
 Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![](https://img.turingark.com/uPic/DevToys.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
 
 可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
 放心体验吧~
 
@@ -688,10 +694,10 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 轻量级macOS剪切板管理应用：
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
 使用截图如下：
 
-![](https://img.turingark.com/uPic/SWZ6kJ.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png)
 
 ## 👀 资料
 
@@ -707,7 +713,7 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![](https://img.turingark.com/uPic/SBotTN.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
 
 其他同类教程地址：
 
@@ -740,13 +746,13 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 - https://sci-hub.ru/
 - https://sci-hub.st/
 
-![](https://img.turingark.com/uPic/ISPyBJ.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png)
 
 ### [pixel-me](https://pixel-me.tokyo/en/)
 
 将你的头像像素化，质量挺好：
 
-![](https://img.turingark.com/uPic/gnHdoM.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png)
 
 ## ✍️ 说明
 
@@ -757,7 +763,9 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 02-21~02-27.老胡的周刊（第028期）
 
@@ -769,7 +777,7 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg)
 
 ### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
@@ -785,7 +793,7 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg)
 
 ### [CatchMouse](https://github.com/round/CatchMouse)
 
@@ -803,13 +811,13 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 - 在合并PR时，添加等待检查的选项
 - ...
 
-![](https://img.turingark.com/uPic/lI0jFl.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png)
 
 ### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
 跨平台的`youtube-dl`客户端：
 
-![](https://img.turingark.com/uPic/yd_gui.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png)
 
 ## 👀 资料
 
@@ -839,19 +847,19 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 
 一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg)
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg)
 
 ### [maeda-design-room](https://dotown.maeda-design-room.net/)
 
 免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
 
-![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png)
+![maeda-design-room](https://images-1252557999.file.myqcloud.com/uPic/DRpEV6.png)
 
 ### [uxdatabase](https://www.uxdatabase.io/)
 
 国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg)
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg)
 
 ## ✍️ 说明
 
@@ -862,7 +870,9 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 02-28~03-05.老胡的周刊（第029期）
 
@@ -874,13 +884,13 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 
 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg)
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg)
 
 ### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
 通过分析用户提供的静态页面自动创建RSS订阅源：
 
-![](https://img.turingark.com/uPic/APrAbH.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png)
 
 ## 🤖 软件
 
@@ -888,7 +898,7 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 
 一个`macOS`的上的`SSH`客户端：
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
 软件特性：
 
@@ -903,19 +913,19 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 
 一个现代化的文件管理软件(Windows用户专属)：
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg)
+![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg)
 
 ### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
 `TinyPNG`的`Mac`客户端：
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png)
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png)
 
 ### [vnote](https://github.com/vnotex/vnote)
 
 VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![vnote](https://img.turingark.com/uPic/vnote.png)
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png)
 
 ## 👀 资料
 
@@ -923,7 +933,7 @@ VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台
 
 一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-![RustBook](https://img.turingark.com/uPic/RustBook.jpg)
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg)
 
 ### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
@@ -939,7 +949,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
 现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。
 
@@ -952,7 +962,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 - [C++](https://www.programcreek.com/cpp/)
 - [Scala](https://www.programcreek.com/scala/)
 
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png)
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png)
 
 ## ✍️ 说明
 
@@ -963,7 +973,9 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 03-07~03-13.老胡的周刊（第030期）
 
@@ -975,19 +987,19 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 `Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-![yao](https://img.turingark.com/uPic/yao.jpg)
+![yao](https://images-1252557999.file.myqcloud.com/uPic/yao.jpg)
 
 ### [photoview](https://github.com/photoview/photoview)
 
 开源的相册程序，可基于Docker快速构建：
 
-![photoview](https://img.turingark.com/uPic/photoview.png)
+![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png)
 
 ### [greppo](https://github.com/greppo-io/greppo)
 
 快速轻松地构建部署地理空间应用程序：
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg)
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg)
 
 
 ### [tinysearch](https://github.com/tinysearch/tinysearch)
@@ -998,13 +1010,13 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 `Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-![ml4a](https://img.turingark.com/uPic/ml4a.jpg)
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg)
 
 ### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
 腾讯开源的老照片修复项目：
 
-![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg)
+![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg)
 
 ## 🤖 软件
 
@@ -1012,7 +1024,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 基于`Rust`跨平台的文件搜索引擎：
 
-![Orange](https://img.turingark.com/uPic/Orange.jpg)
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg)
 
 ## 👀 资料
 
@@ -1020,14 +1032,14 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![](https://img.turingark.com/uPic/96wIDJ.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png)
 
 
 ### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
 针对新人的 `CSS` 入门级教程：
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
 在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
@@ -1035,7 +1047,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-![](https://img.turingark.com/uPic/f4zLoa.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png)
 
 
 ## 🕸 网站
@@ -1044,19 +1056,19 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 [pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![pika](https://img.turingark.com/uPic/pika.jpg)
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg)
 
 ### [devtool.tech](https://devtool.tech/)
 
 开发者武器库，作者提供了83个开发者常用的工具：
 
-![](https://img.turingark.com/uPic/ZlVqam.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png)
 
 ### [readme.so](https://readme.so/)
 
 一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg)
+![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg)
 
 ## ✍️ 说明
 
@@ -1067,7 +1079,9 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 03-14~03-20.老胡的周刊（第031期）
 
@@ -1079,7 +1093,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg)
+![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg)
 
 ## 🤖 软件
 
@@ -1087,25 +1101,25 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 `Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![Miao](https://img.turingark.com/uPic/Miao.png)
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png)
 
 ### [KOReader](https://github.com/koreader/koreader)
 
 KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-![koreader](https://img.turingark.com/uPic/koreader.jpg)
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg)
 
 ### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
 开源的法律知识速查手册：
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png)
+![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png)
 
 ### [tts-now](https://github.com/funnyzak/tts-now)
 
 基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg)
 
 
 ## 👀 资料
@@ -1114,13 +1128,13 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg)
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg)
 
 ### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
 计算机科学课程和视频讲座列表：
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg)
+![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg)
 
 ## 🕸 网站
 
@@ -1128,25 +1142,25 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![rutracker](https://img.turingark.com/uPic/rutracker.jpg)
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg)
 
 ### [watermarkremover](https://www.watermarkremover.io/)
 
 通过AI技术去除图片水印：
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg)
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg)
 
 ### [emojiall](https://www.emojiall.com/)
 
 网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg)
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg)
 
 ### [sao.fm](https://sao.fm/)
 
 一个在线听广播电台的网站：
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg)
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg)
 
 ## ✍️ 说明
 
@@ -1157,7 +1171,9 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 03-21~03-27.老胡的周刊（第032期）
 
@@ -1169,13 +1185,13 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-![ossart](https://img.turingark.com/uPic/5SYY8P.jpg)
+![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg)
 
 ### [docker-wechat](https://github.com/huan/docker-wechat)
 
 盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![docker-wechat](https://img.turingark.com/uPic/docker-wechat.png)
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png)
 
 ### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
@@ -1203,7 +1219,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 `Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg)
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg)
 
 ## 🤖 软件
 
@@ -1211,7 +1227,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png)
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png)
 
 ## 👀 资料
 
@@ -1219,13 +1235,13 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg)
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg)
 
 ### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
 强化学习中文教程：
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg)
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg)
 
 ## 🕸 网站
 
@@ -1233,13 +1249,13 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 将你的源代码转成漂亮可分享的图片：
 
-![carbon](https://img.turingark.com/uPic/carbon.jpg)
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg)
 
 ### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
 免费的二维码生成网站：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg)
+![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg)
 
 ## ✍️ 说明
 
@@ -1250,7 +1266,9 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 03-28~04-03.老胡的周刊（第033期）
 
@@ -1262,7 +1280,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
 简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。
 
@@ -1270,13 +1288,13 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
 
-![weylus](https://img.turingark.com/uPic/weylus.jpg)
+![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg)
 
 ### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
 非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg)
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg)
 
 ## 🤖 软件
 
@@ -1284,7 +1302,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-![Gif123](https://img.turingark.com/uPic/FQabyv.jpg)
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg)
 
 ## 👀 资料
 
@@ -1292,7 +1310,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![cb](https://img.turingark.com/uPic/cb.jpg)
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg)
 
 ### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
@@ -1302,7 +1320,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg)
+![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg)
 
 ## 🕸 网站
 
@@ -1310,25 +1328,25 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![ray.so](https://img.turingark.com/uPic/ray.so.jpg)
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg)
 
 ### [shell.how](https://www.shell.how/)
 
 网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg)
+![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg)
 
 ### [compressjpeg](https://compressjpeg.com/zh/)
 
 一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg)
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg)
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [zhaoziyuan](https://zhaoziyuan.pw/)
 
 阿里云资源搜索引擎：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg)
+![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg)
 
 ## ✍️ 说明
 
@@ -1339,7 +1357,9 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 04-04~04-10.老胡的周刊（第034期）
 
@@ -1351,13 +1371,13 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg)
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg)
 
 ### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
 一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png)
+![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png)
 
 ## 🤖 软件
 
@@ -1372,7 +1392,7 @@ AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型�
 
 科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
 还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。
 
@@ -1380,21 +1400,21 @@ AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型�
 
 PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-![peazip](https://img.turingark.com/uPic/peazip.png)
+![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png)
 
 ## 👀 资料
 
 ### [2d2d](https://2d2d.io/)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg)
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg)
 
 ### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
  Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
- ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg)
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg)
 
 ## 🕸 网站
 
@@ -1402,13 +1422,13 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 
 该网站将原图绘制成可爱的卡通图片：
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg)
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg)
 
 ### [drawio](https://github.com/jgraph/drawio)
 
 一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg)
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg)
 
 ## ✍️ 说明
 
@@ -1419,7 +1439,9 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 04-11~04-16.老胡的周刊（第035期）
 
@@ -1431,7 +1453,7 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 
 之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-![rembg](https://img.turingark.com/uPic/rembg.jpg)
+![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
 
 你可以作为第三方库使用，也在终端以及启用服务化来使用。
 
@@ -1443,7 +1465,7 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 
 类似`htop`的命令行系统资源监控工具：
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png)
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png)
 
 ## 🤖 软件
 
@@ -1460,19 +1482,19 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 - 支持快捷方式库，可以自己开发
 - ...
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png)
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png)
 
 ### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
 `Notepad++`的跨平台开源实现：
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png)
+![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png)
 
 ### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
 B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![](https://img.turingark.com/uPic/F42ndl.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg)
 
 ## 👀 资料
 
@@ -1480,7 +1502,7 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
 
 本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。
 
@@ -1496,13 +1518,13 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-![](https://img.turingark.com/uPic/ub1GLI.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg)
 
 ### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
 2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![](https://img.turingark.com/uPic/AHWB7M.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
 
 更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/)
 
@@ -1512,13 +1534,13 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg)
 
-### [uipatterns](http://uipatterns.io/) 
+### [uipatterns](http://uipatterns.io)
 
 程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![](https://img.turingark.com/uPic/uipatterns.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg)
 
 ## ✍️ 说明
 
@@ -1529,7 +1551,9 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-<div class="page-break"></div>
+
+
+以下是2022年周刊
 
 # 04-18~04-23.老胡的周刊（第036期）
 
@@ -1541,19 +1565,19 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 现代化的HTTP客户端命令行工具：
 
-![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif)
+![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif)
 
 ### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
 `Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif)
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif)
 
 ### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
 一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg)
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg)
 
 ## 🤖 软件
 
@@ -1561,13 +1585,13 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg)
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg)
 
 ### [datastation](https://github.com/multiprocessio/datastation)
 
 `DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![datastation](https://img.turingark.com/uPic/datastation.jpg)
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg)
 
 
 ## 👀 资料
@@ -1576,13 +1600,13 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg)
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg)
 
 ### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
 一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg)
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg)
 
 ### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
@@ -1594,19 +1618,19 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![cook](https://img.turingark.com/uPic/cook.jpg)
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg)
 
 ### [icones.js.org](https://icones.js.org/)
 
 免费的图标库：
 
-![icones](https://img.turingark.com/uPic/icones.jpg)
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg)
 
 ### [zerossl](https://zerossl.com/)
 
 一个可以免费签 IP 地址 SSL 证书的网站：
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg)
+![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg)
 
 ## ✍️ 说明
 
@@ -1618,7 +1642,8 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 04-25~05-01.老胡的周刊（第037期）
 
@@ -1630,19 +1655,19 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
  一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png)
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png)
 
 ### [surveyking](https://github.com/javahuang/surveyking)
 
 功能挺全面的一个调查问卷系统：
 
-![surveyking](https://img.turingark.com/uPic/surveyking.jpg)
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg)
 
 ### [cnchar](https://github.com/theajack/cnchar)
 
 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![cnchar](https://img.turingark.com/uPic/cnchar.jpg)
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg)
 
 ### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
@@ -1663,19 +1688,19 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png)
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png)
 
 ### [Robo 3T](https://github.com/Studio3T/robomongo)
 
 本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg)
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg)
 
 ### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 快速稳定好用的Redis跨平台桌面管理软件：
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png)
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png)
 
 ## 👀 资料
 
@@ -1683,13 +1708,13 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![logic](https://img.turingark.com/uPic/logic.jpg)
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg)
 
 ### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
 本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-![fun-rec](https://img.turingark.com/uPic/fun-rec.jpg)
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg)
 
 ### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
@@ -1714,13 +1739,13 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![wrap](https://img.turingark.com/uPic/wrap.jpg)
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg)
 
 ### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
 Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-![google_path](https://img.turingark.com/uPic/google_path.jpg)
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg)
 
 ## ✍️ 说明
 
@@ -1732,7 +1757,8 @@ Google为数据、机器学习工程师、架构师、分析师等提供的免�
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 05-02~05-07.老胡的周刊（第038期）
 
@@ -1837,7 +1863,8 @@ B站视频命令行下载工具：
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 05-09~05-15.老胡的周刊（第039期）
 
@@ -1943,7 +1970,8 @@ LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频�
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 05-16~05-21.老胡的周刊（第040期）
 
@@ -2036,7 +2064,8 @@ laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一�
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 05-23~05-28.老胡的周刊（第041期）
 
@@ -2170,7 +2199,8 @@ Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持�
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 05-30~06-04.老胡的周刊（第042期）
 
@@ -2312,7 +2342,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 06-06~06-11.老胡的周刊（第043期）
 
@@ -2422,7 +2452,8 @@ PDF Squeezer 是一款 PDF 压缩工具：
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 06-13~06-18.老胡的周刊（第044期）
 
@@ -2533,7 +2564,8 @@ PDF Squeezer 是一款 PDF 压缩工具：
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 06-20~06-25.老胡的周刊（第045期）
 
@@ -2642,7 +2674,8 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 06-27~07-02.老胡的周刊（第046期）
 
@@ -2732,7 +2765,8 @@ Go语言实战: 编写可维护Go语言代码建议。
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 07-04~07-10.老胡的周刊（第047期）
 
@@ -2821,7 +2855,8 @@ Go语言实战: 编写可维护Go语言代码建议。
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 07-11~07-17.老胡的周刊（第048期）
 
@@ -2927,7 +2962,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 07-18~07-24.老胡的周刊（第049期）
 
@@ -3024,7 +3059,8 @@ GitHub开源项目维护协作指南：
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 07-25~07-31.老胡的周刊（第050期）
 
@@ -3106,7 +3142,8 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 08-01~08-07.老胡的周刊（第051期）
 
@@ -3186,7 +3223,8 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 08-07~08-14.老胡的周刊（第052期）
 
@@ -3293,7 +3331,8 @@ CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式�
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
-<div class="page-break"></div>
+
+以下是2022年周刊
 
 # 08-15~08-21.老胡的周刊（第053期）
 
@@ -3382,7 +3421,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 08-22~08-28.老胡的周刊（第054期）
 
@@ -3460,7 +3499,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 
 ![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg)
 
-### [mycolor.space](https://mycolor.space/)：
+### [mycolor.space](https://mycolor.space/)
 
 渐变配色生成器，自动生成 `CSS` 代码：
 
@@ -3483,7 +3522,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 08-29~09-04.老胡的周刊（第055期）
 
@@ -3569,7 +3608,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 09-05~09-11.老胡的周刊（第056期）
 
@@ -3669,7 +3708,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 09-12~09-18.老胡的周刊（第057期）
 
@@ -3748,7 +3787,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 09-19~09-24.老胡的周刊（第058期）
 
@@ -3828,7 +3867,7 @@ PyTorch 从0到精通教程：
 
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 09-26~09-30.老胡的周刊（第059期）
 
@@ -3926,7 +3965,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 10-03~10-09.老胡的周刊（第060期）
 
@@ -4012,7 +4051,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 10-10~10-16.老胡的周刊（第061期）
 
@@ -4090,7 +4129,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 10-17~10-23.老胡的周刊（第062期）
 
@@ -4177,7 +4216,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 10-24~10-30.老胡的周刊（第063期）
 
@@ -4260,7 +4299,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 10-31~11-06.老胡的周刊（第064期）
 
@@ -4322,12 +4361,6 @@ PyTorch 从0到精通教程：
 
 ![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg)
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
-
-50多个使用 `HTML、CSS、JS` 的小项目，这是一个掌握前端基础的课程相关代码仓库：
-
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50pd.jpg)
-
 ## 🕸 网站
 
 ### [openvim](https://www.openvim.com/)
@@ -4353,7 +4386,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 11-07~11-13.老胡的周刊（第065期）
 
@@ -4434,7 +4467,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 11-14~11-20.老胡的周刊（第066期）
 
@@ -4535,7 +4568,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 11-21~11-27.老胡的周刊（第067期）
 
@@ -4626,7 +4659,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 11-28~12-04.老胡的周刊（第068期）
 
@@ -4735,7 +4768,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 12-05~12-10.老胡的周刊（第069期）
 
@@ -4821,7 +4854,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 12-12~12-18.老胡的周刊（第070期）
 
@@ -4912,7 +4945,7 @@ PyTorch 从0到精通教程：
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 12-19~12-24.老胡的周刊（第071期）
 
@@ -5035,7 +5068,7 @@ FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
 
-<div class="page-break"></div>
+以下是2022年周刊
 
 # 12-26~12-31.老胡的周刊（第072期）
 

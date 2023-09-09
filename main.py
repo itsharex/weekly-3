@@ -96,7 +96,7 @@ def gen_weekly_title(years: int):
 
 if __name__ == "__main__":
     # 生成年度周刊内容合集
-    # gen_weekly_content(2022)
+    # gen_weekly_content(2023)
     # exit()
     # 生成 sitemap
     gen_sitemap()
