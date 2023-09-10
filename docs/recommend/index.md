@@ -5,97 +5,90 @@
 
 ## 🎯 项目 
 
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-### [sealos](https://github.com/fanux/sealos)
+### [linkding](https://github.com/sissbruecker/linkding)
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+开源的网络书签服务，支持 Docker 部署：
 
-### [appwrite](https://github.com/appwrite/appwrite)
+![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+录制终端操作并生成 `gif` 动图：
+
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-免费截屏软件（macOS）：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
 ## 👀 资料 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [paper-reading](https://github.com/mli/paper-reading)
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+### [go101](https://gfw.go101.org/article/101.html)
+
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
 ## 🕸 网站 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
 
-比较完善全面的图标网站：
+[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
 
-### [pika](https://pika.style/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-### [regexlearn](https://regexlearn.com)
+### [upstract](https://upstract.com/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+比较全面的新闻聚合平台：
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
 ## ✍️ 说明
 
