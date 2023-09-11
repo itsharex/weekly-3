@@ -5,87 +5,94 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [melody](https://github.com/foamzou/melody)
 
-快速轻松地构建部署地理空间应用程序：
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+主要特性为：
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-简单、快速、以键盘为中心处理思维导图的终端工具：
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
 
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+
+### [notion-blog](https://github.com/ijjk/notion-blog)
+
+基于 `Notion` 构建静态站点：
+
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
 ## 🤖 软件 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [wiliwili](https://github.com/xfangfang/wiliwili)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-针对新人的 `CSS` 入门级教程：
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
-
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
-
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
 ## 🕸 网站 
 
-### [recompressor](https://zh.recompressor.com/)
+### [carbon](https://carbon.now.sh/)
 
-免费的图片压缩工具：
+将你的源代码转成漂亮可分享的图片：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [screenshot](https://screenshot.rocks/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+快速创建精美的移动和浏览器屏幕截图：
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-### [readme.so](https://readme.so/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
+
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
 ## ✍️ 说明
 
