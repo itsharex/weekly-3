@@ -5,42 +5,37 @@
 
 ## 🎯 项目 
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+### [greppo](https://github.com/greppo-io/greppo)
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+快速轻松地构建部署地理空间应用程序：
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-### [linkding](https://github.com/sissbruecker/linkding)
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-开源的网络书签服务，支持 Docker 部署：
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-录制终端操作并生成 `gif` 动图：
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
-
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
 ### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
@@ -50,45 +45,47 @@
 
 ## 👀 资料 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+针对新人的 `CSS` 入门级教程：
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
 ## 🕸 网站 
 
-### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
+### [recompressor](https://zh.recompressor.com/)
 
-[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
+免费的图片压缩工具：
 
-![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-### [upstract](https://upstract.com/)
+### [readme.so](https://readme.so/)
 
-比较全面的新闻聚合平台：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
 
 ## ✍️ 说明
 
