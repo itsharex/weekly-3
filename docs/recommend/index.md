@@ -5,94 +5,108 @@
 
 ## 🎯 项目 
 
-### [melody](https://github.com/foamzou/melody)
+### [penpot](https://github.com/penpot/penpot)
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-主要特性为：
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-基于 `Notion` 构建静态站点：
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+### [RustClock](https://github.com/hoothin/RustClock)
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+每半小时弹出一次的桌面时钟，基于 `Rust`：
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+安全、快速与轻量的远程桌面&文件管理工具：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
 ## 👀 资料 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
 ## 🕸 网站 
 
-### [carbon](https://carbon.now.sh/)
+### [newsminimalist](https://www.newsminimalist.com/)
 
-将你的源代码转成漂亮可分享的图片：
+基于 `GPT` 实现的新闻过滤网站：
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
+![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [zlib.pro](https://zlib.pro/)
 
-快速创建精美的移动和浏览器屏幕截图：
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
 ## ✍️ 说明
 
