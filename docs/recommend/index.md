@@ -5,88 +5,107 @@
 
 ## 🎯 项目 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+用 `Python` 代码绘制云原生架构图：
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+### [yacd](https://github.com/haishanh/yacd)
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+一个 `Clash` 仪表盘项目：
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
 
-### [writefreely](https://github.com/writefreely/writefreely)
+### [duplicati](https://github.com/duplicati/duplicati)
 
-一个用于在网络上构建写作空间的开源平台：
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-![writefreely](https://images-1252557999.file.myqcloud.com/uPic/writefreely.png) 
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
 ## 🤖 软件 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+### [alacritty](https://github.com/alacritty/alacritty)
+
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
 ## 👀 资料 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+对于前端开发者来说应该是一个非常好的知识库：
 
-教程：小型金融知识图谱流程示范。 
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+针对新人的 `CSS` 入门级教程：
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+
+### 认知偏差知识手册
+
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
 ## 🕸 网站 
 
-### [ossinsight](https://ossinsight.io/)
+### [sayhello](https://beta.sayhello.so/)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [shell.how](https://www.shell.how/)
+### [piqsels](https://www.piqsels.com/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [quickref](https://quickref.me/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
 ## ✍️ 说明
 
