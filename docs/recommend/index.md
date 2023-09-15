@@ -5,89 +5,89 @@
 
 ## 🎯 项目 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [statping](https://github.com/statping/statping)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-简单描述工作内容，帮你生成完整周报：
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
-一个极简的 `RSS` 在线浏览工具：
+### [samila](https://github.com/sepandhaghighi/samila)
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [bdash](https://github.com/bdash-app/bdash)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+用于数据分析的简单 `SQL` 客户端：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
+### [natpass](https://github.com/lwch/natpass)
 
-### [B站录播姬](https://rec.danmuji.org/)
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
-
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
 ## 👀 资料 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-微软设计的机器学习课程，完全面向新手：
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+你可以用以下方式浏览：
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
 ## 🕸 网站 
 
-### [newsminimalist](https://www.newsminimalist.com/)
+### [cikeee](https://www.cikeee.com/)
 
-基于 `GPT` 实现的新闻过滤网站：
+每天推荐一部优秀的电影：
 
-![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [ipdetective](https://ipdetective.io/api)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-检测 `ip` 是否是机器人：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [neeva](https://neeva.com/search)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
 ## ✍️ 说明
 
