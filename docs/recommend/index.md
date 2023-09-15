@@ -5,107 +5,89 @@
 
 ## 🎯 项目 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-用 `Python` 代码绘制云原生架构图：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-### [yacd](https://github.com/haishanh/yacd)
+简单描述工作内容，帮你生成完整周报：
 
-一个 `Clash` 仪表盘项目：
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-### [duplicati](https://github.com/duplicati/duplicati)
+一个极简的 `RSS` 在线浏览工具：
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
-
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
 
 ## 🤖 软件 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [buster](https://github.com/dessant/buster)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+### [B站录播姬](https://rec.danmuji.org/)
 
-### [alacritty](https://github.com/alacritty/alacritty)
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
-
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
-
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
 ## 👀 资料 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+微软设计的机器学习课程，完全面向新手：
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-对于前端开发者来说应该是一个非常好的知识库：
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
-针对新人的 `CSS` 入门级教程：
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
-
-### 认知偏差知识手册
-
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
-
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [newsminimalist](https://www.newsminimalist.com/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+基于 `GPT` 实现的新闻过滤网站：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
 
-### [piqsels](https://www.piqsels.com/)
+### [ipdetective](https://ipdetective.io/api)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+检测 `ip` 是否是机器人：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [quickref](https://quickref.me/)
+### [wanqu.co](https://www.wanqu.co/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
 ## ✍️ 说明
 
