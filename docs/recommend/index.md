@@ -5,89 +5,107 @@
 
 ## 🎯 项目 
 
-### [statping](https://github.com/statping/statping)
+### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [quivr](https://github.com/stangirard/quivr)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
 ## 🤖 软件 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-用于数据分析的简单 `SQL` 客户端：
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+### [cicada](https://github.com/mebtte/cicada)
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+知了, 支持多用户的开源音乐服务：
 
-### [natpass](https://github.com/lwch/natpass)
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
 ## 👀 资料 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-你可以用以下方式浏览：
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
-
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
-
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [cikeee](https://www.cikeee.com/)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-每天推荐一部优秀的电影：
+将你的头像像素化，质量挺好：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [grep.app](https://grep.app/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
-### [neeva](https://neeva.com/search)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
+
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
 ## ✍️ 说明
 
