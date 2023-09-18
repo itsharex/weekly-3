@@ -5,23 +5,29 @@
 
 ## 🎯 项目 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-一个开源的快速制作文章封面图的工具。
+用 `Python` 代码绘制云原生架构图：
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-### [heti](https://github.com/sivan/heti)
+### [jspaint](https://github.com/1j01/jspaint)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
+
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
 ## 🤖 软件 
 
@@ -31,69 +37,53 @@
 
 ![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-### [v2ex](https://v2ex.com/)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-开源客户端推荐：
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
-- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
-- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
-- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
-- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
+### [antares](https://github.com/Fabio286/antares)
 
-相关软件截图：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
-
-![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
-
-![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
-
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
-
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
-
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
-
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [allthingsai](https://allthingsai.com/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-提供完整的 `AI` 相关工具&服务资源：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [devtool.tech](https://devtool.tech/)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [calmcode](https://calmcode.io/)
 
-非常极客的背景音乐网站：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
 ## ✍️ 说明
 
