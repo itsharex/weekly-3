@@ -5,11 +5,11 @@
 
 ## 🎯 项目 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-用 `Python` 代码绘制云原生架构图：
+微软开源的 `Fluent Emoji` 表情包：
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
 ### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
@@ -21,69 +21,79 @@
 - 提取链接
 - 对PDF进行相关编辑操作 
 
-### [jspaint](https://github.com/1j01/jspaint)
+### [dozzle](https://github.com/amir20/dozzle)
 
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
+Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
 
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
-
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
+![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [Easydict](https://github.com/tisfeng/Easydict)
 
-通过快捷键快速打开应用：
+`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
+- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+对于浏览器双语翻译插件，还推荐以下项目：
 
-### [antares](https://github.com/Fabio286/antares)
+- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
+- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+### [Macast](https://github.com/xfangfang/Macast)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+
+![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
+
+### [gushi_namer](https://github.com/holynova/gushi_namer)
+
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+教程：小型金融知识图谱流程示范。 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [lucide](https://lucide.dev/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+开源图标库，可以直接下载 `SVG`：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [cryptologos](https://cryptologos.cc/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
-### [calmcode](https://calmcode.io/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
 ## ✍️ 说明
 
