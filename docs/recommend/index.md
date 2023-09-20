@@ -5,95 +5,108 @@
 
 ## 🎯 项目 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-微软开源的 `Fluent Emoji` 表情包：
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [background-removal-js](https://github.com/imgly/background-removal-js)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
 
-### [dozzle](https://github.com/amir20/dozzle)
+### [podman](https://github.com/containers/podman)
 
-Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
 ## 🤖 软件 
 
-### [Easydict](https://github.com/tisfeng/Easydict)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
-- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
+沉浸式双语网页翻译扩展：
 
-对于浏览器双语翻译插件，还推荐以下项目：
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
-- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [DevToys](https://github.com/veler/DevToys)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
-
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+放心体验吧~ 
 
 ## 👀 资料 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [visualize-ml](https://github.com/visualize-ml)
 
-教程：小型金融知识图谱流程示范。 
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+
+微软设计的机器学习课程，完全面向新手：
+
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
 ## 🕸 网站 
 
-### [lucide](https://lucide.dev/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-开源图标库，可以直接下载 `SVG`：
+随便画一画，生成美观的图片：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [toolfinder](https://toolfinder.xyz/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+生产力工具的维基百科：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
+
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
 ## ✍️ 说明
 
