@@ -5,95 +5,79 @@
 
 ## 🎯 项目 
 
-### [apitable](https://github.com/apitable/apitable)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
-> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
- [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
- 
- ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+录制终端操作并生成 `gif` 动图：
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
 
-### [rubick](https://github.com/rubickCenter/rubick)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+快速稳定好用的Redis跨平台桌面管理软件：
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
-
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
 ## 👀 资料 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [learningprompt](https://learningprompt.wiki/)
 
-《结网》作者王坚的开源新书：
+![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
-
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [xyzrank.com](https://xyzrank.com/)
+### [relationship](https://passer-by.com/relationship/)
 
-中文播客榜单：
+中国亲戚关系计算器：
 
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [http.cat](https://http.cat)
 
-消除或者替换图像背景，无需上传图像：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
-### [up-6.com](https://www.up-6.com/)
+### [meiriyiwen](https://meiriyiwen.com/)
 
-一个英语学习导航网站：
+每天一篇随机散文：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
 ## ✍️ 说明
 
