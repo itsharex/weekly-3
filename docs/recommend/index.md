@@ -5,79 +5,105 @@
 
 ## 🎯 项目 
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-录制终端操作并生成 `gif` 动图：
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
+
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-快速稳定好用的Redis跨平台桌面管理软件：
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
 ## 👀 资料 
 
-### [learningprompt](https://learningprompt.wiki/)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [relationship](https://passer-by.com/relationship/)
+### [web.dev](https://web.dev/learn/)
 
-中国亲戚关系计算器：
+谷歌团队开放的网页设计与开发课程：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
 
-### [http.cat](https://http.cat)
+### [tgscan](https://tgscan.xyz/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
 
-### [meiriyiwen](https://meiriyiwen.com/)
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
-每天一篇随机散文：
+### [sqlime](http://sqlime.org/)
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
