@@ -5,99 +5,103 @@
 
 ## 🎯 项目 
 
-### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
+艺术二维码生成器：
 
-![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [pandora](https://github.com/pengzhile/pandora)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
-
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
 ## 🤖 软件 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [Bob](https://github.com/ripperhe/Bob)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
+
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
 ## 👀 资料 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [leetcode](https://github.com/doocs/leetcode)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-比较全面的 `k8s` 资源收集项目：
-
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
 ## 🕸 网站 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [tldraw](https://www.tldraw.com/)
 
-软件镜像站：
+小巧强大的在线绘图工具：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-### [squoosh](https://squoosh.app/)
+### [feathericons](https://feathericons.com/)
 
-免费漂亮的在线图片压缩网站：
+简洁漂亮的图标网站：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [cikeee](https://www.cikeee.com/)
 
-### [chatplugin.top](https://www.chatplugin.top/)
+每天推荐一部优秀的电影：
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
-
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
