@@ -5,105 +5,99 @@
 
 ## 🎯 项目 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+### [Chat2DB](https://github.com/chat2db/Chat2DB)
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
+- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
+- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
+- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
+- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
+- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
+- 🎁 支持环境隔离、线上、日常数据权限分离
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
-
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
-
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
-
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
-
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
-
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
 
 ## 🤖 软件 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
 ## 👀 资料 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+比较全面的 `k8s` 资源收集项目：
+
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
 
-### [web.dev](https://web.dev/learn/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-谷歌团队开放的网页设计与开发课程：
+软件镜像站：
 
-![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-### [tgscan](https://tgscan.xyz/)
+### [squoosh](https://squoosh.app/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+免费漂亮的在线图片压缩网站：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-### [sqlime](http://sqlime.org/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
 ## ✍️ 说明
 
