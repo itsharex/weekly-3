@@ -1,7 +1,7 @@
 [[source]]
 name = "pypi"
 verify_ssl = true
-url = "https://pypi.douban.com/simple/"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
 
 [packages]
 mkdocs = "==1.5.2"
