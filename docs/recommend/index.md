@@ -5,103 +5,83 @@
 
 ## 🎯 项目 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-艺术二维码生成器：
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-### [pandora](https://github.com/pengzhile/pandora)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
 
 ## 🤖 软件 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+必应 GPT 聊天桌面应用程序：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
+### [notepad--](https://github.com/cxasm/notepad--)
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
-
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
 ## 👀 资料 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+比较全面的 `k8s` 资源收集项目：
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+健康学习到150岁 - 人体系统调优不完全指南：
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
 ## 🕸 网站 
 
-### [tldraw](https://www.tldraw.com/)
+### [openfarm.cc](https://openfarm.cc/)
 
-小巧强大的在线绘图工具：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
-### [feathericons](https://feathericons.com/)
+### [zerogpt](https://www.zerogpt.com/)
 
-简洁漂亮的图标网站：
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
-### [cikeee](https://www.cikeee.com/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-每天推荐一部优秀的电影：
+`GitHub` 最大的开源算法库：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
 ## ✍️ 说明
 
