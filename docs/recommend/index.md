@@ -5,83 +5,98 @@
 
 ## 🎯 项目 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [AgentGPT](https://github.com/reworkd/AgentGPT)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+- 通过向量数据库实现长期记忆 🧠
+- 通过语言链具备网络浏览能力 🌐
+- 与网站和人进行交互 👨‍👩‍👦
+- 通过文档 API 具备写作能力 📄
+- 保存代理运行 💾
+- 用户和身份验证 🔐
+- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+### [pandora](https://github.com/pengzhile/pandora)
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-必应 GPT 聊天桌面应用程序：
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+一个`macOS`的上的`SSH`客户端：
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+软件特性：
+
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
 ## 👀 资料 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-比较全面的 `k8s` 资源收集项目：
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-健康学习到150岁 - 人体系统调优不完全指南：
-
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+技术面试最后反问面试官的话。 
 
 ## 🕸 网站 
 
-### [openfarm.cc](https://openfarm.cc/)
+### [smalldev.tools](https://smalldev.tools/)
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+开发者常用工具集：
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [emojicode](https://www.emojicode.org/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
-`GitHub` 最大的开源算法库：
+### [icon.kitchen](https://icon.kitchen/)
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
 ## ✍️ 说明
 
