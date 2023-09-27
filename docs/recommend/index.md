@@ -5,98 +5,90 @@
 
 ## 🎯 项目 
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+一个开源可自建的网站监控工具，用于监控网站的运行状态：
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+![uptime-kuma](https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg) 
 
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
-
-### [pandora](https://github.com/pengzhile/pandora)
-
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
-
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
 ## 🤖 软件 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-一个`macOS`的上的`SSH`客户端：
+### [ShareX](https://github.com/ShareX/ShareX)
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-软件特性：
-
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
 ## 👀 资料 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [go101](https://gfw.go101.org/article/101.html)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-技术面试最后反问面试官的话。 
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
+
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
 ## 🕸 网站 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-开发者常用工具集：
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-### [emojicode](https://www.emojicode.org/)
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+### [读书笔记](https://reading.geek-docs.com/)
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-### [icon.kitchen](https://icon.kitchen/)
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
-一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
+冰霜大佬的博客：
+
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
