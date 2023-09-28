@@ -5,90 +5,110 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [dozzle](https://github.com/amir20/dozzle)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
 
-### [uptime-kuma](https://github.com/louislam/uptime-kuma)
+![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
 
-一个开源可自建的网站监控工具，用于监控网站的运行状态：
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-![uptime-kuma](https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg) 
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+你可以直接[在线体验](https://letsmarkdown.com/)。 
+
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
+
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
 ## 🤖 软件 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+### [orange](https://github.com/naaive/orange)
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+基于`Rust`跨平台的文件搜索引擎：
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+### [Gifski](https://github.com/sindresorhus/Gifski)
 
-### [ShareX](https://github.com/ShareX/ShareX)
+在 `Mac` 上将视频转换为高质量的 `GIF`：
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
-
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
 
 ## 👀 资料 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+`The Linux Command Line` 中文翻译：
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
 
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+目前有两种方式使用这个项目：
 
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+- 网站：推荐
+- VS Code插件
 
-### [读书笔记](https://reading.geek-docs.com/)
+![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+### [carbon](https://carbon.now.sh/)
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+将你的源代码转成漂亮可分享的图片：
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
-冰霜大佬的博客：
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
 ## ✍️ 说明
 
