@@ -5,110 +5,85 @@
 
 ## 🎯 项目 
 
-### [dozzle](https://github.com/amir20/dozzle)
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
 
-![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
+项目列表如下：
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+### [cnchar](https://github.com/theajack/cnchar)
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [nas-tools](https://github.com/jxxghp/nas-tools)
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+NAS媒体库资源归集、整理自动化工具：
 
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
-
-![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
+![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
 
 ## 🤖 软件 
 
-### [orange](https://github.com/naaive/orange)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-基于`Rust`跨平台的文件搜索引擎：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [Gifski](https://github.com/sindresorhus/Gifski)
+### [antares](https://github.com/Fabio286/antares)
 
-在 `Mac` 上将视频转换为高质量的 `GIF`：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-`The Linux Command Line` 中文翻译：
+一本开源的专门讲解面试关键路径的书籍：
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+### [yesicon.app](https://yesicon.app/)
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+开源图标库聚合网站：
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
 
-目前有两种方式使用这个项目：
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-- 网站：推荐
-- VS Code插件
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [carbon](https://carbon.now.sh/)
+### [damngood.tools](https://damngood.tools/)
 
-将你的源代码转成漂亮可分享的图片：
+开源实用工具集合：
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
-
-### [photoroom](https://www.photoroom.com/backgrounds/)
-
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
-
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
 ## ✍️ 说明
 
