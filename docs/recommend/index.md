@@ -5,85 +5,84 @@
 
 ## 🎯 项目 
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-项目列表如下：
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+### [examor](https://github.com/codeacme17/examor)
 
-### [cnchar](https://github.com/theajack/cnchar)
+一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
 
-![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
+### [freed](https://github.com/YuanHsing/freed)
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
-
-NAS媒体库资源归集、整理自动化工具：
-
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+### [orange](https://github.com/naaive/orange)
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+基于`Rust`跨平台的文件搜索引擎：
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
 ## 👀 资料 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-一本开源的专门讲解面试关键路径的书籍：
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-### [theByteBook](https://github.com/isno/theByteBook)
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+《Linear Algebra for Everyone》公开课的图解笔记：
+
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [yesicon.app](https://yesicon.app/)
+### [iconfont](https://www.iconfont.cn/)
 
-开源图标库聚合网站：
+阿里巴巴矢量图标库：
 
-![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [piqsels](https://www.piqsels.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [damngood.tools](https://damngood.tools/)
+### [ipdetective](https://ipdetective.io/api)
 
-开源实用工具集合：
+检测 `ip` 是否是机器人：
 
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
 ## ✍️ 说明
 
