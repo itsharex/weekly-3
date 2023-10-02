@@ -5,99 +5,105 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+艺术二维码生成器：
 
-![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-最近很火的`AI Art` 生成模型：
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
-
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
-
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
 ## 🤖 软件 
 
-### [box](https://github.com/liu673cn/box)
+### mizu
 
-TVBox 开源版:
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+### [V2exOS](https://github.com/isaced/V2exOS)
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
 
-`TinyPNG`的`Mac`客户端：
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
 ## 👀 资料 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+一本开源的专门讲解面试关键路径的书籍：
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+深度学习入门教程资料聚合项目，包含：
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+
+《Linear Algebra for Everyone》公开课的图解笔记：
+
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+### [dev.to](https://dev.to/)
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [khroma](https://www.khroma.co/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+人工智能配色网站：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [devtool.tech](https://devtool.tech/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
 
 ## ✍️ 说明
 
