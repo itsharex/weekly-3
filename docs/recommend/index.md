@@ -5,105 +5,91 @@
 
 ## 🎯 项目 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 
-艺术二维码生成器：
+一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+一些 `Docker Compose` 的实践示例。 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
-
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
 ## 🤖 软件 
 
-### mizu
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
 
-### [V2exOS](https://github.com/isaced/V2exOS)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+### [legado](https://github.com/gedoor/legado)
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-一本开源的专门讲解面试关键路径的书籍：
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-深度学习入门教程资料聚合项目，包含：
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
-
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
-
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-
-《Linear Algebra for Everyone》公开课的图解笔记：
-
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
 ## 🕸 网站 
 
-### [dev.to](https://dev.to/)
+### [aicodeconvert](https://aicodeconvert.com/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
 
-### [khroma](https://www.khroma.co/)
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
-人工智能配色网站：
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-### [devtool.tech](https://devtool.tech/)
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+
+### [grep.app](https://grep.app/)
+
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
