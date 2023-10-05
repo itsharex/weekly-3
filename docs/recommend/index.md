@@ -5,88 +5,83 @@
 
 ## 🎯 项目 
 
-### [penpot](https://github.com/penpot/penpot)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+一个开源的快速制作文章封面图的工具。
 
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-### [ChatGPT](https://chat.openai.com/chat)
+### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
 
-### [umami](https://github.com/umami-software/umami)
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+一个还原马赛克图片的原始内容的工具：
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
 ## 🤖 软件 
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+### [Gifski](https://github.com/sindresorhus/Gifski)
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+在 `Mac` 上将视频转换为高质量的 `GIF`：
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-`TinyPNG`的`Mac`客户端：
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
 ## 👀 资料 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+浙江大学课程攻略共享计划：
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-### 认知偏差知识手册
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
 ## 🕸 网站 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [linggle](https://linggle.com/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [caniuse](https://caniuse.com/)
+### [untools](https://untools.co/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+一个帮助你思考的集合工具&框架：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [olocr.com](https://olocr.com)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
 ## ✍️ 说明
 
