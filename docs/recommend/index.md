@@ -5,83 +5,82 @@
 
 ## 🎯 项目 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-一个开源的快速制作文章封面图的工具。
+简单描述工作内容，帮你生成完整周报：
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-一个还原马赛克图片的原始内容的工具：
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
 ## 🤖 软件 
 
-### [Gifski](https://github.com/sindresorhus/Gifski)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-在 `Mac` 上将视频转换为高质量的 `GIF`：
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
 ## 👀 资料 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-浙江大学课程攻略共享计划：
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+代码整洁之道（javascript版本）：
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
-
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
-
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
 ## 🕸 网站 
 
-### [linggle](https://linggle.com/)
+### [nona](https://www.nona.de/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [untools](https://untools.co/)
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-一个帮助你思考的集合工具&框架：
+可以免费在线听&下载歌曲：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
-### [olocr.com](https://olocr.com)
+### [calmcode](https://calmcode.io/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
 ## ✍️ 说明
 
