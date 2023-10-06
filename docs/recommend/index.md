@@ -5,82 +5,100 @@
 
 ## 🎯 项目 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-简单描述工作内容，帮你生成完整周报：
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
 ## 🤖 软件 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+### [vnote](https://github.com/vnotex/vnote)
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
 ## 👀 资料 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-代码整洁之道（javascript版本）：
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+
+这本书的目标是:
+
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [fviewer](https://www.fviewer.com/zh)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+### [feathericons](https://feathericons.com/)
 
-可以免费在线听&下载歌曲：
+简洁漂亮的图标网站：
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-### [calmcode](https://calmcode.io/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
 ## ✍️ 说明
 
