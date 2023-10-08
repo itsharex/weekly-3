@@ -5,94 +5,109 @@
 
 ## 🎯 项目 
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+### [AgentGPT](https://github.com/reworkd/AgentGPT)
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+- 通过向量数据库实现长期记忆 🧠
+- 通过语言链具备网络浏览能力 🌐
+- 与网站和人进行交互 👨‍👩‍👦
+- 通过文档 API 具备写作能力 📄
+- 保存代理运行 💾
+- 用户和身份验证 🔐
+- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
 
-### [heti](https://github.com/sivan/heti)
+![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-### [laf](https://github.com/labring/laf)
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+一个终端打字应用程序，以提高你的手指水平！
+
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
 ## 🤖 软件 
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+一个`macOS`的上的`SSH`客户端：
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+软件特性：
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+它专注于：
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+
+安全、快速与轻量的远程桌面&文件管理工具：
+
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
 ## 👀 资料 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [go101](https://gfw.go101.org/article/101.html)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+精益副业：程序员如何优雅地做副业:
+
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [etempmail](https://etempmail.com/zh)
+### [useanimations](https://useanimations.com/)
 
-一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+前端动态 `UI` 样式集合：
 
-![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-### [ailogo](https://ailogo.qq.com/)
+### [allthingsai](https://allthingsai.com/)
 
-`AI` 智能生成可商用的 `LOGO`：
+提供完整的 `AI` 相关工具&服务资源：
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [yesicon.app](https://yesicon.app/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+开源图标库聚合网站：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
 
 ## ✍️ 说明
 
