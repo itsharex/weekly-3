@@ -5,109 +5,103 @@
 
 ## 🎯 项目 
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+录制终端操作并生成 `gif` 动图：
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
 
-一个终端打字应用程序，以提高你的手指水平！
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-一个`macOS`的上的`SSH`客户端：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-软件特性：
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-它专注于：
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+一个开源的YouTube应用程序，旨在保护隐私：
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
-
-安全、快速与轻量的远程桌面&文件管理工具：
-
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
 ## 👀 资料 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+### [rework](https://github.com/livid/rework)
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-精益副业：程序员如何优雅地做副业:
-
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
 ## 🕸 网站 
 
-### [useanimations](https://useanimations.com/)
+### [ip-api.com](http://ip-api.com/json)
 
-前端动态 `UI` 样式集合：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-### [allthingsai](https://allthingsai.com/)
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-提供完整的 `AI` 相关工具&服务资源：
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
-### [yesicon.app](https://yesicon.app/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-开源图标库聚合网站：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
 ## ✍️ 说明
 
