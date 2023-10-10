@@ -5,103 +5,96 @@
 
 ## 🎯 项目 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-录制终端操作并生成 `gif` 动图：
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+一个获取百度网盘分享链接下载地址的工具：
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+### [greppo](https://github.com/greppo-io/greppo)
 
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+快速轻松地构建部署地理空间应用程序：
 
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
-
-![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
 ## 🤖 软件 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-一个开源的YouTube应用程序，旨在保护隐私：
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
+
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
 ## 👀 资料 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-### [rework](https://github.com/livid/rework)
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [ip-api.com](http://ip-api.com/json)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+### [it-tools](https://it-tools.tech/)
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [ticompressor](https://www.ticompressor.com/online/)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
-
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ## ✍️ 说明
 
