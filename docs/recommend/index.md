@@ -5,96 +5,86 @@
 
 ## 🎯 项目 
 
-### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
+### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
 
-一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
+`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
 
-![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
+![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-一个获取百度网盘分享链接下载地址的工具：
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+### [photoprism](https://github.com/photoprism/photoprism)
 
-### [greppo](https://github.com/greppo-io/greppo)
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-快速轻松地构建部署地理空间应用程序：
-
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
 ## 🤖 软件 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+安全、快速与轻量的远程桌面&文件管理工具：
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
-
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
-
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
 ## 🕸 网站 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [watermark](https://watermark.liumingye.cn/)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+短视频/图集在线去水印解析：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [it-tools](https://it-tools.tech/)
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+一份新冠预防及治疗指南：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+### [docsmall](https://docsmall.com/)
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
-
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
