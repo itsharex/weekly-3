@@ -5,86 +5,94 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+基于 `ChatGPT` 相关接口衍生的项目：
 
-![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
+- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
+- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
+- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
+- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
+- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
+- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
+- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
+- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
+- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
+- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
+- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
+- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [flet](https://github.com/flet-dev/flet)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
 ## 🤖 软件 
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-安全、快速与轻量的远程桌面&文件管理工具：
+超方便的微信视频号下载器：
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+跨平台的`youtube-dl`客户端：
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
 ## 👀 资料 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [learningprompt](https://learningprompt.wiki/)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+开源书籍，`Prometheus`  操作指南：
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
-
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
-
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+一个在YouTube上发现最新机器学习课程的项目。 
 
 ## 🕸 网站 
 
-### [watermark](https://watermark.liumingye.cn/)
+### [linggle](https://linggle.com/)
 
-短视频/图集在线去水印解析：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [piqsels](https://www.piqsels.com/)
 
-一份新冠预防及治疗指南：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [dbbqb](https://www.dbbqb.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+专业的表情包搜索网站：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
 ## ✍️ 说明
 
