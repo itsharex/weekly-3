@@ -5,34 +5,28 @@
 
 ## 🎯 项目 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [safeline](https://github.com/chaitin/safeline)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
+- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
+- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
+- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
 
-基于 `ChatGPT` 相关接口衍生的项目：
+### [novu](https://github.com/novuhq/novu)
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-### [flet](https://github.com/flet-dev/flet)
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+### [homepage](https://github.com/benphelps/homepage)
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+高度可定制的首页仪表板应用项目：
+
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
 ## 🤖 软件 
 
@@ -46,53 +40,70 @@
 
 ![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-跨平台的`youtube-dl`客户端：
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [Mist](https://github.com/ninxsoft/Mist)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
 
 ## 👀 资料 
 
-### [learningprompt](https://learningprompt.wiki/)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+更新记录如下：
 
-开源书籍，`Prometheus`  操作指南：
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [xjq7/books](https://github.com/xjq7/books)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
 ## 🕸 网站 
 
-### [linggle](https://linggle.com/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-### [piqsels](https://www.piqsels.com/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [remixicon](https://remixicon.com/)
 
-专业的表情包搜索网站：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
 ## ✍️ 说明
 
