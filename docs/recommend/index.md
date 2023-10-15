@@ -5,89 +5,91 @@
 
 ## 🎯 项目 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [1Panel](https://github.com/1Panel-dev/1Panel)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
 
-### [osquery](https://github.com/osquery/osquery)
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
-### [think](https://github.com/fantasticit/think)
+### [umami](https://github.com/umami-software/umami)
 
-云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
 ## 🤖 软件 
 
-### [antares](https://github.com/Fabio286/antares)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+监控你的应用流量，跨平台：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+必应 GPT 聊天桌面应用程序：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [weektodo](https://weektodo.me/)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
-
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
 ## 👀 资料 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-浙江大学课程攻略共享计划：
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [recompressor](https://zh.recompressor.com/)
+### [programcreek](https://www.programcreek.com/)
 
-免费的图片压缩工具：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-### [ray.so](https://ray.so/)
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+### [readme.so](https://readme.so/)
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
 
-金山出品的 PDF 免费工具集：
+### [crashcourse](https://crashcourse.club/category)
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
+
+![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
 
 ## ✍️ 说明
 
