@@ -5,90 +5,89 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+### [osquery](https://github.com/osquery/osquery)
 
-![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-### [examor](https://github.com/codeacme17/examor)
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
+### [think](https://github.com/fantasticit/think)
 
-![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
 ## 🤖 软件 
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+### [antares](https://github.com/Fabio286/antares)
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-跨平台的`youtube-dl`客户端：
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
 ## 👀 资料 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+浙江大学课程攻略共享计划：
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-站点可靠性工作手册：
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+Go语言实战: 编写可维护Go语言代码建议。 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### [cryptologos](https://cryptologos.cc/)
+### [recompressor](https://zh.recompressor.com/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+免费的图片压缩工具：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
-### [123apps](https://123apps.com/cn/)
+### [ray.so](https://ray.so/)
 
-网站提供了一系列的小工具，包含分类：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-- 视频工具
-- 音频工具
-- PDF 工具
-- 转换器
-- ......
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
-![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
+### [pdf.wps.cn](https://pdf.wps.cn/)
 
-### [apivault.dev](https://apivault.dev/)
+金山出品的 PDF 免费工具集：
 
-免费开源的公共 `API` 网站：
-
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
 
 ## ✍️ 说明
 
