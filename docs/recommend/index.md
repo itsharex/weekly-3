@@ -5,91 +5,83 @@
 
 ## 🎯 项目 
 
-### [1Panel](https://github.com/1Panel-dev/1Panel)
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+一个极简的 `RSS` 在线浏览工具：
 
-- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
-- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
-- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
-- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
 
-![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-### [umami](https://github.com/umami-software/umami)
-
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
-
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
 ## 🤖 软件 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-监控你的应用流量，跨平台：
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [legado](https://github.com/gedoor/legado)
 
-必应 GPT 聊天桌面应用程序：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [weektodo](https://weektodo.me/)
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+### [rework](https://github.com/livid/rework)
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+### [learningprompt](https://learningprompt.wiki/)
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
-
-一份从头开始建立 `CDN` 知识体系的教程。 
+![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
 
 ## 🕸 网站 
 
-### [programcreek](https://www.programcreek.com/)
+### [webutils](https://www.webutils.app/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+一个提供web小工具的网站，比如：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+- 文本比较
+- 图片压缩
+- 图片转换
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
-### [readme.so](https://readme.so/)
+### [flow](https://github.com/pacexy/flow)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [crashcourse](https://crashcourse.club/category)
+### [darebee](https://darebee.com/)
 
-`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
+一个教你正确运动姿势的网站：
 
-![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
+![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
 
 ## ✍️ 说明
 
