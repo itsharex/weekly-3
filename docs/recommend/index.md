@@ -5,111 +5,83 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [one-api](https://github.com/songquanpeng/one-api)
 
-### [jina](https://github.com/jina-ai/jina)
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
-
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
-
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
 ## 🤖 软件 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [antares](https://github.com/Fabio286/antares)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
 ## 👀 资料 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
 ## 🕸 网站 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [warp.dev](https://www.warp.dev/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [storyset](https://storyset.com/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
 
-### [dute](https://www.dute.org/)
+### [send.internxt.com](https://send.internxt.com/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
 ## ✍️ 说明
 
