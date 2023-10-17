@@ -5,83 +5,111 @@
 
 ## 🎯 项目 
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-一个极简的 `RSS` 在线浏览工具：
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+### [jina](https://github.com/jina-ai/jina)
+
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
 ## 🤖 软件 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-### [legado](https://github.com/gedoor/legado)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+### [Xit](https://github.com/Uncommon/Xit)
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
-
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-### [rework](https://github.com/livid/rework)
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-### [learningprompt](https://learningprompt.wiki/)
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
+### [go101](https://gfw.go101.org/article/101.html)
+
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
 ## 🕸 网站 
 
-### [webutils](https://www.webutils.app/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-一个提供web小工具的网站，比如：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-### [flow](https://github.com/pacexy/flow)
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+### [dute](https://www.dute.org/)
 
-### [darebee](https://darebee.com/)
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-一个教你正确运动姿势的网站：
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
