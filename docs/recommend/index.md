@@ -5,83 +5,95 @@
 
 ## 🎯 项目 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-### [one-api](https://github.com/songquanpeng/one-api)
+### [dub](https://github.com/steven-tey/dub)
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
 ## 🤖 软件 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
+
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [icon.kitchen](https://icon.kitchen/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
-### [storyset](https://storyset.com/)
+### [meow.tg](https://meow.tg/)
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
-### [send.internxt.com](https://send.internxt.com/)
+### [ray.so](https://ray.so/)
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
