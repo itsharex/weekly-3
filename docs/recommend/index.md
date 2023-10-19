@@ -5,95 +5,88 @@
 
 ## 🎯 项目 
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+用 `GPT-3` 来解读论文的开源项目：
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+### [alist](https://github.com/Xhofe/alist)
 
-### [dub](https://github.com/steven-tey/dub)
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
-
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
 ## 🤖 软件 
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+轻量级macOS剪切板管理应用：
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+开源的`macOS` 纯文本编辑器：
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+### [shottr](https://shottr.cc/)
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+免费截屏软件（macOS）：
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
 ## 👀 资料 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+微软设计的机器学习课程，完全面向新手：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
 ## 🕸 网站 
 
-### [icon.kitchen](https://icon.kitchen/)
+### [zerogpt](https://www.zerogpt.com/)
 
-一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
-### [meow.tg](https://meow.tg/)
+### [lexica.art](https://lexica.art/)
 
-TG喵-可能是最懂你的Telegram资源搜索引擎:
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-### [ray.so](https://ray.so/)
+### [ifixit](https://zh.ifixit.com/)
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+一个免费教授人们如何修理任何物品的网站：
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
 ## ✍️ 说明
 
