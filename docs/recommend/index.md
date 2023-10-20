@@ -5,88 +5,96 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
-用 `GPT-3` 来解读论文的开源项目：
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-### [alist](https://github.com/Xhofe/alist)
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
 ## 🤖 软件 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [Vieb](https://vieb.dev/)
 
-轻量级macOS剪切板管理应用：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+### [alacritty](https://github.com/alacritty/alacritty)
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-开源的`macOS` 纯文本编辑器：
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-### [shottr](https://shottr.cc/)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-免费截屏软件（macOS）：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
 ## 👀 资料 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+### [sideproject](https://sideproject.guide/)
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+`Side Project` 指南：
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-微软设计的机器学习课程，完全面向新手：
+浙江大学课程攻略共享计划：
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
 ## 🕸 网站 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [up-6.com](https://www.up-6.com/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+一个英语学习导航网站：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [aicolors](https://aicolors.co/)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+通过提示词，基于 AI 生成配色方案：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [calltoinspiration](https://calltoinspiration.com/)
 
-一个免费教授人们如何修理任何物品的网站：
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
 ## ✍️ 说明
 
