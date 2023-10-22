@@ -5,95 +5,88 @@
 
 ## 🎯 项目 
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+用 `GPT-3` 来解读论文的开源项目：
+
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+面向计算机科学的简单开源学术论文管理工具：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+### [gkd](https://github.com/gkd-kit/gkd)
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+基于 **无障碍** + **高级选择器** + **订阅规则** 的自定义屏幕点击 `APP`：
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+- 点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片
+- 一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+开源版李跳跳：
 
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+![www.yalijuda.com_gkd_sXGlMJqpfS](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_gkd_sXGlMJqpfS.jpg) 
 
 ## 👀 资料 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-《Software Engineering at Google》的中文翻译版本：
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [drawio](https://github.com/jgraph/drawio)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [roadmap.sh](https://roadmap.sh/)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [storyset](https://storyset.com/)
 
-我的第一个NFT，在这个网站，你可以：
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
-
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
 
 ## ✍️ 说明
 
