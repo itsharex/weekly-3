@@ -5,88 +5,91 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [mongo-express](https://github.com/mongo-express/mongo-express)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
+同类型基于 `Web` 的 `Mongo GUI` 还推荐：
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+- [mongo-gui](https://github.com/arunbandari/mongo-gui)
+- [Mongoku](https://github.com/huggingface/Mongoku)
+- [mongood](https://github.com/renzholy/mongood) 
 
-用 `GPT-3` 来解读论文的开源项目：
+### [wallabag](https://github.com/wallabag/wallabag)
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
+
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-面向计算机科学的简单开源学术论文管理工具：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
-### [gkd](https://github.com/gkd-kit/gkd)
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-基于 **无障碍** + **高级选择器** + **订阅规则** 的自定义屏幕点击 `APP`：
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-- 点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片
-- 一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包
-
-开源版李跳跳：
-
-![www.yalijuda.com_gkd_sXGlMJqpfS](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_gkd_sXGlMJqpfS.jpg) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
 ## 👀 资料 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+一本小书《带你入门前端工程》
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+一份循序渐进的 `k8s` 教程：
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [archbase](https://github.com/foxsen/archbase)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [sao.fm](https://sao.fm/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+一个在线听广播电台的网站：
 
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [wantquotes.net](https://wantquotes.net/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [storyset](https://storyset.com/)
+### [iconoir](https://iconoir.com/)
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+开源的SVG图标搜索引擎：
 
-![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
 ## ✍️ 说明
 
