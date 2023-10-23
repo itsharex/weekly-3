@@ -5,91 +5,93 @@
 
 ## 🎯 项目 
 
-### [MOSS](https://github.com/OpenLMLab/MOSS)
+### [alist](https://github.com/Xhofe/alist)
 
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-### [mongo-express](https://github.com/mongo-express/mongo-express)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
-同类型基于 `Web` 的 `Mongo GUI` 还推荐：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-- [mongo-gui](https://github.com/arunbandari/mongo-gui)
-- [Mongoku](https://github.com/huggingface/Mongoku)
-- [mongood](https://github.com/renzholy/mongood) 
+### [qinglong](https://github.com/whyour/qinglong)
 
-### [wallabag](https://github.com/wallabag/wallabag)
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
-
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
 ## 🤖 软件 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [lively](https://github.com/rocksdanister/lively)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+针对 `Windows` 的开源的动态壁纸软件：
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [antares](https://github.com/Fabio286/antares)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-一本小书《带你入门前端工程》
+这本书的目标是:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-一份循序渐进的 `k8s` 教程：
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-### [archbase](https://github.com/foxsen/archbase)
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
 ## 🕸 网站 
 
-### [sao.fm](https://sao.fm/)
+### [emojiall](https://www.emojiall.com/)
 
-一个在线听广播电台的网站：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [fancymacbook](https://fancymacbook.app/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-### [iconoir](https://iconoir.com/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-开源的SVG图标搜索引擎：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ## ✍️ 说明
 
