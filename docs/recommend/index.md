@@ -5,93 +5,84 @@
 
 ## 🎯 项目 
 
-### [alist](https://github.com/Xhofe/alist)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+### [Piwigo](https://github.com/Piwigo/Piwigo)
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+ `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
+ 
+ ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+### [examor](https://github.com/codeacme17/examor)
 
-### [qinglong](https://github.com/whyour/qinglong)
+一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
-
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
-
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
 
 ## 🤖 软件 
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-针对 `Windows` 的开源的动态壁纸软件：
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-这本书的目标是:
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+### [theByteBook](https://github.com/isno/theByteBook)
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
-
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+`Linux Crontab` 可视化网站：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [uiverse.io](https://uiverse.io/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [w2solo](https://w2solo.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
-
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
