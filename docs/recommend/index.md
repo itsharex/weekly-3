@@ -5,84 +5,91 @@
 
 ## 🎯 项目 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [osquery](https://github.com/osquery/osquery)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+### [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+`bilingual_book_maker` 是一个 `AI` 翻译工具，使用 `ChatGPT` 帮助用户制作多语言版本的 `epub` 文件和图书。该工具仅适用于翻译进入公共版权领域的 `epub` 图书，不适用于有版权的书籍。请在使用之前阅读项目的 免责声明：
 
-### [examor](https://github.com/codeacme17/examor)
+![bilingual_book_maker](https://images-1252557999.file.myqcloud.com/uPic/bilingual_book_maker.png) 
 
-一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
+### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
 
-![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
+🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
+
+- 显示英文提示词的中文翻译
+- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
+- 为提示词进行分类（普通、样式、质量、命令）
+- 轻松的排序、隐藏提示词
+- 把提示词可视化结果导出为图片
+- 常用提示词词典
+- 通过 Notion 管理提示词词典
+
+![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
 
 ## 🤖 软件 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
 ## 👀 资料 
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-### [theByteBook](https://github.com/isno/theByteBook)
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
 ## 🕸 网站 
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+### [ixinqing](http://www.ixinqing.com/)
 
-`Linux Crontab` 可视化网站：
+心晴 · 专注于心理学入门与自我成长:
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
-### [uiverse.io](https://uiverse.io/)
+### [linggle](https://linggle.com/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [gh-card.dev](https://gh-card.dev/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+免费为你的 `Github` 开源项目生成卡片的网站：
+
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
