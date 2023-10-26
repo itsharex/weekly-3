@@ -5,91 +5,83 @@
 
 ## 🎯 项目 
 
-### [osquery](https://github.com/osquery/osquery)
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-### [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-`bilingual_book_maker` 是一个 `AI` 翻译工具，使用 `ChatGPT` 帮助用户制作多语言版本的 `epub` 文件和图书。该工具仅适用于翻译进入公共版权领域的 `epub` 图书，不适用于有版权的书籍。请在使用之前阅读项目的 免责声明：
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![bilingual_book_maker](https://images-1252557999.file.myqcloud.com/uPic/bilingual_book_maker.png) 
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
-### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
+### [jspaint](https://github.com/1j01/jspaint)
 
-🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-- 显示英文提示词的中文翻译
-- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
-- 为提示词进行分类（普通、样式、质量、命令）
-- 轻松的排序、隐藏提示词
-- 把提示词可视化结果导出为图片
-- 常用提示词词典
-- 通过 Notion 管理提示词词典
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
 
-![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
 ## 🤖 软件 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+为忙碌的工程师准备的精选面试准备材料：
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
-
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [法律时代导航](https://yesen.cn/)
 
-心晴 · 专注于心理学入门与自我成长:
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [linggle](https://linggle.com/)
+### [similarsites](https://www.similarsites.com/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
 ## ✍️ 说明
 
