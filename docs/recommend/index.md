@@ -5,83 +5,92 @@
 
 ## 🎯 项目 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [photoprism](https://github.com/photoprism/photoprism)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
-### [jspaint](https://github.com/1j01/jspaint)
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
+带看板的开源项目管理工具:
 
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
 ## 🤖 软件 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
 
-![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-### [Sequel-Ace](https://sequel-ace.com/)
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+控制外部显示器的亮度和音量（macOS）：
+
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
 ## 👀 资料 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+站点可靠性工作手册：
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-为忙碌的工程师准备的精选面试准备材料：
+这本书的目标是:
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
 ## 🕸 网站 
 
-### [法律时代导航](https://yesen.cn/)
+### [即时工具](https://www.67tool.com/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
-### [similarsites](https://www.similarsites.com/)
+### [nona](https://www.nona.de/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [sov2ex.com](https://www.sov2ex.com/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
 
 ## ✍️ 说明
 
