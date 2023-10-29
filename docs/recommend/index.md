@@ -5,42 +5,35 @@
 
 ## 🎯 项目 
 
-### [photoview](https://github.com/photoview/photoview)
+### [flet](https://github.com/flet-dev/flet)
 
-开源的相册程序，可基于Docker快速构建：
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
-### [Textual](https://github.com/Textualize/textual)
+### [pandora](https://github.com/pengzhile/pandora)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+### [questdb](https://github.com/questdb/questdb)
 
-Nginx 后台管理UI：
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+特别是针对时间序列数据做了处理：
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
 
 ## 🤖 软件 
 
-### [Codeium](https://codeium.com/)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+全平台支持的图片压缩软件：
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
 ### [Vieb](https://vieb.dev/)
 
@@ -48,57 +41,63 @@ Nginx 后台管理UI：
 
 ![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+### [batnoter](https://github.com/batnoter/batnoter)
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
+
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
 ## 👀 资料 
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [即时工具](https://www.67tool.com/)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
-### [toonme](https://toonme.com)
+### [whatslink](https://whatslink.info/)
 
-该网站将原图绘制成可爱的卡通图片：
+简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [帮小忙](https://tool.browser.qq.com/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
 ## ✍️ 说明
 
