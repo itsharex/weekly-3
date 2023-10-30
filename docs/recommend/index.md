@@ -5,98 +5,95 @@
 
 ## 🎯 项目 
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+B站视频命令行下载工具：
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-一款简洁实用优雅的高性能个人博客系统：
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-### [musicn](https://github.com/zonemeen/musicn)
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
 ## 🤖 软件 
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-沉浸式双语网页翻译扩展：
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+### [Vieb](https://vieb.dev/)
 
-### [Equinox](https://github.com/rlxone/Equinox)
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
-
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+学习 `javascript` 的开源书籍：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-《结网》作者王坚的开源新书：
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+你可以用以下方式浏览：
+
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-@妙才投稿，在线学习git命令的网站：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [dev.to](https://dev.to/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-### [programcreek](https://www.programcreek.com/)
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
-
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
 ## ✍️ 说明
 
