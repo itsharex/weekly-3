@@ -5,95 +5,96 @@
 
 ## 🎯 项目 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [FastChat](https://github.com/lm-sys/FastChat)
 
-B站视频命令行下载工具：
+这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [bore](https://github.com/ekzhang/bore)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+### [safeline](https://github.com/chaitin/safeline)
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
+- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
+- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
+- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
 
 ## 🤖 软件 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+沉浸式双语网页翻译扩展：
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [Vieb](https://vieb.dev/)
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
 ## 👀 资料 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-学习 `javascript` 的开源书籍：
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
-
-你可以用以下方式浏览：
-
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
-
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
 ## 🕸 网站 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [calmcode](https://calmcode.io/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
-### [dev.to](https://dev.to/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+### [uisdc.com](https://hao.uisdc.com/)
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+设计师网站导航：
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
 ## ✍️ 说明
 
