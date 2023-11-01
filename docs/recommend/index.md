@@ -5,96 +5,85 @@
 
 ## 🎯 项目 
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+### [yacd](https://github.com/haishanh/yacd)
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
+一个 `Clash` 仪表盘项目：
 
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
 
-### [bore](https://github.com/ekzhang/bore)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
-### [safeline](https://github.com/chaitin/safeline)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+功能挺全面的一个调查问卷系统：
 
-- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
-- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
-- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
-- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
-
-![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
 ## 🤖 软件 
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-沉浸式双语网页翻译扩展：
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+### [wiliwili](https://github.com/xfangfang/wiliwili)
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
-
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
-
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
 ## 👀 资料 
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
 ## 🕸 网站 
 
-### [calmcode](https://calmcode.io/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [useanimations](https://useanimations.com/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+前端动态 `UI` 样式集合：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [transhumans](https://www.transhumans.xyz/)
 
-设计师网站导航：
+免费可商用的人物插图：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
