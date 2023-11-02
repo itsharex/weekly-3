@@ -5,85 +5,93 @@
 
 ## 🎯 项目 
 
-### [yacd](https://github.com/haishanh/yacd)
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-一个 `Clash` 仪表盘项目：
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [omnivore](https://github.com/omnivore-app/omnivore)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
 
-### [surveyking](https://github.com/javahuang/surveyking)
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-功能挺全面的一个调查问卷系统：
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
 ## 🤖 软件 
 
-### [Offset Explorer](https://www.kafkatool.com/download.html)
+### [weektodo](https://weektodo.me/)
 
-个人免费的跨平台 `Kafka` 界面管理工具：
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
 
 ## 👀 资料 
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+学习 `javascript` 的开源书籍：
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+### [rework](https://github.com/livid/rework)
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [meiriyiwen](https://meiriyiwen.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+每天一篇随机散文：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
-### [useanimations](https://useanimations.com/)
+### [squoosh](https://squoosh.app/)
 
-前端动态 `UI` 样式集合：
+免费漂亮的在线图片压缩网站：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [transhumans](https://www.transhumans.xyz/)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-免费可商用的人物插图：
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+`GitHub` 最大的开源算法库：
+
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
 ## ✍️ 说明
 
