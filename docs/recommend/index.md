@@ -5,93 +5,79 @@
 
 ## 🎯 项目 
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-### [omnivore](https://github.com/omnivore-app/omnivore)
+一个终端打字应用程序，以提高你的手指水平！
 
-无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
-
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
 ## 🤖 软件 
 
-### [weektodo](https://weektodo.me/)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+### [buster](https://github.com/dessant/buster)
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+### [Vieb](https://vieb.dev/)
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
-
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
-
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
 ## 👀 资料 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-学习 `javascript` 的开源书籍：
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-### [rework](https://github.com/livid/rework)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
-
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
 ## 🕸 网站 
 
-### [meiriyiwen](https://meiriyiwen.com/)
+### [toonme](https://toonme.com)
 
-每天一篇随机散文：
+该网站将原图绘制成可爱的卡通图片：
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
 
-### [squoosh](https://squoosh.app/)
+### [jellylade](https://app.jellylade.com/)
 
-免费漂亮的在线图片压缩网站：
+美化截图，可以选择各种设备：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [relationship](https://passer-by.com/relationship/)
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+中国亲戚关系计算器：
 
-`GitHub` 最大的开源算法库：
-
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
 ## ✍️ 说明
 
