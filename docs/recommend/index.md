@@ -5,79 +5,81 @@
 
 ## 🎯 项目 
 
+### [h-m-m](https://github.com/nadrad/h-m-m)
+
+简单、快速、以键盘为中心处理思维导图的终端工具：
+
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+
+项目列表如下：
+
+![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+
 ### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
 不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-### [termtyper](https://github.com/kraanzu/termtyper)
-
-一个终端打字应用程序，以提高你的手指水平！
-
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
-
-### [mm-wiki](https://github.com/phachon/mm-wiki)
-
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
-
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
-
 ## 🤖 软件 
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-### [buster](https://github.com/dessant/buster)
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+`Android` 平台下 `MD` 风格的文件管理器:
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
-### [Vieb](https://vieb.dev/)
+### NewPipe
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
 ## 👀 资料 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+从零开始 `Kubernetes` 攻防:
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
 ## 🕸 网站 
 
-### [toonme](https://toonme.com)
+### [favicon.io](https://favicon.io/)
 
-该网站将原图绘制成可爱的卡通图片：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [jellylade](https://app.jellylade.com/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-美化截图，可以选择各种设备：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-### [relationship](https://passer-by.com/relationship/)
+### [grep.app](https://grep.app/)
 
-中国亲戚关系计算器：
+`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
