@@ -5,81 +5,83 @@
 
 ## 🎯 项目 
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-简单、快速、以键盘为中心处理思维导图的终端工具：
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-项目列表如下：
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
-### NewPipe
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
 ## 👀 资料 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-从零开始 `Kubernetes` 攻防:
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+精益副业：程序员如何优雅地做副业:
+
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [theonestopradio](https://theonestopradio.com/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+发现你可能喜欢的电台：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [uiset](https://uiset.com/)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-### [grep.app](https://grep.app/)
+### [即时工具](https://www.67tool.com/)
 
-`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
 ## ✍️ 说明
 
