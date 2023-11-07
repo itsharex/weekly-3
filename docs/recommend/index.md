@@ -5,88 +5,111 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [Multipass](https://github.com/canonical/multipass)
+ 
+ `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
+ 
+ ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-### [freed](https://github.com/YuanHsing/freed)
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-### [slickr](https://github.com/saviomartin/slickr)
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+### crontab-ui
+
+提供简单安全的方式来管理 `crontab`:
+
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
 ## 🤖 软件 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+JetBrains 的下一代 IDE：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
 
-### [alacritty](https://github.com/alacritty/alacritty)
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
 ## 👀 资料 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-### [2d2d](https://2d2d.io/)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
+
+对于前端开发者来说应该是一个非常好的知识库：
+
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
 
 ## 🕸 网站 
 
-### [pixian.ai](https://pixian.ai/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+一个搜索 git 常用 emoji 的网站:
 
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [removebg](https://www.remove.bg/zh)
+### [transhumans](https://www.transhumans.xyz/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+免费可商用的人物插图：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [olocr.com](https://olocr.com)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
 ## ✍️ 说明
 
