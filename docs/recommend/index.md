@@ -5,69 +5,58 @@
 
 ## 🎯 项目 
 
-### [Multipass](https://github.com/canonical/multipass)
+### [awesome-compose](https://github.com/docker/awesome-compose)
+
+一些 `Docker Compose` 的实践示例。 
+
+### [homepage](https://github.com/benphelps/homepage)
+
+高度可定制的首页仪表板应用项目：
+
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+
+### [apitable](https://github.com/apitable/apitable)
+
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
+
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
  
- `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
- 
- ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
-
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
-
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
-
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
-
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
-
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
-
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
-
-### crontab-ui
-
-提供简单安全的方式来管理 `crontab`:
-
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
 ## 🤖 软件 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [Yank Note](https://github.com/purocean/yn)
 
-JetBrains 的下一代 IDE：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+### [orange](https://github.com/naaive/orange)
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+基于`Rust`跨平台的文件搜索引擎：
 
-![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
-
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
 ## 👀 资料 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
 ### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
@@ -75,41 +64,31 @@ JetBrains 的下一代 IDE：
 
 ![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
-
-对于前端开发者来说应该是一个非常好的知识库：
-
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
 ## 🕸 网站 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [tableconvert](https://tableconvert.com/)
 
-一个搜索 git 常用 emoji 的网站:
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-免费可商用的人物插图：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-### [olocr.com](https://olocr.com)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
 ## ✍️ 说明
 
