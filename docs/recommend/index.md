@@ -5,90 +5,88 @@
 
 ## 🎯 项目 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-一些 `Docker Compose` 的实践示例。 
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-### [homepage](https://github.com/benphelps/homepage)
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
-高度可定制的首页仪表板应用项目：
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
-### [apitable](https://github.com/apitable/apitable)
+![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
 
-> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
-> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
- [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
- 
- ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
+录制终端操作并生成 `gif` 动图：
+
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
 ## 🤖 软件 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-### [orange](https://github.com/naaive/orange)
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
-基于`Rust`跨平台的文件搜索引擎：
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+### [insomnia](https://github.com/Kong/insomnia)
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+
+![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+### [AI-System](https://github.com/microsoft/AI-System)
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
 ## 🕸 网站 
 
-### [tableconvert](https://tableconvert.com/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+随便画一画，生成美观的图片：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [alternativeto](https://alternativeto.net/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [phind.com](https://www.phind.com/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+面向开发者的人工智能搜索引擎：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
 ## ✍️ 说明
 
