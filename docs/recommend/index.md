@@ -5,88 +5,93 @@
 
 ## 🎯 项目 
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+### [duf](https://github.com/sigoden/duf)
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
+### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
-中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
 
-![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
+![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
-录制终端操作并生成 `gif` 动图：
+基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
 
 ## 🤖 软件 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+一个开源的YouTube应用程序，旨在保护隐私：
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+### [Mos](https://github.com/Caldis/Mos)
 
-### [insomnia](https://github.com/Kong/insomnia)
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
-
-![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
 ## 👀 资料 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+学习 `javascript` 的开源书籍：
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+站点可靠性工作手册：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+### [lexica.art](https://lexica.art/)
 
-随便画一画，生成美观的图片：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [emojicode](https://www.emojicode.org/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
-### [phind.com](https://www.phind.com/)
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
-面向开发者的人工智能搜索引擎：
+### [watermarkremover](https://www.watermarkremover.io/)
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+通过AI技术去除图片水印：
+
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
 ## ✍️ 说明
 
