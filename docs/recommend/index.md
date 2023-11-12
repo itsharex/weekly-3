@@ -5,106 +5,111 @@
 
 ## 🎯 项目 
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+### [musicn](https://github.com/zonemeen/musicn)
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+### [flet](https://github.com/flet-dev/flet)
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+一款简洁实用优雅的高性能个人博客系统：
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
-
-一个获取百度网盘分享链接下载地址的工具：
-
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
 ## 🤖 软件 
 
-### [Mist](https://github.com/ninxsoft/Mist)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-### [yarr](https://github.com/nkanaev/yarr)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-总体来说还是挺简洁轻量的：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+### [shotcut](https://github.com/mltframework/shotcut)
+
+`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
+
+![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
 
 ## 👀 资料 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+关于 `MongoDB`，最全面的免费学习向导：
 
-为忙碌的工程师准备的精选面试准备材料：
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+一份循序渐进的 `k8s` 教程：
 
-中国5级行政区域mysql库：
-
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
 ## 🕸 网站 
 
-### [docsmall](https://docsmall.com/)
+### [uisdc.com](https://hao.uisdc.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+设计师网站导航：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [vim.is](https://vim.is/#exercise)
+### [warp.dev](https://www.warp.dev/)
 
-`Vim`学习网站：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [flowgpt](https://flowgpt.com/)
+### [sci-hub](https://sci-hub.se/)
 
-一个分享ChatGPT提示的网站：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+
+用户可通过以下方式访问新版本：
+
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
+
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
 ## ✍️ 说明
 
