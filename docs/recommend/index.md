@@ -5,83 +5,90 @@
 
 ## 🎯 项目 
 
-### [orpington-news](https://github.com/frysztak/orpington-news)
+### [shiori](https://github.com/go-shiori/shiori)
 
-可自部署的 `RSS` 阅读器，支持 `PWA`：
+开源自部署的书签管理服务：
 
-![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
-### [wtfutil](https://github.com/wtfutil/wtf)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+### [musicn](https://github.com/zonemeen/musicn)
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
 ## 🤖 软件 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [apifox](https://www.apifox.cn/)
 
-`Notepad++`的跨平台开源实现：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+### [localsend](https://github.com/localsend/localsend)
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
 ## 🕸 网站 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [devhints](https://devhints.io/)
 
-效果非常好的图片压缩工具：
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
-### [iconfont](https://www.iconfont.cn/)
+### [文学网](https://www.hwxnet.com/)
 
-阿里巴巴矢量图标库：
+文学相关工具在线网站：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [darebee](https://darebee.com/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-一个教你正确运动姿势的网站：
+### [libhunt](https://www.libhunt.com/)
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+一个对开源项目进行分类并排名的网站：
+
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
 ## ✍️ 说明
 
