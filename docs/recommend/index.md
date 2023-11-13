@@ -5,111 +5,83 @@
 
 ## 🎯 项目 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [orpington-news](https://github.com/frysztak/orpington-news)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+可自部署的 `RSS` 阅读器，支持 `PWA`：
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
 
-### [flet](https://github.com/flet-dev/flet)
+### [wtfutil](https://github.com/wtfutil/wtf)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-一款简洁实用优雅的高性能个人博客系统：
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+`Notepad++`的跨平台开源实现：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
-
-### [shotcut](https://github.com/mltframework/shotcut)
-
-`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
-
-![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
 ## 👀 资料 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-关于 `MongoDB`，最全面的免费学习向导：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-一份循序渐进的 `k8s` 教程：
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
 ## 🕸 网站 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [tanpok](https://tool.tanpok.com/#/)
 
-设计师网站导航：
+效果非常好的图片压缩工具：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
-### [warp.dev](https://www.warp.dev/)
+### [iconfont](https://www.iconfont.cn/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+阿里巴巴矢量图标库：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [sci-hub](https://sci-hub.se/)
+### [darebee](https://darebee.com/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+一个教你正确运动姿势的网站：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
-
-用户可通过以下方式访问新版本：
-
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
-
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
 
 ## ✍️ 说明
 
