@@ -5,90 +5,89 @@
 
 ## 🎯 项目 
 
-### [shiori](https://github.com/go-shiori/shiori)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-开源自部署的书签管理服务：
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-### [musicn](https://github.com/zonemeen/musicn)
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+### [pi-hole](https://pi-hole.net/)
+
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
 ## 🤖 软件 
 
-### [apifox](https://www.apifox.cn/)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+一款 `ChatGPT for Mac` 原生客户端：
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
-### [localsend](https://github.com/localsend/localsend)
+### [antares](https://github.com/Fabio286/antares)
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
-
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
 ## 🕸 网站 
 
-### [devhints](https://devhints.io/)
+### [wantquotes.net](https://wantquotes.net/)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-文学相关工具在线网站：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [ouchn](https://le.ouchn.cn/#/home)
 
-### [libhunt](https://www.libhunt.com/)
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-一个对开源项目进行分类并排名的网站：
-
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
 ## ✍️ 说明
 
