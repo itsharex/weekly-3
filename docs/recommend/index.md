@@ -5,89 +5,101 @@
 
 ## 🎯 项目 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-简单、快速、以键盘为中心处理思维导图的终端工具：
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-### [pi-hole](https://pi-hole.net/)
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
-
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
 ## 🤖 软件 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [Joplin](https://github.com/laurent22/joplin)
 
-一款 `ChatGPT for Mac` 原生客户端：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+> 这篇文章也是使用Joplin写的 
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+### [Macast](https://github.com/xfangfang/Macast)
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-### [antares](https://github.com/Fabio286/antares)
+![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
 ## 👀 资料 
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+### [secguide](https://github.com/Tencent/secguide)
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
 ## 🕸 网站 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [olocr.com](https://olocr.com)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [squoosh](https://squoosh.app/)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+免费漂亮的在线图片压缩网站：
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [ouchn](https://le.ouchn.cn/#/home)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
 ## ✍️ 说明
 
