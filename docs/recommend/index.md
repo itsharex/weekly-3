@@ -5,101 +5,87 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+### [runtipi](https://github.com/meienberger/runtipi)
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+### [code-server](https://github.com/coder/code-server)
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+### [bore](https://github.com/ekzhang/bore)
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
-
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
 ## 🤖 软件 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-> 这篇文章也是使用Joplin写的 
+### [aidea](https://github.com/mylxsw/aidea)
 
-### [Macast](https://github.com/xfangfang/Macast)
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-### [secguide](https://github.com/Tencent/secguide)
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [olocr.com](https://olocr.com)
+### [ailogo](https://ailogo.qq.com/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+`AI` 智能生成可商用的 `LOGO`：
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
-### [squoosh](https://squoosh.app/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-免费漂亮的在线图片压缩网站：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
-
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
 ## ✍️ 说明
 
