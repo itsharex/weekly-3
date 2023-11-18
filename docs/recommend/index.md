@@ -5,91 +5,99 @@
 
 ## 🎯 项目 
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+### [melody](https://github.com/foamzou/melody)
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+主要特性为：
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [doocs/md](https://github.com/doocs/md)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
+
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
+
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
+
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
-### [Codeium](https://codeium.com/)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
 ## 👀 资料 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+### [note-hack](https://github.com/xdite/note-hack)
 
-### [xjq7/books](https://github.com/xjq7/books)
+《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [uiset](https://uiset.com/)
+### [cook](https://github.com/YunYouJun/cook)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [pixabay](https://pixabay.com/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [quanxin](https://quanxin.org/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-快速、优雅、免费的在线工具，比如：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
-
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
 ## ✍️ 说明
 
