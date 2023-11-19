@@ -5,96 +5,102 @@
 
 ## 🎯 项目 
 
-### [photoview](https://github.com/photoview/photoview)
+### [ChatALL](https://github.com/sunner/ChatALL)
 
-开源的相册程序，可基于Docker快速构建：
+同时与所有 AI 机器人聊天，然后发现最佳选择：
 
-![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
+![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [tabby](https://github.com/TabbyML/tabby)
 
-带看板的开源项目管理工具:
+自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+免费方案还可以尝试的有：
 
-### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
+- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
 
-依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
+![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
 
-![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
+![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
+
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+### [cursor](https://github.com/getcursor/cursor)
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
 
-高并发系统设计 40 问，一份架构师学习笔记：
+![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+利用LLM构建应用实践笔记：
 
-这本书的目标是:
-
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
-
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [gh-card.dev](https://gh-card.dev/)
 
-我的第一个NFT，在这个网站，你可以：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+一个好看的双拼学习网站：
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+### [buzzing.cc](https://www.buzzing.cc/)
 
-### [theonestopradio](https://theonestopradio.com/)
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-发现你可能喜欢的电台：
-
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
 ## ✍️ 说明
 
