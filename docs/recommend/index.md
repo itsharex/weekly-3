@@ -5,99 +5,96 @@
 
 ## 🎯 项目 
 
-### [melody](https://github.com/foamzou/melody)
+### [photoview](https://github.com/photoview/photoview)
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+开源的相册程序，可基于Docker快速构建：
 
-主要特性为：
+![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+带看板的开源项目管理工具:
 
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-### [doocs/md](https://github.com/doocs/md)
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
-
-`Bililive-go` 是一个支持多种直播平台的直播录制工具：
-
-![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
+![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
 
 ## 🤖 软件 
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+### [wiliwili](https://github.com/xfangfang/wiliwili)
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [linearmouse](https://github.com/linearmouse/linearmouse)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
 
-### [Offset Explorer](https://www.kafkatool.com/download.html)
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-个人免费的跨平台 `Kafka` 界面管理工具：
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
 ## 👀 资料 
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-### [note-hack](https://github.com/xdite/note-hack)
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+高并发系统设计 40 问，一份架构师学习笔记：
 
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+这本书的目标是:
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
 ## 🕸 网站 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [myfirstnft](https://myfirstnft.info/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+我的第一个NFT，在这个网站，你可以：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [pixabay](https://pixabay.com/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+### [theonestopradio](https://theonestopradio.com/)
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+发现你可能喜欢的电台：
+
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
 ## ✍️ 说明
 
