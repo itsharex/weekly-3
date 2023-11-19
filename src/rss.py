@@ -72,13 +72,15 @@ def gen_rss():
 
         fe = fg.add_entry()
         file_name: str = cur_data["file_name"]
-        fe.id(file_name)
+        file_date = file_name.split("~")[0].replace("/", "-") + " 00:00:00"
+        
+        fe.id(file_date)
         fe.title(cur_data["file_title"])
         fe.link(href=f"{BASE_URL}{file_name.replace('md','html')}")
         fe.description(f"<![CDATA[ {cur_data['file_html']} ]]>")
         fe.author(name="老胡的储物柜")
         dt = datetime.datetime.strptime(
-            cur_data["file_updated_at_date"], "%Y-%m-%d %H:%M:%S"
+            file_date, "%Y-%m-%d %H:%M:%S"
         )
         beijing_tz = pytz.timezone("Asia/Shanghai")
         dt_with_tz = dt.replace(tzinfo=beijing_tz)
