@@ -5,102 +5,94 @@
 
 ## 🎯 项目 
 
-### [ChatALL](https://github.com/sunner/ChatALL)
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-同时与所有 AI 机器人聊天，然后发现最佳选择：
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
-### [tabby](https://github.com/TabbyML/tabby)
+### [Textual](https://github.com/Textualize/textual)
 
-自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-免费方案还可以尝试的有：
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
-- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
-
-![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
-
-![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
-
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
-
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
 ## 🤖 软件 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+一个`macOS`的上的`SSH`客户端：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+软件特性：
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+### [licecap](https://github.com/justinfrankel/licecap)
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
+
+同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-利用LLM构建应用实践笔记：
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
-![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+
+学习 `javascript` 的开源书籍：
+
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
 ## 🕸 网站 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [screen.guru](https://screen.guru/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+[Screen Guru](https://github.com/premieroctet/screen-guru)(开源) 可以对任何网站进行截屏生成干净漂亮的截图：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![screen-guru](https://images-1252557999.file.myqcloud.com/uPic/screen-guru.png) 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [alleyread](https://alleyread.com/)
 
-一个好看的双拼学习网站：
+发现优质 `Newsletter`：
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [grep.app](https://grep.app/)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
