@@ -5,94 +5,99 @@
 
 ## 🎯 项目 
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-### [Textual](https://github.com/Textualize/textual)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [ChatGPT](https://chat.openai.com/chat)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [tunnelblick](https://tunnelblick.net/)
 
-一个`macOS`的上的`SSH`客户端：
+免费开源的`openvpn`客户端：
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-软件特性：
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+本地备份软件：
 
-### [licecap](https://github.com/justinfrankel/licecap)
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
-
-同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+为忙碌的工程师准备的精选面试准备材料：
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-学习 `javascript` 的开源书籍：
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
 ## 🕸 网站 
 
-### [screen.guru](https://screen.guru/)
+### [w2solo](https://w2solo.com/)
 
-[Screen Guru](https://github.com/premieroctet/screen-guru)(开源) 可以对任何网站进行截屏生成干净漂亮的截图：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![screen-guru](https://images-1252557999.file.myqcloud.com/uPic/screen-guru.png) 
+### [必应壁纸](https://bing.ioliu.cn/)
 
-### [alleyread](https://alleyread.com/)
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-发现优质 `Newsletter`：
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+### [transhumans](https://www.transhumans.xyz/)
 
-### [grep.app](https://grep.app/)
+免费可商用的人物插图：
 
-`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
-
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
