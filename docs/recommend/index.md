@@ -5,99 +5,85 @@
 
 ## 🎯 项目 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+一个极简的 `RSS` 在线浏览工具：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
 
-### [ChatGPT](https://chat.openai.com/chat)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-免费开源的`openvpn`客户端：
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [marktext](https://github.com/marktext/marktext)
 
-本地备份软件：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [avnc](https://github.com/gujjwal00/avnc)
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+针对 `Android` 的开源 `VNC` 客户端：
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
-
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
 ## 👀 资料 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-为忙碌的工程师准备的精选面试准备材料：
+《Software Engineering at Google》的中文翻译版本：
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
-
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
-
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [w2solo](https://w2solo.com/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+软件镜像站：
 
-### [必应壁纸](https://bing.ioliu.cn/)
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+### [mycolor.space](https://mycolor.space/)
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+渐变配色生成器，自动生成 `CSS` 代码：
 
-### [transhumans](https://www.transhumans.xyz/)
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
-免费可商用的人物插图：
+### [即时工具](https://www.67tool.com/)
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
 ## ✍️ 说明
 
