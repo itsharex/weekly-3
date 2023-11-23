@@ -5,85 +5,86 @@
 
 ## 🎯 项目 
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-一个极简的 `RSS` 在线浏览工具：
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
-
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+- 数据集分析、股票图表绘制、图像处理....
+- 互联网访问和自动安装Python软件包
+- 除了OpenAI API 外，所有事情在本地运行
+- 对话记忆：根据先前的输入进行回应 
 
 ## 🤖 软件 
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
 
-### [marktext](https://github.com/marktext/marktext)
+### mizu
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [spacedrive](https://www.spacedrive.com/)
 
-针对 `Android` 的开源 `VNC` 客户端：
+`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
+
+无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
+
+![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
 
 ## 👀 资料 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-《Software Engineering at Google》的中文翻译版本：
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+站点可靠性工作手册：
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
-
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
 ## 🕸 网站 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [ideogram.ai](https://ideogram.ai/)
 
-软件镜像站：
+免费无次数限制的文字转图片网页：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [mycolor.space](https://mycolor.space/)
+### [toolfinder](https://toolfinder.xyz/)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+生产力工具的维基百科：
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [即时工具](https://www.67tool.com/)
+### [AnyBT](https://anybt.eth.limo/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+种子搜索引擎，下载你想要的资源：
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
 ## ✍️ 说明
 
