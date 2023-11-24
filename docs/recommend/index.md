@@ -5,86 +5,93 @@
 
 ## 🎯 项目 
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
 ## 🤖 软件 
 
-### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-### mizu
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-### [spacedrive](https://www.spacedrive.com/)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
-
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
-
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
 ## 👀 资料 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-站点可靠性工作手册：
+### [pdai](https://pdai.tech/)
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [alternativeto](https://alternativeto.net/)
 
-免费无次数限制的文字转图片网页：
+常用软件替代品查询网站：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-生产力工具的维基百科：
+一个小工具，将你的图片像素化:
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [onepdf](https://www.onepdf.online/)
 
-种子搜索引擎，下载你想要的资源：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
 ## ✍️ 说明
 
