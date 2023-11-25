@@ -5,93 +5,95 @@
 
 ## 🎯 项目 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+录制终端操作并生成 `gif` 动图：
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+### [slickr](https://github.com/saviomartin/slickr)
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
 ## 🤖 软件 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+### [uPic](https://github.com/gee1k/uPic)
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+我的必备软件：
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+
+### [DBeaver](https://github.com/dbeaver/dbeaver)
+
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
+
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
 ## 👀 资料 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-### [pdai](https://pdai.tech/)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+一份从头开始建立 `CDN` 知识体系的教程。 
 
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
-
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
-
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [pika](https://pika.style/)
 
-常用软件替代品查询网站：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [fancymacbook](https://fancymacbook.app/)
 
-一个小工具，将你的图片像素化:
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-### [onepdf](https://www.onepdf.online/)
+### [devhints](https://devhints.io/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
 ## ✍️ 说明
 
