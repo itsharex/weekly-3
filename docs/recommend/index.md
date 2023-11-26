@@ -5,95 +5,102 @@
 
 ## 🎯 项目 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [osquery](https://github.com/osquery/osquery)
 
-录制终端操作并生成 `gif` 动图：
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-### [slickr](https://github.com/saviomartin/slickr)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [iina](https://github.com/iina/iina)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-### [uPic](https://github.com/gee1k/uPic)
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-我的必备软件：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
-
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
-
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
 ## 👀 资料 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
-
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [pika](https://pika.style/)
+### [sayhello](https://beta.sayhello.so/)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [untools](https://untools.co/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+一个帮助你思考的集合工具&框架：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-### [devhints](https://devhints.io/)
+### [lexica.art](https://lexica.art/)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
 ## ✍️ 说明
 
