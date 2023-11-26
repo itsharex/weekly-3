@@ -5,102 +5,109 @@
 
 ## 🎯 项目 
 
-### [osquery](https://github.com/osquery/osquery)
+### [apitable](https://github.com/apitable/apitable)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
+ 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [kanboard](https://kanboard.org/)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
-
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
-
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
-
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
 ## 🤖 软件 
 
-### [iina](https://github.com/iina/iina)
+### [Cider](https://github.com/ciderapp/Cider)
 
-macOS 下的开源现代化视频播放器，我的必备软件：
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+本地备份软件：
+
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
+
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+`Solidity` 极简入门：
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+### [how-web-works](https://github.com/vasanthk/how-web-works)
+
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [squoosh](https://squoosh.app/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+免费漂亮的在线图片压缩网站：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [untools](https://untools.co/)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-一个帮助你思考的集合工具&框架：
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-### [lexica.art](https://lexica.art/)
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+### [latexlive](https://www.latexlive.com/)
+
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
