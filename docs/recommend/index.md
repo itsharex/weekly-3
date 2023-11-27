@@ -5,109 +5,90 @@
 
 ## 🎯 项目 
 
-### [apitable](https://github.com/apitable/apitable)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
-> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
- [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
- 
- ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
+![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
 
-### [kanboard](https://kanboard.org/)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
-![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
+### [DataEase](https://github.com/dataease/dataease)
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
-
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
-
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
 ## 🤖 软件 
 
-### [Cider](https://github.com/ciderapp/Cider)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+### [Xit](https://github.com/Uncommon/Xit)
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-本地备份软件：
-
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
-
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
 ## 👀 资料 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-`Solidity` 极简入门：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
 ## 🕸 网站 
 
-### [squoosh](https://squoosh.app/)
+### [ip-api.com](http://ip-api.com/json)
 
-免费漂亮的在线图片压缩网站：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [ixinqing](http://www.ixinqing.com/)
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+心晴 · 专注于心理学入门与自我成长:
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+### [curated.design](https://www.curated.design/)
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-### [latexlive](https://www.latexlive.com/)
-
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
-
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
 ## ✍️ 说明
 
