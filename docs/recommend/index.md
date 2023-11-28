@@ -5,90 +5,88 @@
 
 ## 🎯 项目 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
-
-### [MOSS](https://github.com/OpenLMLab/MOSS)
-
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
-
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
 
 ### [DataEase](https://github.com/dataease/dataease)
 
 DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
+### [gorse](https://github.com/zhenghaoz/gorse)
+
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+
 ## 🤖 软件 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+### [natpass](https://github.com/lwch/natpass)
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-### [Xit](https://github.com/Uncommon/Xit)
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
-
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
 ## 👀 资料 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [just-react](https://github.com/BetaSu/just-react)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+比较全面的 `k8s` 资源收集项目：
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+《Software Engineering at Google》的中文翻译版本：
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
-
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [ip-api.com](http://ip-api.com/json)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [ixinqing](http://www.ixinqing.com/)
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-心晴 · 专注于心理学入门与自我成长:
+### [piqsels](https://www.piqsels.com/)
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-### [curated.design](https://www.curated.design/)
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+### [apitracker](https://apitracker.io/)
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
 ## ✍️ 说明
 
