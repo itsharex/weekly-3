@@ -5,91 +5,93 @@
 
 ## 🎯 项目 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
-### [manifest](https://github.com/jonathontoon/manifest)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+### crontab-ui
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+提供简单安全的方式来管理 `crontab`:
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
 ## 🤖 软件 
 
-### [MiniSim](https://github.com/okwasniewski/MiniSim)
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg) 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+安全、快速与轻量的远程桌面&文件管理工具：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [natpass](https://github.com/lwch/natpass)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
 ## 👀 资料 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-一本小书《带你入门前端工程》
+重新分类 Leetcode 高频题 2021 版
 
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-《Linear Algebra for Everyone》公开课的图解笔记：
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
 
 ## 🕸 网站 
 
-### [onemodel](https://www.onemodel.app/)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-![onemodel](https://images-1252557999.file.myqcloud.com/uPic/onemodel.png)
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-同类开源产品推荐如下：
+### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
 
-- [jgraph/drawio](https://github.com/jgraph/drawio)：经典流程绘图工具
-- [excalidraw](https://github.com/excalidraw/excalidraw)：白板绘图工具
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)：用代码的形式生成架构图 
+腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
 
-### [iconfont](https://www.iconfont.cn/)
+这个 `Demo` 网页允许用户进行：
 
-阿里巴巴矢量图标库：
+- 人像修复
+- 人像抠图
+- 动漫增强
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+模型，免费实用。
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
 
-@妙才投稿，在线学习git命令的网站：
+### [linegraphmaker](https://linegraphmaker.co/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
 ## ✍️ 说明
-
-周刊相关信息：
 
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
