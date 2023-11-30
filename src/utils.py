@@ -4,9 +4,27 @@
     Changelog: all notable changes to this file will be documented
 """
 
+import hashlib
 import os
 
 import requests
+
+
+def md5_encode(text: str) -> str:
+    """
+    创建一个md5对象
+    Args:
+        text (str): 待加密文本
+
+    Returns:
+        str: 加密后文本
+    """
+    md5 = hashlib.md5()
+    # 更新md5对象
+    md5.update(text.encode("utf-8"))
+    # 获取加密后的字符串
+    result = md5.hexdigest()
+    return result
 
 
 def get_lxgwwenkai_font():

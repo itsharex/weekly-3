@@ -21,6 +21,7 @@ black = "*"
 pylint = "*"
 isort = "*"
 pypdf2 = "*"
+python-telegram-bot = "*"
 
 [scripts]
 deploy = "bash ./deploy.sh"
