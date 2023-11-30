@@ -5,83 +5,87 @@
 
 ## 🎯 项目 
 
-### [websocketd](https://github.com/joewalnes/websocketd)
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+### [manifest](https://github.com/jonathontoon/manifest)
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
 
-一个开源的快速制作文章封面图的工具。
+### [resume-design](https://github.com/huajian-pro/resume-design)
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
 ## 🤖 软件 
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+### [MiniSim](https://github.com/okwasniewski/MiniSim)
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
 ## 👀 资料 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+一本小书《带你入门前端工程》
 
-你可以用以下方式浏览：
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
-计算机科学课程和视频讲座列表：
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
-
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
-
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [Baidu 一格](https://yige.baidu.com/)
+### [onemodel](https://www.onemodel.app/)
 
-百度出品的文字生成图像模型：
+为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+![onemodel](https://images-1252557999.file.myqcloud.com/uPic/onemodel.png)
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+同类开源产品推荐如下：
 
-开放纯粹的资源网站：
+- [jgraph/drawio](https://github.com/jgraph/drawio)：经典流程绘图工具
+- [excalidraw](https://github.com/excalidraw/excalidraw)：白板绘图工具
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)：用代码的形式生成架构图 
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+### [iconfont](https://www.iconfont.cn/)
 
-### [archive.today](https://archive.today/)
+阿里巴巴矢量图标库：
 
-提供任何网站存档查询的网站：
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+
+@妙才投稿，在线学习git命令的网站：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
 ## ✍️ 说明
 
