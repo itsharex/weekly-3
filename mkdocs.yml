@@ -1,10 +1,12 @@
 copyright: Copyright &copy; 2021 - 2023 <a href="https://github.com/howie6879/weekly">howie.hu</a>.
 extra:
   social:
+  - icon: fontawesome/brands/telegram
+    link: https://t.me/howie_weekly
   - icon: fontawesome/brands/weixin
     link: https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg
   - icon: fontawesome/solid/blog
-    link: https://www.howie6879.cn
+    link: https://www.howie6879.com
   - icon: fontawesome/brands/github-alt
     link: https://github.com/howie6879
   - icon: fontawesome/brands/twitter
@@ -154,6 +156,7 @@ nav:
 plugins:
 - search:
     separator: '[\s\u200b\-]'
+- open-in-new-tab
 - git-revision-date-localized
 repo_name: howie6879/weekly
 repo_url: https://github.com/howie6879/weekly

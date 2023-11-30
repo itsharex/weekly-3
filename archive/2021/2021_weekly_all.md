@@ -141,11 +141,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -251,11 +249,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -328,11 +324,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -430,11 +424,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -523,11 +515,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -601,11 +591,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -669,11 +657,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -737,11 +723,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -830,11 +814,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -918,11 +900,9 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1014,11 +994,9 @@ C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1091,11 +1069,9 @@ QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1272,11 +1248,9 @@ QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1372,11 +1346,9 @@ QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1476,11 +1448,9 @@ Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, S
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1564,11 +1534,9 @@ Quake 是面向极客的知识管理元框架，它可以：
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1660,11 +1628,9 @@ JetBrains 的下一代 IDE：
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1763,11 +1729,9 @@ PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 
@@ -1872,11 +1836,9 @@ Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登�
 
 ## ✍️ 说明
 
-周刊相关信息：
-
-- 🥳我基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎免费体验
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
 - 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- [FRE123-Free Resource for Everyone](https://www.fre123.com/)：利用周刊收集的资源，为非极客用户群体减少信息差👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
 

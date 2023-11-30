@@ -15,6 +15,7 @@ pytz = "*"
 sitemap-generator = "*"
 requests = "*"
 markdown = "*"
+mkdocs-open-in-new-tab = "*"
 
 [dev-packages]
 black = "*"

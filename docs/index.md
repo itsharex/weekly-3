@@ -6,10 +6,11 @@
 
 - [网站](https://weekly.howie6879.com/)
 - [公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- [TG](https://t.me/howie_weekly)
 - [周刊RSS](https://weekly.howie6879.com/rss/rss.xml)
 - [今日推荐](https://weekly.howie6879.com/recommend)
 
-**基于ChatGPT做了个[微信端的老胡信息周刊QA](https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ)，欢迎体验**
+目前正在利用周刊收集的资源，为非极客用户群体打破信息不对称，减少信息差，这次项目计划名为：[FRE123-Free Resource for Everyone](https://www.fre123.com/)，想了解更多？👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
 ## 介绍 <br/> <img src="https://images-1252557999.file.myqcloud.com/uPic/weekly.jpg" width=45% align=right hspace="5" vspace="5" />
 
@@ -33,11 +34,11 @@
 
 如果你觉得周刊内容感兴趣，想在自己的产品中使用，直接从[weekly.db](./weekly.db)拿经过处理的数据即可（使用请声明来源）:
 
-![weekly_db_demo](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/weekly_db_demo.jpg)
+![weekly_db_demo](https://images-1252557999.file.myqcloud.com/uPic/NOhO5H.png)
 
 ## 交流
 
-欢迎关注[公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)|[博客](https://howie6879.cn/)一起交流（每周在公众号首发）：
+欢迎关注[公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)|[博客](https://howie6879.com/)一起交流（每周在公众号首发）：
 
 <div align=center><img src="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"  width="85%" alt="img" /></div>
 
