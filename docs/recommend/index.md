@@ -5,57 +5,53 @@
 
 ## 🎯 项目 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [websocketd](https://github.com/joewalnes/websocketd)
 
-带看板的开源项目管理工具:
+将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+一个开源的快速制作文章封面图的工具。
 
-### [safeline](https://github.com/chaitin/safeline)
-
-一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
-
-- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
-- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
-- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
-- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
-
-![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [Plash](https://github.com/sindresorhus/Plash)
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-### [buster](https://github.com/dessant/buster)
-
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
-
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
+
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
+
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+
+你可以用以下方式浏览：
+
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
 ### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
@@ -63,42 +59,29 @@
 
 ![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
 
-### [sideproject](https://sideproject.guide/)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-`Side Project` 指南：
-
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
-
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
-
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
-
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
-
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
 ## 🕸 网站 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [Baidu 一格](https://yige.baidu.com/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+百度出品的文字生成图像模型：
 
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
-### [法律时代导航](https://yesen.cn/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+开放纯粹的资源网站：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-### [new.space](https://new.space/)
+### [archive.today](https://archive.today/)
 
-免注册多人临时文件分享工具：
+提供任何网站存档查询的网站：
 
-![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
 ## ✍️ 说明
 
