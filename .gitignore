@@ -109,3 +109,6 @@ site/
 *.pdf
 weekly.txt
 weekly.json
+dev.env
+insert_tg.json
+tg.py
