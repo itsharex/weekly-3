@@ -5,91 +5,86 @@
 
 ## 🎯 项目 
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [sealos](https://github.com/fanux/sealos)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-### crontab-ui
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-提供简单安全的方式来管理 `crontab`:
-
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
 ## 🤖 软件 
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-安全、快速与轻量的远程桌面&文件管理工具：
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
 
-### [natpass](https://github.com/lwch/natpass)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
+
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
 ## 👀 资料 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-重新分类 Leetcode 高频题 2021 版
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
 ## 🕸 网站 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+### [medisearch](https://medisearch.io/zh)
 
-腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
+直接的科学为基础的医疗问答模型：
 
-这个 `Demo` 网页允许用户进行：
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-- 人像修复
-- 人像抠图
-- 动漫增强
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-模型，免费实用。
+网站收集了各个朝代人物介绍：
 
-![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
-
-### [linegraphmaker](https://linegraphmaker.co/)
-
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
-
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
 ## ✍️ 说明
 
