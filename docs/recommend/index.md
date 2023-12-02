@@ -5,86 +5,85 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
 
-### [sealos](https://github.com/fanux/sealos)
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
 ## 🤖 软件 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [buster](https://github.com/dessant/buster)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [Gifski](https://github.com/sindresorhus/Gifski)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+在 `Mac` 上将视频转换为高质量的 `GIF`：
 
-![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
+![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [antares](https://github.com/Fabio286/antares)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
-
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+学习 `javascript` 的开源书籍：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+开源书籍，`Prometheus`  操作指南：
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [alternativeto](https://alternativeto.net/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+常用软件替代品查询网站：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [medisearch](https://medisearch.io/zh)
+### [网道](https://wangdoc.com/)
 
-直接的科学为基础的医疗问答模型：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-网站收集了各个朝代人物介绍：
+### [scrnshts.club](https://scrnshts.club/)
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+收集 App 在应用商店中做宣传用的截图，很有意思：
+
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
 ## ✍️ 说明
 
