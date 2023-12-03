@@ -6,10 +6,8 @@
 
 已经坚持更新两年多，当前阅读渠道如下：
 
-- [网站](https://weekly.howie6879.com)
-- [公众号](https://cdn.jsdelivr.net/gh/howie6879/weekly/src/statics/wechat.jpeg)
-- [TG](https://t.me/howie_weekly)
-- [周刊RSS](https://weekly.howie6879.com/rss/rss.xml)
+- [网站](https://weekly.howie6879.com/) | [RSS](https://weekly.howie6879.com/rss/rss.xml)
+- [TG 频道](https://t.me/howie_weekly) | [公众号](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [今日推荐](https://weekly.howie6879.com/recommend)
 
 目前正在利用周刊收集的资源，为非极客用户群体打破信息不对称，减少信息差，这次项目计划名为：[FRE123-Free Resource for Everyone](https://www.fre123.com/)，想了解更多？👉 [FRE123|老胡周刊免费资源之启动篇](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
@@ -30,7 +28,7 @@
 
 老胡的周刊开始于**2021-08-16**，如果你在看到这篇文章的时候，我依旧在更新，那么这就是最好的消息，周刊信息汇总如下：
 
-- 🐰 2023 年周刊: [在线浏览](https://weekly.howie6879.com/2023/11-20~11-26.老胡的周刊（第117期）.html)
+- 🐰 2023 年周刊: [在线浏览](https://weekly.howie6879.com/2023/11-27~12-03.老胡的周刊（第118期）.html)
 - 🐯 2022 年周刊: [在线浏览](https://weekly.howie6879.com/2022/01-01~01-09.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC021%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2022/2022_weekly_all.md)
 - 🐮 2021 年周刊: [在线浏览](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2021/2021_weekly_all.md)
 
