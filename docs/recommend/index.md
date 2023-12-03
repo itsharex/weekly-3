@@ -5,90 +5,101 @@
 
 ## 🎯 项目 
 
-### [nocobase](https://github.com/nocobase/nocobase)
+### [memos](https://github.com/justmemos/memos)
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+**🎯 产品意图**:
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+
+动漫、电视剧的自动更新及在线观看，项目介绍：
+
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+### [MusicFree](https://github.com/maotoumao/MusicFree)
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
 
-### mizu
-
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
-
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
 
 ## 👀 资料 
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [tgscan](https://tgscan.xyz/)
+### [ossinsight](https://ossinsight.io/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+### [similarsites](https://www.similarsites.com/)
 
-### [firefly](https://firefly.adobe.com/)
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+### [必应壁纸](https://bing.ioliu.cn/)
 
-### [curated.design](https://www.curated.design/)
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-网页设计灵感目录，比较全面的设计领域导航网站：
-
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
 ## ✍️ 说明
 
