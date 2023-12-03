@@ -5,92 +5,104 @@
 
 ## 🎯 项目 
 
-### [crawlee](https://crawlee.dev/)
+### [logto](https://github.com/logto-io/logto)
 
-基于 `Node` 编写的开源网络爬虫库：
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+核心功能：
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
 
-用 `Python` 代码绘制云原生架构图：
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### [500lines](https://github.com/aosabook/500lines)
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+### [novel](https://github.com/steven-tey/novel)
+
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
 ## 🤖 软件 
 
-### [kondo](https://github.com/tbillington/kondo)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+### [Mos](https://github.com/Caldis/Mos)
 
-可以看到上面 `Rust` 项目依赖确实大。 
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-### [Sequel-Ace](https://sequel-ace.com/)
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+### [feed-flow](https://github.com/prof18/feed-flow)
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
 
-### mizu
-
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
-
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
 
 ## 👀 资料 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-《结网》作者王坚的开源新书：
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-### [theByteBook](https://github.com/isno/theByteBook)
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [ipdetective](https://ipdetective.io/api)
 
-简洁漂亮的图标网站：
+检测 `ip` 是否是机器人：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [1loc](https://1loc.dev/)
+### [ossinsight](https://ossinsight.io/)
 
-一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-### [zlib.pro](https://zlib.pro/)
+### [uiverse.io](https://uiverse.io/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
 ## ✍️ 说明
 
