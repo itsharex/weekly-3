@@ -5,85 +5,90 @@
 
 ## 🎯 项目 
 
-### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [eoapi](https://github.com/eolinker/eoapi)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
-### [Gifski](https://github.com/sindresorhus/Gifski)
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-在 `Mac` 上将视频转换为高质量的 `GIF`：
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-### [antares](https://github.com/Fabio286/antares)
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+### mizu
+
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-学习 `javascript` 的开源书籍：
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-开源书籍，`Prometheus`  操作指南：
-
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [tgscan](https://tgscan.xyz/)
 
-常用软件替代品查询网站：
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
 
-### [网道](https://wangdoc.com/)
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+### [firefly](https://firefly.adobe.com/)
 
-目前提供了不少教程，对于初学者是非常友好的：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [curated.design](https://www.curated.design/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
 ## ✍️ 说明
 
