@@ -5,90 +5,87 @@
 
 ## 🎯 项目 
 
-### [pi-hole](https://pi-hole.net/)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+简单描述工作内容，帮你生成完整周报：
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-### [slickr](https://github.com/saviomartin/slickr)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+一个获取百度网盘分享链接下载地址的工具：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
 ## 🤖 软件 
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+### [Xit](https://github.com/Uncommon/Xit)
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
-
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-谷歌出品的四天学习 `Rust` 👀
+这本书的目标是:
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
 ## 🕸 网站 
 
-### [sysmini](https://www.sysmini.com/)
+### [aicolors](https://aicolors.co/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+通过提示词，基于 AI 生成配色方案：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [dbbqb](https://www.dbbqb.com/)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+专业的表情包搜索网站：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
-### [quanxin](https://quanxin.org/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-快速、优雅、免费的在线工具，比如：
+速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
-
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
 
 ## ✍️ 说明
 
