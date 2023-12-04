@@ -5,115 +5,97 @@
 
 ## 🎯 项目 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
 ## 🤖 软件 
 
-### [batnoter](https://github.com/batnoter/batnoter)
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
 
 ## 👀 资料 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [xjq7/books](https://github.com/xjq7/books)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-### [LearnData-开源笔记](https://newzone.top/)
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-浙江大学课程攻略共享计划：
-
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
 ## 🕸 网站 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [sayhello](https://beta.sayhello.so/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [regex101](https://regex101.com/)
+### [phind.com](https://www.phind.com/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+面向开发者的人工智能搜索引擎：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-### [devtool.tech](https://devtool.tech/)
+非常极客的背景音乐网站：
 
-开发者武器库，作者提供了83个开发者常用的工具：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
