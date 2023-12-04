@@ -5,104 +5,90 @@
 
 ## 🎯 项目 
 
-### [logto](https://github.com/logto-io/logto)
+### [pi-hole](https://pi-hole.net/)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-核心功能：
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+### [slickr](https://github.com/saviomartin/slickr)
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
-
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
-
-### [novel](https://github.com/steven-tey/novel)
-
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
-
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-### [Mos](https://github.com/Caldis/Mos)
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+谷歌出品的四天学习 `Rust` 👀
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
-
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
-
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
-
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
 ## 🕸 网站 
 
-### [ipdetective](https://ipdetective.io/api)
+### [sysmini](https://www.sysmini.com/)
 
-检测 `ip` 是否是机器人：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [ossinsight](https://ossinsight.io/)
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+微软出品的文字生成图像模型（IP不能是国内）：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [quanxin](https://quanxin.org/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+快速、优雅、免费的在线工具，比如：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
+
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
 ## ✍️ 说明
 
