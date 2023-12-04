@@ -110,5 +110,5 @@ site/
 weekly.txt
 weekly.json
 dev.env
-insert_tg.json
-tg.py
+src/sender/json/*.json
+tg_tmp.md
