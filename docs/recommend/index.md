@@ -5,81 +5,115 @@
 
 ## 🎯 项目 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-### [penpot](https://github.com/penpot/penpot)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### NewPipe
+### [batnoter](https://github.com/batnoter/batnoter)
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
 
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
+
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+### [LearnData-开源笔记](https://newzone.top/)
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
-强化学习中文教程：
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+浙江大学课程攻略共享计划：
+
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
 ## 🕸 网站 
 
-### [similarsites](https://www.similarsites.com/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
-### [flowgpt](https://flowgpt.com/)
+### [regex101](https://regex101.com/)
 
-一个分享ChatGPT提示的网站：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-一个搜索 git 常用 emoji 的网站:
+### [devtool.tech](https://devtool.tech/)
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+开发者武器库，作者提供了83个开发者常用的工具：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
 
 ## ✍️ 说明
 
