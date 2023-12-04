@@ -5,97 +5,86 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+### [nps](https://github.com/ehang-io/nps)
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+### [Textual](https://github.com/Textualize/textual)
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
+### [apitable](https://github.com/apitable/apitable)
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
-
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
+ 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
 ## 🤖 软件 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
-
-![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+《结网》作者王坚的开源新书：
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
-
-![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [echoserver](https://echoserver.dev/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
-### [phind.com](https://www.phind.com/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-面向开发者的人工智能搜索引擎：
+随便画一画，生成美观的图片：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-非常极客的背景音乐网站：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
