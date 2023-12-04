@@ -5,87 +5,81 @@
 
 ## 🎯 项目 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [milvus](https://github.com/milvus-io/milvus)
 
-简单描述工作内容，帮你生成完整周报：
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+### [penpot](https://github.com/penpot/penpot)
 
-一个获取百度网盘分享链接下载地址的工具：
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
 ## 🤖 软件 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### NewPipe
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
 ## 👀 资料 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+强化学习中文教程：
 
-这本书的目标是:
-
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
-
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [aicolors](https://aicolors.co/)
+### [similarsites](https://www.similarsites.com/)
 
-通过提示词，基于 AI 生成配色方案：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [flowgpt](https://flowgpt.com/)
 
-专业的表情包搜索网站：
+一个分享ChatGPT提示的网站：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
+一个搜索 git 常用 emoji 的网站:
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
