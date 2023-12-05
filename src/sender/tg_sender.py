@@ -20,27 +20,30 @@ with open(sender_config.SENDER_CACHE_PATH["tg_tmp"], "r", encoding="utf-8") as f
 
 for i in parse_tg_tmp():
     r_type = i["item_type"].replace(" ", "")
-    r_title = i["item_content"].split("\n\n")[0]
-    r_content = i["item_content"].replace(r_title + "\n\n", "")
+    r_title = i["item_content"].split("\n\n")[0].strip()
+    r_content = i["item_content"].replace(r_title + "\n\n", "").strip()
     md_text = f"""
 👉 名称：{r_title}
 🤖 类型：{r_type}
 👏 介绍：{r_content}
-"""
+""".strip()
     try:
         image_link = re.findall(r"!\[.*?\]\((.*?)\)", md_text)[0]
     except IndexError:
         image_link = ""
 
     # 删除所有的图片链接
+    pattern = r"!\[.*?\]\(.*?\)"
+    # 使用正则表达式替换所有匹配项为空字符串
     md_text_without_images = (
-        re.sub(r"!\[.*?\]\((.*?)\)\n", "", md_text)
+        re.sub(pattern, "", md_text)
+        .strip()
         .replace(":\n", "")
         .replace("：\n", "")
         .replace("\n\n", "")
     )
 
-    msg_key = md5_encode(md_text_without_images)
+    msg_key = md5_encode(r_title)
 
     if msg_key in tg_cache_data:
         print(f"{r_title} 已经发送过了，跳过！")
