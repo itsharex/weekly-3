@@ -5,98 +5,79 @@
 
 ## 🎯 项目 
 
-### [dub](https://github.com/steven-tey/dub)
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+### [halo](https://github.com/halo-dev/halo)
 
-### [ossart](https://github.com/djyde/ossart)
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
-![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
+### [code-server](https://github.com/coder/code-server)
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
-
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
 
 ## 🤖 软件 
 
-### [orange](https://github.com/naaive/orange)
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-基于`Rust`跨平台的文件搜索引擎：
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [VPet](https://github.com/LorisYounger/VPet)
 
-轻量级macOS剪切板管理应用：
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
-
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
 ## 👀 资料 
-
-### [hello-algo](https://github.com/krahets/hello-algo)
-
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
-
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
-
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
 ### [English-Writing](https://github.com/yzy1996/English-Writing)
 
 本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [xjq7/books](https://github.com/xjq7/books)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+
+### [theByteBook](https://github.com/isno/theByteBook)
+
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [dute](https://www.dute.org/)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-### [huawei-od](https://huawei-od.vercel.app/)
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-### [smalldev.tools](https://smalldev.tools/)
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-开发者常用工具集：
-
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
 ## ✍️ 说明
 
