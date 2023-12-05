@@ -5,91 +5,98 @@
 
 ## 🎯 项目 
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+### [dub](https://github.com/steven-tey/dub)
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+### [ossart](https://github.com/djyde/ossart)
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+带有用户管理和后台面板的 ChatGPT 网页应用：
+
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
 ## 🤖 软件 
 
-### [B站录播姬](https://rec.danmuji.org/)
+### [orange](https://github.com/naaive/orange)
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+基于`Rust`跨平台的文件搜索引擎：
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+轻量级macOS剪切板管理应用：
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-Docker 学习教程：
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
-
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
 ## 🕸 网站 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [dute](https://www.dute.org/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [firefly](https://firefly.adobe.com/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+### [huawei-od](https://huawei-od.vercel.app/)
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-### [watermark](https://watermark.liumingye.cn/)
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-短视频/图集在线去水印解析：
+### [smalldev.tools](https://smalldev.tools/)
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+开发者常用工具集：
+
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
 ## ✍️ 说明
 
