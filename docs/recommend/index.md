@@ -5,86 +5,90 @@
 
 ## 🎯 项目 
 
-### [duplicati](https://github.com/duplicati/duplicati)
+### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
 
-### [answer](https://github.com/answerdev/answer)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-基于自己的产品或者项目快速打造一个问答社区：
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-### [onelist](https://github.com/msterzhang/onelist)
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
 
-- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
-- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
-- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
-
-![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
+我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
 
 ## 🤖 软件 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-免费开源的`openvpn`客户端：
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
+
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
 ## 👀 资料 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-这个项目收集了黑五打折的App和课程：
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [chatpdf](https://www.chatpdf.com/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+和任何 PDF 进行沟通交流：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [ip-api.com](http://ip-api.com/json)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
 
 ## ✍️ 说明
 
