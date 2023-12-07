@@ -5,90 +5,83 @@
 
 ## 🎯 项目 
 
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
+用 `Python` 代码绘制云原生架构图：
 
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [one-api](https://github.com/songquanpeng/one-api)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+### [photoprism](https://github.com/photoprism/photoprism)
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
 ## 🤖 软件 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+### [Thor](https://github.com/gbammc/Thor)
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+通过快捷键快速打开应用：
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
-
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
 ## 👀 资料 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+从工程角度方方面面阐述了DevOps实施的过程:
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
 ## 🕸 网站 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-和任何 PDF 进行沟通交流：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
-### [ip-api.com](http://ip-api.com/json)
+### [archive.today](https://archive.today/)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+提供任何网站存档查询的网站：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [lexica.art](https://lexica.art/)
 
-速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
 ## ✍️ 说明
 
