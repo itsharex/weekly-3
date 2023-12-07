@@ -32,7 +32,7 @@
 - 🐯 2022 年周刊: [在线浏览](https://weekly.howie6879.com/2022/01-01~01-09.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC021%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2022/2022_weekly_all.md)
 - 🐮 2021 年周刊: [在线浏览](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html) | [汇总下载](https://github.com/howie6879/weekly/blob/main/archive/2021/2021_weekly_all.md)
 
-如果你觉得周刊内容感兴趣，想在自己的产品中使用，直接从[weekly.db](./weekly.db)拿经过处理的数据即可（使用请声明来源）:
+如果你觉得周刊内容感兴趣，想在自己的产品中使用，直接从[weekly.db](https://github.com/howie6879/weekly/blob/main/weekly.db)拿经过处理的数据即可（使用请声明来源）:
 
 ![weekly_db_demo](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/weekly_db_demo.jpg)
 

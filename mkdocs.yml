@@ -15,7 +15,10 @@ extra:
     link: https://weekly.howie6879.com/rss/rss.xml
 extra_css:
 - statics/css/ui.css
+- statics/css/custom.css
 - https://gw.alipayobjects.com/os/k/font/lxgwwenkaiscreenr.css
+extra_javascript:
+- statics/css/custom.js
 markdown_extensions:
 - smarty
 - toc:
