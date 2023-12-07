@@ -5,102 +5,86 @@
 
 ## 🎯 项目 
 
-### [statping](https://github.com/statping/statping)
+### [duplicati](https://github.com/duplicati/duplicati)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [answer](https://github.com/answerdev/answer)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+基于自己的产品或者项目快速打造一个问答社区：
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [onelist](https://github.com/msterzhang/onelist)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
+- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
+- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
 
 ## 🤖 软件 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
-### [box](https://github.com/liu673cn/box)
+### [tunnelblick](https://tunnelblick.net/)
 
-TVBox 开源版:
+免费开源的`openvpn`客户端：
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
-
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+健康学习到150岁 - 人体系统调优不完全指南：
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+这个项目收集了黑五打折的App和课程：
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
 ## 🕸 网站 
 
-### [12ft.io](https://12ft.io/)
+### [nona](https://www.nona.de/)
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [onepdf](https://www.onepdf.online/)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [ziyouziti](https://ziyouziti.com/)
 
-我的第一个NFT，在这个网站，你可以：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
-
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
 ## ✍️ 说明
 
