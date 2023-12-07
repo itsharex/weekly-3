@@ -5,83 +5,85 @@
 
 ## 🎯 项目 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-用 `Python` 代码绘制云原生架构图：
+一个开源可自建的网站监控工具，用于监控网站的运行状态：
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![uptime-kuma](https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg) 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [immich](https://github.com/immich-app/immich)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+一个开源的高性能自托管照片和视频备份解决方案：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [think](https://github.com/fantasticit/think)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
 ## 🤖 软件 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-### [Thor](https://github.com/gbammc/Thor)
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-通过快捷键快速打开应用：
+### [ruzz](https://github.com/vlts1/ruzz)
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
 ## 👀 资料 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+技术面试最后反问面试官的话。 
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+### [theByteBook](https://github.com/isno/theByteBook)
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
-
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
 
-### [archive.today](https://archive.today/)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-提供任何网站存档查询的网站：
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [medisearch](https://medisearch.io/zh)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+直接的科学为基础的医疗问答模型：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
 ## ✍️ 说明
 
