@@ -11,8 +11,10 @@ import os
 from src.sender.tg_utils import send_to_tg
 
 data = {
-    "text": "\n👉 名称：[weekly.fre123.com](https://weekly.fre123.com/)\n🤖 类型：🕸网站\n👏 介绍：\n",
-    "image_link": "https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg",
+    "text": """👉 名称：[webdesk](https://webdesk.pigjs.com/)
+🤖 类型：🕸网站
+👏 介绍：一键将网站转化为桌面应用程序：""",
+    "image_link": "https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/EOn4M8.png",
 }
 
 
@@ -24,5 +26,4 @@ result = asyncio.run(
     )
 )
 
-if result["status"]:
-    print("发送成功！")
+print(result)

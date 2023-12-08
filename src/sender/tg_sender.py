@@ -74,5 +74,8 @@ for i in parse_tg_tmp():
                 },
                 file_type="tg_tmp_error",
             )
+            print(md_text_without_images)
+            print(image_link)
+
             print(f"{r_title} 发送失败，原因：{result['info']}")
         time.sleep(5)
