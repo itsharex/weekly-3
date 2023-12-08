@@ -5,85 +5,97 @@
 
 ## 🎯 项目 
 
-### [uptime-kuma](https://github.com/louislam/uptime-kuma)
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-一个开源可自建的网站监控工具，用于监控网站的运行状态：
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-![uptime-kuma](https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg) 
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-### [immich](https://github.com/immich-app/immich)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-一个开源的高性能自托管照片和视频备份解决方案：
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-### [think](https://github.com/fantasticit/think)
+### [examor](https://github.com/codeacme17/examor)
 
-云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
 
-![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
+![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
 
 ## 🤖 软件 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-### [ruzz](https://github.com/vlts1/ruzz)
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
 ## 👀 资料 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-技术面试最后反问面试官的话。 
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-### [theByteBook](https://github.com/isno/theByteBook)
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+`The Linux Command Line` 中文翻译：
+
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
 ## 🕸 网站 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [smalldev.tools](https://smalldev.tools/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+开发者常用工具集：
 
-![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [aicolors](https://aicolors.co/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+通过提示词，基于 AI 生成配色方案：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [medisearch](https://medisearch.io/zh)
+### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
 
-直接的科学为基础的医疗问答模型：
+腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+这个 `Demo` 网页允许用户进行：
+
+- 人像修复
+- 人像抠图
+- 动漫增强
+
+模型，免费实用。
+
+![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
 
 ## ✍️ 说明
 
