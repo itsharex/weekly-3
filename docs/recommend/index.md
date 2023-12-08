@@ -5,116 +5,104 @@
 
 ## 🎯 项目 
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-### [doocs/md](https://github.com/doocs/md)
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+### [form-create](https://github.com/xaboy/form-create)
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [mm-wiki](https://github.com/phachon/mm-wiki)
-
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
-
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-`Side Project` 指南：
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-你可以用以下方式浏览：
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
-
-30 天 JS 挑战，助力学习提升 JS 技巧：
-
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [relationship](https://passer-by.com/relationship/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+中国亲戚关系计算器：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [medisearch](https://medisearch.io/zh)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-直接的科学为基础的医疗问答模型：
+### [flatuicolors](https://flatuicolors.com/)
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
 ## ✍️ 说明
 
