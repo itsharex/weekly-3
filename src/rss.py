@@ -1,6 +1,7 @@
 """
     Created by howie.hu at 2022-06-04.
     Description: 生成周刊RSS
+        pipenv run python src/rss.py
     Changelog: all notable changes to this file will be documented
 """
 
@@ -42,6 +43,7 @@ def gen_rss():
                         file_html = markdown.markdown(content)
 
                         res_dict[match_obj] = {
+                            "weekly_year": weekly_year,
                             "file_name": weekly_year + "/" + file,
                             "file_title": file,
                             "file_path": full_file_path,
@@ -71,10 +73,16 @@ def gen_rss():
         cur_data = res_dict[i]
 
         fe = fg.add_entry()
+        weekly_year = cur_data["weekly_year"]
         file_name: str = cur_data["file_name"]
-        file_date = file_name.split("~")[0].replace("/", "-") + " 00:00:00"
-
-        fe.id(file_date)
+        file_title: str = cur_data["file_title"]
+        file_date = (
+            str(weekly_year + "/" + file_name.split("~")[1].split(".老胡")[0]).replace(
+                "/", "-"
+            )
+            + " 00:00:00"
+        )
+        fe.id(file_title)
         fe.title(cur_data["file_title"])
         fe.link(href=f"{BASE_URL}{file_name.replace('md','html')}")
         fe.description(f"<![CDATA[ {cur_data['file_html']} ]]>")
