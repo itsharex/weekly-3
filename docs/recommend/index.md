@@ -5,104 +5,85 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+### [quivr](https://github.com/stangirard/quivr)
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
-
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
 ## 🤖 软件 
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+超方便的微信视频号下载器：
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
+监控你的应用流量，跨平台：
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+### [little-rat](https://github.com/dnakov/little-rat)
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+
+![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
 
 ## 👀 资料 
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
-
-### [theByteBook](https://github.com/isno/theByteBook)
-
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
-
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [relationship](https://passer-by.com/relationship/)
+### [ip-api.com](http://ip-api.com/json)
 
-中国亲戚关系计算器：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [studyhard](https://studyhard.cf/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [openfarm.cc](https://openfarm.cc/)
 
-### [flatuicolors](https://flatuicolors.com/)
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
-
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
 ## ✍️ 说明
 
