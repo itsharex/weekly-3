@@ -5,85 +5,100 @@
 
 ## 🎯 项目 
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+### [examor](https://github.com/codeacme17/examor)
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
 
-### [quivr](https://github.com/stangirard/quivr)
+### [tabby](https://github.com/TabbyML/tabby)
 
-`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
+自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
 
-![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
+![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+免费方案还可以尝试的有：
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
+- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
+
+![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
+
+![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
+
+### [ollama](https://github.com/jmorganca/ollama)
+
+你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
+
+![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-超方便的微信视频号下载器：
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-监控你的应用流量，跨平台：
+### [pho](https://github.com/fregie/pho)
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-### [little-rat](https://github.com/dnakov/little-rat)
-
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
-
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
 ## 👀 资料 
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- NLP
+- CV
+- Time Series
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+目录概览：
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+夯实计算机基础，该怎么学，这个项目给出了答案：
+
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [ip-api.com](http://ip-api.com/json)
+### [relationship](https://passer-by.com/relationship/)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+中国亲戚关系计算器：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [studyhard](https://studyhard.cf/)
+### [http.cat](https://http.cat)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
-### [openfarm.cc](https://openfarm.cc/)
+### [screenshot](https://screenshot.rocks/)
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+快速创建精美的移动和浏览器屏幕截图：
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
 ## ✍️ 说明
 
