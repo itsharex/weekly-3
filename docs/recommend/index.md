@@ -5,100 +5,88 @@
 
 ## 🎯 项目 
 
-### [examor](https://github.com/codeacme17/examor)
+### [jina](https://github.com/jina-ai/jina)
 
-一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
 
-![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-### [tabby](https://github.com/TabbyML/tabby)
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
-自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
+### [manifest](https://github.com/jonathontoon/manifest)
 
-![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
+本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
 
-免费方案还可以尝试的有：
+![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
 
-- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
-- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
-
-### [ollama](https://github.com/jmorganca/ollama)
-
-你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
-
-![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
+![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
 
 ## 🤖 软件 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-### [pho](https://github.com/fregie/pho)
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
 ## 👀 资料 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-- NLP
-- CV
-- Time Series
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
-目录概览：
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
-
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
-
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
 ## 🕸 网站 
 
-### [relationship](https://passer-by.com/relationship/)
+### [alternativeto](https://alternativeto.net/)
 
-中国亲戚关系计算器：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [http.cat](https://http.cat)
+### [transhumans](https://www.transhumans.xyz/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+免费可商用的人物插图：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [star-history](https://star-history.com/)
 
-快速创建精美的移动和浏览器屏幕截图：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ## ✍️ 说明
 
