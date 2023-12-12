@@ -5,88 +5,99 @@
 
 ## 🎯 项目 
 
-### [jina](https://github.com/jina-ai/jina)
+### [chathub](https://github.com/chathub-dev/chathub)
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+`ChatHub` 是款全能聊天机器人客户端:
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
-### [manifest](https://github.com/jonathontoon/manifest)
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+Nginx 后台管理UI：
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+### [photoprism](https://github.com/photoprism/photoprism)
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
 ## 🤖 软件 
 
-### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+一款 `ChatGPT for Mac` 原生客户端：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
-
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
 ## 👀 资料 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+面向编译器开发人员的V8内部实现文档。 
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
-
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
-
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
-
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [latexlive](https://www.latexlive.com/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-免费可商用的人物插图：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-### [star-history](https://star-history.com/)
+### [aicolors](https://aicolors.co/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+通过提示词，基于 AI 生成配色方案：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
 ## ✍️ 说明
 
