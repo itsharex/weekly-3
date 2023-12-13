@@ -5,99 +5,96 @@
 
 ## 🎯 项目 
 
-### [chathub](https://github.com/chathub-dev/chathub)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-`ChatHub` 是款全能聊天机器人客户端:
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-Nginx 后台管理UI：
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+### [amis](https://github.com/baidu/amis)
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
-
-### [photoprism](https://github.com/photoprism/photoprism)
-
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
-
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
 ## 🤖 软件 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [orbstack](https://github.com/orbstack)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-一款 `ChatGPT for Mac` 原生客户端：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
 ## 👀 资料 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-面向编译器开发人员的V8内部实现文档。 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+### [maeda-design-room](https://dotown.maeda-design-room.net/)
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
 
-### [aicolors](https://aicolors.co/)
+![maeda-design-room](https://images-1252557999.file.myqcloud.com/uPic/DRpEV6.png) 
 
-通过提示词，基于 AI 生成配色方案：
+### [roadmap.sh](https://roadmap.sh/)
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
 ## ✍️ 说明
 
