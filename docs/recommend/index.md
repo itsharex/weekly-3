@@ -5,96 +5,94 @@
 
 ## 🎯 项目 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 
-### [amis](https://github.com/baidu/amis)
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
 
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
 ## 🤖 软件 
 
-### [orbstack](https://github.com/orbstack)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [Thor](https://github.com/gbammc/Thor)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+通过快捷键快速打开应用：
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+这本书的目标是:
 
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
+
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
 ## 🕸 网站 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [openvim](https://www.openvim.com/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+交互式 `vim` 学习网站：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [screenshot](https://screenshot.rocks/)
 
-### [maeda-design-room](https://dotown.maeda-design-room.net/)
+快速创建精美的移动和浏览器屏幕截图：
 
-免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-![maeda-design-room](https://images-1252557999.file.myqcloud.com/uPic/DRpEV6.png) 
+### [emojicode](https://www.emojicode.org/)
 
-### [roadmap.sh](https://roadmap.sh/)
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
