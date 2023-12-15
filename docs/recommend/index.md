@@ -5,94 +5,104 @@
 
 ## 🎯 项目 
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+### [osquery](https://github.com/osquery/osquery)
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+### [BGmi](https://github.com/BGmi/BGmi)
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-通过快捷键快速打开应用：
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
+
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
 
 ## 👀 资料 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-这本书的目标是:
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
 
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
-
-![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [regex101](https://regex101.com/)
 
-交互式 `vim` 学习网站：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [screenshot](https://screenshot.rocks/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-快速创建精美的移动和浏览器屏幕截图：
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+免费的二维码生成网站：
 
-### [emojicode](https://www.emojicode.org/)
+![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+### [fancymacbook](https://fancymacbook.app/)
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
 ## ✍️ 说明
 
