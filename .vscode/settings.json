@@ -1,7 +1,7 @@
 {
   "isort.args": ["--settings-path", "${workspaceFolder}/setup.cfg"],
   "editor.codeActionsOnSave": {
-    "source.organizeImports": true
+    "source.organizeImports": "explicit"
   },
   "python.formatting.provider": "black",
   "python.envFile": "${workspaceFolder}/.env",
