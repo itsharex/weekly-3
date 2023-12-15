@@ -5,66 +5,65 @@
 
 ## 🎯 项目 
 
-### [osquery](https://github.com/osquery/osquery)
+### [umami](https://github.com/umami-software/umami)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [onenav](https://github.com/helloxz/onenav)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
 ## 🤖 软件 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+轻量级macOS剪切板管理应用：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
 ## 👀 资料 
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
-
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
 ### [MDN Web Docs](https://github.com/mdn/translated-content)
 
@@ -72,37 +71,33 @@
 
 ![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
-
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [regex101](https://regex101.com/)
+### [medisearch](https://medisearch.io/zh)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+直接的科学为基础的医疗问答模型：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+### [yima.me](https://yima.me/)
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+免费生成 `AI` 艺术二维码：
 
-免费的二维码生成网站：
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
+### [myfirstnft](https://myfirstnft.info/)
 
-### [fancymacbook](https://fancymacbook.app/)
+我的第一个NFT，在这个网站，你可以：
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
 ## ✍️ 说明
 
