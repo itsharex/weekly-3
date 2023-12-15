@@ -41,7 +41,11 @@ for i in parse_tg_tmp():
         .replace(":\n", "")
         .replace("：\n", "")
         .replace("\n\n", "")
+        .strip()
     )
+
+    if str(md_text_without_images).endswith(":"):
+        md_text_without_images = md_text_without_images[:-1]
 
     msg_key = md5_encode(r_title)
 
