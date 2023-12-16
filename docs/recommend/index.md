@@ -5,95 +5,93 @@
 
 ## 🎯 项目 
 
-### [memos](https://github.com/justmemos/memos)
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-**🎯 产品意图**:
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+### [BGmi](https://github.com/BGmi/BGmi)
 
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
-
-### [resume-design](https://github.com/huajian-pro/resume-design)
-
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
-
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
 ## 🤖 软件 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [batnoter](https://github.com/batnoter/batnoter)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+监控你的应用流量，跨平台：
 
-### [antares](https://github.com/Fabio286/antares)
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+`OpenAI` 出品的的深度强化学习教程：
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-针对新人的 `CSS` 入门级教程：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
-
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
 ## 🕸 网站 
 
-### [flow](https://github.com/pacexy/flow)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [lucide](https://lucide.dev/)
+### [calltoinspiration](https://calltoinspiration.com/)
 
-开源图标库，可以直接下载 `SVG`：
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [neeva](https://neeva.com/search)
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
-
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
 ## ✍️ 说明
 
