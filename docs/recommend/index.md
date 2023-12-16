@@ -5,93 +5,90 @@
 
 ## 🎯 项目 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+微软开源的 `Web` 编辑器：
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
-### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+AI 法律助手:
 
-![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
-### [BGmi](https://github.com/BGmi/BGmi)
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+B站视频命令行下载工具：
+
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
 ## 🤖 软件 
 
-### [batnoter](https://github.com/batnoter/batnoter)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+一个开源的YouTube应用程序，旨在保护隐私：
 
-监控你的应用流量，跨平台：
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
 ## 👀 资料 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-`OpenAI` 出品的的深度强化学习教程：
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-### [calltoinspiration](https://calltoinspiration.com/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+### [batnoter](https://batnoter.com/)
 
-### [neeva](https://neeva.com/search)
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+### [olocr.com](https://olocr.com)
+
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
 ## ✍️ 说明
 
