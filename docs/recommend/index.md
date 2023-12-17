@@ -5,90 +5,109 @@
 
 ## 🎯 项目 
 
-### [monaco-editor](https://github.com/microsoft/monaco-editor)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-微软开源的 `Web` 编辑器：
+用 `Python` 代码绘制云原生架构图：
 
-![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-AI 法律助手:
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-B站视频命令行下载工具：
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
 ## 🤖 软件 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+一个跨平台的电子书阅读器：
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-一个开源的YouTube应用程序，旨在保护隐私：
+### [libpag](https://github.com/Tencent/libpag)
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+### [Vieb](https://vieb.dev/)
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+开源免费的全平台（PC）`Vim`风格电子浏览器：
+
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
 ## 👀 资料 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+清华大学计算机系课程攻略：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
 ## 🕸 网站 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [pika](https://pika.style/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
+### [bgsub](https://bgsub.cn/webapp)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+消除或者替换图像背景，无需上传图像：
 
-### [batnoter](https://batnoter.com/)
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+### [pandagpt.io](https://www.pandagpt.io/)
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-### [olocr.com](https://olocr.com)
-
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
-
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
 ## ✍️ 说明
 
