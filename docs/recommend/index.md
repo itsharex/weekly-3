@@ -5,79 +5,87 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+一个开源的快速制作文章封面图的工具。
 
-![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [runtipi](https://github.com/meienberger/runtipi)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
 
-### [MyIP](https://github.com/jason5ng32/MyIP)
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
-这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+### [memos](https://github.com/justmemos/memos)
 
-![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+
+**🎯 产品意图**:
+
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
 ## 🤖 软件 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [uPic](https://github.com/gee1k/uPic)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+我的必备软件：
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-### [stats](https://github.com/exelban/stats)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-基于 `macOS` 菜单栏的系统监控软件：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+Kubernetes 中文指南/云原生应用架构实战手册：
+
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [musetransfer](https://musetransfer.com/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [http.cat](https://http.cat)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
-### [ipdetective](https://ipdetective.io/api)
+### [grep.app](https://grep.app/)
 
-检测 `ip` 是否是机器人：
+`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
