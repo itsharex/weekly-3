@@ -5,87 +5,100 @@
 
 ## 🎯 项目 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [Textual](https://github.com/Textualize/textual)
 
-一个开源的快速制作文章封面图的工具。
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [runtipi](https://github.com/meienberger/runtipi)
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-### [memos](https://github.com/justmemos/memos)
+### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
 
-**🎯 产品意图**:
-
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
 
 ## 🤖 软件 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [AFFiNE](https://github.com/toeverything/AFFiNE)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
 
-我的必备软件：
+- 同时书写、绘制和计划
+- 任意地方存储查看您的数据
+- 离线优先
+- 简洁直观的设计
+- 具备 `Markdown` 支持的现代区块编辑器
+- 团队协作
+- 多语言支持
+- 插件支持
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+支持 `web` & 跨平台访问：
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+### [notepad--](https://github.com/cxasm/notepad--)
+
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
 ## 👀 资料 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [regexlearn](https://regexlearn.com)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
 
-### [http.cat](https://http.cat)
+### [screenshot](https://screenshot.rocks/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+快速创建精美的移动和浏览器屏幕截图：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-### [grep.app](https://grep.app/)
+### [devtool.tech](https://devtool.tech/)
 
-`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
 
 ## ✍️ 说明
 
