@@ -5,100 +5,91 @@
 
 ## 🎯 项目 
 
-### [Textual](https://github.com/Textualize/textual)
+### [toolbox](https://github.com/aoaostar/toolbox)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+🚀傲星工具箱，一个在线工具箱：
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+用 `GPT-3` 来解读论文的开源项目：
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
 ## 🤖 软件 
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-支持 `web` & 跨平台访问：
+### [mCollection](https://github.com/hunmer/mCollection)
 
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+🎉开源，可扩展，可自定义的素材管理库：
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+### [cursor](https://github.com/getcursor/cursor)
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-### [notepad--](https://github.com/cxasm/notepad--)
-
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
-
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
-
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+关于 `MongoDB`，最全面的免费学习向导：
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
-
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
-
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
 ## 🕸 网站 
 
-### [regexlearn](https://regexlearn.com)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [segment-anything.com](https://segment-anything.com/)
 
-快速创建精美的移动和浏览器屏幕截图：
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-### [devtool.tech](https://devtool.tech/)
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
-开发者武器库，作者提供了83个开发者常用的工具：
+### [lucide](https://lucide.dev/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+开源图标库，可以直接下载 `SVG`：
+
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
 ## ✍️ 说明
 
