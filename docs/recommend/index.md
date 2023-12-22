@@ -5,91 +5,103 @@
 
 ## 🎯 项目 
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-🚀傲星工具箱，一个在线工具箱：
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-用 `GPT-3` 来解读论文的开源项目：
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
 ## 🤖 软件 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [miru-app](https://github.com/miru-project/miru-app)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+- 支持 windows,android
+- 友好的扩展编写支持、调试日志
+- 扩展使用 JavaScript 语言，开发简单
+- 支持自定义扩展仓库
+- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
+- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
+- 统一系统 UI 的设计语言
+- 自动获取 TMDB 元数据信息
 
-### [mCollection](https://github.com/hunmer/mCollection)
+![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
 
-🎉开源，可扩展，可自定义的素材管理库：
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-### [cursor](https://github.com/getcursor/cursor)
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png) 
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [LearnData-开源笔记](https://newzone.top/)
 
-关于 `MongoDB`，最全面的免费学习向导：
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [meetup](https://github.com/baiyutang/meetup)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [chatdoc](https://chatdoc.com/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [meow.tg](https://meow.tg/)
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+### [aicodeconvert](https://aicodeconvert.com/)
 
-### [lucide](https://lucide.dev/)
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-开源图标库，可以直接下载 `SVG`：
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
 ## ✍️ 说明
 
