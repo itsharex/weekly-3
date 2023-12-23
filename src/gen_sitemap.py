@@ -23,4 +23,4 @@ def gen_sitemap(url="https://weekly.howie6879.com/", file_name="sitemap"):
 
 
 if __name__ == "__main__":
-    gen_sitemap(url="https://www.howie6879.cn/", file_name="howie_sitemap")
+    gen_sitemap(url="https://weekly.howie6879.com/", file_name="howie_sitemap")

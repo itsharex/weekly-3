@@ -99,7 +99,8 @@ if __name__ == "__main__":
     # gen_weekly_content(2023)
     # exit()
     # 生成 sitemap
-    gen_sitemap()
+    # 使用 https://www.xml-sitemaps.com/ 生成 sitemap
+    # gen_sitemap()
     # 持久化周刊到 DB
     parse_md()
     # 生成 RSS
