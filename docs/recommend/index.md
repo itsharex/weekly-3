@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [musicn](https://github.com/zonemeen/musicn)
 
-每天学习一个 Go 语言库，内容质量相当高。
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-用 `GPT-3` 来解读论文的开源项目：
+艺术二维码生成器：
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [ceresdb](https://github.com/CeresDB/ceresdb)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
 
-![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
 ## 🤖 软件 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+为 `iPad` 构建一个成熟的代码编辑器：
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
+### [hetty](https://github.com/dstotijn/hetty)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-### [Sequel-Ace](https://sequel-ace.com/)
-
-原生的 `MySQL/MariaDB` 数据库管理软件：
-
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
 ## 👀 资料 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+《结网》作者王坚的开源新书：
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
-
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
 ## 🕸 网站 
 
-### [chatdoc](https://chatdoc.com/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+提供在线绘制时序图的网站：
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [grep.app](https://grep.app/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+### [读书笔记](https://reading.geek-docs.com/)
 
-### [toolfinder](https://toolfinder.xyz/)
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-生产力工具的维基百科：
-
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
 ## ✍️ 说明
 
