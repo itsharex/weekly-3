@@ -5,57 +5,54 @@
 
 ## 🎯 项目 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [Weylus](https://github.com/H-M-H/Weylus)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-艺术二维码生成器：
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
+通过网络收集整理的中文歌词数据库, 包含:
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
+
+作者基于此数据库做了两个歌词生成器：
+
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
 ## 🤖 软件 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [legado](https://github.com/gedoor/legado)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-为 `iPad` 构建一个成熟的代码编辑器：
+### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
 
-### [hetty](https://github.com/dstotijn/hetty)
+![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+### [Cider](https://github.com/ciderapp/Cider)
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
 ## 👀 资料 
-
-### [Python源码剖析](https://fasionchan.com/python-source/)
-
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
-
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
-
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
-
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
-
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
@@ -63,25 +60,45 @@
 
 ![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
+### [开源软件指南](https://opensource.guide/zh-hans/)
+
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [sci-hub](https://sci-hub.se/)
 
-提供在线绘制时序图的网站：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [grep.app](https://grep.app/)
+用户可通过以下方式访问新版本：
 
-`Github` 代码搜索网站，搜索速度和展示界面都挺不错：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+
+### [alternativeto](https://alternativeto.net/)
+
+常用软件替代品查询网站：
+
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
