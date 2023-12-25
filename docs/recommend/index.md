@@ -5,100 +5,85 @@
 
 ## 🎯 项目 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+### [one-api](https://github.com/songquanpeng/one-api)
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-通过网络收集整理的中文歌词数据库, 包含:
+### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
 
-作者基于此数据库做了两个歌词生成器：
-
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
 
 ## 🤖 软件 
 
-### [legado](https://github.com/gedoor/legado)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-### [Cider](https://github.com/ciderapp/Cider)
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
-
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-《结网》作者王坚的开源新书：
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
 ## 🕸 网站 
 
-### [sci-hub](https://sci-hub.se/)
+### [batnoter](https://batnoter.com/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-用户可通过以下方式访问新版本：
+### [userscloud](https://userscloud.com/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+免费使用的云空间分享网页：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+开放纯粹的资源网站：
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
-
-### [alternativeto](https://alternativeto.net/)
-
-常用软件替代品查询网站：
-
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
 ## ✍️ 说明
 
