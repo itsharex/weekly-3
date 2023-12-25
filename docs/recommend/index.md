@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-### [one-api](https://github.com/songquanpeng/one-api)
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+微软 `Bing Chat` 的逆向工程 `API`：
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
-
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
-
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
+![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
 
 ## 🤖 软件 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [apifox](https://www.apifox.cn/)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+轻量级macOS剪切板管理应用：
 
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+### [sideproject](https://sideproject.guide/)
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+`Side Project` 指南：
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [nona](https://www.nona.de/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [userscloud](https://userscloud.com/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-免费使用的云空间分享网页：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [recompressor](https://zh.recompressor.com/)
 
-开放纯粹的资源网站：
+免费的图片压缩工具：
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
 ## ✍️ 说明
 
