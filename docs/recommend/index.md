@@ -5,87 +5,95 @@
 
 ## 🎯 项目 
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
+一个还原马赛克图片的原始内容的工具：
 
-微软 `Bing Chat` 的逆向工程 `API`：
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
+### [Docusaurus](https://github.com/facebook/docusaurus)
+
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
 ## 🤖 软件 
 
-### [apifox](https://www.apifox.cn/)
+### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [Later](https://github.com/alyssaxuu/later)
 
-轻量级macOS剪切板管理应用：
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
-
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
 ## 👀 资料 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-### [sideproject](https://sideproject.guide/)
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
-`Side Project` 指南：
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+利用LLM构建应用实践笔记：
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [whatslink](https://whatslink.info/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [gooddesign](https://www.gooddesign.tools/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+优质设计师工具导航网站：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [网道](https://wangdoc.com/)
 
-免费的图片压缩工具：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
+
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
 ## ✍️ 说明
 
