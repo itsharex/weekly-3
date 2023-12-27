@@ -5,95 +5,98 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [background-removal-js](https://github.com/imgly/background-removal-js)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+### [apitable](https://github.com/apitable/apitable)
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
 
-一个还原马赛克图片的原始内容的工具：
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
+ 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
-
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
 ## 🤖 软件 
 
-### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
+### [batnoter](https://github.com/batnoter/batnoter)
 
-免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
 
-### [Later](https://github.com/alyssaxuu/later)
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+### [alacritty](https://github.com/alacritty/alacritty)
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
 ## 👀 资料 
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+Go语言实战: 编写可维护Go语言代码建议。 
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
+**可惜永远都不会再更新了，默哀！**
 
-利用LLM构建应用实践笔记：
-
-![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
 ## 🕸 网站 
 
-### [whatslink](https://whatslink.info/)
+### [libhunt](https://www.libhunt.com/)
 
-简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
+一个对开源项目进行分类并排名的网站：
 
-![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [privacytools.io](https://www.privacytools.io/)
 
-优质设计师工具导航网站：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
-### [网道](https://wangdoc.com/)
+### [devdocs](https://devdocs.io/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+提供在线快速查找API接口文档的网站：
 
-目前提供了不少教程，对于初学者是非常友好的：
-
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
