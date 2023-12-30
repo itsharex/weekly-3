@@ -5,81 +5,94 @@
 
 ## 🎯 项目 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+### [Textual](https://github.com/Textualize/textual)
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
+
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
 ## 🤖 软件 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+它专注于：
 
-### [stats](https://github.com/exelban/stats)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-基于 `macOS` 菜单栏的系统监控软件：
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
 
-必应 GPT 聊天桌面应用程序：
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+适用于Android的免费开源漫画阅读器，流畅丝滑：
+
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ## 👀 资料 
 
-### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+从工程角度方方面面阐述了DevOps实施的过程:
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
 ## 🕸 网站 
 
-### [relationship](https://passer-by.com/relationship/)
+### [uipatterns](http://uipatterns.io)
 
-中国亲戚关系计算器：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
-### [flow](https://github.com/pacexy/flow)
+### [crashcourse](https://crashcourse.club/category)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [antimkd](https://antimkd.com/)
 
-一个简洁的在线 `JSON` 解析器：
+无套路的软件下载网站：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
 ## ✍️ 说明
 
