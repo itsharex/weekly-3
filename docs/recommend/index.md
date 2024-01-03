@@ -5,102 +5,83 @@
 
 ## 🎯 项目 
 
-### [ChatALL](https://github.com/sunner/ChatALL)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-同时与所有 AI 机器人聊天，然后发现最佳选择：
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [Weekly Hub](https://github.com/howie6879/weeklyhub)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-汇聚优质精选技术周刊，为你提供高质量信息流，让你的学习更加高效：
+### [Multipass](https://github.com/canonical/multipass)
+ 
+ `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
+ 
+ ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
 
-- 周刊文章订阅列表：[Weekly Hub](https://www.fre123.com/wk) & 文末有订阅工具推荐👀
-- 周刊文章展示地址：[weekly.fre123.com](https://www.fre123.com/weekly)
+### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
 
-![fre123_weeklyhub](https://images-1252557999.file.myqcloud.com/uPic/fre123_weeklyhub.jpg) 
+大麦网自动购票, 支持 `docker` 一键部署:
 
-### [cmdb](https://github.com/veops/cmdb)
-
-运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
-
-![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
+![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
 
 ## 🤖 软件 
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-虽然这个是个付费软件，但我还是很推荐：
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+开源免费的跨平台无损图片放大工具：
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+为 `iPad` 构建一个成熟的代码编辑器：
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
-
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
-
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
 ## 👀 资料 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-比较全面的 `k8s` 资源收集项目：
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-- NLP
-- CV
-- Time Series
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-目录概览：
-
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
-
-### [hello-algo](https://github.com/krahets/hello-algo)
-
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
-
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
-
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
 ## 🕸 网站 
 
-### [flatuicolors](https://flatuicolors.com/)
+### [toolfinder](https://toolfinder.xyz/)
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+生产力工具的维基百科：
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [relationship](https://passer-by.com/relationship/)
+### [即时工具](https://www.67tool.com/)
 
-中国亲戚关系计算器：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
-### [zhaoziyuan](https://zhaoziyuan.pw/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-阿里云资源搜索引擎：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
