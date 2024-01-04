@@ -5,83 +5,85 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+### [showdoc](https://github.com/star7th/showdoc)
 
-### [Multipass](https://github.com/canonical/multipass)
- 
- `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
- 
- ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-大麦网自动购票, 支持 `docker` 一键部署:
+### [webvm](https://github.com/leaningtech/webvm)
 
-![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
 ## 🤖 软件 
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-开源免费的跨平台无损图片放大工具：
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+### [libpag](https://github.com/Tencent/libpag)
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
 
-为 `iPad` 构建一个成熟的代码编辑器：
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
 ## 👀 资料 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+**可惜永远都不会再更新了，默哀！**
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+
+这里有比较全面的时间序列数据相关资源。 
 
 ## 🕸 网站 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [chatdoc](https://chatdoc.com/)
 
-生产力工具的维基百科：
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
-### [即时工具](https://www.67tool.com/)
+### [ziyouziti](https://ziyouziti.com/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [sqlime](http://sqlime.org/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
