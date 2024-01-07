@@ -106,4 +106,4 @@ if __name__ == "__main__":
     # 生成 RSS
     gen_rss()
     # 生成最新周刊
-    gen_weekly_title(2023)
+    gen_weekly_title(2024)
