@@ -5,108 +5,93 @@
 
 ## 🎯 项目 
 
-### [ollama](https://github.com/jmorganca/ollama)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
-### [laf](https://github.com/labring/laf)
+### [runtipi](https://github.com/meienberger/runtipi)
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+### [umami](https://github.com/umami-software/umami)
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
-
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [bruno](https://github.com/usebruno/bruno)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
 
-### [polyglot](https://github.com/liou666/polyglot)
+### [stats](https://github.com/exelban/stats)
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+基于 `macOS` 菜单栏的系统监控软件：
 
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [automa](https://github.com/Kholid060/automa)
 
-全平台支持的图片压缩软件：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
-
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
 ## 👀 资料 
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+浙江大学课程攻略共享计划：
 
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+从零开始 `Kubernetes` 攻防:
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [theByteBook](https://github.com/isno/theByteBook)
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-`OpenAI API` 使用示例指南：
-
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [relationship](https://passer-by.com/relationship/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-中国亲戚关系计算器：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [ticompressor](https://www.ticompressor.com/online/)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+### [olocr.com](https://olocr.com)
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-### [sqlime](http://sqlime.org/)
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
-
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
