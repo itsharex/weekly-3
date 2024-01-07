@@ -5,103 +5,94 @@
 
 ## 🎯 项目 
 
-### [zdir](https://github.com/helloxz/zdir)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+用 `Python` 代码绘制云原生架构图：
 
-每天学习一个 Go 语言库，内容质量相当高。
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
 ## 🤖 软件 
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+### [cursor](https://github.com/getcursor/cursor)
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
-### [Easydict](https://github.com/tisfeng/Easydict)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
+### [Plash](https://github.com/sindresorhus/Plash)
 
-- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
-- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-对于浏览器双语翻译插件，还推荐以下项目：
-
-- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
-- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
-
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
-
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
-
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
 ## 👀 资料 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [go101](https://gfw.go101.org/article/101.html)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
 ## 🕸 网站 
 
-### [newsminimalist](https://www.newsminimalist.com/)
+### [pdf.wps.cn](https://pdf.wps.cn/)
 
-基于 `GPT` 实现的新闻过滤网站：
+金山出品的 PDF 免费工具集：
 
-![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
+![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [screenshot](https://screenshot.rocks/)
 
-专业的表情包搜索网站：
+快速创建精美的移动和浏览器屏幕截图：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [crashcourse](https://crashcourse.club/category)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
-
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
 
 ## ✍️ 说明
 
