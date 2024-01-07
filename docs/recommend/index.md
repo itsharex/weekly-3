@@ -5,94 +5,108 @@
 
 ## 🎯 项目 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [ollama](https://github.com/jmorganca/ollama)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+### [laf](https://github.com/labring/laf)
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-用 `Python` 代码绘制云原生架构图：
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
-
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
 ## 🤖 软件 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [polyglot](https://github.com/liou666/polyglot)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+全平台支持的图片压缩软件：
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
 ## 👀 资料 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
 
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+### [rust-course](https://github.com/sunface/rust-course)
 
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-### [go101](https://gfw.go101.org/article/101.html)
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+阅读地址见[course.rs](https://course.rs)。 
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
+
+`OpenAI API` 使用示例指南：
+
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
 ## 🕸 网站 
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+### [relationship](https://passer-by.com/relationship/)
 
-金山出品的 PDF 免费工具集：
+中国亲戚关系计算器：
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-快速创建精美的移动和浏览器屏幕截图：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [crashcourse](https://crashcourse.club/category)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
+### [sqlime](http://sqlime.org/)
+
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
