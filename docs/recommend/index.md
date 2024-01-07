@@ -5,93 +5,82 @@
 
 ## 🎯 项目 
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [runtipi](https://github.com/meienberger/runtipi)
+### [greppo](https://github.com/greppo-io/greppo)
 
-自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
+快速轻松地构建部署地理空间应用程序：
 
-![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-### [umami](https://github.com/umami-software/umami)
+### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
 
 ## 🤖 软件 
 
-### [bruno](https://github.com/usebruno/bruno)
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-### [stats](https://github.com/exelban/stats)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-基于 `macOS` 菜单栏的系统监控软件：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-### [automa](https://github.com/Kholid060/automa)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
+
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
 ## 👀 资料 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-浙江大学课程攻略共享计划：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+面向编译器开发人员的V8内部实现文档。 
 
-从零开始 `Kubernetes` 攻防:
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-### [theByteBook](https://github.com/isno/theByteBook)
-
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
-
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
 ## 🕸 网站 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [pixel](https://aqeja.github.io/pixel/)
 
-### [olocr.com](https://olocr.com)
+一个小工具，将你的图片像素化:
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+### [seesaw](https://www.seesaw.website/)
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+专门收集优秀网页设计的网站，目前有 **123** 个案例：
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
-
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
 
 ## ✍️ 说明
 
