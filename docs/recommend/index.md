@@ -5,108 +5,92 @@
 
 ## 🎯 项目 
 
-### [chathub](https://github.com/chathub-dev/chathub)
+### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
 
-`ChatHub` 是款全能聊天机器人客户端:
+一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
 
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
+- 推送消息 (发送文字 / 图片 / 文件)
+- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
+- Docker 部署等
 
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+带看板的开源项目管理工具:
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+### [Weylus](https://github.com/H-M-H/Weylus)
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+
+![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
 
 ## 🤖 软件 
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-支持 `web` & 跨平台访问：
+### [kopia](https://github.com/kopia/kopia)
 
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-### [KOReader](https://github.com/koreader/koreader)
-
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
-
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [tik.fail](https://tik.fail/browse)
+### [gh-card.dev](https://gh-card.dev/)
 
-国内能直接刷TikTok的在线网站，支持搜索和下载：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-### [unDraw](https://undraw.co/illustrations)
+### [send.internxt.com](https://send.internxt.com/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
-
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
-
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
 ## ✍️ 说明
 
