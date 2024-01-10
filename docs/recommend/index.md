@@ -5,94 +5,88 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [umami](https://github.com/umami-software/umami)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [dashy](https://github.com/Lissy93/dashy)
 
-### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
-![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
+### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
 
-### [wallabag](https://github.com/wallabag/wallabag)
+`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
-
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
-
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
 
 ## 🤖 软件 
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+开源的法律知识速查手册：
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+`TinyPNG`的`Mac`客户端：
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
-
-![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png) 
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
 
 ## 👀 资料 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [just-react](https://github.com/BetaSu/just-react)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
-
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
-
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-### [studyhard](https://studyhard.cf/)
+### [star-history](https://star-history.com/)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [onepdf](https://www.onepdf.online/)
 
-优质设计师工具导航网站：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
 ## ✍️ 说明
 
