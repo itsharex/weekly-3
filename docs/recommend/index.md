@@ -5,92 +5,98 @@
 
 ## 🎯 项目 
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+程序员在家做饭方法指南。 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [dootask](https://github.com/kuaifan/dootask)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
-
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
-
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
-监控你的应用流量，跨平台：
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+> 让每个人都简单方便的使用前沿人工智能技术
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-JetBrains 的下一代 IDE：
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+### [eoapi](https://github.com/eolinker/eoapi)
+
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
-
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
 
 ## 🕸 网站 
 
-### [send.internxt.com](https://send.internxt.com/)
+### [caniuse](https://caniuse.com/)
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [etempmail](https://etempmail.com/zh)
+### [sci-hub](https://sci-hub.se/)
 
-一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [smalldev.tools](https://smalldev.tools/)
+用户可通过以下方式访问新版本：
 
-开发者常用工具集：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+
+### [up-6.com](https://www.up-6.com/)
+
+一个英语学习导航网站：
+
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
 ## ✍️ 说明
 
