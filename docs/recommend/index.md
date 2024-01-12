@@ -5,105 +5,100 @@
 
 ## 🎯 项目 
 
-### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
+### [clone-voice](https://github.com/jianchang512/clone-voice)
 
-一个用于安装/更新 NS 模拟器的工具：
-- 支持安装 Yuzu EA/正式 版模拟器
-- 支持 Yuzu 版本检测及更新
-- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
-- 支持 Ryujinx 版本检测及更新
-- 自动检测并安装 msvc 运行库
-- 支持安装及更新 NS 固件至模拟器
-- 支持固件版本检测
-- 管理模拟器密钥
-- Yuzu 金手指管理
-- aria2 多线程下载
+一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
 
-关于模拟器项目：
-- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
-- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
-- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
-- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
+![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
 
-![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-### [privaxy](https://github.com/Barre/privaxy)
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
+
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+
+![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
 
 ## 🤖 软件 
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
 
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-### [vnote](https://github.com/vnotex/vnote)
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-高度可定制的macOS状态栏替代品：
+全平台支持的图片压缩软件：
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+PyTorch 从0到精通教程：
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+一个在YouTube上发现最新机器学习课程的项目。 
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
-
-### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
-
-汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
-
-![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
 ## 🕸 网站 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [regex101](https://regex101.com/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [ray.so](https://ray.so/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+### [smalldev.tools](https://smalldev.tools/)
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+开发者常用工具集：
 
-### [Python Tutor](https://pythontutor.com/?)
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+### [animatedknots](https://www.animatedknots.com/)
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+各种给绳子打结的姿势都可以在这里找到：
+
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
