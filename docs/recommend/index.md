@@ -5,84 +5,105 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+一个用于安装/更新 NS 模拟器的工具：
+- 支持安装 Yuzu EA/正式 版模拟器
+- 支持 Yuzu 版本检测及更新
+- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
+- 支持 Ryujinx 版本检测及更新
+- 自动检测并安装 msvc 运行库
+- 支持安装及更新 NS 固件至模拟器
+- 支持固件版本检测
+- 管理模拟器密钥
+- Yuzu 金手指管理
+- aria2 多线程下载
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+关于模拟器项目：
+- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
+- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
+- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
 
-### [mayfly-go](https://github.com/dromara/mayfly-go)
+![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
 
-web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
+### [privaxy](https://github.com/Barre/privaxy)
 
-![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
 ## 🤖 软件 
 
-### [memreduct](https://github.com/henrypp/memreduct)
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
-开源的法律知识速查手册：
+### [vnote](https://github.com/vnotex/vnote)
 
-![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+高度可定制的macOS状态栏替代品：
+
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
 ## 👀 资料 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-这个项目收集了黑五打折的App和课程：
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-`The Linux Command Line` 中文翻译：
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+
+### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+
+汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+
+![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
 
 ## 🕸 网站 
-
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
-
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
-
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
-
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
-
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
-
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
-
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
 ### [macosicongallery](https://www.macosicongallery.com/)
 
 专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
 ![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+
+### [ray.so](https://ray.so/)
+
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+
+### [Python Tutor](https://pythontutor.com/?)
+
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
 ## ✍️ 说明
 
