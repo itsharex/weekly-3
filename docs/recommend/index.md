@@ -5,76 +5,85 @@
 
 ## 🎯 项目 
 
-### [clone-voice](https://github.com/jianchang512/clone-voice)
+### [mometa](https://github.com/imcuttle/mometa)
 
-一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+**它用于解决的问题有：**
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
+录制终端操作并生成 `gif` 动图：
 
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
+### [tabler](https://github.com/tabler/tabler)
 
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
 ## 🤖 软件 
 
-### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
+### [Codeium](https://codeium.com/)
 
-`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+### [marktext](https://github.com/marktext/marktext)
 
-### [Imagine](https://github.com/meowtec/Imagine)
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-全平台支持的图片压缩软件：
-
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
-
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-PyTorch 从0到精通教程：
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+比较全面的 `k8s` 资源收集项目：
+
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
+
+### [ixinqing](http://www.ixinqing.com/)
+
+心晴 · 专注于心理学入门与自我成长:
+
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+
+### [webdesk](https://webdesk.pigjs.com/builder/)
+
+一键将网站转化为桌面应用程序：
+
+![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
 ### [regex101](https://regex101.com/)
 
@@ -87,18 +96,6 @@ Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github
 - Java
 
 ![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
-
-### [smalldev.tools](https://smalldev.tools/)
-
-开发者常用工具集：
-
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
-
-### [animatedknots](https://www.animatedknots.com/)
-
-各种给绳子打结的姿势都可以在这里找到：
-
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
