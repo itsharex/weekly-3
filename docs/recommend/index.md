@@ -5,97 +5,92 @@
 
 ## 🎯 项目 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-**它用于解决的问题有：**
+### [melody](https://github.com/foamzou/melody)
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
+主要特性为：
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-录制终端操作并生成 `gif` 动图：
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
-### [tabler](https://github.com/tabler/tabler)
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
+
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
 
 ## 🤖 软件 
 
-### [Codeium](https://codeium.com/)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-
-比较全面的 `k8s` 资源收集项目：
-
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
 
 ## 🕸 网站 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [yalijuda](https://www.yalijuda.com)
 
-心晴 · 专注于心理学入门与自我成长:
+简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
 
-### [webdesk](https://webdesk.pigjs.com/builder/)
+### [lookscanned.io](https://lookscanned.io/)
 
-一键将网站转化为桌面应用程序：
+[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
 
-![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
+![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
 
-### [regex101](https://regex101.com/)
+### [nona](https://www.nona.de/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
-
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
 ## ✍️ 说明
 
