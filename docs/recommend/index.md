@@ -5,92 +5,85 @@
 
 ## 🎯 项目 
 
-### [excalidraw](https://github.com/excalidraw/excalidraw)
+### [Monit](https://github.com/fzf404/Monit)
 
-免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
+系统桌面小组件(用于展示各种信息)：
 
-![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
+![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
 
-### [melody](https://github.com/foamzou/melody)
+### [form-create](https://github.com/xaboy/form-create)
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-主要特性为：
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+### [omnivore](https://github.com/omnivore-app/omnivore)
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
 
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
-
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
-
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
-
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
-
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
-
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
 
 ## 🤖 软件 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [antares](https://github.com/Fabio286/antares)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
 ## 👀 资料 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+计算机科学课程和视频讲座列表：
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
-![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
+### [rust-course](https://github.com/sunface/rust-course)
+
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+
+阅读地址见[course.rs](https://course.rs)。 
 
 ## 🕸 网站 
 
-### [yalijuda](https://www.yalijuda.com)
+### [aicolors](https://aicolors.co/)
 
-简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
+通过提示词，基于 AI 生成配色方案：
 
-![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [lookscanned.io](https://lookscanned.io/)
+### [http.cat](https://http.cat)
 
-[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
-### [nona](https://www.nona.de/)
+### [docsmall](https://docsmall.com/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
