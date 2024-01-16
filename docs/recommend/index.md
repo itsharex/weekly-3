@@ -5,85 +5,97 @@
 
 ## 🎯 项目 
 
-### [Monit](https://github.com/fzf404/Monit)
+### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
-系统桌面小组件(用于展示各种信息)：
+一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
 
-![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
+- 解决了报错：NetworkError when attempting to fetch resource.
+- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
+- 解决了报错：Conversation not found
+- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
+- 解决被频繁地打断交流
+- 解决频繁地刷新网页
+- 支持多国语言
+- 解决用户手误复制用户头像里的用户名的问题
+- 兼容移动端
 
-### [form-create](https://github.com/xaboy/form-create)
+![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-### [omnivore](https://github.com/omnivore-app/omnivore)
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
+### [kanboard](https://kanboard.org/)
 
-![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+
+![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
 
 ## 🤖 软件 
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-### [postcat](https://github.com/Postcatlab/postcat)
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
+
+![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
 
 ## 👀 资料 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-计算机科学课程和视频讲座列表：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
-
-阅读地址见[course.rs](https://course.rs)。 
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
 ## 🕸 网站 
 
-### [aicolors](https://aicolors.co/)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-通过提示词，基于 AI 生成配色方案：
+字节开源的一款图标库。 
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+### [darebee](https://darebee.com/)
 
-### [http.cat](https://http.cat)
+一个教你正确运动姿势的网站：
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+### [toolfinder](https://toolfinder.xyz/)
 
-### [docsmall](https://docsmall.com/)
+生产力工具的维基百科：
 
-提供一些图片压缩、PDF合并分割小功能的网站：
-
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
 ## ✍️ 说明
 
