@@ -5,81 +5,99 @@
 
 ## 🎯 项目 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+- 数据集分析、股票图表绘制、图像处理....
+- 互联网访问和自动安装Python软件包
+- 除了OpenAI API 外，所有事情在本地运行
+- 对话记忆：根据先前的输入进行回应 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-### [wazuh](https://github.com/wazuh/wazuh)
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
 ## 🤖 软件 
 
-### [natpass](https://github.com/lwch/natpass)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+本地备份软件：
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-必应 GPT 聊天桌面应用程序：
+### [Macast](https://github.com/xfangfang/Macast)
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+
+![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
 
 ## 👀 资料 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-教程：小型金融知识图谱流程示范。 
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+### [AI-System](https://github.com/microsoft/AI-System)
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [learngpt.com](https://www.learngpt.com/)
 
-免费无次数限制的文字转图片网页：
+`ChatGPT` 最佳用例分享网站：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-### [jellylade](https://app.jellylade.com/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-美化截图，可以选择各种设备：
+网站收集了各个朝代人物介绍：
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [ailogo](https://ailogo.qq.com/)
 
-消除或者替换图像背景，无需上传图像：
+`AI` 智能生成可商用的 `LOGO`：
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
 ## ✍️ 说明
 
