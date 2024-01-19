@@ -143,13 +143,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -254,13 +254,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -332,13 +332,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -435,13 +435,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -529,13 +529,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -608,13 +608,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -677,13 +677,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -746,13 +746,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -840,13 +840,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -929,13 +929,13 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1026,13 +1026,13 @@ C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1104,13 +1104,13 @@ QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1286,13 +1286,13 @@ QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1387,13 +1387,13 @@ QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1492,13 +1492,13 @@ Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, S
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1581,13 +1581,13 @@ Quake 是面向极客的知识管理元框架，它可以：
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1678,13 +1678,13 @@ JetBrains 的下一代 IDE：
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1782,13 +1782,13 @@ PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 
 以下是2021年周刊
 
@@ -1892,11 +1892,11 @@ Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
-
 

@@ -103,9 +103,10 @@ Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电�
 
 周刊相关信息：
 
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
-- 优质技术周刊信息聚合网站：[https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外50+优质技术周刊进行信息聚合🔥
+- [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
-- 浏览地址：[weekly.howie6879.com](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
+- 浏览地址：[老胡的信息周刊](https://weekly.howie6879.com) | [今日推荐](https://weekly.howie6879.com/recommend/index.html) | [MacOS 软件推荐](https://weekly.howie6879.com/soft/mac.html)
 
 🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是**同道中人**，所以如果你有自认为不错的信息获取渠道，欢迎**留言**或者**私聊**我，谢谢。
