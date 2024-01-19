@@ -5,99 +5,83 @@
 
 ## 🎯 项目 
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+### [form-create](https://github.com/xaboy/form-create)
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [ChatALL](https://github.com/sunner/ChatALL)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+同时与所有 AI 机器人聊天，然后发现最佳选择：
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-本地备份软件：
+开源免费的跨平台无损图片放大工具：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [orange](https://github.com/naaive/orange)
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+基于`Rust`跨平台的文件搜索引擎：
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-### [Macast](https://github.com/xfangfang/Macast)
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
-
-![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### developer-roadmap
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+开发人员学习成长路线图：
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+为忙碌的工程师准备的精选面试准备材料：
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
-
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
-
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
-
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
 ## 🕸 网站 
 
-### [learngpt.com](https://www.learngpt.com/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-`ChatGPT` 最佳用例分享网站：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [eja.tv](https://eja.tv/?)
 
-网站收集了各个朝代人物介绍：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [ailogo](https://ailogo.qq.com/)
+### [pixian.ai](https://pixian.ai/)
 
-`AI` 智能生成可商用的 `LOGO`：
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
 ## ✍️ 说明
 
