@@ -5,83 +5,87 @@
 
 ## 🎯 项目 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+在你的终端使用 `Chromium`：
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-### [ChatALL](https://github.com/sunner/ChatALL)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-同时与所有 AI 机器人聊天，然后发现最佳选择：
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
-### [excalidraw](https://github.com/excalidraw/excalidraw)
+### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
 
-免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
+基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
 
-![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
+![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
 
 ## 🤖 软件 
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-开源免费的跨平台无损图片放大工具：
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
 
-### [orange](https://github.com/naaive/orange)
+### [Wox](https://github.com/Wox-launcher/Wox)
 
-基于`Rust`跨平台的文件搜索引擎：
+Wox 是一款10年前开源的跨平台快速启动器，之前已经停更，最近开始更新了，计划在年底完成v2版本，新版本会跨平台，期待！
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+![wox](https://images-1252557999.file.myqcloud.com/uPic/wox.jpg) 
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
+
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
 ## 👀 资料 
 
-### developer-roadmap
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-开发人员学习成长路线图：
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-为忙碌的工程师准备的精选面试准备材料：
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
-
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+字节开源的一款图标库。 
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+### [web-check](https://web-check.xyz/)
 
-### [eja.tv](https://eja.tv/?)
+输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-### [pixian.ai](https://pixian.ai/)
+网站收集了各个朝代人物介绍：
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
-
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
 ## ✍️ 说明
 
