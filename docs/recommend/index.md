@@ -5,91 +5,97 @@
 
 ## 🎯 项目 
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
 
-### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-- 推送消息 (发送文字 / 图片 / 文件)
-- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
-- Docker 部署等
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
-![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-### [fre123-nav](https://github.com/fre123-com/fre123-nav)
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
-
-这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
-
-- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
-- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
-- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
-
-![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
 ## 🤖 软件 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-JetBrains 的下一代 IDE：
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-### [postcat](https://github.com/Postcatlab/postcat)
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
 ## 👀 资料 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+一份 `Midjourney` 学习教程：
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
-清华大学计算机系课程攻略：
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+《结网》作者王坚的开源新书：
+
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
 ## 🕸 网站 
 
-### [zlib.pro](https://zlib.pro/)
+### [warp.dev](https://www.warp.dev/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [itnext](https://itnext.cn/)
+### [ip-api.com](http://ip-api.com/json)
 
-一个介绍元宇宙的网站：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-### [tableconvert](https://tableconvert.com/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
+
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
 ## ✍️ 说明
 
