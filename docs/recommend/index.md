@@ -5,97 +5,104 @@
 
 ## 🎯 项目 
 
-### [nativefier](https://github.com/nativefier/nativefier)
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+### [surveyking](https://github.com/javahuang/surveyking)
 
-![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
+功能挺全面的一个调查问卷系统：
+
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
 ## 🤖 软件 
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+### [vnote](https://github.com/vnotex/vnote)
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+开源的`macOS` 纯文本编辑器：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
 ## 👀 资料 
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+深度学习入门教程资料聚合项目，包含：
 
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-一份 `Midjourney` 学习教程：
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-《结网》作者王坚的开源新书：
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
+
+Docker 学习教程：
+
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [xyzrank.com](https://xyzrank.com/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+中文播客榜单：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
 
-### [ip-api.com](http://ip-api.com/json)
+### [Python Tutor](https://pythontutor.com/?)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [ICO converter](https://www.icoconverter.com/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
-
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
 ## ✍️ 说明
 
