@@ -5,86 +5,104 @@
 
 ## 🎯 项目 
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-### [surveyking](https://github.com/javahuang/surveyking)
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-功能挺全面的一个调查问卷系统：
+### [tabby](https://github.com/TabbyML/tabby)
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
+
+![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
+
+免费方案还可以尝试的有：
+
+- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
+- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
+
+![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
+
+![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
 
 ## 🤖 软件 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+### [Bob](https://github.com/ripperhe/Bob)
 
-### [vnote](https://github.com/vnotex/vnote)
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-开源的`macOS` 纯文本编辑器：
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
 ## 👀 资料 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-深度学习入门教程资料聚合项目，包含：
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+代码整洁之道（javascript版本）：
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
-
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
-
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
-
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
-
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
-
-Docker 学习教程：
-
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
-
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
+
+### [recompressor](https://zh.recompressor.com/)
+
+免费的图片压缩工具：
+
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
 ### [xyzrank.com](https://xyzrank.com/)
 
@@ -92,17 +110,11 @@ Docker 学习教程：
 
 ![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [musetransfer](https://musetransfer.com/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
-
-### [ICO converter](https://www.icoconverter.com/)
-
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
-
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
 ## ✍️ 说明
 
