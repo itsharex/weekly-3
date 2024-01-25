@@ -5,89 +5,99 @@
 
 ## 🎯 项目 
 
-### [monaco-editor](https://github.com/microsoft/monaco-editor)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-微软开源的 `Web` 编辑器：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
 
-### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
 
-依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
+i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
 
-![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
+- 平台注册账号(可用i茅台)
+- 添加多个用户
+- 自动预约
+- 类型选择（本市出货量最大的门店，或位置附近门店）
+- 自动旅行
+- 首次旅行分享
+- 获取申购耐力值
+- 自定义时间/随机时间预约或旅行
+- 结果消息推送
 
-### [heti](https://github.com/sivan/heti)
+![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+### [yacd](https://github.com/haishanh/yacd)
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+一个 `Clash` 仪表盘项目：
+
+![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
 
 ## 🤖 软件 
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+监控你的应用流量，跨平台：
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+### [stats](https://github.com/exelban/stats)
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+基于 `macOS` 菜单栏的系统监控软件：
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
-
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
 
 ## 👀 资料 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-> 如何同人工智能交流，并得到你要的结果。
+谷歌出品的四天学习 `Rust` 👀
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
-
-《Software Engineering at Google》的中文翻译版本：
-
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
 ## 🕸 网站 
 
-### [onepdf](https://www.onepdf.online/)
+### [bookmark.style](https://www.bookmark.style/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-### [fviewer](https://www.fviewer.com/zh)
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+### [icones.js.org](https://icones.js.org/)
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+免费的图标库：
 
-### [ideogram.ai](https://ideogram.ai/)
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
-免费无次数限制的文字转图片网页：
+### [uxdatabase](https://www.uxdatabase.io/)
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
