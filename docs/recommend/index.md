@@ -5,99 +5,97 @@
 
 ## 🎯 项目 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
-### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-- 平台注册账号(可用i茅台)
-- 添加多个用户
-- 自动预约
-- 类型选择（本市出货量最大的门店，或位置附近门店）
-- 自动旅行
-- 首次旅行分享
-- 获取申购耐力值
-- 自定义时间/随机时间预约或旅行
-- 结果消息推送
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-### [yacd](https://github.com/haishanh/yacd)
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-一个 `Clash` 仪表盘项目：
-
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+### [Multipass](https://github.com/canonical/multipass)
+ 
+ `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
+ 
+ ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
 
 ## 🤖 软件 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [Tai](https://github.com/Planshit/Tai)
 
-监控你的应用流量，跨平台：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [stats](https://github.com/exelban/stats)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-基于 `macOS` 菜单栏的系统监控软件：
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
 
 ## 👀 资料 
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-谷歌出品的四天学习 `Rust` 👀
+为初学者整理的免费 `CSS` 课程：
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-### [icones.js.org](https://icones.js.org/)
+网站收集了各个朝代人物介绍：
 
-免费的图标库：
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-### [uxdatabase](https://www.uxdatabase.io/)
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
-
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
