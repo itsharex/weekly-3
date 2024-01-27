@@ -5,97 +5,91 @@
 
 ## 🎯 项目 
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+### [dockge](https://github.com/louislam/dockge)
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+`Portainer` 也是不错的选择。 
 
-### [Multipass](https://github.com/canonical/multipass)
- 
- `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
- 
- ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
+### [mm-wiki](https://github.com/phachon/mm-wiki)
+
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
 ## 🤖 软件 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [Poe Client](https://poe.com/download)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [DevToys](https://github.com/veler/DevToys)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+
+放心体验吧~ 
 
 ## 👀 资料 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-为初学者整理的免费 `CSS` 课程：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
-
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
-
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
 ## 🕸 网站 
 
-### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
+### [regexlearn](https://regexlearn.com)
 
-[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
+![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-网站收集了各个朝代人物介绍：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
 ## ✍️ 说明
 
