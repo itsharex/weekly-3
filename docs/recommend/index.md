@@ -5,94 +5,83 @@
 
 ## 🎯 项目 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [kanboard](https://kanboard.org/)
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
-
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
 ## 🤖 软件 
 
-### [numi](https://github.com/nikolaeu/numi)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-一款颜值颇高的 `Mac` 计算器：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
 ## 👀 资料 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+`OpenAI` 出品的的深度强化学习教程：
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
 ## 🕸 网站 
 
-### [tailspark](https://tailspark.co/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [remixicon](https://remixicon.com/)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [bizhi1](https://bizhi1.com/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
 
 ## ✍️ 说明
 
