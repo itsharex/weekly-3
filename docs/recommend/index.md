@@ -5,103 +5,84 @@
 
 ## 🎯 项目 
 
-### [halo](https://github.com/halo-dev/halo)
+### [Piwigo](https://github.com/Piwigo/Piwigo)
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+ `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
+ 
+ ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-### [MOSS](https://github.com/OpenLMLab/MOSS)
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
-
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
 ## 🤖 软件 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [kondo](https://github.com/tbillington/kondo)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+可以看到上面 `Rust` 项目依赖确实大。 
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [insomnia](https://github.com/Kong/insomnia)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
-一份 `Next.js` 中文教程：
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [damngood.tools](https://damngood.tools/)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+开源实用工具集合：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [relationship](https://passer-by.com/relationship/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+中国亲戚关系计算器：
 
-### [读书笔记](https://reading.geek-docs.com/)
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-### [shell.how](https://www.shell.how/)
-
-网站用优雅的交互和排版告诉你Linux命令的作用：
-
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
 ## ✍️ 说明
 
