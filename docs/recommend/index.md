@@ -5,84 +5,94 @@
 
 ## 🎯 项目 
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+
+![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
 
 ## 🤖 软件 
 
-### [kondo](https://github.com/tbillington/kondo)
+### [numi](https://github.com/nikolaeu/numi)
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+一款颜值颇高的 `Mac` 计算器：
 
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
 
-可以看到上面 `Rust` 项目依赖确实大。 
+### [vnote](https://github.com/vnotex/vnote)
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-### [insomnia](https://github.com/Kong/insomnia)
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
-
-![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
 ## 👀 资料 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
 ## 🕸 网站 
 
-### [damngood.tools](https://damngood.tools/)
+### [tailspark](https://tailspark.co/)
 
-开源实用工具集合：
+`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
 
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
 
-### [relationship](https://passer-by.com/relationship/)
+### [remixicon](https://remixicon.com/)
 
-中国亲戚关系计算器：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [alternativeto](https://alternativeto.net/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
