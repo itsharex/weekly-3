@@ -5,91 +5,103 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [halo](https://github.com/halo-dev/halo)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-### [dockge](https://github.com/louislam/dockge)
+基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
 
-简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
+![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
 
-![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-`Portainer` 也是不错的选择。 
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
-
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
-
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
 ## 🤖 软件 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [Bob](https://github.com/ripperhe/Bob)
 
-可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-### [Poe Client](https://poe.com/download)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [DevToys](https://github.com/veler/DevToys)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
-
-放心体验吧~ 
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [2d2d](https://2d2d.io/)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+一份 `Next.js` 中文教程：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
 ## 🕸 网站 
 
-### [regexlearn](https://regexlearn.com)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+### [读书笔记](https://reading.geek-docs.com/)
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+### [shell.how](https://www.shell.how/)
+
+网站用优雅的交互和排版告诉你Linux命令的作用：
+
+![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
 
 ## ✍️ 说明
 
