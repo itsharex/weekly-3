@@ -5,83 +5,91 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [kanboard](https://kanboard.org/)
+### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
 
-![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
+### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+- https://github.com/everywall/ladder
+- https://12ft.io/
+- https://1ft.io/ 
 
 ## 🤖 软件 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+### [mangerlahn-latest](https://github.com/mangerlahn/latest)
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+
+![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
 
 ## 👀 资料 
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-`OpenAI` 出品的的深度强化学习教程：
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+关于软件公司如何测试其软件的公共资源集合：
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
 ## 🕸 网站 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [网道](https://wangdoc.com/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [buzzing.cc](https://www.buzzing.cc/)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+字节开源的一款图标库。 
 
-### [bizhi1](https://bizhi1.com/)
+### [ipdetective](https://ipdetective.io/api)
 
-极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
+检测 `ip` 是否是机器人：
 
-![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
 ## ✍️ 说明
 
