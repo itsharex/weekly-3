@@ -5,91 +5,88 @@
 
 ## 🎯 项目 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [markwhen](https://github.com/mark-when/markwhen)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
 
-### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
-### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 
-该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-- https://github.com/everywall/ladder
-- https://12ft.io/
-- https://1ft.io/ 
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
 ## 🤖 软件 
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
+![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
 
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+### [uPic](https://github.com/gee1k/uPic)
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+我的必备软件：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-### [mangerlahn-latest](https://github.com/mangerlahn/latest)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+重新分类 Leetcode 高频题 2021 版
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+`OpenAI API` 使用示例指南：
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-关于软件公司如何测试其软件的公共资源集合：
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
+
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
 
 ## 🕸 网站 
 
-### [网道](https://wangdoc.com/)
+### [workout](https://workout.lol/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [stockai.trade](https://stockai.trade)
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-字节开源的一款图标库。 
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-### [ipdetective](https://ipdetective.io/api)
+一份新冠预防及治疗指南：
 
-检测 `ip` 是否是机器人：
-
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
 ## ✍️ 说明
 
