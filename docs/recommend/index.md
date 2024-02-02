@@ -5,88 +5,102 @@
 
 ## 🎯 项目 
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+### [autocorrect](https://github.com/huacnlee/autocorrect)
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
 ## 🤖 软件 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+项目还在持续开发，我们可以保持期待。 
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
 ## 👀 资料 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
 ## 🕸 网站 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [privacytools.io](https://www.privacytools.io/)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
-### [web-check](https://web-check.xyz/)
+### [BriefGPT](https://briefgpt.xyz/)
 
-输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
-### [ossinsight](https://ossinsight.io/)
+### [iconoir](https://iconoir.com/)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+开源的SVG图标搜索引擎：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
 ## ✍️ 说明
 
