@@ -5,102 +5,83 @@
 
 ## 🎯 项目 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-### [autocorrect](https://github.com/huacnlee/autocorrect)
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
-
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
-
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
-
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
 ## 🤖 软件 
 
-### [Nuclear](https://github.com/nukeop/nuclear)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-项目还在持续开发，我们可以保持期待。 
+### [Librum](https://github.com/Librum-Reader/Librum)
 
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
 
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
 
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+### [yanhuo](https://eigenmiao.com/yanhuo)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
 
 ## 👀 资料 
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
-
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
-
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
 ## 🕸 网站 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-### [BriefGPT](https://briefgpt.xyz/)
+### [apitracker](https://apitracker.io/)
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [iconoir](https://iconoir.com/)
+### [alleyread](https://alleyread.com/)
 
-开源的SVG图标搜索引擎：
+发现优质 `Newsletter`：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
 ## ✍️ 说明
 
