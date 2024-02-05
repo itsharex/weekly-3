@@ -5,93 +5,92 @@
 
 ## 🎯 项目 
 
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+### [plane](https://github.com/makeplane/plane)
 
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
 
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+一个终端打字应用程序，以提高你的手指水平！
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-**它用于解决的问题有：**
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [linkding](https://github.com/sissbruecker/linkding)
-
-开源的网络书签服务，支持 Docker 部署：
-
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
 ## 🤖 软件 
 
-### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [logseq](https://github.com/logseq/logseq)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-超方便的微信视频号下载器：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
-
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
 ## 👀 资料 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
 ## 🕸 网站 
 
-### [regex.ai](https://regex.ai/)
+### [sov2ex.com](https://www.sov2ex.com/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [similarsites](https://www.similarsites.com/)
+### [tldraw](https://www.tldraw.com/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+小巧强大的在线绘图工具：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
 ## ✍️ 说明
 
