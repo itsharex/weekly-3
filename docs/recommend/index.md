@@ -5,92 +5,87 @@
 
 ## 🎯 项目 
 
-### [plane](https://github.com/makeplane/plane)
+### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+### [form-create](https://github.com/xaboy/form-create)
 
-一个终端打字应用程序，以提高你的手指水平！
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
-
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
 ## 🤖 软件 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### [logseq](https://github.com/logseq/logseq)
+### [insomnia](https://github.com/Kong/insomnia)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+`OpenAI API` 使用示例指南：
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+### [moderncss](https://moderncss.dev/)
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+### [theByteBook](https://github.com/isno/theByteBook)
 
-![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [sov2ex.com](https://www.sov2ex.com/)
+### [it-tools](https://it-tools.tech/)
 
-[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-老照片修复工具，同时还提供上色和去背景功能：
+### [toolfinder](https://toolfinder.xyz/)
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+生产力工具的维基百科：
 
-### [tldraw](https://www.tldraw.com/)
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-小巧强大的在线绘图工具：
+### [uisdc.com](https://hao.uisdc.com/)
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+设计师网站导航：
+
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
 ## ✍️ 说明
 
