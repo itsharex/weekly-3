@@ -5,87 +5,93 @@
 
 ## 🎯 项目 
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [form-create](https://github.com/xaboy/form-create)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+在你的终端使用 `Chromium`：
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+### [kanboard](https://kanboard.org/)
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+
+![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-### [insomnia](https://github.com/Kong/insomnia)
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
+### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
+
+![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
 
 ## 👀 资料 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-`OpenAI API` 使用示例指南：
+一个专门讲数据库教程的资料网站：
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-### [moderncss](https://moderncss.dev/)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-### [theByteBook](https://github.com/isno/theByteBook)
-
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
-
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
 ## 🕸 网站 
 
-### [it-tools](https://it-tools.tech/)
+### [央视纪实](https://jishi.cctv.com/)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+央视官方纪录片大全，全部免费观看：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+### [batnoter](https://batnoter.com/)
 
-### [toolfinder](https://toolfinder.xyz/)
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-生产力工具的维基百科：
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+### [bookmark.style](https://www.bookmark.style/)
 
-### [uisdc.com](https://hao.uisdc.com/)
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-设计师网站导航：
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
 ## ✍️ 说明
 
