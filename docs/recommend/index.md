@@ -5,43 +5,33 @@
 
 ## 🎯 项目 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+### [FastChat](https://github.com/lm-sys/FastChat)
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
 
-在你的终端使用 `Chromium`：
+![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+### [duf](https://github.com/sigoden/duf)
 
-### [kanboard](https://kanboard.org/)
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
-
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
-
-![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
 ## 🤖 软件 
-
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
-
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
-
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
-
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
 ### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
@@ -49,49 +39,63 @@
 
 ![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+
+### [Upscayl](https://github.com/upscayl/upscayl)
+
+开源免费的跨平台无损图片放大工具：
+
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
 ## 👀 资料 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-一个专门讲数据库教程的资料网站：
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+- Techniques and Libraries
+- Projects
+- Enterprise Solutions
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+
+> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+
+各文学大家的写作经验汇总：
+
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
 ## 🕸 网站 
 
-### [央视纪实](https://jishi.cctv.com/)
+### [scrnshts.club](https://scrnshts.club/)
 
-央视官方纪录片大全，全部免费观看：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+一个好看的双拼学习网站：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [apivault.dev](https://apivault.dev/)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+免费开源的公共 `API` 网站：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
-
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
 ## ✍️ 说明
 
