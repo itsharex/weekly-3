@@ -5,97 +5,86 @@
 
 ## 🎯 项目 
 
-### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+### [background-removal-js](https://github.com/imgly/background-removal-js)
 
-基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
+在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
 
-![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
+![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
-### [duf](https://github.com/sigoden/duf)
+### [cmdb](https://github.com/veops/cmdb)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
 
 ## 🤖 软件 
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+超方便的微信视频号下载器：
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
-开源免费的跨平台无损图片放大工具：
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+跨平台的`youtube-dl`客户端：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
+### [netkiller](https://www.netkiller.cn/)
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+代码整洁之道（javascript版本）：
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
-
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
-
-各文学大家的写作经验汇总：
-
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
 ## 🕸 网站 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [latexlive](https://www.latexlive.com/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-一个好看的双拼学习网站：
+免费的二维码生成网站：
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
 
-### [apivault.dev](https://apivault.dev/)
+### [zhongguose](http://zhongguose.com/)
 
-免费开源的公共 `API` 网站：
+一个中国传统颜色的配色网站：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
