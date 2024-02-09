@@ -5,86 +5,106 @@
 
 ## 🎯 项目 
 
-### [background-removal-js](https://github.com/imgly/background-removal-js)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
 
-![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
-### [cmdb](https://github.com/veops/cmdb)
+### [ChatGPT](https://chat.openai.com/chat)
 
-运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-超方便的微信视频号下载器：
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+### [lettura](https://github.com/zhanglun/lettura)
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-跨平台的`youtube-dl`客户端：
+一款 `ChatGPT for Mac` 原生客户端：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
 ## 👀 资料 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [如何制作落地页](https://www.bmms.me/blog/landing-page)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
 
-### [netkiller](https://www.netkiller.cn/)
+![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-代码整洁之道（javascript版本）：
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+这个 `Demo` 网页允许用户进行：
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+- 人像修复
+- 人像抠图
+- 动漫增强
 
-免费的二维码生成网站：
+模型，免费实用。
 
-![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
+![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [calltoinspiration](https://calltoinspiration.com/)
 
-一个中国传统颜色的配色网站：
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+
+### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
+
+[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
+
+![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
 
 ## ✍️ 说明
 
