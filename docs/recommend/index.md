@@ -5,106 +5,81 @@
 
 ## 🎯 项目 
 
-### [one-api](https://github.com/songquanpeng/one-api)
+### [jspaint](https://github.com/1j01/jspaint)
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
 
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+### [clone-voice](https://github.com/jianchang512/clone-voice)
 
-![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
+一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
 
-### [ChatGPT](https://chat.openai.com/chat)
+![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
 ## 🤖 软件 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+### [Hacki](https://github.com/Livinglist/Hacki)
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+基于 `Flutter` 的  `Hacker News` 客户端:
 
-### [lettura](https://github.com/zhanglun/lettura)
+![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+安全、快速与轻量的远程桌面&文件管理工具：
 
-### [macGPT](https://github.com/hellokuls/macGPT)
-
-一款 `ChatGPT for Mac` 原生客户端：
-
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
 ## 👀 资料 
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+### [aicolors](https://aicolors.co/)
 
-腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
+通过提示词，基于 AI 生成配色方案：
 
-这个 `Demo` 网页允许用户进行：
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-- 人像修复
-- 人像抠图
-- 动漫增强
+### [devdocs](https://devdocs.io/)
 
-模型，免费实用。
+提供在线快速查找API接口文档的网站：
 
-![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [calltoinspiration](https://calltoinspiration.com/)
+### [userscloud](https://userscloud.com/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+免费使用的云空间分享网页：
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
-
-### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
-
-[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
-
-![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
 ## ✍️ 说明
 
