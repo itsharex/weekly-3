@@ -5,108 +5,86 @@
 
 ## 🎯 项目 
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
 
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+一个终端打字应用程序，以提高你的手指水平！
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
-
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
-
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
-
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
-
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
-
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-放心体验吧~ 
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+### [KOReader](https://github.com/koreader/koreader)
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-沉浸式双语网页翻译扩展：
-
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
-
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
 ## 👀 资料 
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### 认知偏差知识手册
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [cook](https://github.com/YunYouJun/cook)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [medisearch](https://medisearch.io/zh)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+直接的科学为基础的医疗问答模型：
 
-![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-### [relationship](https://passer-by.com/relationship/)
+### [tik.fail](https://tik.fail/browse)
 
-中国亲戚关系计算器：
+国内能直接刷TikTok的在线网站，支持搜索和下载：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
 
 ## ✍️ 说明
 
