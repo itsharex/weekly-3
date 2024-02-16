@@ -5,41 +5,48 @@
 
 ## 🎯 项目 
 
-### [MRDOC](https://mrdoc.pro/)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-分为开源版和付费版，小团队可以考虑使用：
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-![MRDOC](https://images-1252557999.file.myqcloud.com/uPic/u43buW.png) 
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+
+### [uPic](https://github.com/gee1k/uPic)
+
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+
+我的必备软件：
+
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
 ### [spacedrive](https://www.spacedrive.com/)
 
@@ -51,60 +58,50 @@
 
 ![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
 
-### mizu
-
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
-
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
-
 ## 👀 资料 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+
+为初学者整理的免费 `CSS` 课程：
+
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+### [bloghub](https://bloghub.fun/)
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
 
-开源代码包括：
+![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
+项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
 
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
+### [meiriyiwen](https://meiriyiwen.com/)
 
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+每天一篇随机散文：
 
-### [darebee](https://darebee.com/)
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
-一个教你正确运动姿势的网站：
+### [echoserver](https://echoserver.dev/)
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-### [读者阁](https://duzhege.cn/)
-
-可以在线阅读故事会、读者等杂志的网站：
-
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
 ## ✍️ 说明
 
