@@ -5,103 +5,85 @@
 
 ## 🎯 项目 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+ 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
+ 
+ ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
-### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+### [HTTPie](https://github.com/httpie/httpie)
 
-`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
+现代化的HTTP客户端命令行工具：
 
-![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
-
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
-
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
-
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
 
 ## 🤖 软件 
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-### [uPic](https://github.com/gee1k/uPic)
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+### [dockeye](https://github.com/vv9k/dockeye)
 
-我的必备软件：
+基于`Rust`编写的`Docker`界面管理工具：
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
-### [spacedrive](https://www.spacedrive.com/)
+### [winlator](https://github.com/brunodev85/winlator)
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
-
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
-
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
-
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [RedHat E-Book](https://developers.redhat.com/e-books)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [note-hack](https://github.com/xdite/note-hack)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+### [archbase](https://github.com/foxsen/archbase)
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-为初学者整理的免费 `CSS` 课程：
-
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [bloghub](https://bloghub.fun/)
+### [yalijuda](https://www.yalijuda.com)
 
-优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
+简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
 
-![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
-项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
+![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
 
-### [meiriyiwen](https://meiriyiwen.com/)
+### [ossinsight](https://ossinsight.io/)
 
-每天一篇随机散文：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-### [echoserver](https://echoserver.dev/)
+### [macosicons](https://macosicons.com/)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
 ## ✍️ 说明
 
