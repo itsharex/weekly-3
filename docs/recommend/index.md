@@ -5,85 +5,104 @@
 
 ## 🎯 项目 
 
-### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
+### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
 
- 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
- 
- ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
+i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+- 平台注册账号(可用i茅台)
+- 添加多个用户
+- 自动预约
+- 类型选择（本市出货量最大的门店，或位置附近门店）
+- 自动旅行
+- 首次旅行分享
+- 获取申购耐力值
+- 自定义时间/随机时间预约或旅行
+- 结果消息推送
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+### [nps](https://github.com/ehang-io/nps)
 
-### [HTTPie](https://github.com/httpie/httpie)
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-现代化的HTTP客户端命令行工具：
+![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
 
-![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
+### [plane](https://github.com/makeplane/plane)
+
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
 ## 🤖 软件 
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-### [dockeye](https://github.com/vv9k/dockeye)
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-基于`Rust`编写的`Docker`界面管理工具：
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-### [winlator](https://github.com/brunodev85/winlator)
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
 ## 👀 资料 
 
-### [RedHat E-Book](https://developers.redhat.com/e-books)
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
+健康学习到150岁 - 人体系统调优不完全指南：
 
-![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
-### [note-hack](https://github.com/xdite/note-hack)
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+一个专门讲数据库教程的资料网站：
 
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-### [archbase](https://github.com/foxsen/archbase)
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
-
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
 ## 🕸 网站 
 
-### [yalijuda](https://www.yalijuda.com)
+### [rust-search-extension](https://rust.extension.sh/)
 
-简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
-### [ossinsight](https://ossinsight.io/)
+### [svgl.app](https://svgl.app/)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+- 官网：https://svgl.app/
+- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
 
-### [macosicons](https://macosicons.com/)
+![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+### [calmcode](https://calmcode.io/)
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
 ## ✍️ 说明
 
