@@ -5,104 +5,94 @@
 
 ## 🎯 项目 
 
-### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-- 平台注册账号(可用i茅台)
-- 添加多个用户
-- 自动预约
-- 类型选择（本市出货量最大的门店，或位置附近门店）
-- 自动旅行
-- 首次旅行分享
-- 获取申购耐力值
-- 自定义时间/随机时间预约或旅行
-- 结果消息推送
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-### [nps](https://github.com/ehang-io/nps)
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-### [plane](https://github.com/makeplane/plane)
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [LLMFarm](https://github.com/guinmoon/LLMFarm)
+### [linearmouse](https://github.com/linearmouse/linearmouse)
 
-`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
 
-![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
+![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+JetBrains 的下一代 IDE：
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
-
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
-
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
 ## 👀 资料 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+比较全面的 `k8s` 资源收集项目：
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-一个专门讲数据库教程的资料网站：
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
 ## 🕸 网站 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+免费的谷歌 `Gemini Chat Pro`，在线网站：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
-### [svgl.app](https://svgl.app/)
+### [chatdoc](https://chatdoc.com/)
 
-漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-- 官网：https://svgl.app/
-- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
-![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
+### [Connected Papers](https://www.connectedpapers.com/)
 
-### [calmcode](https://calmcode.io/)
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
-
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
 ## ✍️ 说明
 
